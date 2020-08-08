@@ -1,0 +1,36 @@
+name: CI
+
+on:
+  pull_request:
+
+jobs:
+  build:
+    runs-on: windows-latest
+
+    steps:
+      - name: Checkout LiveSplit
+        uses: actions/checkout@v2
+        with:
+          submodules: recursive
+          repository: LiveSplit/LiveSplit
+
+      - name: Checkout commit
+        uses: actions/checkout@v2
+        with:
+          path: autosplitters_xml
+
+      - name: Move Auto Splitters XML
+        run: mv -force autosplitters_xml/LiveSplit.AutoSplitters.xml .
+
+      - name: Set up .NET environment
+        uses: vrnobody/Setup-DotNetFrameworkEnv@v1
+
+      - name: Install NuGet packages
+        run: nuget restore LiveSplit\LiveSplit.sln
+
+      - name: Build LiveSplit
+        run: msbuild LiveSplit\LiveSplit.sln /verbosity:minimal /p:NoWarn=1591 /p:Configuration=Release
+
+      - name: Run tests
+        run: |
+          & "vstest.console.exe" "LiveSplit/LiveSplit.Tests/bin/Release/LiveSplit.Tests.dll"
