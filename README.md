@@ -396,7 +396,7 @@ print("current level is " + current.levelID);
 ```
 
 ##### Other
-There are some advanced memory utilities not covered here. You can find them [here](../LiveSplit/LiveSplit.Core/ComponentUtil).
+There are some advanced memory utilities not covered here. You can find them [here](https://github.com/LiveSplit/LiveSplit/blob/master/LiveSplit/LiveSplit.Core/ComponentUtil).
 
 ### Testing your Script
 
