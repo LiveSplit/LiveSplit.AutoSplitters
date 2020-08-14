@@ -9686,4 +9686,16 @@
         <Description>Autosplitter for EDGE on PC. Click "Website" for more information. (By RoboLP)</Description>
         <Website>https://github.com/RoboLP/EDGE-Autosplitter</Website>
     </AutoSplitter>
+    <AutoSplitters>
+    <AutoSplitter>
+        <Games>
+            <Game>Xuan-Yuan Sword 3 Beyond the Clouds and Mountains</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/WeiZhouHong/Swd3_AutoSplitters/blob/master/swd3.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>This ASL is compatible with Xuan-Yuan Sword 3 Beyond the Clouds and Mountains versions: V1.02CD, V1.02DVD</Description>
+        <Website>https://github.com/WeiZhouHong/Swd3_AutoSplitters</Website>
+    </AutoSplitter>
 </AutoSplitters>
