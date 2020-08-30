@@ -4586,6 +4586,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Supreme Commander 2</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/HUECTRUM/SC2_autosplitter/master/sc2_splitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Start, split and load removal available.</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Völgarr the Viking</Game>
         </Games>
         <URLs>
