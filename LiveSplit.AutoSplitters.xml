@@ -9840,4 +9840,15 @@
         <Description>Automatic starting, splitting and load removal.</Description>
         <Website>https://github.com/definitelynotcrab/rdr2_asl</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Spooky's Jump Scare Mansion</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/Fearcube/SJSMsplitter/blob/master/SpookysJumpScareMansion.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splits every 50 Rooms, made by AkagitsuneYuki.</Description>
+        <Website>https://github.com/Fearcube/SJSMsplitter</Website>
+    </AutoSplitter>  
 </AutoSplitters>
