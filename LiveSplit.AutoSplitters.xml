@@ -1793,6 +1793,18 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>BioShock: The Collection</Game>
+            <Game>BioShock The Collection</Game>
+            <Game>BioShock Remastered</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/PrototypeAlpha/BSR-ASL/master/BioshockRemastered.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Removal and Auto Start/Split are available. (By PrototypeAlpha)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>BioShock Multi-Game Runs</Game>
             <Game>BioShock Trilogy</Game>
             <Game>BioShock Trifecta</Game>
