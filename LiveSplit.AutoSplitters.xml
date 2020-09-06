@@ -9763,4 +9763,14 @@
         <Description>Automatic starting, splitting and load removal.</Description>
         <Website>https://github.com/definitelynotcrab/rdr2_asl</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+          <Game>Ratatouille (Asobo)</Game>
+        </Games>
+        <URLs>
+          <URL>https://raw.githubusercontent.com/ThePhotoshopMaster/Ratatouille-Asobo-Load-Remover/master/RatatouilleLoadRemover.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load removal</Description>
+    </AutoSplitter>
 </AutoSplitters>
