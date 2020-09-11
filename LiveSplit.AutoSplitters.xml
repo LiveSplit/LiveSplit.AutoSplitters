@@ -9809,5 +9809,16 @@
         <Description>Autosplitter for ShootMania Storm Obstacle Mode</Description>
         <Website>https://www.speedrun.com/shootmania/thread/l760a</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Re-Volt: Custom Levels</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/DVark09/ReVoltAutoSplitter/master/Files/rvgl_custom.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto splitting, reset and load removal for every category. (Made by DVark09)</Description>
+        <Website>https://github.com/DVark09/ReVoltAutoSplitter</Website>
+    </AutoSplitter>
     
 </AutoSplitters>
