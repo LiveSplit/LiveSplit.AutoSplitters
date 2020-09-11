@@ -27,7 +27,7 @@
             <Game>Disney's Meet The Robinsons</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/KunoDemetries/cod4/master/meet%20the%20robinsons.asll</URL>
+            <URL>https://raw.githubusercontent.com/KunoDemetries/cod4/master/meet%20the%20robinsons.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>AutoSplitter/ Load Remvover by KunoDemetries</Description>
@@ -9820,5 +9820,15 @@
         <Description>Auto splitting, reset and load removal for every category. (Made by DVark09)</Description>
         <Website>https://github.com/DVark09/ReVoltAutoSplitter</Website>
     </AutoSplitter>
-    
+    <AutoSplitter>
+        <Games>
+            <Game>Rabi-Ribi</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/AzureHakua/RabiRibi-AutoSplitter/master/LiveSplit.RabiRibi.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto-Splitter for Rabi-Ribi. Check our Discord or Speedrun.com page for more information.</Description>
+        <Website>https://discord.com/invite/0nh9xqOk8ZO1CAQH</Website>
+    </AutoSplitter>
 </AutoSplitters>
