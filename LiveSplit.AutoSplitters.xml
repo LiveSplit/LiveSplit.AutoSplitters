@@ -1448,10 +1448,10 @@
             <Game>Canis Canem Edit</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Dalet/LiveSplit.Bully/master/Components/LiveSplit.Bully.dll</URL>
+            <URL>https://raw.githubusercontent.com/LohaTronsRS/BullyAS/master/BullyAS.asl</URL>
         </URLs>
-        <Type>Component</Type>
-        <Description>Load Removal is available. (By Dalet)</Description>
+        <Type>Script</Type>
+        <Description>AutoSplitter and IGT is available. (By LohaTronsRS)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
