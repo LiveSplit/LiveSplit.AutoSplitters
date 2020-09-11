@@ -7973,7 +7973,7 @@
             <URL>https://raw.githubusercontent.com/alexa-y/Autosplitters/master/TheOuterWorlds.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load removal for both Epic Games Store and Windows Store/Xbox Gamepass versions (by MissyLexie and Micrologist)</Description>
+        <Description>Load Removal and Auto Splitting available (by MissyLexie and Micrologist)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
