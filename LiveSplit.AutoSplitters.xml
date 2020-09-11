@@ -9800,6 +9800,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>ShootMania Storm</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Urinstein/SM-Obstacle-Autosplitter/master/SplitMania.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for ShootMania Storm Obstacle Mode</Description>
+        <Website>https://www.speedrun.com/shootmania/thread/l760a</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Re-Volt: Custom Levels</Game>
         </Games>
         <URLs>
