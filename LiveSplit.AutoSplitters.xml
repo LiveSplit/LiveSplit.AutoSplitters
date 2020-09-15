@@ -424,6 +424,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>MO: Astray</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/just-ero/LiveSplit-Autosplitters/master/MO%3AAstray/MOAstray.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Configured for Speed Mode. Splits on area end (additional in settings). Starts and resets. (by Ero)</Description>
+        <Website>https://github.com/just-ero/LiveSplit-Autosplitters/tree/master/MO:Astray</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>The Pedestrian</Game>
         </Games>
         <URLs>
