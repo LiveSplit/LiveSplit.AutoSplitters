@@ -165,6 +165,17 @@
         <Description>Autosplitter/Load Remover (t) (by KunoDemetries)</Description>
         <Website>https://discordapp.com/invite/fQaYqvF</Website>
     </AutoSplitter>
+      <AutoSplitter>
+        <Games>
+            <Game>Call of Duty: Infinite Warfare</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/KunoDemetries/cod4/master/IW.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter/Load Remover (by KunoDemetries)</Description>
+        <Website>https://discordapp.com/invite/fQaYqvF</Website>
+    </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>Overt the Hedge</Game>
