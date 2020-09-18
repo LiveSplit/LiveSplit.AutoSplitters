@@ -9855,6 +9855,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Hotshot Racing</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Jujstme/Autosplitters/master/Hot%20Shot%20Racing/HotShotRacing.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting and In-Game Timer are available (by Jujstme)</Description>
+        <Website>https://github.com/Jujstme/Autosplitters/tree/master/Hot%20Shot%20Racing</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>SJBTT</Game>
             <Game>Samurai Jack: Battle Through Time</Game>
         </Games>
