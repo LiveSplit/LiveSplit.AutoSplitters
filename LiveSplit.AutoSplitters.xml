@@ -7076,14 +7076,25 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Harry Potter and the Deathly Hallows Part 1</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/bukazoltan/autosplitters/master/LiveSplit.HP7p1.LoadRemoval.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Removal. (by flo203 & marczeslaw)</Description>
+        <Website>https://github.com/bukazoltan/autosplitters/</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Harry Potter and the Deathly Hallows Part 2</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/bukazoltan/autosplitters/master/LiveSplit.HP7p2.Autosplitter.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>It splits automatically between levels and at the end of the run. (by mczolly)</Description>
-        <Website>https://discord.me/mczolly</Website>
+        <Description>Load Removal and autosplitter that splits automatically between levels and at the end of the run. (by mczolly & flo203)</Description>
+        <Website>https://github.com/bukazoltan/autosplitters/</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -7094,7 +7105,7 @@
         </URLs>
         <Type>Script</Type>
         <Description>It splits when the snitch is caught and between tutorials. (by mczolly)</Description>
-        <Website>https://discord.me/mczolly</Website>
+        <Website>https://github.com/bukazoltan/autosplitters/</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
