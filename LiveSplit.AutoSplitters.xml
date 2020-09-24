@@ -7082,7 +7082,7 @@
             <URL>https://raw.githubusercontent.com/bukazoltan/autosplitters/master/LiveSplit.HP7p1.LoadRemoval.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load Removal. (by flo203 & marczeslaw)</Description>
+        <Description>Load Removal. (by flo203 &amp; marczeslaw)</Description>
         <Website>https://github.com/bukazoltan/autosplitters/</Website>
     </AutoSplitter>
     <AutoSplitter>
@@ -9925,5 +9925,4 @@
         <Website>https://github.com/Mysterion06/SJGame/blob/master/README.md</Website>
     </AutoSplitter>
 </AutoSplitters>
-
 
