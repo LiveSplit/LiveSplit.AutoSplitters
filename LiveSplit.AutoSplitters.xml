@@ -7093,7 +7093,7 @@
             <URL>https://raw.githubusercontent.com/bukazoltan/autosplitters/master/LiveSplit.HP7p2.Autosplitter.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load Removal and autosplitter that splits automatically between levels and at the end of the run. (by mczolly & flo203)</Description>
+        <Description>Load Removal and autosplitter that splits automatically between levels and at the end of the run. (by mczolly &amp; flo203)</Description>
         <Website>https://github.com/bukazoltan/autosplitters/</Website>
     </AutoSplitter>
     <AutoSplitter>
@@ -9925,4 +9925,3 @@
         <Website>https://github.com/Mysterion06/SJGame/blob/master/README.md</Website>
     </AutoSplitter>
 </AutoSplitters>
-
