@@ -9989,7 +9989,7 @@
             <URL>https://raw.githubusercontent.com/KawaiiWafu/ASLScripts/master/LiveSplit.MafiaDefinitiveEdition.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load removal (by Wafu)</Description>
+        <Description>Load removal, auto-splitting (by Wafu)</Description>
         <Website>https://github.com/KawaiiWafu/ASLScripts</Website>
     </AutoSplitter>
 </AutoSplitters>
