@@ -2160,10 +2160,10 @@
             <Game>Jedi Knight 3 Jedi Academy</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/JMaynard24/ASL/master/JKJA.asl</URL>
+            <URL>https://raw.githubusercontent.com/kugelrund/LiveSplit.JediAcademy/master/JKJA.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto Splitting and Load Removal are available. (By Dread and Zefie)</Description>
+        <Description>Auto Splitting and Load Removal are available. (By Dread, Zefie and Sphere)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
