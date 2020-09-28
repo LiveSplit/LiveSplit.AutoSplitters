@@ -3103,10 +3103,10 @@
             <Game>You Are Empty</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Tezur0/LiveSplitScripts/master/YouAreEmpty/YouAreEmpty.asl</URL>
+            <URL>https://raw.githubusercontent.com/KunoDemetries/cod4/master/you%20are%20empty.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load Removal is available. (By Tezur0)</Description>
+        <Description>Auto Splitter/Load Remover. (By Kuno Demetries, Tezur0)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
