@@ -2737,7 +2737,7 @@
             <URL>https://raw.githubusercontent.com/SuiMachine/LiveSplit.RedFaction/master/Components/LiveSplit.RedFaction.dll</URL>
         </URLs>
         <Type>Component</Type>
-        <Description>Auto Splitting is available for Pure Faction 3.0d. (By SuicideMachine)</Description>
+        <Description>Auto Splitting is available for Red Faction. (By SuicideMachine)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
