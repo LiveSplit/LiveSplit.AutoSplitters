@@ -214,7 +214,7 @@
             <Game>Call of Duty: Black Ops II</Game>
         </Games>
         <URLs>
-            <URL>https://github.com/KunoDemetries/AutoSplitter/blob/master/CODBlackOps2.asl</URL>
+            <URL>https://raw.githubusercontent.com/KunoDemetries/AutoSplitter/master/CODBlackOps2.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitter/Load Remover (t) (by KunoDemetries)</Description>
