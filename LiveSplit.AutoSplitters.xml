@@ -504,7 +504,7 @@
             <Game>MO: Astray</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/just-ero/LiveSplit-Autosplitters/master/MO%3AAstray/MOAstray.asl</URL>
+            <URL>https://raw.githubusercontent.com/just-ero/LiveSplit-Autosplitters/master/MO%20Astray/MOAstray.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Configured for Speed Mode. Splits on area end (additional in settings). Starts and resets. (by Ero)</Description>
@@ -548,7 +548,7 @@
             <Game>Transformers: The Game</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/just-ero/LiveSplit-Autosplitters/master/Transformers%3A%20The%20Game/Transformers2007.asl</URL>
+            <URL>https://raw.githubusercontent.com/just-ero/LiveSplit-Autosplitters/master/Transformers%20The%20Game/Transformers2007.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Splits can be chosen in the settings. Starts automatically. Final split must be manual. (by Ero)</Description>
