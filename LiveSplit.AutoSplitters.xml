@@ -10005,6 +10005,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Kula World</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Jujstme/Autosplitters/master/Kula%20World%20-%20Roll%20Away/RollAway.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting and In-Game Timer are available (by Jujstme)</Description>
+        <Website>https://github.com/Jujstme/Autosplitters/tree/master/Kula%20World%20-%20Roll%20Away</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>SJBTT</Game>
             <Game>Samurai Jack: Battle Through Time</Game>
         </Games>
