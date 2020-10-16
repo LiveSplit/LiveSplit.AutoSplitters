@@ -10090,4 +10090,15 @@
         <Type>Script</Type>
         <Description>Autosplitter with Loadremover for 1.0 32/64bit and 1.6 64bit by Mysterion_06_</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>The Last Campfire</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Voxelse/LiveSplit.TheLastCampfire/main/Components/LiveSplit.TheLastCampfire.dll</URL>
+        </URLs>
+        <Type>Component</Type>
+        <Description>Auto Start/Split/Reset and Load Remover (By Voxelse)</Description>
+        <Website>https://github.com/Voxelse/LiveSplit.TheLastCampfire</Website>
+    </AutoSplitter>
 </AutoSplitters>
