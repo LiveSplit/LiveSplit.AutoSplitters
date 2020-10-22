@@ -10130,4 +10130,14 @@
         <Type>Script</Type>
         <Description>Game Time and Auto Splitting available. (By Micrologist)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Pitfall: The Lost Expedition</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Avasam/PITFALL-The-Lost-Expedition-AutoSplitter/main/Pitfall-TLE.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>PC Autosplitter and Load Remover (By Avasam)</Description>
+    </AutoSplitter>
 </AutoSplitters>
