@@ -441,7 +441,7 @@
             <URL>https://raw.githubusercontent.com/just-ero/LiveSplit-Autosplitters/master/Devil%20Daggers/DevilDaggers.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>New wave indicator for Devil Daggers. Splits when the next enemy appears. Up to 66 splits possible. (by Ero)</Description>
+        <Description>New wave indicator for Devil Daggers. Splits when the next enemy appears. Up to 64 splits possible. (by Ero)</Description>
         <Website>https://github.com/just-ero/LiveSplit-Autosplitters/tree/master/Devil%20Daggers</Website>
     </AutoSplitter>
     <AutoSplitter>
