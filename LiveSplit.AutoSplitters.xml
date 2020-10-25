@@ -3152,7 +3152,7 @@
             <URL>https://raw.githubusercontent.com/loitho/doom-eternal/master/doometernal.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto Splitting and Load Removal are available. (By Micrologist, Loitho)</Description>
+        <Description>Auto Splitting and Load Removal are available. (By bowsr, Micrologist and Loitho)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
