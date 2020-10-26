@@ -1827,11 +1827,11 @@
             <Game>Titanfall 2</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Fzzy2j/Titanfall-2-Autosplitter/master/titanfall2.asl</URL>
+            <URL>https://raw.githubusercontent.com/Fzzy2j/FzzySplitter/master/LiveSplit.Titanfall.dll</URL>
         </URLs>
-        <Type>Script</Type>
+        <Type>Component</Type>
         <Description>Autosplitter is available. (By Fzzy2j)</Description>
-        <Website>https://github.com/Fzzy2j/Titanfall-2-Autosplitter/blob/master/README.md</Website>
+        <Website>https://github.com/Fzzy2j/FzzySplitter</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
