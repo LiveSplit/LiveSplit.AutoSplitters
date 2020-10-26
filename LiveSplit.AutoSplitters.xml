@@ -10185,4 +10185,15 @@
         <Description>Autosplitting available (by rythin)</Description>
         <Website>https://www.speedrun.com/inkball</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Super Mario Pandemonium</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Jean20B/SMP-Autosplitter/main/smp.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter with level title detection, and auto reset in main menu (by Jean20B)</Description>
+        <Website>https://www.speedrun.com/smp</Website>
+    </AutoSplitter>
 </AutoSplitters>
