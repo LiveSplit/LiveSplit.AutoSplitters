@@ -10202,7 +10202,7 @@
             <Game>Disc Room</Game>
         </Games>
         <URLs>
-            <URL>https://github.com/nmussy/LiveSplit-ASL/blob/main/DiscRoom/discroom.asl</URL>
+            <URL>https://raw.githubusercontent.com/nmussy/LiveSplit-ASL/main/DiscRoom/discroom.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitter with map coordinate detection and IGT support (by nmussy)</Description>
