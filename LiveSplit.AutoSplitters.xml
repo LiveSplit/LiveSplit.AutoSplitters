@@ -540,7 +540,7 @@
             <URL>https://raw.githubusercontent.com/just-ero/LiveSplit-Autosplitters/master/Phasmophobia/Phasmophobia.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Starts when players are loaded in. Splits when closing the truck, requirements must be met. Resets when they're not. (by Ero)</Description>
+        <Description>Starts when players are loaded in. Splits/resets when closing the truck, check settings for conditions. (by Ero)</Description>
         <Website>https://github.com/just-ero/LiveSplit-Autosplitters/tree/master/Phasmophobia</Website>
     </AutoSplitter>
     <AutoSplitter>
