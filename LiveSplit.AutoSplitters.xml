@@ -10220,4 +10220,15 @@
         <Description>Auto Start/Split/Reset and Load Remover (By Voxelse)</Description>
         <Website>https://github.com/Voxelse/LiveSplit.Carto</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Ugh!</Game>
+        </Games>
+        <URLs>
+            <URL>https://gitlab.com/0xC0DECAFE/livesplit-auto-splitters/-/raw/master/Ugh!.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Start/Split/Reset by 0xC0DECAFE</Description>
+        <Website>https://www.speedrun.com/ugh</Website>
+    </AutoSplitter>
 </AutoSplitters>
