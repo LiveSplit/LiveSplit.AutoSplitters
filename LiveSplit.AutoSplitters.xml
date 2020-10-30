@@ -10227,7 +10227,7 @@
         <URLs>
             <URL>https://gitlab.com/0xC0DECAFE/livesplit-auto-splitters/-/raw/master/Ugh!.asl</URL>
         </URLs>
-        <Type>Component</Type>
+        <Type>Script</Type>
         <Description>Auto Start/Split/Reset by 0xC0DECAFE</Description>
         <Website>https://www.speedrun.com/ugh</Website>
     </AutoSplitter>
