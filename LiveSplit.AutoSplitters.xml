@@ -10252,4 +10252,15 @@
         <Type>Script</Type>
         <Description>Autosplitter, ingame time for any% and load remover for AS+T (by Dregu)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Valkyria Chronicles</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/archieyates/Autosplitters/master/VC.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for Valkyria Chronicles that supports load removal and final boss hit splits (by Reicha7)</Description>
+        <Website>https://github.com/archieyates/Autosplitters</Website>
+    </AutoSplitter>
 </AutoSplitters>
