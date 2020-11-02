@@ -10190,6 +10190,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Timelie</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Cadarev/ASL-Scripts/master/Timelie.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load removal and autosplitting available, Hell Loop DLC not yet supported (by Cadarev)</Description>
+        <Website>https://www.speedrun.com/timelie/</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Super Mario Pandemonium</Game>
         </Games>
         <URLs>
