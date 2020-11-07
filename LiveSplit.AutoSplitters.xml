@@ -10298,4 +10298,14 @@
         <Description>Auto Start/Split and Load Remover (by Voxelse)</Description>
         <Website>https://github.com/Voxelse/LiveSplit.NewSuperLuckysTale</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Teardown</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Micrologist/LiveSplit.Teardown/main/teardown.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Removal available. (By Micrologist)</Description>
+    </AutoSplitter>
 </AutoSplitters>
