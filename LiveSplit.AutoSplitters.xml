@@ -10286,4 +10286,16 @@
         <Description>Auto Start and Split (By Voxelse)</Description>
         <Website>https://github.com/Voxelse/LiveSplit.Terraria</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>New Super Lucky's Tales</Game>
+            <Game>New Super Lucky's Tale Category Extensions</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Voxelse/LiveSplit.NewSuperLuckysTale/main/Components/LiveSplit.NewSuperLuckysTale.dll</URL>
+        </URLs>
+        <Type>Component</Type>
+        <Description>Auto Start/Split and Load Remover (By Voxelse)</Description>
+        <Website>https://github.com/Voxelse/LiveSplit.NewSuperLuckysTale</Website>
+    </AutoSplitter>
 </AutoSplitters>
