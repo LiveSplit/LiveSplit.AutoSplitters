@@ -10316,6 +10316,6 @@
             <URL>https://raw.githubusercontent.com/SporyTike/LiveSplit.AutoSplitters/main/LiveSplit.SM64.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto-Splitter with Auto-Start and Auto-Reset functions. Different settings for custom splits available. (By SporyTike)</Description>
+        <Description>Auto-Splitter with Auto-Start and Auto-Reset functions. Different settings for custom splits available. Only for Project 64 v1.6 (By SporyTike)</Description>
     </AutoSplitter>
 </AutoSplitters>
