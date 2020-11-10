@@ -10320,4 +10320,14 @@
     <Description>Configurable Autosplitting For Dolphin Emulator Is Available (By TheCoolSquare)</Description>
     <Website>https://github.com/SquareMan/LiveSplit.BattleForBikiniBottom</Website>
   </AutoSplitter>
+        <AutoSplitter>
+        <Games>
+            <Game>Super Mario 64</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/SporyTike/LiveSplit.AutoSplitters/main/LiveSplit.SM64.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto-Splitter with Auto-Start and Auto-Reset functions. Different settings for custom splits available. Only for Project 64 v1.6 (By SporyTike)</Description>
+    </AutoSplitter>
 </AutoSplitters>
