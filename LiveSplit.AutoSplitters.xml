@@ -10348,6 +10348,6 @@
             <URL>https://raw.githubusercontent.com/Micrologist/LiveSplit.Bugsnax/main/bugsnax.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load Removal available. (By Micrologist)</Description>
+        <Description>Auto Splitting and Load Removal available. (By Micrologist)</Description>
     </AutoSplitter>
 </AutoSplitters>
