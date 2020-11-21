@@ -9909,11 +9909,22 @@
             <Game>Xuan-Yuan Sword 3 Beyond the Clouds and Mountains</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/WeiZhouHong/Swd3_AutoSplitters/master/swd3.asl</URL>
+            <URL>https://raw.githubusercontent.com/WeiZhouHong/Swd_AutoSplitters/master/swd3.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitter for SWD3 1.02. (By master_fiora)</Description>
         <Website>https://www.speedrun.com/swd3/resources</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Xuan-Yuan Sword VII</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/WeiZhouHong/Swd_AutoSplitters/master/swd7.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for Xuan-Yuan Sword VII - IGT(By master_fiora)</Description>
+        <Website>https://www.speedrun.com/swd7</Website>
     </AutoSplitter>
         <AutoSplitter>
         <Games>
