@@ -9287,11 +9287,11 @@
             <Game>Sven Co-op</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/TheSmiley47/Sven-Coop-Autosplitter/master/svencoop.asl</URL>
+            <URL>https://raw.githubusercontent.com/SmileyAG/Sven-Coop-Autosplitter/master/svencoop.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Sven Co-op autosplitter. Works only with 2017 version. (by _Smiley, ScriptedSnark, Chillu)</Description>
-        <Website>https://github.com/TheSmiley47/Sven-Coop-Autosplitter/blob/master/README.md</Website>
+        <Website>https://github.com/SmileyAG/Sven-Coop-Autosplitter/blob/master/README.md</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
