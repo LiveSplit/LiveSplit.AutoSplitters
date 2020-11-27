@@ -16,7 +16,7 @@
             <Game>Duck Life 1</Game>
         </Games>
         <URLs>
-            <URLhttps://raw.githubusercontent.com/Caarda/dl1/main/dl1autosplitterv1.6.asl</URL>
+            <URL>https://raw.githubusercontent.com/Caarda/dl1/main/dl1autosplitterv1.6.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitter for Duck Life 1 (By Caarda) - Only works on flash player v32.0.0.114</Description>
