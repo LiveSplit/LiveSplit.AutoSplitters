@@ -33,6 +33,17 @@
         <Description>Autosplitter for the PC Game: Earth 2150: Escape from the Blue Planet (By Animal)</Description>
         <Website>https://www.speedrun.com/earth_2150_escape_from_the_blue_planet</Website>
     </AutoSplitter>
+	<AutoSplitter>
+        <Games>
+            <Game>Call of Duty: Black Ops Cold War Zombies</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/KunoDemetries/AutoSplitter/master/ColdWarZombies.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter (By Kuno Demetries)</Description>
+        <Website>https://discord.com/invite/PWh24GjmTJ</Website>
+    </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>Clive Barker's Jericho</Game>
