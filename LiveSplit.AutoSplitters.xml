@@ -887,6 +887,18 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Bug Fables: The Everlasting Sapling</Game>
+            <Game>Bug Fables</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/aldelaro5/LiveSplit.BugFables/main/Components/LiveSplit.BugFables.dll</URL>
+        </URLs>
+        <Type>Component</Type>
+        <Description>Autosplitter for Bug Fables: The Everlasting Sapling (By Aldelaro5)</Description>
+        <Website>https://github.com/aldelaro5/LiveSplit.BugFables/blob/main/README.md</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Turok: Dinosaur Hunter</Game>
         </Games>
         <URLs>
