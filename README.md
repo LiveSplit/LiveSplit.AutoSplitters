@@ -417,6 +417,8 @@ Some might be unrelated to the Script, but it'll be fairly obvious which ones ar
 
 If you implemented an Auto Splitter and want to add it to the Auto Splitters that are automatically being downloaded by LiveSplit, feel free to add it to the [Auto Splitters XML](./LiveSplit.AutoSplitters.xml). Just click the link, click the icon for modifying the file and GitHub will automatically create a fork, branch and pull request for you, which we can review and then merge in.
 
+**Any kind of abuse in an Auto Splitter will result in an immediate ban.**
+
 ## Additional Resources
 
 - [Speedrun Tool Development Discord](https://discord.gg/N6wv8pW)
