@@ -10418,4 +10418,24 @@
         <Type>Script</Type>
         <Description>Auto Splitting and Load Removal available. (By Micrologist)</Description>
     </AutoSplitter>
+	<AutoSplitter>
+        <Games>
+            <Game>LEGO Star Wars: The Video Game</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/melodyfast/LEGO-Autosplitters/main/LSW1-Autosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitting is available. (By Melody)</Description>
+    </AutoSplitter>
+	<AutoSplitter>
+        <Games>
+            <Game>LEGO Star Wars: The Complete Saga (PC/Console)</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/melodyfast/LEGO-Autosplitters/main/TCS-Autosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitting is available. (By Melody)</Description>
+    </AutoSplitter>	
 </AutoSplitters>
