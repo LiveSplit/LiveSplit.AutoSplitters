@@ -10481,4 +10481,15 @@
     	<Type>Script</Type>
     	<Description>Load removal by vojtas131</Description>
 	</AutoSplitter>
+    <AutoSplitter>
+        <Games>
+	    <Game>Rez (2004)</Game>
+	</Games>
+	<URLs>
+	    <URL>https://raw.githubusercontent.com/KawaiiWafu/ASLScripts/master/LiveSplit.Rez.asl</URL>
+	</URLs>
+	<Type>Script</Type>
+	<Description>Auto-splitting (by Wafu)</Description>
+	<Website>https://github.com/KawaiiWafu/ASLScripts</Website>
+    </AutoSplitter>
 </AutoSplitters>
