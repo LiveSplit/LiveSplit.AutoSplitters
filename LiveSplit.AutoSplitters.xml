@@ -512,6 +512,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Give Up, Robot</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/just-ero/LiveSplit-Autosplitters/master/Give%20Up%2C%20Robot/GiveUpRobot1.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Starts automatically. Resets when closing flash or reloading the game. Splits after every level. (by Ero)</Description>
+        <Website>https://raw.githubusercontent.com/just-ero/LiveSplit-Autosplitters/master/Give%20Up%2C%20Robot</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>GNOG</Game>
         </Games>
         <URLs>
