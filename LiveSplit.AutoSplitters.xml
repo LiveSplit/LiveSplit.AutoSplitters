@@ -10492,4 +10492,14 @@
 	<Description>Auto-splitting (by Wafu)</Description>
 	<Website>https://github.com/KawaiiWafu/ASLScripts</Website>
     </AutoSplitter>
+	<AutoSplitter>
+    	<Games>
+        <Game>Pikuniku</Game>
+    	</Games>
+    	<URLs>
+        <URL>https://raw.githubusercontent.com/melodyfast/PikuSplit/main/Pikuniku.asl</URL>
+    	</URLs>
+    	<Type>Script</Type>
+    	<Description>Autosplitting and Load Removal is available. Auto-splits on every load screen. (by Melody)</Description>
+	</AutoSplitter>
 </AutoSplitters>
