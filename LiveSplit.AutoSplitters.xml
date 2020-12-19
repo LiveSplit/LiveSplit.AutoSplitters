@@ -10533,4 +10533,15 @@
     	<Type>Script</Type>
     	<Description>Load Removal is available (by rythin)</Description>
 	</AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Super Mario: Mushroom Chaos</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Jean20B/SMP-Autosplitter/main/smmc.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter with auto-start, auto-split at each level, and auto-reset on restart (by Jean20B)</Description>
+        <Website>https://www.speedrun.com/smmc</Website>
+    </AutoSplitter>
 </AutoSplitters>
