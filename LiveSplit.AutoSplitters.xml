@@ -517,7 +517,7 @@
             <URL>https://raw.githubusercontent.com/just-ero/AutoSplitterScripts/master/Donut%20County/DonutCounty.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autosplitter for Donut County. Check settings to edit where to split. (by Ero)</Description>
+        <Description>Load remover and autosplitter. Splits at the end of the run, additional in settings. (by Ero)</Description>
         <Website>https://github.com/just-ero/AutoSplitterScripts/blob/master/Donut%20County</Website>
     </AutoSplitter>
     <AutoSplitter>
