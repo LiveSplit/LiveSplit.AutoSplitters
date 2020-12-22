@@ -10301,6 +10301,7 @@
         </URLs>
         <Type>Script</Type>
         <Description>PC Autosplitter and Load Remover (By Avasam)</Description>
+    	<Website>https://discord.com/invite/NEVJPZk</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -10556,5 +10557,16 @@
         <Type>Script</Type>
         <Description>Autosplitter with auto-start, auto-split at each level, and auto-reset on restart (by Jean20B)</Description>
         <Website>https://www.speedrun.com/smmc</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>RiME</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Avasam/RiME-AutoSplitter/main/RiME.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter (By Avasam). Click Website for the README</Description>
+        <Website>https://github.com/Avasam/RiME-AutoSplitter/blob/main/README.md</Website>
     </AutoSplitter>
 </AutoSplitters>
