@@ -5389,6 +5389,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Firewing 64</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/R3FR4G/LiveSplit-ASL-Scripts/master/Firewing%2064/autosplitter_firewing64.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Website>https://github.com/R3FR4G/LiveSplit-ASL-Scripts/tree/master/Firewing%2064</Website>
+        <Description>Automatic start/split/reset (By Refrag)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Sonic Robo Blast 2</Game>
             <Game>Sonic Robo Blast 2: The Mystic Realm</Game>
             <Game>Sonic Robo Blast 2: Shut Up and Get On It</Game>
