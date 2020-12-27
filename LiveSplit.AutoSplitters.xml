@@ -10636,4 +10636,15 @@
         <Type>Script</Type>
         <Description>Load Removal available. (by rythin)</Description>
     </AutoSplitter>
+    </AutoSplitter>
+	<AutoSplitter>
+        <Games>
+            <Game>Live for Speed</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/mayuso/LFSAutoSplitter/master/LFSAutoSplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load and Menu times removed. Works for all categories. (by mayuso)</Description>
+    </AutoSplitter>
 </AutoSplitters>
