@@ -10449,6 +10449,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Hades</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/SystematicSkid/Livesplit-Autosplitters/main/hades.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and Reset (SystematicSkid)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Spelunky 2</Game>
         </Games>
         <URLs>
