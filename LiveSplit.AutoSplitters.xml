@@ -9279,7 +9279,7 @@
             <Game>Superliminal</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/loriswit/asl/master/superliminal_v3.asl</URL>
+            <URL>https://raw.githubusercontent.com/loriswit/asl/main/superliminal.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Auto start/split/reset and load removal available.</Description>
