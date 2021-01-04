@@ -511,6 +511,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Alba: A Wildlife Adventure</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/just-ero/AutoSplitterScripts/master/Alba%3A%20A%20Wildlife%20Adventure/Alba_AWildlifeAdventure.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Starts, resets, syncs to game time. Splits in the settings. Includes completion tracker. (by Ero)</Description>
+        <Website>https://github.com/just-ero/AutoSplitterScripts/tree/master/Alba:%20A%20Wildlife%20Adventure</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>And All Would Cry Beware!</Game>
         </Games>
         <URLs>
