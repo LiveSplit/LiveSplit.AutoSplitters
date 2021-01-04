@@ -10453,10 +10453,11 @@
             <Game>Hades</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Mysterion06/Hades/main/HadesAutoSplitterFinal.asl</URL>
+            <URL>https://raw.githubusercontent.com/SystematicSkid/Livesplit-Autosplitters/main/hades.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autosplitter by Mysterion_06_</Description>
+        <Description>Autosplitter and Reset (SystematicSkid)</Description>
+	<Website>https://systemfailu.re</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
