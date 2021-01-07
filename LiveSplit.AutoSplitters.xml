@@ -7181,6 +7181,18 @@
     </AutoSplitter>
 	<AutoSplitter>
         <Games>
+            <Game>Far Cry 4</Game>
+	    <Game>FC4</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/AlexYeahNot/asl-scripts/master/FC4.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>LoadRemover (v1.4.0) is available (by AlexYeahNot)</Description>
+        <Website>https://discord.gg/D7vJsC</Website>
+    </AutoSplitter>
+	<AutoSplitter>
+        <Games>
             <Game>Far Cry 5</Game>
 	    <Game>FC5</Game>
         </Games>
