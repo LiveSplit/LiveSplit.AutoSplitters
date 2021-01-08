@@ -6221,6 +6221,19 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Haydee2</Game>
+            <Game>Haydee 2</Game>
+            <Game>Haydee 2.0</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/EnthusiastNT/haydee2/main/haydee2.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Configurable Load Remover / Auto Splitter (by Enthusiast)</Description>
+        <Website>https://github.com/EnthusiastNT/haydee2</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>VVVVVV</Game>
         </Games>
         <URLs>
