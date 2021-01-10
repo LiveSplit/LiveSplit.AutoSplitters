@@ -10791,5 +10791,16 @@
         <Type>Script</Type>
         <Description>Auto start and split for Fusion and retroarch 1.9 genesis plus gx core (by kannadan)</Description>
 	<Website>https://www.speedrun.com/the_lion_king_genesismegadrive</Website>
+  </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Lorera</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/DerKO9/AutoSplitters/master/Lorera/Lorera.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting available (by DerKO)</Description>
+	<Website>https://github.com/DerKO9/AutoSplitters/blob/master/Lorera/Lorera.asl</Website>
     </AutoSplitter>
 </AutoSplitters>
