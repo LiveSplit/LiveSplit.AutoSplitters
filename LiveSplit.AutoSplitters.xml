@@ -10814,4 +10814,14 @@
         <Description>Starting, resetting and in-game time available. Customize splits in the settings. (by Lev and Hamb)</Description>
         <Website>https://discord.gg/SFq6UcMZ3y</Website>
     </AutoSplitter>
+	<AutoSplitter>
+        <Games>
+            <Game>ToeJam &amp; Earl: Back in the Groove!</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/rythin-sr/ASL-Scripts/master/ToeJamAndEarl.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting and Load Removal available (by rythin)</Description>
+    </AutoSplitter>
 </AutoSplitters>
