@@ -10814,4 +10814,15 @@
         <Description>Starting, resetting and in-game time available. Customize splits in the settings. (by Lev and Hamb)</Description>
         <Website>https://discord.gg/SFq6UcMZ3y</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Shady Part of Me</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/alorimier/Shady-Part-of-Me-AutoSplitter/main/spom.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Simple autosplitter for SPOM (by Na'Guul)</Description>
+        <Website>https://www.speedrun.com/user/NaGuul</Website>
+    </AutoSplitter>
 </AutoSplitters>
