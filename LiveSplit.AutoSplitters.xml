@@ -3747,6 +3747,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Aporia: Beyond The Valley</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/TehGelly/autosplitters/master/aporia.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Removal and Auto Start are available (By Gelly)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>SYNTHETIK: Legion Rising</Game>
         </Games>
         <URLs>
