@@ -10900,4 +10900,15 @@
         <Type>Script</Type>
         <Description>Auto Splitting and Load Removal are available. (By Auddy and Mysterion_06_)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Watch Dogs: Legion</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/claabs/LiveSplit.Scripts/master/LiveSplit.WatchDogsLegion.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load remover for Watch Dogs: Legion</Description>
+        <Website>https://github.com/claabs/LiveSplit.Scripts</Website>
+    </AutoSplitter>
 </AutoSplitters>
