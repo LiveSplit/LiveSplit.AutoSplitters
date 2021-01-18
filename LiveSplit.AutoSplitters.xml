@@ -10911,4 +10911,15 @@
         <Description>Load remover for Watch Dogs: Legion</Description>
         <Website>https://github.com/claabs/LiveSplit.Scripts</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>River City Girls</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Barnacle/RCGAutosplitter/main/RCGautosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto splitting and auto start are available (by Barnacle)</Description>
+        <Website>https://github.com/Barnacle/RCGAutosplitter</Website>
+    </AutoSplitter>
 </AutoSplitters>
