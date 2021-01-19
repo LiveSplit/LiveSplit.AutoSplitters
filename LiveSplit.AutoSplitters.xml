@@ -1,28 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
-	<AutoSplitter>
-     	<Games>
-            <Game>Children of Morta</Game>
-     	</Games>
-     	<URLs>
-            <URL>https://raw.githubusercontent.com/dmediger/AutoSplitter/main/children-of-morta.asl</URL>
-     	</URLs>
-     	<Type>Script</Type>
-     	<Description>Auto Splitter with Any% and IL settings for Children of Morta</Description>
-	<Website>https://discord.gg/wmySfwd</Website>
-     </AutoSplitter>
-<AutoSplitters>
-	<AutoSplitter>
-     	<Games>
-            <Game>MudRunner</Game>
-     	</Games>
-     	<URLs>
-            <URL>https://raw.githubusercontent.com/LeoBound/MudRunnerAutoSplit/main/mudrunner.asl</URL>
-     	</URLs>
-     	<Type>Script</Type>
-     	<Description>Autostart/stop/pause for MudRunner</Description>
-	<Website>https://discord.gg/Pv3tGVE</Website>
-     </AutoSplitter>
+   <AutoSplitter>
+      <Games>
+        <Game>Children of Morta</Game> 
+      </Games>
+      <URLs> 
+         <URL>https://raw.githubusercontent.com/dmediger/AutoSplitter/main/children-of-morta.asl</URL>
+      </URLs>
+      <Type>Script</Type>
+      <Description>Auto Splitter with Any% and IL settings for Children of Morta</Description>
+      <Website>https://discord.gg/wmySfwd</Website>
+   </AutoSplitter>
+   <AutoSplitter>
+      <Games>
+         <Game>MudRunner</Game>
+      </Games>
+      <URLs>
+         <URL>https://raw.githubusercontent.com/LeoBound/MudRunnerAutoSplit/main/mudrunner.asl</URL>
+      </URLs>
+      <Type>Script</Type>
+      <Description>Autostart/stop/pause for MudRunner</Description>
+      <Website>https://discord.gg/Pv3tGVE</Website>
+   </AutoSplitter>
 <AutoSplitter>
     <Games>
         <Game>Dude Simulator 3</Game>
