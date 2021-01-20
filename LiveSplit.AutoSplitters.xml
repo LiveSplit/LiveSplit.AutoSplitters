@@ -10933,4 +10933,17 @@
         <Description>Auto splitting and auto start are available (by Barnacle)</Description>
         <Website>https://github.com/Barnacle/RCGAutosplitter</Website>
     </AutoSplitter>
+   <AutoSplitter>
+     	<Games>
+            <Game>Tomb Raider 3</Game>
+            <Game>Tomb Raider III</Game>
+            <Game>Tomb Raider III: Adventures of Lara Croft</Game>
+            <Game>Tomb Raider 3: Adventures of Lara Croft</Game>
+     	</Games>
+     	<URLs>
+            <URL>https://raw.githubusercontent.com/TombRunners/autosplitters/master/LiveSplit.TR3.asl</URL>
+     	</URLs>
+     	<Type>Script</Type>
+     	<Description>Automatic start, split, reset, and IGT display are available. (by apel, Danza, Midge, rr-)</Description>
+   </AutoSplitter>
 </AutoSplitters>
