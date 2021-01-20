@@ -4501,7 +4501,7 @@
         </URLs>
         <Type>Script</Type>
         <Description>Simple script that implements game time for TMNF and TMUF (By donadigo)</Description>
-    </AutoSplitter>    
+    </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>The Legend of Zelda: A Link to the Past</Game>
@@ -6617,7 +6617,7 @@
         </URLs>
         <Type>Script</Type>
         <Description>Load time removing and auto splitting by ChickenBoh</Description>
-    </AutoSplitter>    
+    </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>Crysis Remastered</Game>
@@ -10945,5 +10945,15 @@
      	</URLs>
      	<Type>Script</Type>
      	<Description>Automatic start, split, reset, and IGT display are available. (by apel, Danza, Midge, rr-)</Description>
+   </AutoSplitter>
+   <AutoSplitter>
+     	<Games>
+            <Game>Need for Speed: Underground</Game>
+     	</Games>
+     	<URLs>
+            <URL>https://raw.githubusercontent.com/ItsTrigger/LiveSplit-Auto-Splitters/master/LiveSplit.NFSU.asl</URL>
+     	</URLs>
+     	<Type>Script</Type>
+     	<Description>Auto-splitting and load time removal are available. (By Trigger)</Description>
    </AutoSplitter>
 </AutoSplitters>
