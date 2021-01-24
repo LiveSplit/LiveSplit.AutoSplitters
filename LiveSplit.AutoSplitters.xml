@@ -10967,4 +10967,16 @@
      	<Type>Script</Type>
      	<Description>Auto-splitting and load time removal are available. (By Trigger)</Description>
    </AutoSplitter>
+   <AutoSplitter>
+     	<Games>
+            <Game>The Spy Who Shrunk Me</Game>
+            <Game>Spy Who Shrunk Me</Game>
+            <Game>SWSM</Game>
+     	</Games>
+     	<URLs>
+            <URL>https://raw.githubusercontent.com/FromDarkHell/Livesplit.LoadRemovers/master/The%20Spy%20Who%20Shrunk%20Me/SpyWhoShrunkMe.asl</URL>
+     	</URLs>
+     	<Type>Script</Type>
+     	<Description>Autosplitting, Autoreset, Autostart, In-Game Time is available. (By FromDarkHell)</Description>
+   </AutoSplitter>
 </AutoSplitters>
