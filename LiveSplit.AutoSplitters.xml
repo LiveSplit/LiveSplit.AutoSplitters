@@ -777,6 +777,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>YAPP: Yet Another Puzzle Platformer</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/just-ero/AutoSplitterScripts/master/YAPP%3A%20Yet%20Another%20Puzzle%20Platformer/YAPP.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Splits after completing a level (adjustable in settings). Resets when save file is erased. (by Ero)</Description>
+        <Website>https://github.com/just-ero/AutoSplitterScripts/tree/master/YAPP:%20Yet%20Another%20Puzzle%20Platformer</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Kokomando</Game>
         </Games>
         <URLs>
