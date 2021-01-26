@@ -11000,4 +11000,15 @@
         <Type>Script</Type>
         <Description>Load remover available. (By SunglassesEmoji and doesthisusername)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+      	    <Game>Floppy Minecraft (Bad Minecraft)</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/matthewpugs/Floppy-Minecraft-Autosplitter/main/Autosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for floppy minecraft. Auto starts timer, and auto ends on some categories.</Description>
+        <Website>https://www.speedrun.com/fmc</Website>
+    </AutoSplitter>
 </AutoSplitters>
