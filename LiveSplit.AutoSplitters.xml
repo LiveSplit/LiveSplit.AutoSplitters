@@ -3436,10 +3436,10 @@
             <Game>Outlast: Whistleblower</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Mattmatt10111/asl-scripts/master/Outlast.asl</URL>
+            <URL>https://raw.githubusercontent.com/KunoDemetries/AutoSplitter/master/Outlast.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto Splitting and Load Removal are available. (by Mattmatt)</Description>
+        <Description>Autosplitter/Load Remover (by AlexisDR, KunoDemetires, Mattmatt)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
