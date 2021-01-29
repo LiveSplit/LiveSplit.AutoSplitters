@@ -10987,4 +10987,15 @@
         <Description>Autosplitter for Peggle Deluxe - Adventure Mode, for 55 splits.</Description>
         <Website>https://www.speedrun.com/peggle_deluxe</Website>
     </AutoSplitter>
+	<AutoSplitter>
+        <Games>
+            <Game>Resident Evil 5: Lost In Nightmares </Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/TheDementedSalad/Resident-Evil-5-LIN/main/Resident%20Evil%205%20Lost%20In%20Nightmares.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>RE5 LiN Autosplitter by TheDementedSalad</Description>
+        <Website>https://www.speedrun.com/re5lin</Website>
+    </AutoSplitter>  
 </AutoSplitters>
