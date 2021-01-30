@@ -5843,6 +5843,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Velvet Assassin</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/ToxicTT/Autosplitters/main/VA_Autosplitter_LoadRemover.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Removal and Autosplitter are available (By ToxicTT)</Description>
+        <Website>https://www.speedrun.com/va</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Dragon Age: Inquisition</Game>
         </Games>
         <URLs>
