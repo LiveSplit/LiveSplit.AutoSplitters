@@ -141,6 +141,17 @@
         <Description>Autosplitter (By Kuno Demetries)</Description>
         <Website>https://discord.com/invite/PWh24GjmTJ</Website>
     </AutoSplitter>
+	<AutoSplitter>
+        <Games>
+            <Game>A Series of Unfortunate Events</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/KunoDemetries/AutoSplitter/master/ASeriesOfUnfortunateEvents.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Remvoer (By Kuno Demetries)</Description>
+        <Website>https://www.speedrun.com/asoue_pc</Website>
+    </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>Clive Barker's Jericho</Game>
@@ -3439,7 +3450,7 @@
             <URL>https://raw.githubusercontent.com/KunoDemetries/AutoSplitter/master/Outlast.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autosplitter/Load Remover (by AlexisDR, KunoDemetires, Mattmatt)</Description>
+        <Description>Autosplitter/Load Remover (by AlexisDR, KunoDemetries, Mattmatt)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
