@@ -11053,4 +11053,15 @@
         <Description>BFDIA 5b Autosplitter - Splits every level, started manually.</Description>
         <Website>https://discord.gg/qtePFSH</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Cyber Shadow</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Voxelse/LiveSplit.CyberShadow/main/Components/LiveSplit.CyberShadow.dll</URL>
+        </URLs>
+        <Type>Component</Type>
+        <Description>Auto Start/Split/Reset and GameTime (by Voxelse)</Description>
+        <Website>https://github.com/Voxelse/LiveSplit.CyberShadow</Website>
+    </AutoSplitter>
 </AutoSplitters>
