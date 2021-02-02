@@ -11042,4 +11042,15 @@
         <Description>Autosplitter for Life Is Strange.</Description>
         <Website>https://www.speedrun.com/life_is_strange</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+        <Game>Battle For Dream Island Again 5b</Game>
+        </Games>
+        <URLs>
+        <URL>https://raw.githubusercontent.com/Futurama39/my-own-code-stuff-dont-touch-please/5b/5bsplitter/splitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>BFDIA 5b Autosplitter - Splits every level, started manually.</Description>
+        <Website>https://discord.gg/qtePFSH</Website>
+    </AutoSplitter>
 </AutoSplitters>
