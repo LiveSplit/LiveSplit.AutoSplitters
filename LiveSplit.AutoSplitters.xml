@@ -11064,4 +11064,15 @@
         <Description>Auto Start/Split/Reset and GameTime (by Voxelse)</Description>
         <Website>https://github.com/Voxelse/LiveSplit.CyberShadow</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>HuniePop</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Buurazu/HuniePopAutoSplitter/main/huniepop.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto-start/reset. Splits after every successful date/bonus round, and on unlocking Venus. Works for all categories except 100%</Description>
+        <Website>https://discord.gg/hHMyUjDmzu</Website>
+    </AutoSplitter>
 </AutoSplitters>
