@@ -11075,4 +11075,15 @@
 		<Description>Auto Splitter for Akiba's Trip: Undead &amp; Undressed (By C0Y0TL)</Description>
 		<Website>https://github.com/C0Y0TL/asl/blob/main/Akiba's%20Trip%20Undead%20%26%20Undressed/README.md</Website>
 	</AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>HuniePop</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Buurazu/HuniePopAutoSplitter/main/huniepop.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto-start/reset. Splits after every successful date/bonus round, and on unlocking Venus. Works for all categories except 100%</Description>
+        <Website>https://discord.gg/hHMyUjDmzu</Website>
+    </AutoSplitter>
 </AutoSplitters>
