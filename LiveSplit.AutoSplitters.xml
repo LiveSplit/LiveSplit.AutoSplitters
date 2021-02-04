@@ -11066,13 +11066,13 @@
     </AutoSplitter>
 	<AutoSplitter>
     	<Games>
-			<Game>Akiba's Trip:Undead & Undressed</Game>
+			<Game>Akiba's Trip:Undead &amp; Undressed</Game>
 		</Games>
 		<URLs>
 			<URL>https://github.com/C0Y0TL/asl/blob/main/Akiba's%20Trip%20Undead%20%26%20Undressed/atuu.asl</URL>
 		</URLs>
 		<Type>Script</Type>
-		<Description>Auto Splitter for Akiba's Trip: Undead & Undressed (By C0Y0TL)</Description>
+		<Description>Auto Splitter for Akiba's Trip: Undead &amp; Undressed (By C0Y0TL)</Description>
 		<Website>https://github.com/C0Y0TL/asl/blob/main/Akiba's%20Trip%20Undead%20%26%20Undressed/README.md</Website>
 	</AutoSplitter>
 </AutoSplitters>
