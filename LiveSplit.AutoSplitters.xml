@@ -11086,4 +11086,15 @@
         <Description>Auto-start/reset. Splits after every successful date/bonus round, and on unlocking Venus. Works for all categories except 100%</Description>
         <Website>https://discord.gg/hHMyUjDmzu</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Secrets of Grindea</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Marioalexsan/SoG-AutoSplit/main/SoG-AutoSplit.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Supports Autosplit, Autostart, Autoreset, Load Removal, and Cutscene Removal for both Story Mode and Arcade Mode.</Description>
+        <Website>https://discord.gg/secretsofgrindea</Website>
+    </AutoSplitter>
 </AutoSplitters>
