@@ -11083,7 +11083,7 @@
             <URL>https://raw.githubusercontent.com/Buurazu/HuniePopAutoSplitter/main/huniepop.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto-start/reset. Splits after every successful date/bonus round, and on unlocking Venus. Works for all categories except 100%</Description>
+        <Description>Auto-start/reset. Splits on every date/bonus game, and meeting Venus. Works for all categories except 100%</Description>
         <Website>https://discord.gg/hHMyUjDmzu</Website>
     </AutoSplitter>
     <AutoSplitter>
