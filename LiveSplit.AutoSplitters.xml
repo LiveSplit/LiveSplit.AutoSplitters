@@ -642,6 +642,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Door Kickers: Action Squad</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/just-ero/AutoSplitterScripts/master/Door%20Kickers%3A%20Action%20Squad/DoorKickers_ActionSquad.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Starts timer, splits on level completion and logs times to a file. See settings for more options. (by Ero)</Description>
+        <Website>https://github.com/just-ero/AutoSplitterScripts/tree/master/Door%20Kickers:%20Action%20Squad</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Frog Detective 2: The Case of the Invisible Wizard</Game>
         </Games>
         <URLs>
