@@ -11092,6 +11092,7 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/Voxelse/LiveSplit.CyberShadow/main/Components/LiveSplit.CyberShadow.dll</URL>
+            <URL>https://raw.githubusercontent.com/Voxelse/LiveSplit.RuntimeText/main/Components/LiveSplit.RuntimeText.dll</URL>
         </URLs>
         <Type>Component</Type>
         <Description>Auto Start/Split/Reset and GameTime (by Voxelse)</Description>
