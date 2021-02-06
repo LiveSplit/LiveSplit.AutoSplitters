@@ -9690,7 +9690,7 @@
         </URLs>
         <Type>Script</Type>
         <Website>https://github.com/Smongo/FilamentAutosplitter</Website>
-        <Description>Auto splitting (By Smongo)</Description>
+        <Description>Auto splitting and load removal (By Smongo)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
