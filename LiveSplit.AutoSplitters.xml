@@ -9694,6 +9694,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>SOLAS 128</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Smongo/SolasAutosplitter/master/solas.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Website>https://github.com/Smongo/SolasAutosplitter</Website>
+        <Description>Auto start and splitting (By Smongo)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Destiny 2</Game>
             <Game>Destiny 2 Story</Game>
         </Games>
