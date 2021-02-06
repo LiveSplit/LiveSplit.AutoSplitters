@@ -9700,7 +9700,18 @@
             <URL>https://raw.githubusercontent.com/R30hedron/Dead-Cells-Autosplitter/master/DEAD_CELLS.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Supports auto starts, splits, and resets. Check github repo for supported versions. (by R30hedron)</Description>
+        <Description>Supports auto starts, splits, and resets. (by R30hedron)</Description>
+        <Website>https://github.com/R30hedron/Dead-Cells-Autosplitter</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Dead Cells Category Extension</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/R30hedron/Dead-Cells-Autosplitter/master/DEAD_CELLS.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Supports auto starts, splits, and resets. Check settings and disable resets if running multi-game runs. (by R30hedron)</Description>
         <Website>https://github.com/R30hedron/Dead-Cells-Autosplitter</Website>
     </AutoSplitter>
     <AutoSplitter>
