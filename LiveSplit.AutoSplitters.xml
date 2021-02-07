@@ -11128,7 +11128,7 @@
             <URL>https://raw.githubusercontent.com/Marioalexsan/SoG-AutoSplit/main/SoG-AutoSplit.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Supports Autosplit, Autostart, Autoreset, Load Removal, and Cutscene Removal for both Story Mode and Arcade Mode.</Description>
+        <Description>Supports Load and Cutscene Removal, and can Auto Start, Split and Reset for both Story and Arcade.</Description>
         <Website>https://discord.gg/secretsofgrindea</Website>
     </AutoSplitter>
     <AutoSplitter>
