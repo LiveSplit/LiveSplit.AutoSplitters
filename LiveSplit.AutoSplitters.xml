@@ -1563,10 +1563,10 @@
             <Game>Darksiders</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Incalex/LiveSplit.AutoSplitters/master/LiveSplit.Darksiders.asl</URL>
+            <URL>https://raw.githubusercontent.com/henyK/autosplitters/master/Darksiders/Darksiders.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Automatic Timer Start and Game Time is available. (By Incalex)</Description>
+        <Description>Load Removal, Automatic Timer Start and Auto Splitting is available. (By heny and whatisaphone)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
