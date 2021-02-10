@@ -36,6 +36,17 @@
    </AutoSplitter>
 	<AutoSplitter>
      	<Games>
+            <Game>Fix It Felix Jr</Game>
+     	</Games>
+     	<URLs>
+            <URL>https://raw.githubusercontent.com/KunoDemetries/AutoSplitter/master/FixitFelixJr.asl</URL>
+     	</URLs>
+     	<Type>Script</Type>
+     	<Description>Auto Splitter (By xZeko) </Description>
+	<Website>https://www.speedrun.com/fix_it_felix_jr</Website>
+   </AutoSplitter>
+	<AutoSplitter>
+     	<Games>
             <Game>MudRunner</Game>
      	</Games>
      	<URLs>
