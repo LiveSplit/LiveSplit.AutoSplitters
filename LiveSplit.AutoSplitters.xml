@@ -11174,4 +11174,14 @@
         <Type>Script</Type>
         <Description>Automatic Splitting is available. (By XandoToaster)</Description>
     </AutoSplitter>
+	<AutoSplitter>
+		<Games>
+			<Game>Star Wars Jedi: Fallen Order</Game>
+		</Games>
+		<URLs>
+			<URL>https://raw.githubusercontent.com/Mysterion06/Star-wars-jedi-fallen-order/main/SWJFO%20Autosplitter.asl</URL>
+		</URLs>
+		<Type>Script</Type>
+		<Description>Autosplitter with LRT by Mysterion_06_</Description>
+	</AutoSplitter>
 </AutoSplitters>
