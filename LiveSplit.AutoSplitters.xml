@@ -11164,4 +11164,14 @@
         <Description>Supports Autosplit, Autostart, Autoreset, Load Removal, can split on every room or saved camp</Description>
         <Website>https://discord.gg/8t4WrMmpXs</Website>
     </AutoSplitter>	
+    <AutoSplitter>
+        <Games>
+            <Game>Heads Run</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/andrewhuntsmith/HeadsRunAutosplitter/master/HeadsRun.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Automatic Splitting is available. (By XandoToaster)</Description>
+    </AutoSplitter>
 </AutoSplitters>
