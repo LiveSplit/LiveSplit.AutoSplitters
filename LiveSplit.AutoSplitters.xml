@@ -2,6 +2,17 @@
 <AutoSplitters>
 	<AutoSplitter>
 		<Games>
+			<Game>FatOut</Game>
+		</Games>
+		<URLs>
+			<URL>https://raw.githubusercontent.com/b5414/LiveSplit_ASL/white/files/FlatOut.asl</URL>
+		</URLs>
+		<Type>Script</Type>
+		<Description>FlatOut 1 AutoSplitter</Description>
+		<Website>https://github.com/b5414/LiveSplit_ASL</Website>
+	</AutoSplitter>
+	<AutoSplitter>
+		<Games>
 			<Game>I Am Alive</Game>
    		</Games>
 		<URLs>
