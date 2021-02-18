@@ -11218,4 +11218,17 @@
         <Description>AutoSplitter for Mesen, FCEUX 2.2.3 and Nestopia (By Avasam).</Description>
     	<Website>https://www.speedrun.com/mappy_land</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Harry Potter and the Goblet of Fire (PC)</Game>
+	    <Game>Harry Potter and the Goblet of Fire</Game>
+	    <Game>Harry Potter 4</Game>
+	    <Game>HP4</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/marczeslaw11/LoadRemovers/master/HP4_AutoSplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>AutoSplitter and Load Remover by Flo203 and Marczeslaw</Description>
+    </AutoSplitter>
 </AutoSplitters>
