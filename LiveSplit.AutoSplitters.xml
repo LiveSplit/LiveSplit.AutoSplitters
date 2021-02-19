@@ -6379,6 +6379,7 @@
     <AutoSplitter>
         <Games>
             <Game>VVVVVV</Game>
+            <Game>VVVVVV Category Extensions</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/tzann/Autosplitters/master/LiveSplit.VVVVVV.asl</URL>
@@ -11231,19 +11232,6 @@
         <Type>Script</Type>
         <Description>AutoSplitter and Load Remover by Flo203 and Marczeslaw</Description>
     </AutoSplitter>
-<AutoSplitter>
-        <Games>
-            <Game>Harry Potter and the Goblet of Fire (PC)</Game>
-	    <Game>Harry Potter and the Goblet of Fire</Game>
-	    <Game>Harry Potter 4</Game>
-	    <Game>HP4</Game>
-        </Games>
-        <URLs>
-            <URL>https://raw.githubusercontent.com/marczeslaw11/LoadRemovers/master/HP4_AutoSplitter.asl</URL>
-        </URLs>
-        <Type>Script</Type>
-        <Description>AutoSplitter and Load Remover by Flo203 and Marczeslaw</Description>
-    </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>HROT</Game>
@@ -11253,5 +11241,16 @@
         </URLs>
         <Type>Script</Type>
         <Description>AutoSplit, AutoStart and AutoReset (by the_kovic and 2838)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Outer Wilds</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/sseneca42/Outer-Wilds-Autosplitter/main/OW_Autosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Remover &amp; AutoSplitter (by Nepo)</Description>
+	<Website>https://github.com/sseneca42/Outer-Wilds-Autosplitter/blob/main/README.md</Website>
     </AutoSplitter>
 </AutoSplitters>
