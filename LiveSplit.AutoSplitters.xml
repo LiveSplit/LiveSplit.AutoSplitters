@@ -11232,4 +11232,15 @@
         <Type>Script</Type>
         <Description>AutoSplitter and Load Remover by Flo203 and Marczeslaw</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Outer Wilds</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/sseneca42/Outer-Wilds-Autosplitter/main/OW_Autosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Remover &amp; AutoSplitter (by Nepo)</Description>
+	<Website>https://github.com/sseneca42/Outer-Wilds-Autosplitter/blob/main/README.md</Website>
+    </AutoSplitter>
 </AutoSplitters>
