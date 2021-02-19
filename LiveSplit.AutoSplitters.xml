@@ -2790,10 +2790,10 @@
             <Game>Dark Souls II - SotFS</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/JMaynard24/ASL/master/DarkSouls2.asl</URL>
+            <URL>https://raw.githubusercontent.com/rythin-sr/ASL-Scripts/master/DarkSoulsII.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load Removal is available. (By Dread)</Description>
+        <Description>Autosplitting and Load Removal is available. (By Dread, rythin)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
