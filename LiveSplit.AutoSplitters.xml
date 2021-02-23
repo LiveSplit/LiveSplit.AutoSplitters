@@ -11286,4 +11286,15 @@
 	<Description>Autosplitter for the PC version (by GMP) </Description>
 	<Website>https://github.com/GMPranav/ASLs/blob/main/README.md</Website>
     </AutoSplitter>
+    <AutoSplitter>
+	<Games>
+		<Game>Disney's Brother Bear</Game>
+		<Game>Brother Bear</Game>
+	</Games>
+	<URLs>
+		<URL>https://raw.githubusercontent.com/marczeslaw11/LoadRemovers/master/bb%20load%20remover.asl</URL>
+	</URLs>
+	<Type>Script</Type>
+	<Description>Load Remover by marczeslaw</Description>
+    </AutoSplitter>
 </AutoSplitters>
