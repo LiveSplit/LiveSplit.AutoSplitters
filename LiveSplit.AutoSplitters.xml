@@ -743,6 +743,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Just Shake It</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/just-ero/AutoSplitterScripts/master/Just%20Shake%20It/JustShakeIt.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Starts the timer upon crossing the start, splits on each checkpoint and resets upon restarting. (by Ero)</Description>
+        <Website>https://github.com/just-ero/AutoSplitterScripts/tree/master/Just%20Shake%20It</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Lightmatter</Game>
         </Games>
         <URLs>
