@@ -11331,4 +11331,14 @@
 	<Type>Script</Type>
 	<Description>Load Remover by marczeslaw</Description>
     </AutoSplitter>
+    <AutoSplitter>
+	<Games>
+		<Game>Venineth</Game>
+	</Games>
+	<URLs>
+		<URL>https://raw.githubusercontent.com/Micrologist/LiveSplit.Venineth/main/venineth.asl</URL>
+	</URLs>
+	<Type>Script</Type>
+	<Description>Autosplitting and Load Removal (by Micrologist#2351)</Description>
+    </AutoSplitter>
 </AutoSplitters>
