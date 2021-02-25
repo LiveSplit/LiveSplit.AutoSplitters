@@ -11181,6 +11181,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>HuniePop 2: Double Date</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Buurazu/HuniePopAutoSplitter/main/huniepop%202.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto-start/reset. Splits on every date/bonus round by default</Description>
+        <Website>https://discord.gg/hHMyUjDmzu</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Secrets of Grindea</Game>
         </Games>
         <URLs>
