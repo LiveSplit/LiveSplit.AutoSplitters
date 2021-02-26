@@ -11341,4 +11341,14 @@
 	<Type>Script</Type>
 	<Description>Autosplitting and Load Removal (by Micrologist#2351)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Little Nightmares II</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/DNikko/littlenightmares-lr-as/master/littlenightmares2.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Removal (By Nikko)</Description>
+    </AutoSplitter>
 </AutoSplitters>
