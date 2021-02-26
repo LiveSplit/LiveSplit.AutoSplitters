@@ -5948,10 +5948,10 @@
             <Game>Dragon Age: Inquisition</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Ekelbatzen/LiveSplit.Scripts/master/dai.asl</URL>
+            <URL>https://raw.githubusercontent.com/Lemuura/Livesplit-Scripts/main/dai.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load Removal is available. (By Ekelbatzen and LettersWords)</Description>
+        <Description>Load Removal is available. (By Ekelbatzen, LettersWords and Lemuura)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
