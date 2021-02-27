@@ -11326,10 +11326,10 @@
 		<Game>Brother Bear</Game>
 	</Games>
 	<URLs>
-		<URL>https://raw.githubusercontent.com/marczeslaw11/LoadRemovers/master/bb%20load%20remover.asl</URL>
+		<URL>https://raw.githubusercontent.com/marczeslaw11/LoadRemovers/master/BrotherBear_AutoSplitter.asl</URL>
 	</URLs>
 	<Type>Script</Type>
-	<Description>Load Remover by marczeslaw</Description>
+	<Description>Load Remover and AutoSplitter by marczeslaw</Description>
     </AutoSplitter>
     <AutoSplitter>
 	<Games>
