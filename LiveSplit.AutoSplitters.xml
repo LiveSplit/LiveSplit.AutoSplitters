@@ -11383,4 +11383,14 @@
         <Type>Script</Type>
         <Description>Autosplitting and Load Removal (by Micrologist#2351)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Super Cable Boy</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Doublevil/scbspeedrun/main/SuperCableBoy.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>A game time autosplitter for SCB, by Doublevil</Description>
+    </AutoSplitter>
 </AutoSplitters>
