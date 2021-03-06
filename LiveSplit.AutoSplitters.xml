@@ -11385,6 +11385,20 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Harry Potter and the Order of the Phoenix (PC)</Game>
+            <Game>Harry Potter and the Order of the Phoenix</Game>
+            <Game>Harry Potter 5</Game>
+            <Game>HP5</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/marczeslaw11/LoadRemovers/master/hp5_autosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>AutoSplitter by marczeslaw</Description>
+        <Website>https://www.speedrun.com/hp5/resources</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Super Cable Boy</Game>
         </Games>
         <URLs>
