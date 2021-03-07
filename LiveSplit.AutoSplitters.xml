@@ -11407,4 +11407,14 @@
         <Type>Script</Type>
         <Description>A game time autosplitter for SCB, by Doublevil</Description>
     </AutoSplitter>
+    <AutoSplitter>
+	<Games>
+		<Game>Patapon</Game>
+	</Games>
+	<URLs>
+		<URL>https://raw.githubusercontent.com/kaseyawolf2/Patapon-Autosplits/main/Patapon-1-PPSSPP-AutoSplit.asl</URL>
+	</URLs>
+	<Type>Script</Type>
+	<Description>AutoSplitter For Patapon on PPSSPP By Kaseyawolf2 </Description>
+    </AutoSplitter>
 </AutoSplitters>
