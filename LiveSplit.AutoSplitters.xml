@@ -11417,8 +11417,7 @@
 	<Type>Script</Type>
 	<Description>AutoSplitter For Patapon on PPSSPP By Kaseyawolf2 </Description>
     </AutoSplitter>
-</AutoSplitters>
-<AutoSplitter>
+    <AutoSplitter>
         <Games>
             <Game>Jet Set Radio Future</Game>
         </Games>
@@ -11428,3 +11427,4 @@
         <Type>Script</Type>
         <Description>Auto Splitting is available for CXBX (By Auddy)</Description>
     </AutoSplitter>
+</AutoSplitters>
