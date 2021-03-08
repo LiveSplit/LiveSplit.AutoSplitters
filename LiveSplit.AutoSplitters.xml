@@ -11417,4 +11417,14 @@
 	<Type>Script</Type>
 	<Description>AutoSplitter For Patapon on PPSSPP By Kaseyawolf2 </Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Jet Set Radio Future</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Auddy07/ASL/master/JSRF.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitting is available for CXBX (By Auddy)</Description>
+    </AutoSplitter>
 </AutoSplitters>
