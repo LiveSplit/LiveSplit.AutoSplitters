@@ -1257,6 +1257,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Clustertruck Category Extensions</Game>
+        </Games>
+        <URLs>
+	    <URL>https://raw.githubusercontent.com/Happyrobot33/Autosplitters/master/Clustertruck.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>OpenSource Autosplitting by level aswell as by location (by Happyrobot33)</Description>
+        <Website>https://github.com/Happyrobot33/Autosplitters</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Bionicle: The Legend of Mata Nui</Game>
         </Games>
         <URLs>
