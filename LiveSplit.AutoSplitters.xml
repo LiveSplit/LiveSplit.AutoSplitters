@@ -11437,4 +11437,14 @@
         <Type>Script</Type>
         <Description>Auto Splitting is available for CXBX (By Auddy)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Bionicle Heroes</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/marczeslaw11/LoadRemovers/master/BionicleHeroes_Autosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter aviable (by marczeslaw)</Description>
+    </AutoSplitter>
 </AutoSplitters>
