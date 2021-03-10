@@ -11447,4 +11447,14 @@
         <Type>Script</Type>
         <Description>Autosplitter aviable (by marczeslaw)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+    <Games>
+        <Game>Exit Path 2</Game>
+    </Games>
+    <URLs>
+        <URL>https://raw.githubusercontent.com/brododragon/Exit-Path-2-Autosplitter/main/ExitPath2.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>Automatically starts, splits, and resets. Removes loads as well. (by brododragon)</Description>
+    </AutoSplitter>
 </AutoSplitters>
