@@ -11213,6 +11213,7 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>HuniePop 2</Game>
             <Game>HuniePop 2: Double Date</Game>
         </Games>
         <URLs>
@@ -11221,6 +11222,16 @@
         <Type>Script</Type>
         <Description>Auto-start/reset. Splits on every date/bonus round by default</Description>
         <Website>https://discord.gg/hHMyUjDmzu</Website>
+    </AutoSplitter>
+	<AutoSplitter>
+        <Games>
+            <Game>NOT A HERO</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Buurazu/NOTAHEROAutosplitter/main/NOT%20A%20HERO.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto-start/split. Game Time = IL time. Resets on level start if you have only 1 split</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
