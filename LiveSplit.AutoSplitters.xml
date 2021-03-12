@@ -11490,4 +11490,15 @@
         <Type>Script</Type>
         <Description>Automatically starts, splits, and resets</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Lotus III: The Ultimate Challenge</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/WinterThunderSpeedrun/Autosplitters/master/Lotus3.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Website>https://github.com/WinterThunderSpeedrun/Autosplitters</Website>
+        <Description>Autospliter with IGT for Lotus III on DOSBox 0.74-3 (manual start and reset required)</Description>
+    </AutoSplitter>
 </AutoSplitters>
