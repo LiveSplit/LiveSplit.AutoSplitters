@@ -11512,4 +11512,14 @@
         <Website>https://github.com/WinterThunderSpeedrun/Autosplitters</Website>
         <Description>Autospliter with IGT for Lotus III on DOSBox 0.74-3 (manual start and reset required)</Description>
     </AutoSplitter>
+	<AutoSplitter>
+		<Games>
+			<Game>Remothered: Broken Porcelain</Game>
+		</Games>
+		<URLs>
+			<URL>https://raw.githubusercontent.com/Mysterion06/Remothered-Broken-Porcelain/main/RemotheredBP.asl</URL>
+		</URLs>
+		<Type>Script</Type>
+		<Description> Loadremover by Mysterion06</Description>
+	</AutoSplitter>
 </AutoSplitters>
