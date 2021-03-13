@@ -36,6 +36,17 @@
 	</AutoSplitter>
 	<AutoSplitter>
 		<Games>
+			<Game>UAZ 4X4 Racing</Game>
+		</Games>
+		<URLs>
+			<URL>https://raw.githubusercontent.com/b5414/LiveSplit_ASL/white/files/4x4Racing.asl</URL>
+		</URLs>
+		<Type>Script</Type>
+		<Description>Uaz AutoSplitter (By b5414)</Description>
+		<Website>https://github.com/b5414/LiveSplit_ASL</Website>
+	</AutoSplitter>
+	<AutoSplitter>
+		<Games>
 			<Game>I Am Alive</Game>
    		</Games>
 		<URLs>
