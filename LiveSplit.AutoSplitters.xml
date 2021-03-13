@@ -20,7 +20,7 @@
 			<URL>https://raw.githubusercontent.com/b5414/LiveSplit_ASL/white/files/GForce.asl</URL>
 		</URLs>
 		<Type>Script</Type>
-		<Description>G-Force AutoSplitter</Description>
+		<Description>G-Force AutoSplitter (by b5414)</Description>
 		<Website>https://github.com/b5414/LiveSplit_ASL</Website>
 	</AutoSplitter>
 	<AutoSplitter>
@@ -31,7 +31,7 @@
 			<URL>https://raw.githubusercontent.com/b5414/LiveSplit_ASL/white/files/FlatOut.asl</URL>
 		</URLs>
 		<Type>Script</Type>
-		<Description>FlatOut 1 AutoSplitter</Description>
+		<Description>FlatOut 1 AutoSplitter (by b5414)</Description>
 		<Website>https://github.com/b5414/LiveSplit_ASL</Website>
 	</AutoSplitter>
 	<AutoSplitter>
