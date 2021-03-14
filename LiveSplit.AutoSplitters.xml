@@ -145,6 +145,17 @@
      </AutoSplitter>
 		<AutoSplitter>
      	<Games>
+            <Game>The Hell In Vietnam</Game>
+     	</Games>
+     	<URLs>
+            <URL>https://raw.githubusercontent.com/KunoDemetries/AutoSplitter/master/TheHellInVietnam.asl</URL>
+     	</URLs>
+     	<Type>Script</Type>
+     	<Description>Auto Splitter, Load Remover (by Kuno Demetries, xZeko)</Description>
+        <Website>https://discord.gg/s3KBdU8uB9</Website>
+     </AutoSplitter>
+		<AutoSplitter>
+     	<Games>
             <Game>Wanted: Weapons of Fate</Game>
      	</Games>
      	<URLs>
@@ -152,7 +163,7 @@
      	</URLs>
      	<Type>Script</Type>
      	<Description>Auto Splitter/ Load Remover (by Kuno Demetries)</Description>
-	<Website>https://www.speedrun.com/wwof</Website>
+	<Website>https://discord.gg/s3KBdU8uB9</Website>
      </AutoSplitter>
 		<AutoSplitter>
      	<Games>
