@@ -167,6 +167,17 @@
      </AutoSplitter>
 		<AutoSplitter>
      	<Games>
+            <Game>Super Monkey Ball Banana Blitz HD</Game>
+     	</Games>
+     	<URLs>
+            <URL>https://raw.githubusercontent.com/KunoDemetries/AutoSplitter/master/SuperMonkeyBallBananaBlitzHD.asl</URL>
+     	</URLs>
+     	<Type>Script</Type>
+     	<Description>Auto Splitter / Load Remover (by Kuno Demetries, Ellie, xZeko)</Description>
+	<Website>https://discord.com/invite/Gy7QJwB</Website>
+     </AutoSplitter>
+		<AutoSplitter>
+     	<Games>
             <Game>Call of Duty: Advanced Warfare</Game>
      	</Games>
      	<URLs>
