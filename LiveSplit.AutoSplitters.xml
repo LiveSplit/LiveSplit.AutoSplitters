@@ -4706,10 +4706,10 @@
             <Game>Vanquish</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/RisingFog/LiveSplit-AutoSplitters/master/Vanquish.asl</URL>
+            <URL>https://raw.githubusercontent.com/Mysterion06/Vanquish/main/Vanquish.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto Splitting and Auto Start are available. (By Fog)</Description>
+        <Description>Autosplitter and Loadremover by Fog and Mysterion_06_</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
