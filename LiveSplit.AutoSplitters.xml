@@ -9945,7 +9945,7 @@
     <AutoSplitter>
         <Games>
             <Game>Minecraft Dungeons</Game>
-            <Game>Minecraft: Dungeons</Game>
+	    <Game>Minecraft Dungeons Category Extensions</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/rythin-sr/ASL-Scripts/master/MinecraftDungeons.asl</URL>
