@@ -11591,4 +11591,14 @@
         <Description>Autosplitter and Game Time for Dolphin. (by bmn)</Description>
         <Website>https://github.com/bmn/livesplit_asl_misc/tree/mgstts</Website>
     </AutoSplitter>
+	<AutoSplitter>
+        <Games>
+            <Game>Oddworld: Stranger's Wrath HD</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/Fxyzzz/Oddworld-Stranger-s-Wrath-HD-Autosplitter/blob/main/Oddworld_Strangers_Wrath_HD_AUTOSPLITTER_2.2.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter with IGT for Steam and GOG version (PC) of the game</Description>
+    </AutoSplitter>
 </AutoSplitters>
