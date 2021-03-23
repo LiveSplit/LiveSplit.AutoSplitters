@@ -4450,6 +4450,26 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Momodora 1</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Ladnok/Momo-1-Autosplitter/master/Momo1.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitting is available. (By Ladnok)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Momodora 2</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Ladnok/Momo-2-Autosplitter/main/Momo2.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitting is available. (By Ladnok)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Momodora: Reverie Under the Moonlight</Game>
         </Games>
         <URLs>
