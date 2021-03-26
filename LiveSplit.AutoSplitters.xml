@@ -2,6 +2,17 @@
 <AutoSplitters>
 	<AutoSplitter>
 		<Games>
+			<Game>Brave Fencer Musashi</Game>
+		</Games>
+		<URLs>
+			<URL>https://gist.github.com/amm4108/f9cc6e8c8fba5a2457762f4fab8679c7</URL>
+		</URLs>
+		<Type>Script</Type>
+		<Description>Brave Fencer Musashi Autosplitter by Aalaizah</Description>
+		<Website>https://github.com/b5414/LiveSplit_ASL</Website>
+	</AutoSplitter>
+	<AutoSplitter>
+		<Games>
 			<Game>Sonic The Hedgehog (2006)</Game>
 			<Game>Sonic The Hedgehog (2006) Category Extensions</Game>
 		</Games>
