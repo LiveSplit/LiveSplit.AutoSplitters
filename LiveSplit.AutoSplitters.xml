@@ -11642,4 +11642,14 @@
 		<Type>Script</Type>
 		<Description>Autosplitter with IGT by Mysterion_06_</Description>
 	</AutoSplitter>
+	<AutoSplitter>
+		<Games>
+			<Game>The Adventures of Elena Temple</Game>
+		</Games>
+		<URLs>
+			<URL>https://raw.githubusercontent.com/EricSimonetti/ElenaTempleAutoSplitter/master/ElenaTemple.asl</URL>
+		</URLs>
+		<Type>Script</Type>
+		<Description>Autosplitter with IGT, auto-start, and auto-restart by RiccTheThicc</Description>
+	</AutoSplitter>
 </AutoSplitters>
