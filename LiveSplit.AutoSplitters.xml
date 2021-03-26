@@ -10036,6 +10036,17 @@
         <Description>Autosplitting for MCC PC (by Burnt)</Description>
         <Website>https://github.com/Burnt-o/MCC_autosplitter</Website>
     </AutoSplitter>
+	    <AutoSplitter>
+        <Games>
+            <Game>Stubbs the Zombie</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Burnt-o/Stubbs_autosplitter/main/stubbsplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting for Stubbs the Zombie (both ports, by Burnt)</Description>
+        <Website>https://github.com/Burnt-o/Stubbs_autosplitter</Website>
+    </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>Someday You'll Return</Game>
