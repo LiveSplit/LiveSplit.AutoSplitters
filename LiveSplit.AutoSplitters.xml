@@ -11684,4 +11684,14 @@
         <Description>Auto Start/Split/Reset and Load Remover (by Voxelse)</Description>
         <Website>https://github.com/Voxelse/LiveSplit.KazeAndTheWildMasks</Website>
   </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>The Witch &amp; The 66 Mushrooms</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/NighthawkSLO/Autosplitters/master/TheWitchAndThe66Mushrooms.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Start/Split/Reset are available. (By NighthawkSLO)</Description>
+    </AutoSplitter>
 </AutoSplitters>
