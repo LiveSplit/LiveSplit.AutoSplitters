@@ -11726,4 +11726,15 @@
       <Type>Script</Type>
       <Description>Load remover available for Steam and Microsoft Store/Game Pass version. (by hoxi and Vojtas131)</Description>
    </AutoSplitter>
+	<AutoSplitter>
+		<Games>
+			<Game>Bio Miracle Bokutte Upa</Game>
+		</Games>
+		<URLs>
+			<URL>https://raw.githubusercontent.com/HyperFluxQc/AutoSplitters/master/BioMiracleBokutteUpa.asl</URL>
+		</URLs>
+		<Type>Script</Type>
+		<Description>Auto Start/Split/Reset by HyperFluxQc and Avasam</Description>
+	</AutoSplitter>
 </AutoSplitters>
+
