@@ -11715,4 +11715,15 @@
     <Type>Script</Type>
     <Description>Autosplitting and Load Removal available. (by rythin)</Description>
   </AutoSplitter>
+  <AutoSplitter>
+  	<Games>
+  	 <Game>Yakuza 6: The Song of Life</Game>
+       <Game>Yakuza 6</Game>
+      </Games>
+      <URLs>
+      	<URL>https://raw.githubusercontent.com/hoXyy/Livesplit.Autosplitters/master/LiveSplit.Yakuza6.asl</URL>
+      </URLs>
+      <Type>Script</Type>
+      <Description>Load remover available for Steam and Microsoft Store/Game Pass version. (by hoxi and Vojtas131)</Description>
+   </AutoSplitter>
 </AutoSplitters>
