@@ -11787,5 +11787,15 @@
 	  <Type>Script</Type>
 	  <Description>Autosplitting is available. (By Melody)</Description>
 	</AutoSplitter>
+	<AutoSplitter>
+	  <Games>
+	    <Game>LEGO Star Wars III: The Clone Wars</Game>
+	  </Games>
+	  <URLs>
+	    <URL>https://raw.githubusercontent.com/melodyfast/LEGO-Autosplitters/main/LSW3-Autosplitter.asl</URL>
+	  </URLs>
+	  <Type>Script</Type>
+	  <Description>Autosplitting is available. (By Melody)</Description>
+	</AutoSplitter>
 </AutoSplitters>
 
