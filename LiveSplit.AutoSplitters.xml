@@ -11758,6 +11758,16 @@
 		<Description>Auto Start/Split/Reset by HyperFluxQc and Avasam</Description>
 	</AutoSplitter>
 	<AutoSplitter>
+		<Games>
+			<Game>The Lord of the Rings: The Return of the King</Game>
+		</Games>
+		<URLs>
+			<URL>https://raw.githubusercontent.com/NextLevelMemes/Master/master/RotK.asl</URL>
+		</URLs>
+		<Type>Script</Type>
+		<Description>Load remover and autosplitter for PC by NextLevelMemes</Description>
+	</AutoSplitter>
+	<AutoSplitter>
 	  <Games>
 	    <Game>Resident Evil 6</Game>
 	  </Games>
