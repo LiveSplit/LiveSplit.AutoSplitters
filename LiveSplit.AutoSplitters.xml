@@ -11777,5 +11777,15 @@
 	  <Type>Script</Type>
 	  <Description>Autosplitter for RE6. IGT-primary, supports chapter and sub-chapter splitting, even a Loadless implementation for the memes. (JYNxYoshii/xlYoshii)</Description>
 	</AutoSplitter>
+	<AutoSplitter>
+	  <Games>
+	    <Game>LEGO Indiana Jones: The Original Adventures</Game>
+	  </Games>
+	  <URLs>
+	    <URL>https://raw.githubusercontent.com/melodyfast/LEGO-Autosplitters/main/LIJ-Autosplitter.asl</URL>
+	  </URLs>
+	  <Type>Script</Type>
+	  <Description>Autosplitting is available. (By Melody)</Description>
+	</AutoSplitter>
 </AutoSplitters>
 
