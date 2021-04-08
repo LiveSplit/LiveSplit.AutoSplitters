@@ -940,6 +940,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Sizeable</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/just-ero/AutoSplitterScripts/master/Sizeable/Sizeable.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Splits when completing a level, resets when returning to menu. Includes load remover. (by Ero)</Description>
+        <Website>https://github.com/just-ero/AutoSplitterScripts/tree/master/Sizeable</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>The Spectrum Retreat</Game>
         </Games>
         <URLs>
