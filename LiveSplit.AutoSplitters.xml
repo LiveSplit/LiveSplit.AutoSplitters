@@ -67,6 +67,28 @@
 	</AutoSplitter>
 	<AutoSplitter>
 		<Games>
+			<Game>Ford Racing 2</Game>
+		</Games>
+		<URLs>
+			<URL>https://raw.githubusercontent.com/b5414/LiveSplit_ASL/white/files/FordRacing2.asl</URL>
+		</URLs>
+		<Type>Script</Type>
+		<Description>Ford Racing 2 AutoSplitter (by b5414)</Description>
+		<Website>https://github.com/b5414/LiveSplit_ASL</Website>
+	</AutoSplitter>
+	<AutoSplitter>
+		<Games>
+			<Game>Ford Racing 3</Game>
+		</Games>
+		<URLs>
+			<URL>https://raw.githubusercontent.com/b5414/LiveSplit_ASL/white/files/FordRacing3.asl</URL>
+		</URLs>
+		<Type>Script</Type>
+		<Description>Ford Racing 3 AutoSplitter (by b5414)</Description>
+		<Website>https://github.com/b5414/LiveSplit_ASL</Website>
+	</AutoSplitter>
+	<AutoSplitter>
+		<Games>
 			<Game>Ford Racing Off Road</Game>
 		</Games>
 		<URLs>
