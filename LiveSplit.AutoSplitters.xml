@@ -2,6 +2,16 @@
 <AutoSplitters>
 	<AutoSplitter>
 		<Games>
+        		<Game>Watch_Dogs</Game>
+    		</Games>
+    		<URLs>
+        		<URL>https://raw.githubusercontent.com/Random-Machine/Autosplitters/main/WD1MainMissionAutoSplitter.asl</URL>
+    		</URLs>
+    		<Type>Script</Type>
+    		<Description>Autosplitter for any% in v.1.04.497 of Watch_Dogs</Description>
+	</AutoSplitter>
+	<AutoSplitter>
+		<Games>
         		<Game>Need for Speed: Most Wanted (2005)</Game>
     		</Games>
     		<URLs>
