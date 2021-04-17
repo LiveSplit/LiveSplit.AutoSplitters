@@ -8,7 +8,8 @@
         		<URL>https://raw.githubusercontent.com/Random-Machine/Autosplitters/main/WD1MainMissionAutoSplitter.asl</URL>
     		</URLs>
     		<Type>Script</Type>
-    		<Description>Autosplitter for any% in v.1.04.497 of Watch_Dogs</Description>
+    		<Description>Watch_Dogs Autosplitter (by Random_Machine and charlocharlie/claabs)</Description>
+		<Website>https://github.com/Random-Machine/Autosplitters</Website>
 	</AutoSplitter>
 	<AutoSplitter>
 		<Games>
