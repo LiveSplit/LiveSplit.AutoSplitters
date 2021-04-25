@@ -11853,6 +11853,16 @@
 	</AutoSplitter>
 	<AutoSplitter>
 	  <Games>
+	    <Game>Ancient Wars: Sparta</Game>
+	  </Games>
+	  <URLs>
+	    <URL>https://raw.githubusercontent.com/NextLevelMemes/Master/master/AWE.asl</URL>
+	  </URLs>
+	  <Type>Script</Type>
+	  <Description>Autosplitter and Load Remover by NextLevelMemes</Description>
+	</AutoSplitter>
+	<AutoSplitter>
+	  <Games>
 	    <Game>LEGO DC Super-Villains</Game>
 	  </Games>
 	  <URLs>
