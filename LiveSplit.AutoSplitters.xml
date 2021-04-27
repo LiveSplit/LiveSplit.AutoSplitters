@@ -11872,5 +11872,15 @@
 	  <Type>Script</Type>
 	  <Description>Autosplitting and Load Removal is available. (By Melody)</Description>
 	</AutoSplitter>
+	<AutoSplitter>
+		<Games>
+			<Game>The Ninja Warriors</Game>
+		</Games>
+		<URLs>
+			<URL>https://raw.githubusercontent.com/phroggster/AutoSplits/master/NinjaWarriors/NinjaWarriors.asl</URL>
+		</URLs>
+		<Type>Script</Type>
+		<Description>phroggie's The Ninja Warriors Autosplitter</Description>
+	</AutoSplitter>
 </AutoSplitters>
 
