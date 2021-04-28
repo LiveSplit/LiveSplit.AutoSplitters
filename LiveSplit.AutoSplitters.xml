@@ -11874,13 +11874,23 @@
 	</AutoSplitter>
 	<AutoSplitter>
 		<Games>
-        		<Game>Curse of the Dead Gods</Game>
-    		</Games>
-    		<URLs>
-        		<URL>https://raw.githubusercontent.com/Laofr/COTDG_autosplit.asl/main/COTDG_autosplit.asl</URL>
-    		</URLs>
-    		<Type>Script</Type>
-    		<Description>Curse of the dead gods autosplitter with IGT tracker (by Lao)</Description>
+      <Game>Curse of the Dead Gods</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/Laofr/COTDG_autosplit.asl/main/COTDG_autosplit.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>Curse of the dead gods autosplitter with IGT tracker (by Lao)</Description>
+  </AutoSplitter>
+  <AutoSplitter>
+    <Games>
+			<Game>The Ninja Warriors</Game>
+		</Games>
+		<URLs>
+			<URL>https://raw.githubusercontent.com/phroggster/AutoSplits/master/NinjaWarriors/NinjaWarriors.asl</URL>
+		</URLs>
+		<Type>Script</Type>
+		<Description>phroggie's The Ninja Warriors Autosplitter</Description>
 	</AutoSplitter>
 </AutoSplitters>
 
