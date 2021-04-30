@@ -11882,5 +11882,16 @@
 		<Type>Script</Type>
 		<Description>phroggie's The Ninja Warriors Autosplitter</Description>
 	</AutoSplitter>
+	<AutoSplitter>
+		<Games>
+			<Game>Pepsiman</Game>
+		</Games>
+		<URLs>
+			<URL>https://raw.githubusercontent.com/MrMonsh/Auto-Splitters/main/Pepsiman/Pepsiman%20Auto-Splitter.asl</URL>
+		</URLs>
+		<Type>Script</Type>
+		<Description>Pepsiman Auto-Splitter & Load Remover (by MrMonsh)</Description>
+		<Website>https://github.com/MrMonsh/Auto-Splitters/blob/main/Pepsiman/readme.txt</Website>
+	</AutoSplitter>
 </AutoSplitters>
 
