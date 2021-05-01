@@ -11891,5 +11891,17 @@
 		<Description>Pepsiman Auto-Splitter &amp; Load Remover (by MrMonsh)</Description>
 		<Website>https://github.com/MrMonsh/Auto-Splitters/blob/main/Pepsiman/readme.txt</Website>
 	</AutoSplitter>
+	<AutoSplitter>
+		<Games>
+			<Game>Minecraft: Java Edition</Game>
+		</Games>
+		<URLs>
+			<URL>https://raw.githubusercontent.com/LiveSplit/LiveSplit.Minecraft/master/Components/LiveSplit.Minecraft.dll</URL>
+			<URL>https://raw.githubusercontent.com/LiveSplit/LiveSplit.Minecraft/master/Components/fNbt.dll</URL>
+		</URLs>
+		<Type>Component</Type>
+		<Description>IGT is available.</Description>
+		<Website>https://github.com/LiveSplit/LiveSplit.Minecraft</Website>
+	</AutoSplitter>
 </AutoSplitters>
 
