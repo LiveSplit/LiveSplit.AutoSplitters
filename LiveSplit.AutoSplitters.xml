@@ -11885,10 +11885,10 @@
 			<Game>Pepsiman</Game>
 		</Games>
 		<URLs>
-			<URL>https://raw.githubusercontent.com/MrMonsh/Auto-Splitters/main/Pepsiman/Pepsiman%20Auto-Splitter.asl</URL>
+			<URL>https://raw.githubusercontent.com/MrMonsh/Auto-Splitters/main/Pepsiman/Pepsiman_Auto-Splitter.asl</URL>
 		</URLs>
 		<Type>Script</Type>
-		<Description>Pepsiman Auto-Splitter &amp; Load Remover (by MrMonsh)</Description>
+		<Description>Pepsiman Auto-Splitter and Load Remover (by MrMonsh)</Description>
 		<Website>https://github.com/MrMonsh/Auto-Splitters/blob/main/Pepsiman/readme.txt</Website>
 	</AutoSplitter>
 	<AutoSplitter>
