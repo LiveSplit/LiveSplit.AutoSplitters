@@ -10381,18 +10381,6 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
-            <Game>Minecraft: Java Edition</Game>
-        </Games>
-        <URLs>
-            <URL>https://raw.githubusercontent.com/Jorkoh/LiveSplit.Minecraft/master/Components/LiveSplit.Minecraft.dll</URL>
-            <URL>https://raw.githubusercontent.com/Jorkoh/LiveSplit.Minecraft/master/Components/fNbt.dll</URL>
-        </URLs>
-        <Type>Component</Type>
-        <Description>IGT is available (by Kohru)</Description>
-        <Website>https://github.com/Jorkoh/LiveSplit.Minecraft</Website>
-    </AutoSplitter>
-    <AutoSplitter>
-        <Games>
             <Game>Midtown Madness 2</Game>
         </Games>
         <URLs>
