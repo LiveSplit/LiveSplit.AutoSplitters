@@ -11903,5 +11903,16 @@
 		<Description>IGT is available.</Description>
 		<Website>https://github.com/LiveSplit/LiveSplit.Minecraft</Website>
 	</AutoSplitter>
+	<AutoSplitter>
+		<Games>
+			<Game>DEADBOLT</Game>
+		</Games>
+		<URLs>
+			<URL>https://raw.githubusercontent.com/PhoenixStroh/deadbolt-autosplitter/stable-main/Deadbolt_Any%25.asl</URL>
+		</URLs>
+		<Type>Script</Type>
+		<Description>Full Autosplitting by GameKwng</Description>
+		<Website>https://github.com/PhoenixStroh/deadbolt-autosplitter/tree/stable-main</Website>
+	</AutoSplitter>
 </AutoSplitters>
 
