@@ -11923,5 +11923,16 @@
 		<Description>Full Autosplitting by GameKwng</Description>
 		<Website>https://github.com/PhoenixStroh/deadbolt-autosplitter/tree/stable-main</Website>
 	</AutoSplitter>
+	<AutoSplitter>
+        <Games>
+            <Game>NieR Replicant ver.1.22474487139...</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/rodg/drakenier-splitters/main/nier_rep_load_removal.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load removal (by JeffTheBigLizard)</Description>
+        <Website>https://github.com/rodg/drakenier-splitters</Website>
+    </AutoSplitter>
 </AutoSplitters>
 
