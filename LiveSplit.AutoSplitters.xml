@@ -11821,11 +11821,20 @@
 <AutoSplitter>
     <Games>
       <Game>Pokémon Emerald</Game>
+	    </Games>
+	  <URLs>
+	    <URL>https://raw.githubusercontent.com/NextLevelMemes/Master/master/PokemonEmerald.asl</URL>
+	  </URLs>
+	  <Type>Script</Type>
+	  <Description>Autosplitter by NextLevelMemes</Description>
+	</AutoSplitter>
+	<AutoSplitter>
+	  <Games>
       <Game>Pokémon Ruby/Sapphire</Game>
       <Game>Pokémon Ruby/Sapphire Category Extensions</Game>
     </Games>
     <URLs>
-      <URL>https://raw.githubusercontent.com/NextLevelMemes/Master/master/PokemonRSE.asl</URL>
+      <URL>https://raw.githubusercontent.com/NextLevelMemes/Master/master/PokemonRubySapphire.asl</URL>
     </URLs>
     <Type>Script</Type>
     <Description>Autosplitter by NextLevelMemes</Description>
