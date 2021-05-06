@@ -11934,5 +11934,16 @@
         <Description>Load removal (by JeffTheBigLizard)</Description>
         <Website>https://github.com/rodg/drakenier-splitters</Website>
     </AutoSplitter>
+	<AutoSplitter>
+		<Games>
+        		<Game>Evoland</Game>
+    		</Games>
+    		<URLs>
+        		<URL>https://raw.githubusercontent.com/Zatura24/LiveSplit.Autosplitters/main/Evoland%201%20-%20Legendary%20Edition/evoland-1.asl</URL>
+    		</URLs>
+    		<Type>Script</Type>
+    		<Description>Evoland 1 (Legendary Edition) Autosplitter (by Zatura24)</Description>
+		<Website>https://github.com/Zatura24/LiveSplit.Autosplitters/tree/main/Evoland%201%20-%20Legendary%20Edition</Website>
+	</AutoSplitter>
 </AutoSplitters>
 
