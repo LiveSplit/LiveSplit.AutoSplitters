@@ -4239,7 +4239,7 @@
             <URL>https://raw.githubusercontent.com/zoton2/LiveSplit.Scripts/master/Release/LiveSplit.WatchDogs2.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load Removal is available. (By zoton2)</Description>
+        <Description>Auto Splitting and Load Removal are available. (By zoton2 and Random_Machine)</Description>
         <Website>https://github.com/zoton2/LiveSplit.Scripts/blob/master/LiveSplit.WatchDogs2-README.md</Website>
     </AutoSplitter>
     <AutoSplitter>
