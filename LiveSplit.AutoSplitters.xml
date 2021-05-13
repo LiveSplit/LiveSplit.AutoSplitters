@@ -11956,5 +11956,15 @@
 		<Description>Configurable autosplitter for Any%, 100%, and Long Path categories. Requires DOSBox ECE.</Description>
 		<Website>https://github.com/dglynch/kq6-autosplitter</Website>
 	</AutoSplitter>
+	<AutoSplitter>
+		<Games>
+			<Game>Fragments of Euclid</Game>
+		</Games>
+		<URLs>
+			<URL>https://raw.githubusercontent.com/Micrologist/LiveSplit.FragmentsOfEuclid/main/euclid.asl</URL>
+		</URLs>
+		<Type>Script</Type>
+		<Description>Autosplitter by Micrologist#2351</Description>
+		<Website>https://github.com/Micrologist/LiveSplit.FragmentsOfEuclid</Website>
+	</AutoSplitter>
 </AutoSplitters>
-
