@@ -11945,5 +11945,16 @@
     		<Description>Evoland 1 (Legendary Edition) Autosplitter (by Zatura24)</Description>
 		<Website>https://github.com/Zatura24/LiveSplit.Autosplitters/tree/main/Evoland%201%20-%20Legendary%20Edition</Website>
 	</AutoSplitter>
+	<AutoSplitter>
+		<Games>
+			<Game>King's Quest VI: Heir Today, Gone Tomorrow</Game>
+		</Games>
+		<URLs>
+			<URL>https://raw.githubusercontent.com/dglynch/kq6-autosplitter/master/kq6.asl</URL>
+		</URLs>
+		<Type>Script</Type>
+		<Description>Configurable autosplitter for Any%, 100%, and Long Path categories. Requires DOSBox ECE.</Description>
+		<Website>https://github.com/dglynch/kq6-autosplitter</Website>
+	</AutoSplitter>
 </AutoSplitters>
 
