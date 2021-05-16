@@ -11967,4 +11967,15 @@
 		<Description>Autosplitter by Micrologist#2351</Description>
 		<Website>https://github.com/Micrologist/LiveSplit.FragmentsOfEuclid</Website>
 	</AutoSplitter>
+	<AutoSplitter>
+		<Games>
+        		<Game>Super Mario 64 FPS</Game>
+    		</Games>
+    		<URLs>
+        		<URL>https://raw.githubusercontent.com/Zatura24/LiveSplit.Autosplitters/main/Super%20Mario%2064%20FPS%20v2/super-mario-64-fps.asl</URL>
+    		</URLs>
+    		<Type>Script</Type>
+    		<Description>Super Mario 64 FPS (v2.0) Autosplitter (by Zatura24)</Description>
+		<Website>https://github.com/Zatura24/LiveSplit.Autosplitters/tree/main/Super%20Mario%2064%20FPS%20v2</Website>
+	</AutoSplitter>
 </AutoSplitters>
