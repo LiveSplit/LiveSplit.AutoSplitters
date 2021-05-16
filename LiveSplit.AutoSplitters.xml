@@ -983,6 +983,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>There Is No Game</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/just-ero/AutoSplitTools/master/There%20is%20no%20Game%20(Jam%20Edition%202015)/ThereIsNoGame_Jam2015.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Starts, resets automatically. Splits available in the settings. (by Ero)</Description>
+        <Website>https://github.com/just-ero/AutoSplitTools/tree/master/There%20is%20no%20Game%20(Jam%20Edition%202015)</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Transformers: The Game</Game>
         </Games>
         <URLs>
