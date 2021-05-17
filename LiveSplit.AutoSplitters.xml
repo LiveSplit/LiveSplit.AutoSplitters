@@ -6074,9 +6074,13 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
-            <Game>Celeste</Game>
-            <Game>Celeste Category Extensions</Game>
-            <Game>Celeste Custom Maps</Game>
+          <Game>Celeste</Game>
+          <Game>Quickie Mountain 2</Game>
+          <Game>Celeste Category Extensions</Game>
+          <Game>Modded Celeste</Game>
+          <Game>D-Sides</Game>
+          <Game>2020 Spring Collab</Game>
+          <Game>Glyph Pack</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/ShootMe/LiveSplit.Celeste/master/Components/LiveSplit.Celeste.dll</URL>
