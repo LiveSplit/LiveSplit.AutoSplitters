@@ -4503,6 +4503,20 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Resident Evil Village</Game>
+            <Game>RE8</Game>
+            <Game>RE Village</Game>
+            <Game>Resident Evil: Village</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/cursedtoast/re8/main/re8.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Removal available. Auto Splits coming soon. Compare against Game Time.(By CursedToast)</Description>
+        <Website>https://github.com/cursedtoast/re8/blob/main/README.md</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>RE2 Remake</Game>
             <Game>Resident Evil 2 Remake</Game>
             <Game>RE2 2019</Game>
