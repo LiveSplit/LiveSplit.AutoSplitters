@@ -12014,4 +12014,15 @@
     		<Description>Super Mario 64 FPS (v2.0) Autosplitter (by Zatura24)</Description>
 		<Website>https://github.com/Zatura24/LiveSplit.Autosplitters/tree/main/Super%20Mario%2064%20FPS%20v2</Website>
 	</AutoSplitter>
+	<AutoSplitter>
+		<Games>
+        		<Game>Jelly Drift</Game>
+    		</Games>
+    		<URLs>
+        		<URL>https://raw.githubusercontent.com/brododragon/Jelly-Drift-Autosplitter/main/JellyDrift.asl</URL>
+    		</URLs>
+    		<Type>Script</Type>
+    		<Description>IGT, as well as auto start/stop/reset. (by brododragon)</Description>
+		<Websitehttps://github.com/brododragon/Jelly-Drift-Autosplitter/blob/main/JellyDrift.asl</Website>
+	</AutoSplitter>
 </AutoSplitters>
