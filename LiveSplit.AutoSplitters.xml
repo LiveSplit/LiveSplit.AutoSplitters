@@ -12023,6 +12023,6 @@
     		</URLs>
     		<Type>Script</Type>
     		<Description>IGT, as well as auto start/stop/reset. (by brododragon)</Description>
-		<Websitehttps://github.com/brododragon/Jelly-Drift-Autosplitter/blob/main/JellyDrift.asl</Website>
+		<Website>https://github.com/brododragon/Jelly-Drift-Autosplitter/blob/main/JellyDrift.asl</Website>
 	</AutoSplitter>
 </AutoSplitters>
