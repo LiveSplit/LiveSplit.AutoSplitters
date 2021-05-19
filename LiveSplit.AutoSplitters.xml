@@ -12029,4 +12029,14 @@
     		<Description>IGT, as well as auto start/stop/reset. (by brododragon)</Description>
 		<Website>https://github.com/brododragon/Jelly-Drift-Autosplitter/blob/main/JellyDrift.asl</Website>
 	</AutoSplitter>
+	<AutoSplitter>
+		<Games>
+			<Game>Final Fantasy XV</Game>
+		</Games>
+		<URLs>
+			<URL>https://raw.githubusercontent.com/Mysterion06/FF15LRT/main/FF15UpdatedLRT.asl</URL>
+		</URLs>
+		<Type>Script</Type>
+		<Description>Loadremover by Mysterion_06_</Description>
+	</AutoSplitter>
 </AutoSplitters>
