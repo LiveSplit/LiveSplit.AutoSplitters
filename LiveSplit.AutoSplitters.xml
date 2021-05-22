@@ -2,6 +2,17 @@
 <AutoSplitters>
 	<AutoSplitter>
 		<Games>
+			<Game>Days Gone</Game>
+		</Games>
+		<URLs>
+			<URL>https://raw.githubusercontent.com/LiterallyMetaphorical/Livesplit.DaysGone/main/DaysGone.asl</URL>
+		</URLs>
+		<Type>Script</Type>
+		<Description>Days Gone load remover and autosplitter - pauses on loading screens, autostarts on first cutscene, autosplits on listed objectives (by Meta)</Description>
+		<Website>https://discord.gg/dYnQ5BH</Website>
+	</AutoSplitter>
+	<AutoSplitter>
+		<Games>
 			<Game>Sonic The Hedgehog (2006)</Game>
 			<Game>Sonic The Hedgehog (2006) Category Extensions</Game>
 		</Games>
