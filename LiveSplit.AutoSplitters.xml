@@ -1116,6 +1116,7 @@
     <AutoSplitter>
         <Games>
             <Game>Sonic &amp; Sega All-Stars Racing</Game>
+            <Game>Sonic &amp; Sega All-Stars Racing - Category Extensions</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/Jujstme/Autosplitters/master/Sonic%20%26%20SEGA%20All-Stars%20Racing/SSASR.asl</URL>
@@ -1127,6 +1128,7 @@
     <AutoSplitter>
         <Games>
             <Game>Sonic &amp; All-Stars Racing Transformed</Game>
+            <Game>Sonic &amp; All-Stars Racing Transformed - Category Extensions</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/Jujstme/Autosplitters/master/Sonic%20%26%20All-Star%20Racing%20Transformed/S%26ASRT.asl</URL>
