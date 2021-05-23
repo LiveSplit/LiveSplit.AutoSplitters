@@ -12071,4 +12071,14 @@
 		<Type>Script</Type>
 		<Description>Autosplitter by Kainalo</Description>
 	</AutoSplitter>
+	<AutoSplitter>
+		<Games>
+			<Game>Viscerafest</Game>
+		</Games>
+		<URLs>
+			<URL>https://raw.githubusercontent.com/SuiMachine/LiveSplit.ASLScripts/master/Viscerafest/Viscerafest.asl</URL>
+		</URLs>
+		<Type>Script</Type>
+		<Description>Load remover and autosplitter (by SuicideMachine)</Description>
+	</AutoSplitter>
 </AutoSplitters>
