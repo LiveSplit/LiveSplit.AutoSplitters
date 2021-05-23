@@ -12061,4 +12061,14 @@
 		<Type>Script</Type>
 		<Description>Loadremover by Mysterion_06_</Description>
 	</AutoSplitter>
+		<AutoSplitter>
+		<Games>
+			<Game>Subnautica: Below Zero</Game>
+		</Games>
+		<URLs>
+			<URL>https://raw.githubusercontent.com/MisaRistolainen/SubnauticaZero-Autosplitter/master/SubnauticaZero_AutoSplitter.asl</URL>
+		</URLs>
+		<Type>Script</Type>
+		<Description>Autosplitter by Kainalo</Description>
+	</AutoSplitter>
 </AutoSplitters>
