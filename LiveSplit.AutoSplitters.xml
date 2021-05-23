@@ -2,6 +2,17 @@
 <AutoSplitters>
 	<AutoSplitter>
 		<Games>
+        		<Game>Days Gone</Game>
+    		</Games>
+    		<URLs>
+        		<URL>https://raw.githubusercontent.com/LiterallyMetaphorical/Livesplit.DaysGone/main/DaysGone.asl</URL>
+    		</URLs>
+    		<Type>Script</Type>
+    		<Description>Days Gone load remover and autosplitter - pauses on loading screens, autostarts on first cutscene, autosplits on listed objectives (by Meta)</Description>
+		<Website>https://discord.gg/dYnQ5BH</Website>
+	</AutoSplitter>
+	<AutoSplitter>
+		<Games>
         		<Game>Clive Barker's Undying</Game>
     		</Games>
     		<URLs>
@@ -1116,6 +1127,7 @@
     <AutoSplitter>
         <Games>
             <Game>Sonic &amp; Sega All-Stars Racing</Game>
+            <Game>Sonic &amp; Sega All-Stars Racing - Category Extensions</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/Jujstme/Autosplitters/master/Sonic%20%26%20SEGA%20All-Stars%20Racing/SSASR.asl</URL>
@@ -1127,6 +1139,7 @@
     <AutoSplitter>
         <Games>
             <Game>Sonic &amp; All-Stars Racing Transformed</Game>
+            <Game>Sonic &amp; All-Stars Racing Transformed - Category Extensions</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/Jujstme/Autosplitters/master/Sonic%20%26%20All-Star%20Racing%20Transformed/S%26ASRT.asl</URL>
@@ -10629,7 +10642,7 @@
             <URL>https://raw.githubusercontent.com/bmn/livesplit_asl_mgs2/master/MetalGearSolid2Substance.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Game Time + Splits (per room, all modes). Splits at Website. Basic version: type "(Lite)" after game. (By bmn)</Description>
+        <Description>Game Time and Splits (per room, all modes). Splits available at Website. (By bmn)</Description>
         <Website>https://github.com/bmn/livesplit_asl_mgs2/</Website>
     </AutoSplitter>
     <AutoSplitter>
@@ -10648,22 +10661,11 @@
             <Game>Metal Gear Solid</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/bmn/livesplit_asl_mgsi/master/MetalGearSolidIntegral.asl</URL>
+            <URL>https://raw.githubusercontent.com/bmn/livesplit_asl_mgs1/master/MetalGearSolid.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Game Time + Splits (customisable). Splits available at Website. Basic version: type "(Lite)" after game. (By bmn)</Description>
-        <Website>https://github.com/bmn/livesplit_asl_mgsi/</Website>
-    </AutoSplitter>
-    <AutoSplitter>
-        <Games>
-            <Game>Metal Gear Solid (Lite)</Game>
-        </Games>
-        <URLs>
-            <URL>https://raw.githubusercontent.com/bmn/livesplit_asl_mgsi/master/MetalGearSolidIntegral-Lite.asl</URL>
-        </URLs>
-        <Type>Script</Type>
-        <Description>Game Time and Splits (major splits only). Splits available at Website. (By bmn)</Description>
-        <Website>https://github.com/bmn/livesplit_asl_mgsi/</Website>
+        <Description>Game Time and Splits for PC and emulator. Split files available via Settings. Instructions at Website. (By bmn)</Description>
+        <Website>https://github.com/bmn/livesplit_asl_mgs1/</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -11056,6 +11058,26 @@
         <Description>Auto Splitting and Load Removal available. (By Micrologist)</Description>
     </AutoSplitter>
 	<AutoSplitter>
+        <Games>
+            <Game>Destruction Darius</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/thisis2838/ASL-projects/main/Destruction%20Darius/destructiondarius.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Start, Stop, Splitting and Load Removal by 2838</Description>
+    </AutoSplitter>
+	<AutoSplitter>
+        <Games>
+            <Game>Doomnit: Hell on Teufort</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/thisis2838/ASL-projects/main/Doomnit%20Hell%20On%20Teufort/doomnit-asl.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Start, Stop, Splitting and Load Removal by 2838</Description>
+    </AutoSplitter>
+    <AutoSplitter>
         <Games>
             <Game>LEGO Star Wars: The Video Game</Game>
         </Games>
@@ -12049,5 +12071,15 @@
 		<Type>Script</Type>
 		<Description>Monster Hunter World: Iceborne - Autosplitter (by MoonBunnie &amp; JalBagel)</Description>
 		<Website>https://github.com/MoonBunnie/Monster-Hunter-World-Iceborne-AutoSplitter</Website>
+  </AutoSplitter>
+  <AutoSplitter>
+		<Games>
+			<Game>Subnautica: Below Zero</Game>
+		</Games>
+		<URLs>
+			<URL>https://raw.githubusercontent.com/MisaRistolainen/SubnauticaZero-Autosplitter/master/SubnauticaZero_AutoSplitter.asl</URL>
+		</URLs>
+		<Type>Script</Type>
+		<Description>Autosplitter by Kainalo</Description>
 	</AutoSplitter>
 </AutoSplitters>
