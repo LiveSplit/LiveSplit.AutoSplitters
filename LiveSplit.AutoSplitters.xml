@@ -1714,16 +1714,6 @@
 		<AutoSplitter>
         <Games>
             <Game>Dishonored Category Extensions</Game>
-            <Game>Dishonored (PC)</Game>
-        </Games>
-        <URLs>
-            <URL>http://fatalis.pw/livesplit/update/Components/LiveSplit.Dishonored.dll</URL>
-        </URLs>
-        <Type>Component</Type>
-        <Description>Load Removal and Auto Splitting are available. (By Fatalis)</Description>
-    </AutoSplitter>
-    <AutoSplitter>
-        <Games>
             <Game>Dishonored</Game>
             <Game>Dishonored (PC)</Game>
         </Games>
