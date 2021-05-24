@@ -10591,6 +10591,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Xuan-Yuan Sword 3 The Scar of the Sky</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/WeiZhouHong/Swd_AutoSplitters/master/swd3e.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for SWD3E 2.0 (By master_fiora)</Description>
+        <Website>https://www.speedrun.com/swd3e/resources</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Xuan-Yuan Sword VII</Game>
         </Games>
         <URLs>
