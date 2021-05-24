@@ -2401,6 +2401,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Yakuza 0</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/drtchops/asl/master/yakuza0.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitting and Load Removal are available. (By ToxicTT and DrTChops)</Description>
+        <Website>https://github.com/drtchops/asl/blob/master/README.md</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Penumbra: Black Plague</Game>
             <Game>Penumbra Black Plague</Game>
             <Game>Black Plague</Game>
