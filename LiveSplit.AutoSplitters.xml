@@ -12137,4 +12137,14 @@
 		<Type>Script</Type>
 		<Description>Autosplitter (by Rythin and Tocaloni1)</Description>
 	</AutoSplitter>
+	<AutoSplitter>
+        <Games>
+            <Game>Resident Evil: Revelations</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/TheDementedSalad/RE-Rev-1-Autosplitter/main/Resident%20Evil%20Revelations%201.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>RE Rev 1 Autosplitter - IGT Timed - Sub Chapter splitting, Times Raid Mode - Made by TheDementedSalad</Description>
+    </AutoSplitter>
 </AutoSplitters>
