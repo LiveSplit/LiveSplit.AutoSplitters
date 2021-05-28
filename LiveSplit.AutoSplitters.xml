@@ -5241,10 +5241,10 @@
             <Game>Return to Castle Wolfenstein</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/mrhoyo33/rtcw_asl/master/rtcw.asl</URL>
+            <URL>https://raw.githubusercontent.com/Heros5k/rtcwASL/main/rtcw.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto-split, auto-start(By Hoyo). Load-removal(By MightyCrab)</Description>
+        <Description>Auto-split, auto-start (By Hoyo & KoRrNiK). Load-removal (by Hoyo)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
