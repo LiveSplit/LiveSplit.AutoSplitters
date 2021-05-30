@@ -12157,4 +12157,15 @@
       <Type>Script</Type>
       <Description>Outlaws Autosplitter - RTA Timed - Full Game/Marshal Training Splits - Made by TheDementedSalad</Description>
     </AutoSplitter>
+    <AutoSplitter>
+      <Games>
+        <Game>Hellevator</Game>
+      </Games>
+      <URLs>
+        <URL>https://raw.githubusercontent.com/jboardman367/HellevatorSplitter/main/asl.asl</URL>
+      </URLs>
+      <Type>Script</Type>
+      <Description>Autosplitter/load remover for Hellevator (By luminousLamp367)</Description>
+      <Website>https://github.com/jboardman367/HellevatorSplitter/blob/main/README.md</Website>
+    </AutoSplitter>
 </AutoSplitters>
