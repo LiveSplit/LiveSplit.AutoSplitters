@@ -11899,10 +11899,10 @@
 	    <Game>Resident Evil 6</Game>
 	  </Games>
 	  <URLs>
-	    <URL>https://raw.githubusercontent.com/TheDementedSalad/RE6-Autosplitter/main/Resident%20Evil%206%20Autosplitter.asl</URL>
+	    <URL>https://raw.githubusercontent.com/JYNxYoshii/ASL_Storage/master/RE6_Revised_RC1.asl</URL>
 	  </URLs>
 	  <Type>Script</Type>
-	  <Description>RE6 Autosplitter - IGT Timed - Full/Sub Chapter splitting - Made by TheDementedSalad and xlYoshii</Description>
+	  <Description>Autosplitter for RE6, works on 1.06 and 1.1.0. Supports chapter and sub-chapter splits, automatic starts, and automatic resets. (JYNxYoshii/xlYoshii)</Description>
 	</AutoSplitter>
 	<AutoSplitter>
 	  <Games>
