@@ -12168,4 +12168,15 @@
       <Description>Autosplitter/load remover for Hellevator (By luminousLamp367)</Description>
       <Website>https://github.com/jboardman367/HellevatorSplitter/blob/main/README.md</Website>
     </AutoSplitter>
+    <AutoSplitter>
+      <Games>
+        <Game>Destroy All Humans! (2020)</Game>
+      </Games>
+      <URLs>
+        <URL>https://raw.githubusercontent.com/SquareMan/autosplitters/DestroyAllHumans.asl</URL>
+      </URLs>
+      <Type>Script</Type>
+      <Description>Load Remover and Autosplitter for Destroy All Humans! (2020) (By TheCoolSquare)</Description>
+      <Website>https://github.com/SquareMan/autosplitters</Website>
+    </AutoSplitter>
 </AutoSplitters>
