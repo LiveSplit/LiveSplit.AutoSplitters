@@ -9964,6 +9964,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Synergy</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/ScriptedSnark/Synergy-Autosplitter/main/synergy.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Synergy autosplitter. Works with any version.</Description>
+        <Website>https://github.com/ScriptedSnark/Synergy-Autosplitter/blob/main/README.md</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Tomb Raider: The Lost Artifact</Game>
         </Games>
         <URLs>
