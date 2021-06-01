@@ -12190,4 +12190,15 @@
       <Description>Load Remover and Autosplitter for Destroy All Humans! (2020) (By TheCoolSquare)</Description>
       <Website>https://github.com/SquareMan/autosplitters</Website>
     </AutoSplitter>
+    <AutoSplitter>
+      <Games>
+        <Game>The Wild at Heart</Game>
+      </Games>
+      <URLs>
+        <URL>https://raw.githubusercontent.com/Voxelse/LiveSplit.TheWildAtHeart/main/Components/LiveSplit.TheWildAtHeart.dll</URL>
+      </URLs>
+      <Type>Component</Type>
+      <Description>Auto Start/Split/Reset and Load Remover (by Voxelse)</Description>
+      <Website>https://github.com/Voxelse/LiveSplit.TheWildAtHeart</Website>
+    </AutoSplitter>
 </AutoSplitters>
