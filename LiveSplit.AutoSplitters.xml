@@ -8399,10 +8399,10 @@
             <Game>Arx Fatalis</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/KawaiiWafu/ASLScripts/master/arx.asl</URL>
+            <URL>https://raw.githubusercontent.com/KawaiiWafu/ASLScripts/master/LiveSplit.ArxFatalis.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load removing, crash removing</Description>
+        <Description>Load removal, auto-splitting (by Wafu)</Description>
         <Website>https://github.com/KawaiiWafu/ASLScripts</Website>
     </AutoSplitter>
     <AutoSplitter>
