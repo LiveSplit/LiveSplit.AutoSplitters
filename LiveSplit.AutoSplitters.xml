@@ -12201,4 +12201,15 @@
       <Description>Auto Start/Split/Reset and Load Remover (by Voxelse)</Description>
       <Website>https://github.com/Voxelse/LiveSplit.TheWildAtHeart</Website>
     </AutoSplitter>
+    <AutoSplitter>
+      <Games>
+        <Game>Biomutant</Game>        
+      </Games>
+      <URLs>
+        <URL>https://raw.githubusercontent.com/JulianTexo/biolr/master/Biomutant.asl</URL>
+      </URLs>
+      <Type>Script</Type>
+      <Description>Load Remover (by Julian Texo; Steam version)</Description>
+      <Website>https://github.com/JulianTexo/biolr</Website>
+    </AutoSplitter>
 </AutoSplitters>
