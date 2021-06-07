@@ -12225,6 +12225,17 @@
     </AutoSplitter>
     <AutoSplitter>
       <Games>
+        <Game>SpongeGlock SquarePants</Game>
+      </Games>
+      <URLs>
+        <URL>https://raw.githubusercontent.com/Loomeh/SGSPAutosplitter/main/spongeglock.asl</URL>
+      </URLs>
+      <Type>Script</Type>
+      <Description>Auto Start / Split script and Load Remover (by Loomeh)</Description>
+      <Website>https://github.com/Loomeh/SGSPAutosplitter</Website>
+    </AutoSplitter>	
+    <AutoSplitter>
+      <Games>
         <Game>Biomutant</Game>        
       </Games>
       <URLs>
