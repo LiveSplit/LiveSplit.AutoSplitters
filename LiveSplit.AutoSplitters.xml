@@ -3243,6 +3243,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Max Payne 3</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/gunlinux/LiveSplit.MaxPayne3/main/LiveSplit.MaxPayne3.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitting and IGT for NYM is available. (By CJACOBS, gunlinux)</Description>
+    </AutoSplitter>	
+    <AutoSplitter>
+        <Games>
             <Game>SAW: The Game</Game>
             <Game>SAW The Game</Game>
             <Game>SAW</Game>
@@ -6391,6 +6401,18 @@
         <Type>Script</Type>
         <Description>Works for Spanish, English, French, German and GoG version. Check the options for more details.</Description>
         <Website>https://github.com/Legnax/Exoddus-Autosplitter</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Astalon: Tears of the Earth</Game>
+            <Game>Astalon</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Coltaho/Autosplitters/master/Astalon/Astalonautosplit.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for Astalon (By Coltaho)</Description>
+        <Website>https://github.com/Coltaho/Autosplitters/blob/master/Astalon/README.md</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -12212,4 +12234,15 @@
       <Description>Auto Start / Split script and Load Remover (by Loomeh)</Description>
       <Website>https://github.com/Loomeh/SGSPAutosplitter</Website>
     </AutoSplitter>	
+    <AutoSplitter>
+      <Games>
+        <Game>Biomutant</Game>        
+      </Games>
+      <URLs>
+        <URL>https://raw.githubusercontent.com/JulianTexo/biolr/master/Biomutant.asl</URL>
+      </URLs>
+      <Type>Script</Type>
+      <Description>Load Remover (by Julian Texo; Steam version)</Description>
+      <Website>https://github.com/JulianTexo/biolr</Website>
+    </AutoSplitter>
 </AutoSplitters>
