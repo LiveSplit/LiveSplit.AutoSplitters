@@ -12245,4 +12245,16 @@
       <Description>Load Remover (by Julian Texo; Steam version)</Description>
       <Website>https://github.com/JulianTexo/biolr</Website>
     </AutoSplitter>
+    <AutoSplitter>
+		<Games>
+        		<Game>MarisaLand Legacy</Game>
+    		</Games>
+    		<URLs>
+        		<URL>https://raw.githubusercontent.com/TouhouEnjoyer/marilega-autosplitter/main/MariLegatest.asl</URL>
+    		</URLs>
+    		<Type>Script</Type>
+    		<Description>MarisaLand Legacy Autosplitter (by TouhouEnjoyer)</Description>
+		<Website>https://github.com/TouhouEnjoyer/marilega-autosplitter</Website>
+	</AutoSplitter>
+
 </AutoSplitters>
