@@ -11536,6 +11536,16 @@
         <Description>Auto-start/split/reset/IGT for Colossal Caverns. Split names beginning with a number = treasure milestones</Description>
 		<Website>https://discord.gg/WHSaSS5</Website>
     </AutoSplitter>
+	<AutoSplitter>
+        <Games>
+            <Game>Moomin's Tale</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Buurazu/AutoSplitters/main/Moomin's%20Tale.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto-start/split/reset. Supports BGB and BizHawk</Description>
+    </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>Secrets of Grindea</Game>
@@ -12267,5 +12277,15 @@
 		<Description>Resident Evil 2 Classic PC All Doors Autosplitter for use with Sourcenext 1.10 and RE2 Classic REbirth (by CarcinogenSDA)
 		<Website>https://github.com/CarcinogenSDA/re2-classic-autosplitter<Website>
 	</AutoSplitter>
-
+    <AutoSplitter>
+      <Games>
+        <Game>Ynglet</Game>        
+      </Games>
+      <URLs>
+        <URL>https://raw.githubusercontent.com/badBlackShark/ASL-Scripts/master/LiveSplit.Ynglet.asl</URL>
+      </URLs>
+      <Type>Script</Type>
+      <Description>Auto-Splitting and Load Removal (by badBlackShark)</Description>
+      <Website>https://github.com/badBlackShark/ASL-Scripts</Website>
+    </AutoSplitter>
 </AutoSplitters>
