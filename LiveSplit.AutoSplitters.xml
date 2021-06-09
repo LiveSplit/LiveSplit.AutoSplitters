@@ -7083,11 +7083,12 @@
             <Game>The Messenger Category Extensions</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Voxelse/ASLScripts/master/Livesplit.TheMessenger/Livesplit.TheMessenger.asl</URL>
+            <URL>https://raw.githubusercontent.com/Voxelse/LiveSplit.TheMessenger/main/Components/LiveSplit.TheMessenger.dll</URL>
+            <URL>https://raw.githubusercontent.com/Voxelse/LiveSplit.RuntimeText/main/Components/LiveSplit.RuntimeText.dll</URL>
         </URLs>
-        <Type>Script</Type>
-        <Description>Auto Start/Split and Load Remover (by Voxelse)</Description>
-        <Website>https://github.com/Voxelse/ASLScripts/tree/master/Livesplit.TheMessenger</Website>
+        <Type>Component</Type>
+        <Description>Auto Start/Split/Reset and Load Remover (by Voxelse)</Description>
+        <Website>https://github.com/Voxelse/LiveSplit.TheMessenger</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
