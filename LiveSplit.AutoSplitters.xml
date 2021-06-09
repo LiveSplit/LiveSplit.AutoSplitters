@@ -11536,6 +11536,16 @@
         <Description>Auto-start/split/reset/IGT for Colossal Caverns. Split names beginning with a number = treasure milestones</Description>
 		<Website>https://discord.gg/WHSaSS5</Website>
     </AutoSplitter>
+	<AutoSplitter>
+        <Games>
+            <Game>Moomin's Tale</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Buurazu/AutoSplitters/main/Moomin's%20Tale.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto-start/split/reset. Supports BGB and BizHawk</Description>
+    </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>Secrets of Grindea</Game>
