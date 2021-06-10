@@ -7899,6 +7899,17 @@
         <Description>Automatic start/split</Description>
         <Website>https://www.speedrun.com/nancy_drew</Website>
     </AutoSplitter>
+	<AutoSplitter>
+        <Games>
+            <Game>Nancy Drew: Secrets Can Kill REMASTERED</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/evilclownattack/autosplitters/master/SCK2.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Automatic start/split/reset</Description>
+        <Website>https://www.speedrun.com/nancy_drew</Website>
+    </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>Jazz Jackrabbit 2</Game>
