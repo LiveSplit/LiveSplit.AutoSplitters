@@ -12312,4 +12312,15 @@
         <Description>AutoSplitter (by Nepo)</Description>
 	<Website>https://github.com/sseneca42/Sunblaze-Autosplitter</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Deepest Sword</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/dcom365/DeepestSwordASL/main/Deepest_Sword.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>AutoSplitter for Deepest Sword (Go into settings if you are running 10x) (by Nurufu)</Description>
+	<Website>https://github.com/dcom365/DeepestSwordASL</Website>
+    </AutoSplitter>
 </AutoSplitters>
