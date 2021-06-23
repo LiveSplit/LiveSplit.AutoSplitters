@@ -12324,4 +12324,15 @@
         <Description>AutoSplitter for Deepest Sword (Go into settings if you are running 10x) (by Nurufu)</Description>
 	<Website>https://github.com/dcom365/DeepestSwordASL</Website>
     </AutoSplitter>
+    <AutoSplitter>
+      <Games>
+        <Game>Super Magbot</Game>
+      </Games>
+      <URLs>
+        <URL>https://raw.githubusercontent.com/Voxelse/LiveSplit.SuperMagbot/main/Components/LiveSplit.SuperMagbot.dll</URL>
+      </URLs>
+      <Type>Component</Type>
+      <Description>Auto Start/Split and Game Time (by Voxelse)</Description>
+      <Website>https://github.com/Voxelse/LiveSplit.SuperMagbot</Website>
+    </AutoSplitter>
 </AutoSplitters>
