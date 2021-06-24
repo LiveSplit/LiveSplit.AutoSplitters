@@ -12346,4 +12346,16 @@
       <Description>Auto Start/Split and Game Time (by Voxelse)</Description>
       <Website>https://github.com/Voxelse/LiveSplit.SuperMagbot</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Zanzarah</Game>
+            <Game>ZanZarah: The Hidden Portal</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Helco/ZZSpeeds/release/ZZAutosplitter.dll</URL>
+        </URLs>
+        <Type>Component</Type>
+        <Description>Zanzarah load remover, autosplitter and autostarter (by Helco)</Description>
+        <Website>https://github.com/Helco/ZZSpeeds</Website>
+    </AutoSplitter>
 </AutoSplitters>
