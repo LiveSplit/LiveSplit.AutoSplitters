@@ -7558,10 +7558,10 @@
             <Game>Distance</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/TntMatthew/distance.asl/master/distance.asl</URL>
+            <URL>https://raw.githubusercontent.com/Tiyenti/distance.asl/master/distance.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto split/start/reset, load removal, and cutscene settings are available. (by Brionac, Californ1a, Seekr, and TntMatthew)</Description>
+        <Description>Auto split/start/reset, load removal, and cutscene settings are available. (by Brionac, Californ1a, Seekr, and Tiyenti)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
