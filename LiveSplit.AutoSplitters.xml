@@ -5253,10 +5253,10 @@
             <Game>Metro: Last Light Redux</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Chimpaneez/ASL/master/metroredux.asl</URL>
+            <URL>https://raw.githubusercontent.com/KunoDemetries/AutoSplitter/master/Metro2033Redux.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load Removal is available. (By Chimpaneez)</Description>
+        <Description>Load Removal/ Auto Splitter. (By Kuno Demetries, Chimpaneez)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
