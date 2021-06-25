@@ -2554,6 +2554,42 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Hitman: Contracts</Game>
+            <Game>Hitman Contracts</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Kennert007/Hitman-Contracts-AutoSplitter/master/HContracts.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Start/Split are available. (By Kennert007)</Description>
+        <Website>https://github.com/Kennert007/Hitman-Contracts-AutoSplitter/blob/master/README.md</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Hitman 2: Silent Assassin</Game>
+            <Game>Hitman 2 Silent Assassin</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Kennert007/Hitman-2-SA-AutoSplitter/master/Hitman2SA.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Start/Split are available. (By Kennert007)</Description>
+        <Website>https://github.com/Kennert007/Hitman-2-SA-AutoSplitter/blob/master/README.md</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Hitman: Codename 47</Game>
+            <Game>Hitman Codename 47</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Kennert007/Hitman-C-47-AutoSplitter/master/HitmanC47.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Start/Split are available. (By Kennert007)</Description>
+        <Website>https://github.com/Kennert007/Hitman-C-47-AutoSplitter/blob/master/README.md</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Star Wars: Knights of the Old Republic</Game>
             <Game>Knights of the Old Republic</Game>
             <Game>KotOR</Game>
