@@ -5853,7 +5853,7 @@
         </URLs>
         <Type>Script</Type>
         <Description>Load Removal is available (by Mattmatt)</Description>
-        <Website>https://github.com/SuiMachine/LiveSplit.ASLScripts</Website>
+        <Website>https://discord.com/invite/BP8TrJ6</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -5861,11 +5861,11 @@
             <Game>Dead Space II</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Mattmatt10111/asl-scripts/master/deadspace2.asl</URL>
+            <URL>https://raw.githubusercontent.com/Al3xisDR/Autosplitter/main/DS2.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto Splitting and Load Removal is available (by Mattmatt and Cliffs)</Description>
-        <Website>https://github.com/SuiMachine/LiveSplit.ASLScripts</Website>
+        <Description>Auto Splitting and Load Removal is available (by AlexisDR, Mattmatt and Cliffs)</Description>
+        <Website>https://discord.com/invite/BP8TrJ6</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
