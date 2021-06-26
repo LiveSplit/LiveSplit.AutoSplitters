@@ -917,6 +917,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Maid of Sker</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/just-ero/AutoSplitTools/master/Maid%20of%20Sker/MaidOfSker.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Starts, resets automatically. Splits available in the settings. Does not split at the end. (by Ero)</Description>
+        <Website>https://github.com/just-ero/AutoSplitTools/tree/master/Maid%20of%20Sker</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>MX Simulator</Game>
         </Games>
         <URLs>
@@ -928,14 +939,14 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
-            <Game>Maid of Sker</Game>
+            <Game>Muck</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/just-ero/AutoSplitTools/master/Maid%20of%20Sker/MaidOfSker.asl</URL>
+            <URL>https://raw.githubusercontent.com/just-ero/AutoSplitTools/master/Muck/Muck.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Starts, resets automatically. Splits available in the settings. Does not split at the end. (by Ero)</Description>
-        <Website>https://github.com/just-ero/AutoSplitTools/tree/master/Maid%20of%20Sker</Website>
+        <Description>Starts, resets automatically. Splits when defeating any boss. (by Ero)</Description>
+        <Website>https://github.com/just-ero/AutoSplitTools/tree/master/Muck</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
