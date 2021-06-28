@@ -438,6 +438,17 @@
         <Description>Auto Splitter/ Load Remover(by Kuno Demetries)</Description>
         <Website>https://discord.com/invite/Rb8bEUn</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Mass Effect: Legendary Edition</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Jujstme/Autosplitters/master/Mass%20Effect%20Legendary%20Edition/MassEffectLegendary.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load remover (By Jujstme)</Description>
+        <Website>https://github.com/Jujstme/Autosplitters/tree/master/Mass%20Effect%20Legendary%20Edition</Website>
+    </AutoSplitter>
      <AutoSplitter>
         <Games>
             <Game>Mass Effect 3</Game>
