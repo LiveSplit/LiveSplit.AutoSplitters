@@ -12427,4 +12427,15 @@
         <Description>Zanzarah load remover, autosplitter and autostarter (by Helco)</Description>
         <Website>https://github.com/Helco/ZZSpeeds</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>ENDER LILIES: Quietus of the Knights</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Trexounay/EnderLilies.AutoSplitter/main/EnderLiliesAutoSplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Ender Lilies load remover, autoreset and autostarter (by Trex)</Description>
+        <Website>https://discord.gg/wWQUzB36dx</Website>
+    </AutoSplitter>
 </AutoSplitters>
