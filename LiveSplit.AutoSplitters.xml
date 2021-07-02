@@ -1027,6 +1027,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Sphere Complex</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/just-ero/AutoSplitTools/master/Sphere%20Complex/SphereComplex.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Starts, resets when starting the first level of any difficulty. Splits when finishing a level. (by Ero)</Description>
+        <Website>https://github.com/just-ero/AutoSplitTools/tree/master/Sphere%20Complex</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>There Is No Game</Game>
         </Games>
         <URLs>
