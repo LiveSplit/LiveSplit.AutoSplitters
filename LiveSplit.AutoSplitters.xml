@@ -8888,10 +8888,10 @@
             <Game>DUSK</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/TwanJones/DuskSplitter/master/Dusk.ASL</URL>
+            <URL>https://raw.githubusercontent.com/ShiningFace/LiveSplit-Autotimers/master/LiveSplit.DuskIGT.ASL</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto-splitting, Start, Reset and Load Removal are available. (By TwanJones)</Description>
+        <Description>Game Time and Auto Splitting are available. (By ShiningFace)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
