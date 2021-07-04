@@ -12449,4 +12449,14 @@
         <Description>Ender Lilies load remover, autoreset and autostarter (by Trex)</Description>
         <Website>https://discord.gg/wWQUzB36dx</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Phantom Abyss</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/henyK/autosplitters/master/Phantom%20Abyss/PhantomAbyss.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Removal, Automatic Timer Start and Auto Splitting is available. (By heny)</Description>
+    </AutoSplitter>
 </AutoSplitters>
