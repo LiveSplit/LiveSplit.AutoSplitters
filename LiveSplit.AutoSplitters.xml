@@ -2,6 +2,17 @@
 <AutoSplitters>
 	<AutoSplitter>
 		<Games>
+        		<Game>Necromunda: Hired Gun</Game>
+    		</Games>
+    		<URLs>
+        		<URL>https://raw.githubusercontent.com/LiterallyMetaphorical/LiveSplit.NecromundaHiredGun/main/NecromundaHiredGun.asl</URL>
+    		</URLs>
+    		<Type>Script</Type>
+    		<Description>Necromunda Hired Gun load remover and autosplitter (by Meta)</Description>
+		<Website>https://discord.gg/qSdq9ZZMeK</Website>
+	</AutoSplitter>
+	<AutoSplitter>
+		<Games>
         		<Game>Days Gone</Game>
     		</Games>
     		<URLs>
