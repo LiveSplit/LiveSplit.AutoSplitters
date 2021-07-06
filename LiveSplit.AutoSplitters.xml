@@ -6829,6 +6829,7 @@
     <AutoSplitter>
         <Games>
             <Game>Slime Rancher</Game>
+            <Game>Slime Rancher Category Extensions</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/supra0/slime-rancher-autosplitter/master/SlimeRancher.asl</URL>
