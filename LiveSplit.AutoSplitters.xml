@@ -2,6 +2,17 @@
 <AutoSplitters>
 	<AutoSplitter>
 		<Games>
+        		<Game>Necromunda: Hired Gun</Game>
+    		</Games>
+    		<URLs>
+        		<URL>https://raw.githubusercontent.com/LiterallyMetaphorical/LiveSplit.NecromundaHiredGun/main/NecromundaHiredGun.asl</URL>
+    		</URLs>
+    		<Type>Script</Type>
+    		<Description>Necromunda Hired Gun load remover and autosplitter (by Meta)</Description>
+		<Website>https://discord.gg/qSdq9ZZMeK</Website>
+	</AutoSplitter>
+	<AutoSplitter>
+		<Games>
         		<Game>Days Gone</Game>
     		</Games>
     		<URLs>
@@ -6829,6 +6840,7 @@
     <AutoSplitter>
         <Games>
             <Game>Slime Rancher</Game>
+            <Game>Slime Rancher Category Extensions</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/supra0/slime-rancher-autosplitter/master/SlimeRancher.asl</URL>
@@ -8888,10 +8900,10 @@
             <Game>DUSK</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/TwanJones/DuskSplitter/master/Dusk.ASL</URL>
+            <URL>https://raw.githubusercontent.com/ShiningFace/LiveSplit-Autotimers/master/LiveSplit.DuskIGT.ASL</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto-splitting, Start, Reset and Load Removal are available. (By TwanJones)</Description>
+        <Description>Game Time and Auto Splitting are available. (By ShiningFace)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
