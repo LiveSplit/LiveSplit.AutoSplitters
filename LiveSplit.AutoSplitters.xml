@@ -12014,6 +12014,16 @@
   </AutoSplitter>
 <AutoSplitter>
     <Games>
+      <Game>Granny: Chapter Two (PC)</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/sychotixdev/GrannyPC-Autosplitter/main/GrannyCh2.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>Auto Start/Reset are available. (By sychotixx)</Description>
+  </AutoSplitter>
+<AutoSplitter>
+    <Games>
       <Game>Dragon Quest XI S: Echoes of an Elusive Age</Game>
       <Game>Dragon Quest XI S</Game>
     </Games>
