@@ -12481,4 +12481,15 @@
         <Type>Script</Type>
         <Description>Load Removal, Automatic Timer Start and Auto Splitting is available. (By heny)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>The Emperor's New Groove</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/UltraStars3000/kuzcoASL/main/KuzcoASL.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for the PC version of [The Emperor's New Groove]. (by UltraStars3000)</Description>
+        <Website>https://discord.gg/Mknzj3RfxG</Website>
+    </AutoSplitter>
 </AutoSplitters>
