@@ -12492,4 +12492,15 @@
         <Description>Autosplitter for the PC version of [The Emperor's New Groove]. (by UltraStars3000)</Description>
         <Website>https://discord.gg/Mknzj3RfxG</Website>
     </AutoSplitter>
+     <AutoSplitter>
+        <Games>
+            <Game>Ghost Master</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Leotachy/Ghost-Master-Auto-Splitter-Load-Remover/main/ghost.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitter/Load Remover for PC game Ghost Master. (by Woitek1993)</Description>
+        <Website>https://discord.gg/EAvtUbD5</Website>
+    </AutoSplitter>
 </AutoSplitters>
