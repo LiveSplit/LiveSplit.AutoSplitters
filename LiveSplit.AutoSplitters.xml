@@ -9031,7 +9031,7 @@
             <URL>https://raw.githubusercontent.com/KawaiiWafu/ASLScripts/master/LiveSplit.TheBeastInside.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load and crash remover (by Wafu)</Description>
+        <Description>Load removal, auto-splittng (by Wafu, KunoDemetries)</Description>
         <Website>https://github.com/KawaiiWafu/ASLScripts</Website>
     </AutoSplitter>
     <AutoSplitter>
