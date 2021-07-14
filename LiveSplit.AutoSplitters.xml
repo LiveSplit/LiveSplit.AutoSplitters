@@ -2,6 +2,16 @@
 <AutoSplitters>
 	<AutoSplitter>
 		<Games>
+        		<Game>Boomerang X</Game>
+    		</Games>
+    		<URLs>
+        		<URL>https://raw.githubusercontent.com/Sanders68/BoomerangXSplit/master/BOOMERANGX.asl</URL>
+    		</URLs>
+    		<Type>Script</Type>
+    		<Description>Boomerang X Autosplitter (by Sandou)</Description>
+	</AutoSplitter>
+	<AutoSplitter>
+		<Games>
         		<Game>Necromunda: Hired Gun</Game>
     		</Games>
     		<URLs>
