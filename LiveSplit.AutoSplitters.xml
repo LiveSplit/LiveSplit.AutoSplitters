@@ -6496,6 +6496,18 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Sonic The Hedgehog Forever</Game>
+	    <Game>Sonic Forever</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/SonicSpeedrunning/SonicForeverAutoSplitter/main/S1ForeverAutosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Supports both 32bit and 64bit</Description>
+        <Website>https://github.com/SonicSpeedrunning/SonicForeverAutoSplitter</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Sonic Generations</Game>
         </Games>
         <URLs>
