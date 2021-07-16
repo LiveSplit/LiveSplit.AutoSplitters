@@ -12530,4 +12530,15 @@
         <Description>Auto Splitting and Load Removal are available. (By Woitek1993)</Description>
         <Website>https://discord.gg/EAvtUbD5</Website>
     </AutoSplitter>
+    <AutoSplitter>
+    	<Games>
+        	<Game>Subnautica</Game>
+    	</Games>
+    	<URLs>
+        	<URL>https://raw.githubusercontent.com/Meeperty/SubnauticaAutosplitter/main/SubnauticaCombined.asl</URL>
+    	</URLs>
+    	<Type>Script</Type>
+    	<Description>Subnautica Auto-Stop (by Meeperty)</Description>
+    	<Website>https://discord.gg/ZnvrDZDpc4</Website>
+     </AutoSplitter>
 </AutoSplitters>
