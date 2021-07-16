@@ -2,6 +2,16 @@
 <AutoSplitters>
 	<AutoSplitter>
 		<Games>
+        		<Game>Boomerang X</Game>
+    		</Games>
+    		<URLs>
+        		<URL>https://raw.githubusercontent.com/Sanders68/BoomerangXSplit/master/BOOMERANGX.asl</URL>
+    		</URLs>
+    		<Type>Script</Type>
+    		<Description>Boomerang X Autosplitter (by Sandou)</Description>
+	</AutoSplitter>
+	<AutoSplitter>
+		<Games>
         		<Game>Necromunda: Hired Gun</Game>
     		</Games>
     		<URLs>
@@ -3334,7 +3344,8 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
-            <Game>Max Payne 3</Game>
+	    <Game>Max Payne 3</Game>
+	    <Game>Max Payne 3 Arcade Mode</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/gunlinux/LiveSplit.MaxPayne3/main/LiveSplit.MaxPayne3.asl</URL>
@@ -5026,10 +5037,11 @@
             <Game>NieR: Automata</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/RisingFog/LiveSplit-AutoSplitters/master/NierAutomata.asl</URL>
+            <URL>https://raw.githubusercontent.com/rodg/drakenier-splitters/main/nier_automata_autosplitter.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Auto Splitting and Auto Start are available. (By Fog)</Description>
+        <Website>https://github.com/rodg/drakenier-splitters</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -6482,6 +6494,18 @@
         <Type>Script</Type>
         <Description>Requires Sonic 3D in 2D 1.26 or higher</Description>
         <Website>https://github.com/SonicSpeedrunning/Sonic3Din2DSplitter</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Sonic The Hedgehog Forever</Game>
+	    <Game>Sonic Forever</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/SonicSpeedrunning/SonicForeverAutoSplitter/main/S1ForeverAutosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Supports both 32bit and 64bit</Description>
+        <Website>https://github.com/SonicSpeedrunning/SonicForeverAutoSplitter</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -10417,6 +10441,7 @@
             <Game>Kao the Kangaroo 3</Game>
             <Game>Kangurek Kao: Tajemnica Wulkanu</Game>
             <Game>Kao: Mystery of the Volcano</Game>
+	        <Game>Kao the Kangaroo: Mystery of the Volcano</Game>
             <Game>Kao the Kangaroo Round 3: Mystery of the Volcano</Game>
             <Game>Kao - Mystery of Volcano Island</Game>
         </Games>
