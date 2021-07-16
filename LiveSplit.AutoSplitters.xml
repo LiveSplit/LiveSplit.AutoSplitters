@@ -3344,7 +3344,8 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
-            <Game>Max Payne 3</Game>
+	    <Game>Max Payne 3</Game>
+	    <Game>Max Payne 3 Arcade Mode</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/gunlinux/LiveSplit.MaxPayne3/main/LiveSplit.MaxPayne3.asl</URL>
