@@ -12470,9 +12470,10 @@
       </Games>
       <URLs>
         <URL>https://raw.githubusercontent.com/Voxelse/LiveSplit.SuperMagbot/main/Components/LiveSplit.SuperMagbot.dll</URL>
+        <URL>https://raw.githubusercontent.com/Voxelse/LiveSplit.RuntimeText/main/Components/LiveSplit.RuntimeText.dll</URL>
       </URLs>
       <Type>Component</Type>
-      <Description>Auto Start/Split and Game Time (by Voxelse)</Description>
+      <Description>Auto Start/Split/Reset and Game Time (by Voxelse)</Description>
       <Website>https://github.com/Voxelse/LiveSplit.SuperMagbot</Website>
     </AutoSplitter>
     <AutoSplitter>
