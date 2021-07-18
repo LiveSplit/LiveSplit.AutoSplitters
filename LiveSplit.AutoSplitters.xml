@@ -2,6 +2,17 @@
 <AutoSplitters>
 	<AutoSplitter>
 		<Games>
+			<Game>Oh Jeez, Oh No, My Rabbits Are Gone!!!</Game>
+		</Games>
+		<URLs>
+			<URL>https://raw.githubusercontent.com/duncathan/ojonmrag-autosplit/master/ojonmrag.asl</URL>
+		</URLs>
+		<Type>Script</Type>
+		<Description>Oh Jeez, Oh No, My Rabbits Are Gone!!! Autosplitter by duncathan_salt</Description>
+		<Website>https://discord.gg/5uBNXjG</Website>
+	</AutoSplitter>
+	<AutoSplitter>
+		<Games>
         		<Game>Boomerang X</Game>
     		</Games>
     		<URLs>
