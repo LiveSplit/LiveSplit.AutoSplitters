@@ -12564,4 +12564,15 @@
     	<Description>Subnautica Autosplit (by Meeperty)</Description>
     	<Website>https://discord.gg/ZnvrDZDpc4</Website>
      </AutoSplitter>
+     <AutoSplitter>
+        <Games>
+            <Game>Q.U.B.E.</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/geerky42/QUBEv1-AutoSplitter/main/QUBEv1.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>AutoSplitter (By geerky42)</Description>
+        <Website>https://discord.gg/PXkMsdr4nd</Website>
+    </AutoSplitter>
 </AutoSplitters>
