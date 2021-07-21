@@ -916,6 +916,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>The Final Station</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/just-ero/AutoSplitTools/master/The%20Final%20Station/TheFinalStation.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Starts and resets automatically. Splits available in the settings. Removes loads. (by Ero)</Description>
+        <Website>https://github.com/just-ero/AutoSplitTools/tree/master/The%20Final%20Station</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Give Up, Robot</Game>
         </Games>
         <URLs>
