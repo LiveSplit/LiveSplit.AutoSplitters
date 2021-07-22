@@ -12586,15 +12586,15 @@
         <Description>AutoSplitter (By geerky42)</Description>
         <Website>https://discord.gg/PXkMsdr4nd</Website>
     </AutoSplitter>
-	<AutoSplitter>
-	    <Games>
-	      <Game>Evergate</Game>
-	    </Games>
-	    <URLs>
-	      <URL>https://raw.githubusercontent.com/tekoppar/LiveSplit.Evergate/main/Components/LiveSplit.Evergate.dll</URL>
-	    </URLs>
-	    <Type>Component</Type>
-	    <Description>Configurable Auto Splitting available. (By Tekoppar)</Description>
-	    <Website>https://github.com/tekoppar/LiveSplit.Evergate</Website>
-	</AutoSplitter>
+    <AutoSplitter>
+	<Games>
+	  <Game>Jet Set Radio</Game>
+	</Games>
+	<URLs>
+	  <URL>https://raw.githubusercontent.com/Loomeh/JSRAutosplitter/main/jsrnoloads.asl</URL>
+	</URLs>
+	<Type>Script</Type>
+	<Description>Auto Start / Split Script (by Loomeh)</Description>
+	<Website>https://github.com/Loomeh/JSRAutosplitter</Website>
+    </AutoSplitter>     
 </AutoSplitters>
