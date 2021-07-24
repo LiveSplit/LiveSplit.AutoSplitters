@@ -12617,4 +12617,16 @@
         <Description>Auto Start / Split Script (by Loomeh)</Description>
         <Website>https://github.com/Loomeh/JSRAutosplitter</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Death's Door</Game>
+            <Game>Deaths Door</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Voxelse/LiveSplit.DeathsDoor/main/Components/LiveSplit.DeathsDoor.dll</URL>
+        </URLs>
+        <Type>Component</Type>
+        <Description>Auto Start/Split/Reset and Load Remover (by Voxelse)</Description>
+        <Website>https://github.com/Voxelse/LiveSplit.DeathsDoor</Website>
+    </AutoSplitter>
 </AutoSplitters>
