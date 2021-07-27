@@ -6414,6 +6414,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Secret of Evermore</Game>
+            <Game>SoE</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/r-bin/snes-scripts/master/LiveSplit%20Auto%20Splitters/LiveSplit.SecretOfEvermore.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Either Auto Start or Auto Reset is required. In-Game Time is not legal for leaderboard submissions. (By r.bin)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Super Metroid</Game>
             <Game>Super Metroid Category Extensions</Game>
         </Games>
