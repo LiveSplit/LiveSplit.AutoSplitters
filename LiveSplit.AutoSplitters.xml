@@ -12640,4 +12640,15 @@
         <Description>Auto Start/Split/Reset and Load Remover (by Voxelse)</Description>
         <Website>https://github.com/Voxelse/LiveSplit.DeathsDoor</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Crash Team Racing</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/mateusfavarin/CTR-ASL/main/src/CrashTeamRacing.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Supports automatic splitting, resetting and load removal. You must use IL splits in order to use the auto splitting functionality.</Description>
+        <Website>https://github.com/mateusfavarin/CTR-ASL</Website>
+    </AutoSplitter>
 </AutoSplitters>
