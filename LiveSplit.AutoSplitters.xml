@@ -8999,13 +8999,15 @@
     <AutoSplitter>
         <Games>
             <Game>Batman: Arkham City</Game>
+            <Game>Batman Arkham City</Game>
+            <Game>Arkham City</Game>
             <Game>Batman: Arkham City Category Extensions</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/ShikenNuggets/Autosplitters/master/ArkhamCity.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto-start, and auto-splitting on pre-rendered cutscenes and load zones are available (by darkid and ShikenNuggets)</Description>
+        <Description>Auto-start, and auto-splitting at various points in the story are available (by ShikenNuggets and JohnStephenEvil)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
