@@ -12662,4 +12662,15 @@
         <Description>Supports automatic splitting, resetting and load removal. You must use IL splits in order to use the auto splitting functionality.</Description>
         <Website>https://github.com/mateusfavarin/CTR-ASL</Website>
     </AutoSplitter>
+	<AutoSplitter>
+        <Games>
+            <Game>Cranked Up</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/ShootMe/LiveSplit.CrankedUp/master/Components/LiveSplit.CrankedUp.dll</URL>
+        </URLs>
+        <Type>Component</Type>
+        <Description>Auto Splitting available. (By DevilSquirrel)</Description>
+        <Website>https://github.com/ShootMe/LiveSplit.CrankedUp</Website>
+    </AutoSplitter>
 </AutoSplitters>
