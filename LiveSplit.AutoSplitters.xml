@@ -12680,7 +12680,7 @@
             <Game>Omno</Game>
         </Games>
         <URLs>
-            <URL>https://github.com/Istador/ASL-Omno/blob/public/Omno.asl</URL>
+            <URL>https://raw.githubusercontent.com/Istador/ASL-Omno/public/Omno.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Start/Split/Pause/Reset with some custom settings.</Description>
