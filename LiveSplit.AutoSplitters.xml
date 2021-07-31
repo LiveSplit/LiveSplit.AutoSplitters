@@ -8165,6 +8165,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Harry Potter and the Half Blood Prince</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/xLink/hp6-autosplitter/main/hp6_autosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Supports autosplitter that splits automatically between levels and at the end of the run.</Description>
+        <Website>https://github.com/xLink/hp6-autosplitter/</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Harry Potter and the Deathly Hallows Part 1</Game>
         </Games>
         <URLs>
