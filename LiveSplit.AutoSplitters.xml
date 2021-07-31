@@ -8874,10 +8874,10 @@
             <Game>Control</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/derwangler/splitters/master/Control.asl</URL>
+            <URL>https://raw.githubusercontent.com/MrLette/ControlAutoSplitter/main/Control.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load removal is available (by derwangler)</Description>
+        <Description>Auto start/split/end and load removal (by MrLette & derwangler)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
