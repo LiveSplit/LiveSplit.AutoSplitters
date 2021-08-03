@@ -12697,4 +12697,14 @@
         <Description>Start/Split/Pause/Reset with some custom settings.</Description>
         <Website>https://github.com/Istador/ASL-Omno</Website>
     </AutoSplitter>
+	<AutoSplitter>
+        <Games>
+            <Game>The Forgotten City</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/rythin-sr/ASL-Scripts/master/TheForgottenCity.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting and Load Removal available (by rythin)</Description>
+    </AutoSplitter>
 </AutoSplitters>
