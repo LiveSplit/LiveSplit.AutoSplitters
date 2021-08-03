@@ -12718,4 +12718,14 @@
         <Type>Script</Type>
         <Description>Autosplitting and Load Removal available (by rythin)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Zombies Ate My Neighbors</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/ConzorKingKong/Livesplit.ZombiesAteMyNeighbors/master/ZombiesAteMyNeighbors.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart and Autosplit. Made for 100% run to sync with -22.16 countdown timer</Description>
+    </AutoSplitter>
 </AutoSplitters>
