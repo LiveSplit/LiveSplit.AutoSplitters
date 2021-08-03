@@ -2,6 +2,17 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Facility 47</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/jamesread/facility-47-speedrun/main/facility47.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Facility47 ASL written by xconspirisist / James Read. Functionality for start, and splitting on key scenes.</Description>
+	<Website>https://www.speedrun.com/facility_47</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>A Plague Tale: Innocence</Game>
         </Games>
         <URLs>
