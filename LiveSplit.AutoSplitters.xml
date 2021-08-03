@@ -8490,7 +8490,7 @@
             <Game>Kuso</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Zet237/autokuso/master/kusosplitter.asl</URL>
+            <URL>https://raw.githubusercontent.com/neesi/autosplitters/master/kuso/kuso_livesplit.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>IGT syncing, automatic starting, splitting and resetting. Works in all game modes. Shoutouts to Gelly.</Description>
