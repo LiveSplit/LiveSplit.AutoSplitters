@@ -12718,4 +12718,15 @@
         <Type>Script</Type>
         <Description>Autosplitting and Load Removal available (by rythin)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Unbound: Worlds Apart</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/slaurent22/unbound-autosplitter/main/unbound.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load remover (by slaurent)</Description>
+        <Website>https://github.com/slaurent22/unbound-autosplitter</Website>
+    </AutoSplitter>
 </AutoSplitters>
