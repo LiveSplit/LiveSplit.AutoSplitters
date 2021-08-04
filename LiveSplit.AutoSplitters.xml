@@ -12739,4 +12739,16 @@
         <Description>Load remover (by slaurent)</Description>
         <Website>https://github.com/slaurent22/unbound-autosplitter</Website>
     </AutoSplitter>
+	<AutoSplitter>
+		<Games>
+			<Game>RollerCoaster Tycoon 1</Game>
+			<Game>RollerCoaster Tycoon 2</Game>
+		</Games>
+		<URLs>
+			<URL>https://git.sr.ht/~jkcclemens/openrct2-autosplitter/blob/main/OpenRCT2.asl</URL>
+		</URLs>
+		<Type>Script</Type>
+		<Description>AutoSplitter for OpenRCT2 categories</Description>
+		<Website>https://git.sr.ht/~jkcclemens/openrct2-autosplitter</Website>
+	</AutoSplitter>
 </AutoSplitters>
