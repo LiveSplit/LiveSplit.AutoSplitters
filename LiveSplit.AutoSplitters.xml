@@ -12742,6 +12742,7 @@
 	<AutoSplitter>
 		<Games>
 			<Game>RollerCoaster Tycoon 1</Game>
+			<Game>RollerCoaster Tycoon 2</Game>
 		</Games>
 		<URLs>
 			<URL>https://git.sr.ht/~jkcclemens/openrct2-autosplitter/blob/main/OpenRCT2.asl</URL>
