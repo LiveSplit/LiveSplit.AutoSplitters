@@ -982,6 +982,18 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Here Comes Niko!</Game>
+            <Game>Here Comes Niko</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/just-ero/AutoSplitTools/master/Here%20Comes%20Niko/HereComesNiko.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Starts, resets automatically. Splits available in the settings. Removes loads. (by Ero)</Description>
+        <Website>https://github.com/just-ero/AutoSplitTools/tree/master/Here%20Comes%20Niko</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Just Shake It</Game>
         </Games>
         <URLs>
