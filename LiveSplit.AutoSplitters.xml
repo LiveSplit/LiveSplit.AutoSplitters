@@ -12288,8 +12288,8 @@
             <Game>Minecraft: Java Edition</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/LiveSplit/LiveSplit.Minecraft/master/Components/LiveSplit.Minecraft.dll</URL>
-            <URL>https://raw.githubusercontent.com/LiveSplit/LiveSplit.Minecraft/master/Components/fNbt.dll</URL>
+            <URL>https://raw.githubusercontent.com/qwertyuioplkjhgfd/LiveSplit.Minecraft/master/Components/LiveSplit.Minecraft.dll</URL>
+            <URL>https://raw.githubusercontent.com/qwertyuioplkjhgfd/LiveSplit.Minecraft/master/Components/fNbt.dll</URL>
         </URLs>
         <Type>Component</Type>
         <Description>IGT is available.</Description>
