@@ -12779,4 +12779,15 @@
 		<Description>AutoSplitter for OpenRCT2 categories</Description>
 		<Website>https://git.sr.ht/~jkcclemens/openrct2-autosplitter</Website>
 	</AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Dodgeball Academia</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Voxelse/LiveSplit.DodgeballAcademia/main/Components/LiveSplit.DodgeballAcademia.dll</URL>
+        </URLs>
+        <Type>Component</Type>
+        <Description>Auto Start/Split/Reset and Load Remover (by Voxelse)</Description>
+        <Website>https://github.com/Voxelse/LiveSplit.DodgeballAcademia</Website>
+    </AutoSplitter>
 </AutoSplitters>
