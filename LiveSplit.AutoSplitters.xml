@@ -301,7 +301,7 @@
             <Game>Dude Simulator 3</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/CamEnright/DudeSim3AutoSplit/main/DudeSim3.asl</URL>
+            <URL>https://raw.githubusercontent.com/Micrologist/LiveSplit.DudeSimulator3/main/dudesim3.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Contains functionality Auto Start, Auto Splitting, and Load Removal. (By Meta, Radioactiv, and Micrologist)</Description>
