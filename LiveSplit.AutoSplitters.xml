@@ -960,6 +960,21 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Grapple!</Game>
+            <Game>Barji’s Grappler</Game>
+            <Game>Barji’s Grappler!</Game>
+            <Game>Barji's Grappler</Game>
+            <Game>Barji's Grappler!</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/just-ero/AutoSplitTools/master/Grapple!/Grapple.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Starts, resets automatically. Splits after every level. (by Ero)</Description>
+        <Website>https://github.com/just-ero/AutoSplitTools/tree/master/Grapple!</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Gunfire Reborn</Game>
         </Games>
         <URLs>
