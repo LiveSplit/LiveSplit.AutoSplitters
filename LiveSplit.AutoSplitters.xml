@@ -1965,10 +1965,10 @@
             <Game>Love+</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/madzinah/LiveSplits_Scripts/master/Love.asl</URL>
+            <URL>https://raw.githubusercontent.com/neesi/autosplitters/master/LOVE/LOVE_livesplit.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Automatic Timer Start and Auto Splitting is available. (By Madzinah)</Description>
+        <Description>Automatic Timer Start and Auto Splitting is available. Splitter by majoneesi.</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
