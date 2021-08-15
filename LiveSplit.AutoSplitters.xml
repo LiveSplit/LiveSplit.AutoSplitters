@@ -22,6 +22,17 @@
         <Description>A Plague Tale ASL with functionality for load removal and autostart by Meta</Description>
         <Website>https://discord.gg/ANz4Ue4</Website>
     </AutoSplitter>
+ <AutoSplitter>
+        <Games>
+            <Game>Singulairty</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/KunoDemetries/AutoSplitter/master/Singularity.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitter/ Load Remover (by Kuno Demetries)</Description>
+        <Website>https://discord.gg/s3KBdU8uB9</Website>
+    </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>Alpha Prime</Game>
