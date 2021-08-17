@@ -12813,4 +12813,15 @@
         <Description>Auto Start/Split/Reset and Load Remover (by Voxelse)</Description>
         <Website>https://github.com/Voxelse/LiveSplit.DodgeballAcademia</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Sniper: Path of Vengeance</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/DVark09/ASL/main/snajper.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto splitting and load removal (Made by DVark09)</Description>
+        <Website>https://github.com/DVark09/ASL</Website>
+    </AutoSplitter>
 </AutoSplitters>
