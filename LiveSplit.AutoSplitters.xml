@@ -2012,10 +2012,10 @@
             <Game>Borderlands: The Pre-Sequel</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/seanpr96/Autosplitters/master/LiveSplit.BLTPSIGT.asl</URL>
+            <URL>https://raw.githubusercontent.com/seresharp/Autosplitters/master/LiveSplit.BLTPSIGT.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load Removal and Auto Start are available. (By drMalcom and seanpr)</Description>
+        <Description>Load Removal and Auto Start are available. (By drMalcom and SerenaM)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -7783,10 +7783,10 @@
             <Game>Iconoclasts</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/seanpr96/Autosplitters/master/LiveSplit.Iconoclasts.asl</URL>
+            <URL>https://raw.githubusercontent.com/seresharp/Autosplitters/master/LiveSplit.Iconoclasts.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto splitting available. (By seanpr)</Description>
+        <Description>Auto splitting available. (By SerenaM)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -9012,10 +9012,10 @@
             <Game>Blasphemous</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/seanpr96/Autosplitters/master/Blasphemous.asl</URL>
+            <URL>https://raw.githubusercontent.com/seresharp/Autosplitters/master/Blasphemous.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load removal is available. (by seanpr)</Description>
+        <Description>Load removal is available. (by SerenaM)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -9922,10 +9922,10 @@
             <Game>Salt and Sanctuary</Game>
         </Games>
         <URLs>
-            <URL>https://https://raw.githubusercontent.com/seanpr96/LiveSplit.Salt/master/Livesplit.Salt/Components/LiveSplit.Salt.dll</URL>
+            <URL>https://raw.githubusercontent.com/seresharp/LiveSplit.Salt/master/Livesplit.Salt/Components/LiveSplit.Salt.dll</URL>
         </URLs>
         <Type>Component</Type>
-        <Description>Autosplitting and auto-start available (by seanpr)</Description>
+        <Description>Autosplitting and auto-start available (by SerenaM)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
