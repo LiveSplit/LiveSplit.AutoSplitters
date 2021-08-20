@@ -12835,4 +12835,14 @@
         <Description>Auto splitting and load removal (Made by DVark09)</Description>
         <Website>https://github.com/DVark09/ASL</Website>
     </AutoSplitter>
+	<AutoSplitter>
+        <Games>
+            <Game>Paris Chase</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/rythin-sr/ASL-Scripts/master/ParisChase.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting and Load Removal available (by rythin)</Description>
+    </AutoSplitter>
 </AutoSplitters>
