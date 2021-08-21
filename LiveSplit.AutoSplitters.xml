@@ -2,6 +2,18 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Eversleep: Lunistice Gaiden</Game>
+            <Game>Eversleep: Lunistice Gaiden Demo</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/CryZe/LiveSplit.Eversleep/master/LiveSplit.Eversleep.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitting and Game Time are available (by CryZe)</Description>
+	<Website>https://github.com/CryZe/LiveSplit.Eversleep</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Facility 47</Game>
         </Games>
         <URLs>
