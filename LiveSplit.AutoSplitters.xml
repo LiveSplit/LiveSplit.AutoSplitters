@@ -12856,4 +12856,15 @@
         <Type>Script</Type>
         <Description>Autosplitting and Load Removal available (by rythin)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Super Smash Bros.</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/smash64-dev/autosplitters/main/smash_brothers.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Automatic Start/Reset/Split are available. (by CEnnis91)</Description>
+        <Website>https://github.com/smash64-dev/autosplitters/blob/main/README.md</Website>
+    </AutoSplitter>
 </AutoSplitters>
