@@ -2,6 +2,17 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Zébulon</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Tenebrosful/Zebulon-Livesplit.Autosplitter/main/Zebulon.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Start (need to set ~ -1.3 to timer start), Split and Reset. Created by Tenebrosful</Description>
+	<Website>https://github.com/Tenebrosful/Zebulon-Livesplit.Autosplitter</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Eversleep: Lunistice Gaiden</Game>
             <Game>Eversleep: Lunistice Gaiden Demo</Game>
         </Games>
