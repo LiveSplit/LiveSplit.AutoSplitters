@@ -12889,4 +12889,14 @@
         <Description>Automatic Start/Reset/Split are available. (by CEnnis91)</Description>
         <Website>https://github.com/smash64-dev/autosplitters/blob/main/README.md</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Spelunky Classic</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/spelunky-fyi/LiveSplit-Spelunky-Classic/main/LiveSplit-Spelunky-Classic.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>In Game Time for Spelunky Classic</Description>
+    </AutoSplitter>
 </AutoSplitters>
