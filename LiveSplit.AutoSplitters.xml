@@ -12889,4 +12889,15 @@
         <Description>Automatic Start/Reset/Split are available. (by CEnnis91)</Description>
         <Website>https://github.com/smash64-dev/autosplitters/blob/main/README.md</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>The Whitetail Incident</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/diggitydingdong/whitetail_asl/main/whitetail.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting is available. Created by diggity and Ero.</Description>
+	<Website>https://speedrun.com/whitetail</Website>
+    </AutoSplitter>
 </AutoSplitters>
