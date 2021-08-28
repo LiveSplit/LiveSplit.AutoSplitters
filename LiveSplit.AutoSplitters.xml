@@ -12889,4 +12889,15 @@
         <Description>Automatic Start/Reset/Split are available. (by CEnnis91)</Description>
         <Website>https://github.com/smash64-dev/autosplitters/blob/main/README.md</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Late Work</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/diggitydingdong/latework_asl/main/latework.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Automatic start/stop is available. Created by diggity.</Description>
+        <Website>https://www.speedrun.com/late_work</Website>
+    </AutoSplitter>
 </AutoSplitters>
