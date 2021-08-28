@@ -12891,6 +12891,28 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>The Whitetail Incident</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/diggitydingdong/whitetail_asl/main/whitetail.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting is available. Created by diggity and Ero.</Description>
+          <Website>https://speedrun.com/whitetail</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Late Work</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/diggitydingdong/latework_asl/main/latework.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Automatic start/stop is available. Created by diggity.</Description>
+        <Website>https://www.speedrun.com/late_work</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Spelunky Classic</Game>
         </Games>
         <URLs>
