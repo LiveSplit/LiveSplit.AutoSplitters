@@ -972,6 +972,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Devil Darggers</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/just-ero/AutoSplitTools/master/Devil%20Daggers/DevilDaggers.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Starts, resets automatically. Splits whenever a new set of enemies spawns. (by Ero)</Description>
+        <Website>https://github.com/just-ero/AutoSplitTools/tree/master/Devil%20Daggers</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Donut County</Game>
         </Games>
         <URLs>
