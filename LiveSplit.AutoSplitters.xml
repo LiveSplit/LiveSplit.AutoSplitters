@@ -1364,6 +1364,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Sonic Colors: Ultimate</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Jujstme/Autosplitters/master/Sonic%20Colors%20Ultimate/SonicColorsUltimate.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting and In-Game Timer are available (by Jujstme)</Description>
+        <Website>https://discord.gg/XRsRwRU</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Sonic Adventure (DX)</Game>
         </Games>
         <URLs>
