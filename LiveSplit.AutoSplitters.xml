@@ -12967,4 +12967,14 @@
         <Description>Autosplitter for Cave Story(+) (all PC versions). Configurable split locations. (by periwinkle)</Description>
         <Website>https://github.com/periwinkle9/cave-story-autosplitters</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Psychonauts 2</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Grimdonuts/psychonauts2loadremoval/main/LiveSplit.Psychonauts2_IGT.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load removal for Psychoanuts 2 by Grimdonuts and Aryk</Description>
+    </AutoSplitter>
 </AutoSplitters>
