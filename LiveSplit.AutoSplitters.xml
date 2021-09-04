@@ -12967,4 +12967,14 @@
         <Description>Autosplitter for Cave Story(+) (all PC versions). Configurable split locations. (by periwinkle)</Description>
         <Website>https://github.com/periwinkle9/cave-story-autosplitters</Website>
     </AutoSplitter>
+	<AutoSplitter>
+        <Games>
+            <Game>ENDO</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/rythin-sr/ASL-Scripts/master/ENDO.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting and Load Removal available (by rythin)</Description>
+    </AutoSplitter>
 </AutoSplitters>
