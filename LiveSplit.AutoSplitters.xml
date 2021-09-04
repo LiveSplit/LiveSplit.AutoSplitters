@@ -12975,6 +12975,16 @@
             <URL>https://raw.githubusercontent.com/Grimdonuts/psychonauts2loadremoval/main/LiveSplit.Psychonauts2_IGT.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load removal for Psychoanuts 2 by Grimdonuts and Aryk</Description>
+        <Description>Load removal for Psychonauts 2 by Grimdonuts and Aryk</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>ENDO</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/rythin-sr/ASL-Scripts/master/ENDO.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting and Load Removal available (by rythin)</Description>
     </AutoSplitter>
 </AutoSplitters>
