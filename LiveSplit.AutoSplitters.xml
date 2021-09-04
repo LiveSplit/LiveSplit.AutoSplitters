@@ -2988,10 +2988,10 @@
             <Game>EW2</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/JMaynard24/ASL/master/TheEvilWithin2.asl</URL>
+            <URL>https://raw.githubusercontent.com/KunoDemetries/AutoSplitter/master/TheEvilWithin2.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load Removal is available. (By Dread)</Description>
+        <Description>Auto Splitter/Load Removal is available. (By Kuno, Demetries, Dread)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
