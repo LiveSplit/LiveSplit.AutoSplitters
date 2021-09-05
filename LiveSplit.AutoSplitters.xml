@@ -2154,7 +2154,7 @@
         <Type>Script</Type>
         <Description>Load Removal and Auto Splitting are available. (By bill_play3)</Description>
     </AutoSplitter>
-    <Autosplitter>
+    <AutoSplitter>
         <Games>
             <Game>Left 4 Dead: Survivors</Game>
         </Games>
@@ -2163,7 +2163,7 @@
         </URLs>
         <Type>Script</Type>
         <Description>Load Removal and Auto Splitting are available. (By Aciidz and bill_play3)</Description>
-    </Autosplitter>
+    </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>Super Meat Boy</Game>
