@@ -12987,4 +12987,14 @@
         <Type>Script</Type>
         <Description>Autosplitting and Load Removal available (by rythin)</Description>
     </AutoSplitter>
+	<AutoSplitter>
+		<Games>
+			<Game>Final Fantasy X-2</Game>
+		</Games>
+		<URLs>
+			<URL>https://raw.githubusercontent.com/risal91/FF10-2-Autosplitter/main/FFX2ASL.asl</URL>
+		</URLs>
+		<Type>Script</Type>
+		<Description>Autosplitter and Loadremover by Risal07 & Mysterion_06_</Description>
+	</AutoSplitter>
 </AutoSplitters>
