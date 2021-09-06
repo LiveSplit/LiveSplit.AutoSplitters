@@ -2146,12 +2146,23 @@
     <AutoSplitter>
         <Games>
             <Game>Left 4 Dead</Game>
+            <Game>Left 4 Dead Category Extensions</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/SirWillian/Autosplitters/master/L4D1/L4D.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Load Removal and Auto Splitting are available. (By bill_play3)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Left 4 Dead: Survivors</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/ImAciidz/L4D2-Autosplitter/main/L4D2Survivors.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Removal and Auto Splitting are available. (By Aciidz and bill_play3)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
