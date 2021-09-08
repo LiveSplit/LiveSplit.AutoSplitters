@@ -4549,6 +4549,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>The Binding of Isaac: Repentance</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Krakenos/autosplitters/master/isaac/isaac-repentance.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Game Time, Auto Splitting and Auto Start/Reset are available. Can split by character or by floor. (By Krakenos and Hyphen-ated)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Shade: Wrath of Angels</Game>
         </Games>
         <URLs>
