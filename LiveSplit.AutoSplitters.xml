@@ -12930,7 +12930,18 @@
             <URL>https://raw.githubusercontent.com/smash64-dev/autosplitters/main/smash_brothers.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Automatic Start/Reset/Split are available. (by CEnnis91)</Description>
+        <Description>Automatic Start/Reset/Split and Bonus Practice (by CEnnis91)</Description>
+        <Website>https://github.com/smash64-dev/autosplitters/blob/main/README.md</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Smash Remix</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/smash64-dev/autosplitters/main/smash_remix.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Automatic Start/Reset/Split, Bonus Practice, and Remix Modes (by CEnnis91</Description>
         <Website>https://github.com/smash64-dev/autosplitters/blob/main/README.md</Website>
     </AutoSplitter>
     <AutoSplitter>
