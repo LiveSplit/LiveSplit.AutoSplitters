@@ -13040,4 +13040,14 @@
 		<Type>Script</Type>
 		<Description>Autosplitter and Loadremover by Risal07 and Mysterion_06_</Description>
 	</AutoSplitter>
+	<AutoSplitter>
+		<Games>
+			<Game>Pirates of the Caribbean: At World's End</Game>
+		</Games>
+		<URLs>
+			<URL>https://raw.githubusercontent.com/Monstruos/PotC-AWE-Autosplitter/main/SCRIPT.asl</URL>
+		</URLs>
+		<Type>Script</Type>
+		<Description>Autosplitter and Loadremover for Any% category. [CAUTION] Splitter based on load screens appearing only, so it can run a timer at any activity besides starting the new game</Description>
+	</AutoSplitter>
 </AutoSplitters>
