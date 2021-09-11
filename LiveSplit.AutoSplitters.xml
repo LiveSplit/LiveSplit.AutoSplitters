@@ -2,6 +2,17 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Tormented Souls</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/miraclewhips/tormented-souls-autosplitter/main/tormented-souls-autosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter & In-Game Timer. Created by miraclewhips.</Description>
+	<Website>https://github.com/miraclewhips/tormented-souls-autosplitter</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Blue Fire</Game>
         </Games>
         <URLs>
