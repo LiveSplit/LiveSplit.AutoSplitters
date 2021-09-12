@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
+	<AutoSplitter>
+        <Games>
+            <Game>speedJUMP</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/diniamo/speedjump-autosplitter/master/speedJUMP.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>A very basic AutoSpitter, gonna do game time syncing if the dev wants to. Created diniamo.</Description>
+		<Website>https://github.com/diniamo/speedjump-autosplitter</Website>
+    </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>Tormented Souls</Game>
