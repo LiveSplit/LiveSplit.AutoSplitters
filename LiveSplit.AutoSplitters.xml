@@ -13061,4 +13061,14 @@
 		<Type>Script</Type>
 		<Description>Autosplitter and Loadremover for Any% category. [CAUTION] Splitter based on load screens appearing only, so it can run a timer at any activity besides starting the new game</Description>
 	</AutoSplitter>
+	<AutoSplitter>
+		<Games>
+			<Game>Bayonetta</Game>
+		</Games>
+		<URLs>
+			<URL>https://raw.githubusercontent.com/Mysterion06/Bayonetta/main/Bayonetta.asl</URL>
+		</URLs>
+		<Type>Script</Type>
+		<Description>Autosplitter with Loadremover by Mysterion_06_</Description>
+	</AutoSplitter>
 </AutoSplitters>
