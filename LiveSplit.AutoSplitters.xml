@@ -5932,10 +5932,10 @@
             <Game>Bayonetta</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Bigmanjapan/LivesplitASLscripts/master/Bayonetta%20v1.01/LiveSplit.Bayonetta_101.asl</URL>
+            <URL>https://raw.githubusercontent.com/Mysterion06/Bayonetta/main/Bayonetta.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Tracks in-game time. (by Bigmanjapan)</Description>
+        <Description>Autosplitter with Loadremover by Mysterion_06_</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
