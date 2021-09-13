@@ -600,7 +600,7 @@
             <URL>https://raw.githubusercontent.com/Jujstme/Autosplitters/master/Mass%20Effect%20Legendary%20Edition/MassEffectLegendary.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load remover (By Jujstme)</Description>
+        <Description>Autosplitter and Load remover (By Jujstme)</Description>
         <Website>https://github.com/Jujstme/Autosplitters/tree/master/Mass%20Effect%20Legendary%20Edition</Website>
     </AutoSplitter>
     <AutoSplitter>
@@ -1398,6 +1398,7 @@
     <AutoSplitter>
         <Games>
             <Game>Sonic Colors: Ultimate</Game>
+            <Game>Sonic Colours: Ultimate</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/Jujstme/Autosplitters/master/Sonic%20Colors%20Ultimate/SonicColorsUltimate.asl</URL>
