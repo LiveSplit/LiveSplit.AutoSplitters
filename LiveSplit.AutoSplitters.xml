@@ -1,5 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
+    <AutoSplitter>
+        <Games>
+            <Game>Mineralph</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/OCircles/Livesplit.Autosplitters/main/Mineralph/Mineralph.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Start, split, reset and IGT (By O_Circles)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Hexen: Beyond Heretic</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/OCircles/Livesplit.Autosplitters/main/Hexen/Hexen.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>For Crispy Hexen 5.5, click website for info</Description>
+	<Website>https://github.com/OCircles/Livesplit.Autosplitters/tree/main/Hexen</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Ley Lines (Steam)</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/OCircles/Livesplit.Autosplitters/main/Leylines/Leylines.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Start, split and reset (By O_Circles)</Description>
+    </AutoSplitter>
 	<AutoSplitter>
         <Games>
             <Game>speedJUMP</Game>
@@ -1511,7 +1542,7 @@
             <Game>Eradicator</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/OCircles/EradicatorAutosplitter/master/EradicatorSplitter.asl</URL>
+            <URL>https://raw.githubusercontent.com/OCircles/Livesplit.Autosplitters/main/Eradicator/Eradicator.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>IGT, Autosplitting, Autostarting is available. Must go ingame once before autostart works (by O_Circles)</Description>
@@ -1621,7 +1652,7 @@
             <Game>RONIN</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/OCircles/RONINAutosplitter/master/RoninSplitter.asl</URL>
+            <URL>https://raw.githubusercontent.com/OCircles/Livesplit.Autosplitters/main/Ronin/Ronin.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Load Remover, Autosplitting, Autostarting is available (by O_Circles)</Description>
@@ -1631,7 +1662,7 @@
             <Game>Bygg bilar med Mulle Meck</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/OCircles/ByggBilarAutosplitter/master/BilarSplitter.asl</URL>
+            <URL>https://raw.githubusercontent.com/OCircles/Livesplit.Autosplitters/main/ByggBilarMedMulleMeck/ByggBilarMedMulleMeck.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitting and Autostarting is available (by O_Circles)</Description>
@@ -1641,7 +1672,7 @@
             <Game>Star Wars: Dark Forces</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/OCircles/DarkForcesAutosplitter/master/dfSplitter.asl</URL>
+            <URL>https://raw.githubusercontent.com/OCircles/Livesplit.Autosplitters/main/StarWarsDarkForces/StarWarsDarkForces.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Load Remover, Autosplitting and Autostarting is available (by O_Circles)</Description>
