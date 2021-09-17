@@ -2,6 +2,16 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Quake Remastered</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Chris-Greaves/LiveSplit.QuakeRemastered/main/QuakeRemastered.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Start, Split, Full Runs and Episode Runs (By Chris-Greaves)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Mineralph</Game>
         </Games>
         <URLs>
