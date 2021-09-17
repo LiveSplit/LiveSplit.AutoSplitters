@@ -1228,6 +1228,20 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Project Warlock II</Game>
+            <Game>Project Warlock 2</Game>
+            <Game>Project Warlock II Demo</Game>
+            <Game>Project Warlock 2 Demo</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/just-ero/AutoSplitTools/master/Project%20Warlock%20II/ProjectWarlockII.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Starts, resets automatically. Splits at the end and optionally on each key. Syncs to in-game time. (by Ero)</Description>
+        <Website>https://github.com/just-ero/AutoSplitTools/tree/master/Project%20Warlock%20II</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Ruff Night at the Gallery</Game>
         </Games>
         <URLs>
