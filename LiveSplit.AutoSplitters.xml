@@ -9,7 +9,7 @@
         </URLs>
         <Type>Script</Type>
         <Description>Start, Split, Full Runs and Episode Runs (By Chris-Greaves)</Description>
-	<Website>https://github.com/Chris-Greaves/LiveSplit.QuakeRemastered</Website>
+        <Website>https://github.com/Chris-Greaves/LiveSplit.QuakeRemastered</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
