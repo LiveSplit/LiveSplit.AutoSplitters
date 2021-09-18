@@ -1459,7 +1459,7 @@
         <URLs>
             <URL>https://raw.githubusercontent.com/Jujstme/Autosplitters/master/Sonic%20Colors%20Ultimate/Components/LiveSplit.SonicColors.dll</URL>
         </URLs>
-        <Type>Script</Type>
+        <Type>Component</Type>
         <Description>Autosplitting and In-Game Timer are available (by Jujstme)</Description>
         <Website>https://discord.gg/XRsRwRU</Website>
     </AutoSplitter>
