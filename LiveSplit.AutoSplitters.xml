@@ -13132,6 +13132,6 @@
 			<URL>https://raw.githubusercontent.com/Monstruos/PotC-AWE-Autosplitter/main/SCRIPT.asl</URL>
 		</URLs>
 		<Type>Script</Type>
-		<Description>Autosplitter and Loadremover for Any% category. [CAUTION] Splitter based on load screens appearing only, so it can run a timer at any activity besides starting the new game</Description>
+		<Description>Autosplitter and Loadremover for Any% category by Monstruos. [CAUTION] Splitter triggers on "continue" story.</Description>
 	</AutoSplitter>
 </AutoSplitters>
