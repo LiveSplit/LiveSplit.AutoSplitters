@@ -1457,7 +1457,7 @@
             <Game>Sonic Colours: Ultimate</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Jujstme/Autosplitters/master/Sonic%20Colors%20Ultimate/SonicColorsUltimate.asl</URL>
+            <URL>https://github.com/Jujstme/Autosplitters/raw/master/Sonic%20Colors%20Ultimate/Components/LiveSplit.SonicColors.dll</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitting and In-Game Timer are available (by Jujstme)</Description>
