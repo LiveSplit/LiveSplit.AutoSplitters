@@ -2169,10 +2169,11 @@
             <Game>Borderlands: The Pre-Sequel</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/seresharp/Autosplitters/master/LiveSplit.BLTPSIGT.asl</URL>
+            <URL>https://raw.githubusercontent.com/apple1417/Autosplitters/master/borderlands_tps.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load Removal and Auto Start are available. (By drMalcom and SerenaM)</Description>
+        <Description>Auto Splitting, Auto Start and Load Removal are available. (By apple1417)</Description>
+        <Website>https://discord.gg/jF8eSnP</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
