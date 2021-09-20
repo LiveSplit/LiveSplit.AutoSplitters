@@ -9711,12 +9711,13 @@
             <Game>Saints Row The Third Remastered</Game>
         </Games>
         <URLs>
-            <URL>https://gist.github.com/betelopson/6c3b3e26493bce4b00861413479d11f8</URL>
+            <URL>https://raw.githubusercontent.com/betelopson/ASL/main/Livesplit.SR3R.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto Splitting, Auto Start and Loadless Time available (by Mr. Mary and hoxi)</Description>
+        <Description>Auto Splitting, Auto Start and Loadless Time available (by Mr. Mary and hoxi and mossfis)</Description>
         <Website>https://discord.gg/4Kz8vqZ</Website>
-    </AutoSplitter><AutoSplitter>
+    </AutoSplitter>
+    <AutoSplitter>
         <Games>
             <Game>Knockout Daddy</Game>
         </Games>
