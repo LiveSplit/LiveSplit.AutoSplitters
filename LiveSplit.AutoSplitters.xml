@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
+    </AutoSplitter>
+	<AutoSplitter>
+        <Games>
+            <Game>Inside | Out</Game>
+            <Game>Inside|Out</Game>
+            <Game>InsideOut</Game>
+			<Game>Inside Out</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/diniamo/inside-out-autosplitter/master/InsideOut.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Start, split on season changes. (probably going to add splitting on items and auto reset later on)</Description>
+		<Website>https://github.com/diniamo/inside-out-autosplitter</Website>
+    </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>Quake Remastered</Game>
