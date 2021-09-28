@@ -13165,9 +13165,10 @@
 		    <Game>DEATHLOOP</Game>
 		</Games>
 		<URLs>
-		    <URL>https://raw.githubusercontent.com/Micrologist/Livesplit.Deathloop/main/deathloop.asl</URL>
+		    <URL>https://raw.githubusercontent.com/Jujstme/Livesplit.Deathloop/local/Components/LiveSplit.Deathloop.dll</URL>
 		</URLs>
-		<Type>Script</Type>
-		<Description>Auto Splitting and Load Removal available. (By Micrologist#2351)</Description>
+		<Type>Component</Type>
+		<Description>Auto Splitting and Load Removal available. (By Micrologist#2351 and Jujstme)</Description>
+	        <Website>https://github.com/Jujstme/LiveSplit.Deathloop</Website>
     	</AutoSplitter>
 </AutoSplitters>
