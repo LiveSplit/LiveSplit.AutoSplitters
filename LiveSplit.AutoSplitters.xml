@@ -1253,6 +1253,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Postbird In Provence</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/just-ero/AutoSplitTools/master/Postbird%20In%20Provence/PostbirdInProvence.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Starts, resets automatically. Splits available in the settings. (by Ero)</Description>
+        <Website>https://github.com/just-ero/AutoSplitTools/tree/master/Postbird%20In%20Provence</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Project Warlock II</Game>
             <Game>Project Warlock 2</Game>
             <Game>Project Warlock II Demo</Game>
