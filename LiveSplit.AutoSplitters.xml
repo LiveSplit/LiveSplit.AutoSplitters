@@ -1187,6 +1187,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>lil gator game</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/just-ero/AutoSplitTools/master/lil%20gator%20game/lilgatorgame.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Starts, resets automatically. Splits available in the settings. (by Ero)</Description>
+        <Website>https://github.com/just-ero/AutoSplitTools/tree/master/lil%20gator%20game</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Maid of Sker</Game>
         </Games>
         <URLs>
