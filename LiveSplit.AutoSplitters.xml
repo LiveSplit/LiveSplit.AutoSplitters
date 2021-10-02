@@ -1481,9 +1481,9 @@
             <Game>Sonic &amp; All-Stars Racing Transformed - Category Extensions</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Jujstme/Autosplitters/master/Sonic%20%26%20All-Star%20Racing%20Transformed/S%26ASRT.asl</URL>
+            <URL>https://raw.githubusercontent.com/Jujstme/LiveSplit.SonicASRT/master/Components/LiveSplit.SonicASRT.dll</URL>
         </URLs>
-        <Type>Script</Type>
+        <Type>Component</Type>
         <Description>Autosplitting and In-Game Timer are available. Supports all speedrun.com categories (by Jujstme)</Description>
         <Website>https://discord.gg/XRsRwRU</Website>
     </AutoSplitter>
