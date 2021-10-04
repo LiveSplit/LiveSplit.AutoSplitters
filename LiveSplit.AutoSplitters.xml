@@ -13206,4 +13206,15 @@
         <Description>for HD version (all languages). Hasha no Akashi, Map of Akashi, Dissolution of Players. Auto Start/Reset/Stop are not implemented yet. (By pingval)</Description>
         <Website>https://github.com/pingval/AutoSplitters</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>TOEM</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/CielDeVille/LiveSplit.TOEM/master/Components/LiveSplit.TOEM.dll</URL>
+        </URLs>
+        <Type>Component</Type>
+        <Description>AutoSplitter measuring game time, load times and auto-resets (by Ciel DeVille and AnqiX)</Description>
+        <Website>https://github.com/cieldeville/LiveSplit.TOEM</Website>
+    </AutoSplitter>
 </AutoSplitters>
