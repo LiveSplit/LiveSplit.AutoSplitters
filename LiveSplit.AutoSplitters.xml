@@ -13206,6 +13206,17 @@
         <Description>for HD version (all languages). Hasha no Akashi, Map of Akashi, Dissolution of Players. Auto Start/Reset/Stop are not implemented yet. (By pingval)</Description>
         <Website>https://github.com/pingval/AutoSplitters</Website>
     </AutoSplitter>
+	  <AutoSplitter>
+        <Games>
+            <Game>WALL-E (PC/PS2/PSP)</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/luis-trueba/wallepc_autosplitter/main/wall-e_autosplit.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitting (with or without mid-level subsplits) and Load Removal available for PC version only. Consult the leaderboard rules for load removal legality. (By RoboticRocketeer)</Description>
+        <Website>https://github.com/luis-trueba/wallepc_autosplitter</Website>
+    </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>TOEM</Game>
