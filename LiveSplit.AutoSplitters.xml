@@ -9843,7 +9843,7 @@
             <Game>Saints Row: The Third Remastered</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/betelopson/ASL/main/Livesplit.SR3R.asl</URL>
+            <URL>https://raw.githubusercontent.com/betelopson/ASL/main/Livesplit.SRTTR.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Auto Splitting, Auto Start and Loadless Time available (by Mr. Mary and hoxi and mossfis)</Description>
@@ -13194,6 +13194,18 @@
 		<Description>Auto Splitting and Load Removal available. (By Micrologist#2351 and Jujstme)</Description>
 	        <Website>https://github.com/Jujstme/LiveSplit.Deathloop</Website>
     	</AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Daikoukai Jidai IV</Game>
+            <Game>Uncharted Waters IV with Power-Up Kit - HD Version</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/pingval/AutoSplitters/master/dk4hd.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>for HD version (all languages). Hasha no Akashi, Map of Akashi, Dissolution of Players. Auto Start/Reset/Stop are not implemented yet. (By pingval)</Description>
+        <Website>https://github.com/pingval/AutoSplitters</Website>
+    </AutoSplitter>
 	<AutoSplitter>
 		<Games>
 		    <Game>WALL-E (PC/PS2/PSP)</Game>
