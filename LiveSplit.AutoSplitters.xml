@@ -13203,7 +13203,7 @@
             <URL>https://raw.githubusercontent.com/pingval/AutoSplitters/master/dk4hd.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>for HD version (all languages). Hasha no Akashi, Map of Akashi, Dissolution of Players. Auto Start/Reset/Stop are not implemented yet. (By pingval)</Description>
+        <Description>for HD version (all languages). Auto Start/Reset/Stop are not implemented yet. (By pingval)</Description>
         <Website>https://github.com/pingval/AutoSplitters</Website>
     </AutoSplitter>
 	  <AutoSplitter>
