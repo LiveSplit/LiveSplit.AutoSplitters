@@ -13235,7 +13235,7 @@
 		<URLs>
 		    <URL>https://raw.githubusercontent.com/CptPie/AC7_Autosplit/main/ac7.asl</URL>
 		</URLs>
-		<Type>Component</Type>
+		<Type>Script</Type>
 		<Description>Auto Splitting (with or without mid-level subsplits) as well as the ability to detect S-Ranks and split on S-Ranks only.</Description>
 	        <Website>https://github.com/CptPie/AC7_Autosplit</Website>
     	</AutoSplitter>
