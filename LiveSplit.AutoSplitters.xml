@@ -6309,10 +6309,10 @@
             <Game>Firewing 64</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/R3FR4G/LiveSplit-ASL-Scripts/master/Firewing%2064/autosplitter_firewing64.asl</URL>
+            <URL>https://raw.githubusercontent.com/Refragg/LiveSplit-ASL-Scripts/master/Firewing%2064/autosplitter_firewing64.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Website>https://github.com/R3FR4G/LiveSplit-ASL-Scripts/tree/master/Firewing%2064</Website>
+        <Website>https://github.com/Refragg/LiveSplit-ASL-Scripts/tree/master/Firewing%2064</Website>
         <Description>Automatic start/split/reset (By Refrag)</Description>
     </AutoSplitter>
     <AutoSplitter>
@@ -6325,10 +6325,10 @@
             <Game>Sonic Robo Blast 2: The Cyberdime Realm</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/R3FR4G/LiveSplit-ASL-Scripts/master/Sonic%20Robo%20Blast%202/autosplitter_srb2.asl</URL>
+            <URL>https://raw.githubusercontent.com/Refragg/LiveSplit-ASL-Scripts/master/Sonic%20Robo%20Blast%202/autosplitter_srb2.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Website>https://github.com/R3FR4G/LiveSplit-ASL-Scripts/tree/master/Sonic%20Robo%20Blast%202</Website>
+        <Website>https://github.com/Refragg/LiveSplit-ASL-Scripts/tree/master/Sonic%20Robo%20Blast%202</Website>
         <Description>Automatic start/split/reset, and in-game time (By Refrag)</Description>
     </AutoSplitter>
     <AutoSplitter>
@@ -6336,10 +6336,10 @@
             <Game>Sonic Robo Blast 2 Kart</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/R3FR4G/LiveSplit-ASL-Scripts/master/Sonic%20Robo%20Blast%202%20Kart/autosplitter_srb2kart.asl</URL>
+            <URL>https://raw.githubusercontent.com/Refragg/LiveSplit-ASL-Scripts/master/Sonic%20Robo%20Blast%202%20Kart/autosplitter_srb2kart.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Website>https://github.com/R3FR4G/LiveSplit-ASL-Scripts/tree/master/Sonic%20Robo%20Blast%202%20Kart</Website>
+        <Website>https://github.com/Refragg/LiveSplit-ASL-Scripts/tree/master/Sonic%20Robo%20Blast%202%20Kart</Website>
         <Description>Automatic start/split/reset, and in-game time (By Refrag)</Description>
     </AutoSplitter>
     <AutoSplitter>
@@ -9350,7 +9350,7 @@
             <Game>Puyo Pop Fever</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/R3FR4G/LiveSplit-ASL-Scripts/master/Puyo%20Pop%20Fever/LiveSplit.PuyoFever.asl</URL>
+            <URL>https://raw.githubusercontent.com/Refragg/LiveSplit-ASL-Scripts/master/Puyo%20Pop%20Fever/LiveSplit.PuyoFever.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Automatic Start/Split/Reset available (by Refrag and Lemin)</Description>
@@ -13239,4 +13239,15 @@
         <Description>Load removal (by Wafu)</Description>
         <Website>https://github.com/WafuRuns/ASLScripts</Website>
     </AutoSplitter>
+	<AutoSplitter>
+		<Games>
+		    <Game>Ace Combat 7</Game>
+		</Games>
+		<URLs>
+		    <URL>https://raw.githubusercontent.com/CptPie/AC7_Autosplit/main/ac7.asl</URL>
+		</URLs>
+		<Type>Script</Type>
+		<Description>Auto Splitting (with or without mid-level subsplits) as well as the ability to detect S-Ranks and split on S-Ranks only.</Description>
+	        <Website>https://github.com/CptPie/AC7_Autosplit</Website>
+    	</AutoSplitter>
 </AutoSplitters>
