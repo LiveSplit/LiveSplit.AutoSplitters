@@ -15,8 +15,10 @@
 		<Website>https://github.com/diniamo/inside-out-autosplitter</Website>
     </AutoSplitter>
 <AutoSplitter>
-            <Game>Severed Steel</Game>
-        <URLs>
+	</Games>            
+		<Game>Severed Steel</Game>
+	</Games>        
+	<URLs>
             <URL>https://raw.githubusercontent.com/LiterallyMetaphorical/LiveSplit.SeveredSteel/main/SeveredSteel.asl</URL>
         </URLs>
         <Type>Script</Type>
