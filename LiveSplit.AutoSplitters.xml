@@ -2,6 +2,26 @@
 <AutoSplitters>
 	<AutoSplitter>
         <Games>
+            <Game>Need for Speed: Undercover</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/tdog20/NFS-AutoSplitter/main/Livesplit.NFSUC.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Loadless timer made by TDOG20 and Failracer</Description>
+    </AutoSplitter>
+	<AutoSplitter>
+        <Games>
+            <Game>Need for Speed: Carbon</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/tdog20/NFS-AutoSplitter/main/Livesplit.NFSC.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and Loadless timer made by TDOG20</Description>
+    </AutoSplitter>
+	<AutoSplitter>
+        <Games>
             <Game>Inside | Out</Game>
             <Game>Inside|Out</Game>
             <Game>InsideOut</Game>
