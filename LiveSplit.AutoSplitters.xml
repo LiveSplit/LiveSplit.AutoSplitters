@@ -34,6 +34,17 @@
         <Description>Start, split on season changes. (probably going to add splitting on items and auto reset later on)</Description>
 		<Website>https://github.com/diniamo/inside-out-autosplitter</Website>
     </AutoSplitter>
+<AutoSplitter>
+	<Games>            
+		<Game>Severed Steel</Game>
+	</Games>        
+	<URLs>
+            <URL>https://raw.githubusercontent.com/LiterallyMetaphorical/LiveSplit.SeveredSteel/main/SeveredSteel.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Starts and reads In-Game time. (By Meta)</Description>
+		<Website>https://discord.gg/QaJJ9WBxGA</Website>
+    </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>Quake Remastered</Game>
