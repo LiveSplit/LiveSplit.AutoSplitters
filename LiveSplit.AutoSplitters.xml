@@ -13293,4 +13293,15 @@
 		<Description>Auto Splitting (with or without mid-level subsplits) as well as the ability to detect S-Ranks and split on S-Ranks only.</Description>
 	        <Website>https://github.com/CptPie/AC7_Autosplit</Website>
     	</AutoSplitter>
+	<AutoSplitter>
+        <Games>
+            <Game>Teeter Hero</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/dcom365/TeeterHeroASL/main/Teeter_Hero.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>AutoSplitter for Teeter Hero (by Nurufu)</Description>
+        <Website>https://github.com/dcom365/TeeterHeroASL</Website>
+    </AutoSplitter>
 </AutoSplitters>
