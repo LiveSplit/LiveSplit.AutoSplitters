@@ -2067,6 +2067,11 @@
             <Game>The Citizen Series</Game>
             <Game>The PTSD Mod</Game>
             <Game>Hunt Down the Freeman</Game>
+            <Game>Precursor</Game>
+            <Game>Hangover</Game>
+            <Game>Gnome</Game>
+            <Game>Half-Life 2: Genry's Great Escape From City 13</Game>
+            <Game>Half-Life 2: Offshore</Game>
         </Games>
         <URLs>
             <URL>http://fatalis.pw/livesplit/update/Components/LiveSplit.SourceSplit.dll</URL>
@@ -10533,11 +10538,11 @@
             <Game>Synergy</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/ScriptedSnark/Synergy-Autosplitter/main/synergy.asl</URL>
+            <URL>https://github.com/thisis2838/SourceSplit/releases/download/2838-fork/LiveSplit.SourceSplit.dll</URL>
         </URLs>
-        <Type>Script</Type>
-        <Description>Synergy autosplitter. Works with any version.</Description>
-        <Website>https://github.com/ScriptedSnark/Synergy-Autosplitter/blob/main/README.md</Website>
+        <Type>Component</Type>
+        <Description>Game Time and Auto Splitting are available. (By Fatalis and 2838)</Description>
+        <Website>https://github.com/thisis2838/SourceSplit/blob/master/README.md</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
