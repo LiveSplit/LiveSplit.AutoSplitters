@@ -10762,11 +10762,11 @@
             <Game>Stardew Valley</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Underscore76/SDV-AutoSplit/master/sdv-script.asl</URL>
+            <URL>https://raw.githubusercontent.com/Underscore76/LiveSplit.StardewValley/master/Components/LiveSplit.StardewValley.dll</URL>
         </URLs>
-        <Type>Script</Type>
-        <Description>Save/Load time remover for Stardew Valley</Description>
-        <Website>https://github.com/Underscore76/SDV-AutoSplit</Website>
+        <Type>Component</Type>
+        <Description>Load Remover for Stardew Valley (By Underscore76 & BlueCheetah001)</Description>
+        <Website>https://github.com/Underscore76/LiveSplit.StardewValley</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
