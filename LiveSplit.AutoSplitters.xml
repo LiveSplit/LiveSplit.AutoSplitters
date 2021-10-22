@@ -13304,7 +13304,7 @@
             <Game>Indiana Jones and the Infernal Machine</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/thekovic/IndyAutoSplitter/main/IndyAutoSplit.asl</URL>
+            <URL>https://raw.githubusercontent.com/LuccaMorosiniGioia/IndyAutoSplitter/main/IndyAutoSplit.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Auto Start and Auto Splitter (with optional splits for All Treasures category) for Indy3D (by LuccaGioia and the_kovic)</Description>
