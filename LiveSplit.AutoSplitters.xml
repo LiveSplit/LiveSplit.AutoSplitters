@@ -13299,4 +13299,15 @@
         <Description>AutoSplitter for Teeter Hero (by Nurufu)</Description>
         <Website>https://github.com/dcom365/TeeterHeroASL</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Indiana Jones and the Infernal Machine</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/LuccaMorosiniGioia/IndyAutoSplitter/blob/main/IndyAutoSplit.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Start and Auto Splitter (with optional splits for All Treasures category) for Indy3D (by LuccaGioia and the_kovic)</Description>
+        <Website>https://github.com/LuccaMorosiniGioia/IndyAutoSplitter</Website>
+    </AutoSplitter>
 </AutoSplitters>
