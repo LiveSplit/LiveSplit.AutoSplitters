@@ -13307,7 +13307,7 @@
             <URL>https://raw.githubusercontent.com/LuccaMorosiniGioia/IndyAutoSplitter/main/IndyAutoSplit.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto Start and Auto Splitter (with optional splits for All Treasures category) for Indy3D (by LuccaGioia and the_kovic)</Description>
+        <Description>Autostart and Autosplit (with optional splits for All Treasures) by LuccaGioia and the_kovic</Description>
         <Website>https://github.com/LuccaMorosiniGioia/IndyAutoSplitter</Website>
     </AutoSplitter>
 </AutoSplitters>
