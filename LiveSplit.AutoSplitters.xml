@@ -13331,4 +13331,14 @@
         <Description>Autostart and Autosplit for Emulator runs, currently for Any%. Made by Snugggles</Description>
         <Website>https://github.com/Snugggles/Sly1EmulatorAutosplitter</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Jet Set Radio Future Category Extension</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Auddy07/ASL/master/JSRFCE.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitting is available for CXBX (By Auddy)</Description>
+    </AutoSplitter>
 </AutoSplitters>
