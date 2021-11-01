@@ -10162,11 +10162,11 @@
             <Game>Kula World</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Jujstme/Autosplitters/master/Kula%20World%20-%20Roll%20Away/RollAway.asl</URL>
+            <URL>https://raw.githubusercontent.com/Jujstme/LiveSplit.KulaWorld/master/Components/LiveSplit.KulaWorld.dll</URL>
         </URLs>
-        <Type>Script</Type>
+        <Type>Component</Type>
         <Description>Automatic splitting and in-game timer</Description>
-        <Website>https://github.com/Jujstme/Autosplitters/tree/master/Kula%20World%20-%20Roll%20Away</Website>
+        <Website>https://github.com/Jujstme/LiveSplit.KulaWorld</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
