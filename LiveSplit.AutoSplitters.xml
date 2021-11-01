@@ -13341,4 +13341,15 @@
         <Type>Script</Type>
         <Description>Auto Splitting is available for CXBX (By Auddy)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Happenlance</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/pmttavara/HappenlanceAutoSplitter/main/HappenlanceAutoSplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Happenlance Developer AutoSplitter</Description>
+        <Website>https://github.com/pmttavara/HappenlanceAutoSplitter</Website>
+    </AutoSplitter>
 </AutoSplitters>
