@@ -12657,31 +12657,7 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
-<<<<<<< HEAD
-            <Game>Destruction Darius</Game>
-        </Games>
-        <URLs>
-            <URL>https://raw.githubusercontent.com/thisis2838/ASL-projects/main/Destruction%20Darius/destructiondarius.asl</URL>
-        </URLs>
-        <Type>Script</Type>
-        <Description>Auto Start, Stop, Splitting and Load Removal by 2838</Description>
-    </AutoSplitter>
-	<AutoSplitter>
-        <Games>
-            <Game>Doomnit: Hell on Teufort</Game>
-        </Games>
-        <URLs>
-            <URL>https://raw.githubusercontent.com/thisis2838/ASL-projects/main/Doomnit%20Hell%20On%20Teufort/doomnit-asl.asl</URL>
-        </URLs>
-        <Type>Script</Type>
-        <Description>Auto Start, Stop, Splitting and Load Removal by 2838</Description>
-    </AutoSplitter>
-    <AutoSplitter>
-        <Games>
-            <Game>LEGO Star Wars: The Video Game</Game>
-=======
             <Game>Fragments of Euclid</Game>
->>>>>>> upstream/master
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/Micrologist/LiveSplit.FragmentsOfEuclid/main/euclid.asl</URL>
