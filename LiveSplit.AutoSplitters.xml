@@ -13352,4 +13352,14 @@
         <Description>Happenlance Developer AutoSplitter</Description>
         <Website>https://github.com/pmttavara/HappenlanceAutoSplitter</Website>
     </AutoSplitter>
+    	<AutoSplitter>
+		<Games>
+			<Game>Dethkarz</Game>
+		</Games>
+		<URLs>
+			<URL>https://raw.githubusercontent.com/thisis2838/ASL-projects/main/Dethkarz/dethkarz.asl</URL>
+		</URLs>
+		<Type>Script</Type>
+		<Description>Auto Start and Split by 2838</Description>
+	</AutoSplitter>
 </AutoSplitters>
