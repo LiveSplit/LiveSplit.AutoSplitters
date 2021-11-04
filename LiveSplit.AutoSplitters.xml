@@ -13352,6 +13352,16 @@
         <Description>Happenlance Developer AutoSplitter</Description>
         <Website>https://github.com/pmttavara/HappenlanceAutoSplitter</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Inscryption</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Andersama/LiveSplitters/main/Inscryption.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Inscryption AutoSplitter by Andersama</Description>
+    </AutoSplitter>
     	<AutoSplitter>
 		<Games>
 			<Game>Dethkarz</Game>
