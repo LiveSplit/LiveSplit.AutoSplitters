@@ -13373,13 +13373,13 @@
 		<Description>Auto Start and Split by 2838</Description>
 	</AutoSplitter>
     <AutoSplitter>
-	<Games>
+        <Games>
             <Game>MDK2</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/cccarl/mdk2-auto-splitter/master/Livesplit.MDK2.asl</URL>
         </URLs>
         <Type>Script</Type>
-	<Description>Load Remover / Auto Splitter available (By SunglassesEmoji)</Description>
+        <Description>Load Remover / Auto Splitter available (By SunglassesEmoji)</Description>
     </AutoSplitter>
 </AutoSplitters>
