@@ -2,6 +2,17 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>UNSIGHTED</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/callist03/unsighted-autosplitter/main/unsighted-autosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting and load removal script made by callist03</Description>
+        <Website>https://github.com/callist03/unsighted-autosplitter</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Top Gear</Game>
         </Games>
         <URLs>
