@@ -595,7 +595,7 @@
             <Game>Learn to Fly 2</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Caarda/l2f2/main/l2f2autosplitterv1.0.asl</URL>
+            <URL>https://raw.githubusercontent.com/Caarda/l2f2/main/l2f2autosplitterv1.2.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitter for Learn to Fly 2 (By Caarda) - Only works on flash player v32.0.0.114</Description>
