@@ -13404,4 +13404,14 @@
         <Type>Script</Type>
         <Description>Load Remover / Auto Splitter available (By SunglassesEmoji)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Poppy Playtime</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/TitomakaniJr/AutoSplits/main/Poppy%20Playtime/PoppyPlaytime.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Poppy Playtime Chapter 1 Autosplitter and Load Remover. (By Poots N Doots)</Description>
+    </AutoSplitter>
 </AutoSplitters>
