@@ -1520,9 +1520,9 @@
             <Game>Team Sonic Racing</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Jujstme/Autosplitters/master/Team%20Sonic%20Racing/Team%20Sonic%20Racing.asl</URL>
+            <URL>https://raw.githubusercontent.com/SonicSpeedrunning/LiveSplit.TeamSonicRacing/master/Components/LiveSplit.TeamSonicRacing.dll</URL>
         </URLs>
-        <Type>Script</Type>
+        <Type>Component</Type>
         <Description>Autosplitting and In-Game Timer are available. Supports all speedrun.com categories (by Jujstme)</Description>
         <Website>https://discord.gg/XRsRwRU</Website>
     </AutoSplitter>
