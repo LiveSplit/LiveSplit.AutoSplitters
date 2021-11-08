@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
+	<AutoSplitter>
+        <Games>
+            <Game>Need for Speed: Payback</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/tdog20/NFS-AutoSplitter/main/Livesplit.Payback.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Loadless timer made by TDOG20</Description>
+    </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>UNSIGHTED</Game>
