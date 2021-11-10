@@ -13424,4 +13424,14 @@
         <Type>Script</Type>
         <Description>Poppy Playtime Chapter 1 Autosplitter and Load Remover. (By Poots N Doots)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Prince of Persia (Apple ][)</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/GMPranav/ASLs/main/PrinceOfPersiaApple%5D%5B.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and IGT for the Apple ][ version of Prince of Persia on AppleWin 1.30.3</Description>
+    </AutoSplitter>
 </AutoSplitters>
