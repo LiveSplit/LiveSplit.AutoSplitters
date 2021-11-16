@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
+    <AutoSplitter>
+        <Games>
+            <Game>EarthX</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Octonath/EarthX-ASL/main/EarthX.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Automatically start and split the timer. Can adjust to both types of speedruns. (By Octonath)</Description>
+    </AutoSplitter>
 	<AutoSplitter>
         <Games>
             <Game>Nuclear Blaze</Game>
