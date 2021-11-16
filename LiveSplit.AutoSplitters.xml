@@ -3874,10 +3874,10 @@
             <Game>Resident Evil 4 Ultimate HD</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Wipefinger/development/master/RE4.asl</URL>
+            <URL>https://raw.githubusercontent.com/Mysterion06/Re4Splitter/main/RE4Splitter.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto Splitting and Load Removal are available. (By Pitted &amp; Wipefinger)</Description>
+        <Description>Auto Splitting and Load Removal by Wipefinger, Mysterion_06_ &amp; Yuushi)</Description>
         <Website>https://github.com/Wipefinger/development/blob/master/README.md</Website>
     </AutoSplitter>
     <AutoSplitter>
