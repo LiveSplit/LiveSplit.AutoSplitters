@@ -7,7 +7,8 @@
         <URLs>
             <URL>https://raw.githubusercontent.com/cmmm976/NuclearBlazeAutoSplitter/main/Nuclear%20Blaze%20Autosplitter.asl</URL>
         </URLs>
-        <Type>Script</Nuclear Blaze autosplitter made by Evian</Description>
+	<Type>Script</Type>
+	<Description>Nuclear Blaze autosplitter made by Evian</Description>
     </AutoSplitter>
 	<AutoSplitter>
         <Games>
