@@ -9,6 +9,7 @@
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitter for Tetris Effect that times IGT by reading the game's timer</Description>
+        <Website>https://github.com/Adventium-underscore/TEC-Autosplitter</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
