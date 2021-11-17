@@ -2,6 +2,17 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Tetris Effect: Connected</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Adventium-underscore/TEC-Autosplitter/main/TEC%20Autosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for Tetris Effect that times IGT by reading the game's timer</Description>
+        <Website>https://github.com/Adventium-underscore/TEC-Autosplitter</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>EarthX</Game>
         </Games>
         <URLs>
