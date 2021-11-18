@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
+<AutoSplitter>
+        <Games>
+            <Game>Bright Memory: Infinite</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/LiterallyMetaphorical/Livesplit.BrightMemoryInfinite/main/BrightMemoryInfinite.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for Bright Memory: Infinite (By Meta)</Description>
+        <Website>https://discord.com/invite/xZW9ZpZ</Website>
+    </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>Tetris Effect: Connected</Game>
