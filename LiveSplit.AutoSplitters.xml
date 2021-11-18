@@ -13477,4 +13477,14 @@
         <Type>Script</Type>
         <Description>Autosplitter and IGT for the Apple ][ version of Prince of Persia on AppleWin 1.30.3</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Super Sami Roll</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Zibangarang/SSRAutosplitter/main/SuperSamiRoll.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for Super Sami Roll, auto start/reset/split. Made by Zibang. </Description>
+    </AutoSplitter>
 </AutoSplitters>
