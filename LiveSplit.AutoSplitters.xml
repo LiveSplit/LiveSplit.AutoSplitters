@@ -3903,13 +3903,13 @@
             <Game>Resident Evil 4</Game>
             <Game>Bio4</Game>
             <Game>Biohazard 4</Game>
-            <Game>Resident Evil 4 Ultimate HD</Game>
+            <Game>Resident Evil 4 Ultimate HD Edition</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/Mysterion06/Re4Splitter/main/RE4Splitter.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto Splitting and Load Removal by Wipefinger, Mysterion_06_ &amp; Yuushi)</Description>
+        <Description>Auto Splitting and Load Removal by Wipefinger, Mysterion_06_, Yuushi)</Description>
         <Website>https://github.com/Wipefinger/development/blob/master/README.md</Website>
     </AutoSplitter>
     <AutoSplitter>
