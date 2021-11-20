@@ -5220,10 +5220,10 @@
             <Game>Momodora: Reverie Under the Moonlight</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Souzooka/Momo-4-Autosplitter/master/Momo4.asl</URL>
+            <URL>https://raw.githubusercontent.com/axelkarlsson/Momo-4-Autosplitter/master/Momo4.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto Splitting is available. (By Souzooka)</Description>
+        <Description>Auto Splitting is available. (By Souzooka, DreamFox and Ladnok)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
