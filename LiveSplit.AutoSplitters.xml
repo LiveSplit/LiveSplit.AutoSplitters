@@ -5160,6 +5160,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Jubilee</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/cursedtoast/Jubilee-Autosplitter/main/jubilee.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitting on shrines and auto-starting timer. By CursedToast</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>RE3 Remake</Game>
             <Game>Resident Evil 3 Remake</Game>
             <Game>RE3 2020</Game>
