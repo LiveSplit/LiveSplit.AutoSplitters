@@ -13508,4 +13508,15 @@
         <Type>Script</Type>
         <Description>Autosplitter for Super Sami Roll, auto start/reset/split. Made by Zibang. </Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Touhou Youyoumu ~ Perfect Cherry Blossom</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/pingval/AutoSplitters/master/th07.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Start/Split/Reset are available. currently Supported categories: Extra/Phantasm (By pingval)</Description>
+        <Website>https://github.com/pingval/AutoSplitters</Website>
+    </AutoSplitter>
 </AutoSplitters>
