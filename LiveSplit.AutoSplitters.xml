@@ -13519,4 +13519,43 @@
         <Description>Auto Start/Split/Reset are available. currently Supported categories: Extra/Phantasm (By pingval)</Description>
         <Website>https://github.com/pingval/AutoSplitters</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Grand Theft Auto III: Remastered</Game>
+            <Game>Grand Theft Auto III: The Definitive Edition</Game>
+            <Game>Grand Theft Auto III: Definitive Edition</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/hoXyy/Livesplit.Autosplitters/master/LiveSplit.GTA3.Definitive.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitting is available for the Definitive Edition. (By hoxi)</Description>
+        <Website>https://github.com/hoXyy/Livesplit.Autosplitters</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Grand Theft Auto: Vice City Remastered</Game>
+            <Game>Grand Theft Auto: Vice City - The Definitive Edition</Game>
+            <Game>Grand Theft Auto: Vice City - Definitive Edition</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/hoXyy/Livesplit.Autosplitters/master/LiveSplit.GTAVC.Definitive.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitting is available for the Definitive Edition. (By hoxi)</Description>
+        <Website>https://github.com/hoXyy/Livesplit.Autosplitters</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Grand Theft Auto: San Andreas Remastered</Game>
+            <Game>Grand Theft Auto: San Andreas - The Definitive Edition</Game>
+            <Game>Grand Theft Auto: San Andreas - Definitive Edition</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/hoXyy/Livesplit.Autosplitters/master/LiveSplit.GTASA.Definitive.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitting is available for the Definitive Edition. (By hoxi)</Description>
+        <Website>https://github.com/hoXyy/Livesplit.Autosplitters</Website>
+    </AutoSplitter>
 </AutoSplitters>
