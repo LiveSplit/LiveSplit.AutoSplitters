@@ -768,11 +768,11 @@
             <Game>Mass Effect: Legendary Edition</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Jujstme/Autosplitters/master/Mass%20Effect%20Legendary%20Edition/MassEffectLegendary.asl</URL>
+            <URL>https://raw.githubusercontent.com/Jujstme/LiveSplit.MassEffectLE/master/Components/LiveSplit.MassEffectLE.dll</URL>
         </URLs>
-        <Type>Script</Type>
-        <Description>Autosplitter and Load remover (By Jujstme)</Description>
-        <Website>https://github.com/Jujstme/Autosplitters/tree/master/Mass%20Effect%20Legendary%20Edition</Website>
+        <Type>Component</Type>
+        <Description>Autosplitter and Load remover. Full support for all 3 games of the trilogy (By Jujstme)</Description>
+        <Website>https://github.com/Jujstme/LiveSplit.MassEffectLE</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
