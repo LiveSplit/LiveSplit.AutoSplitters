@@ -6999,6 +6999,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Sonic 2 Absolute</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/SonicSpeedrunning/LiveSplit.Sonic2Absolute/master/Components/LiveSplit.Sonic2Absolute.dll</URL>
+        </URLs>
+        <Type>Component</Type>
+        <Description>Supports autostart, autoreset and autosplitting. Settings available (by Jujstme)</Description>
+        <Website>https://discord.gg/NpVGzcRBJ3</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Sonic Generations</Game>
         </Games>
         <URLs>
