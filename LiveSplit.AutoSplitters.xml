@@ -13569,4 +13569,15 @@
         <Description>Auto Splitting is available for the Definitive Edition. (By hoxi)</Description>
         <Website>https://github.com/hoXyy/Livesplit.Autosplitters</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Spectrolite</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Rexicon226/Spectrolite-Autosplitter/main/SpectrolitePortal.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for Spectrolite by Rexicon226</Description>
+        <Website>https://github.com/Rexicon226/Spectrolite-Autosplitter</Website>
+    </AutoSplitter>
 </AutoSplitters>
