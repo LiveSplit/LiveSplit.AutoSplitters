@@ -11550,11 +11550,11 @@
             <Game>Genshin Impact</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/KhanSimeoni/GenshinImpactAutosplit/main/GenshinImpactLoadRemover.asl</URL>
+            <URL>https://raw.githubusercontent.com/saiamphora/GenshinImpact-LTR/main/GenshinImpactLTR.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Website>https://github.com/KhanSimeoni/GenshinImpactAutosplit</Website>
-        <Description>Load time remover for Genshin Impact</Description>
+        <Website>https://github.com/saiamphora/GenshinImpact-LTR</Website>
+        <Description>Load time remover for Genshin Impact.</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
