@@ -13591,4 +13591,15 @@
         <Description>Autosplitter for Spectrolite by Rexicon226</Description>
         <Website>https://github.com/Rexicon226/Spectrolite-Autosplitter</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>CELESTE Classic</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/cominixo/ClassicAutosplitter/blob/main/celeste_autosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting requires PICO-8 and special cart. By probablypablito</Description>
+        <Website>https://github.com/cominixo/ClassicAutosplitter/</Website>
+    </AutoSplitter>
 </AutoSplitters>
