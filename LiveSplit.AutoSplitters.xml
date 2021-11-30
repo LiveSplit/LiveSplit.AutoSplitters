@@ -13596,7 +13596,7 @@
             <Game>CELESTE Classic</Game>
         </Games>
         <URLs>
-            <URL>https://github.com/cominixo/ClassicAutosplitter/blob/main/celeste_autosplitter.asl</URL>
+            <URL>https://raw.githubusercontent.com/cominixo/ClassicAutosplitter/main/celeste_autosplitter.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitting requires PICO-8 and special cart. By probablypablito</Description>
