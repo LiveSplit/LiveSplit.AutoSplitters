@@ -2090,9 +2090,6 @@
     <AutoSplitter>
         <Games>
             <Game>Source Engine</Game>
-            <Game>Aperture Tag</Game>
-            <Game>Aperture Tag: The Paint Gun Testing Initiative</Game>
-            <Game>Aperture Tag (Portal 2 Mod)</Game>
             <Game>Black Mesa: Source</Game>
             <Game>Black Mesa</Game>
             <Game>Black Mesa (MOD Version)</Game>
@@ -2119,8 +2116,6 @@
             <Game>Portal Category Extensions</Game>
             <Game>Portal Mods</Game>
             <Game>Rexaura</Game>
-            <Game>Portal 2</Game>
-            <Game>Portal Stories: Mel</Game>
             <Game>Source Mods</Game>
             <Game>1187: Episode One</Game>
             <Game>Estranged: Act I</Game>
@@ -2186,6 +2181,20 @@
         <Description>Game Time and Auto Splitting are available. (By Fatalis)</Description>
         <Website>https://github.com/fatalis/sourcesplit/blob/master/README.md</Website>
         <ShowInLayoutEditor />
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Aperture Tag</Game>
+            <Game>Portal 2</Game>
+            <Game>Portal Reloaded</Game>
+            <Game>Portal Stories: Mel</Game>
+            <Game>Thinking with Time Machine</Game>
+        </Games>
+        <URLs>
+            <URL>https://s.portal2.sr/asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Game Time and Auto Splitting are available. (By NeKz and mlugg)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
