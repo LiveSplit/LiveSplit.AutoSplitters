@@ -13611,4 +13611,24 @@
         <Description>Autosplitting requires PICO-8 and special cart. By probablypablito</Description>
         <Website>https://github.com/cominixo/ClassicAutosplitter/</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Remothered: Tormented Fathers</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/rythin-sr/ASL-Scripts/master/Remothered.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Removal is available (by rythin)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Inscryption</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/rythin-sr/ASL-Scripts/master/Inscryption.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Removal is available (by rythin)</Description>
+    </AutoSplitter>
 </AutoSplitters>
