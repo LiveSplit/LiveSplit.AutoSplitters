@@ -13621,4 +13621,14 @@
         <Type>Script</Type>
         <Description>Load Removal is available (by rythin)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Solar Ash</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Micrologist/LiveSplit.SolarAsh/main/solarash.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Removal (by Micrologist#2351)</Description>
+    </AutoSplitter>
 </AutoSplitters>
