@@ -7011,9 +7011,9 @@
             <Game>Sonic Forever</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/SonicSpeedrunning/SonicForeverAutoSplitter/main/S1ForeverAutosplitter.asl</URL>
+            <URL>https://raw.githubusercontent.com/SonicSpeedrunning/LiveSplit.Sonic1Forever/master/Components/LiveSplit.Sonic1Forever.dll</URL>
         </URLs>
-        <Type>Script</Type>
+        <Type>Component</Type>
         <Description>Supports both 32bit and 64bit</Description>
         <Website>https://github.com/SonicSpeedrunning/SonicForeverAutoSplitter</Website>
     </AutoSplitter>
