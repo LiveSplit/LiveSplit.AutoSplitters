@@ -13631,4 +13631,14 @@
         <Type>Script</Type>
         <Description>Load Removal (by Micrologist#2351)</Description>
     </AutoSplitter>
+	<AutoSplitter>
+		<Games>
+			<Game>Lost in Random</Game>
+		</Games>
+		<URLs>
+			<URL>https://raw.githubusercontent.com/Mysterion06/LostInRandom-Splitter/main/LostInRandomScript.asl</URL>
+		</URLs>
+		<Type>Script</Type>
+		<Description>Loadremover and start by Mysterion_06_</Description>
+	</AutoSplitter>
 </AutoSplitters>
