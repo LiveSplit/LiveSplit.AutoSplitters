@@ -2315,8 +2315,8 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
-            <Game>kuso</Game>
             <Game>LOVE 2: kuso</Game>
+            <Game>kuso</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/neesi/autosplitters/master/kuso/kuso_livesplit.asl</URL>
