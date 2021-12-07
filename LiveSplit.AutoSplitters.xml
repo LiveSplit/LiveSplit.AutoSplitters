@@ -2311,7 +2311,7 @@
             <URL>https://raw.githubusercontent.com/neesi/autosplitters/master/LOVE/LOVE_livesplit.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Enter speedrun mode to initiate the script. After that, it works in all game modes. Auto start, split, reset. Game Time syncing. SleepMargin settings to fix low in-game FPS.</Description>
+        <Description>Works in all game modes after you enter Speedrun mode. Auto start, split, reset. IGT syncing. SleepMargin settings to fix low in-game FPS.</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -2327,6 +2327,7 @@
     <AutoSplitter>
         <Games>
             <Game>LOVE 3</Game>
+            <Game>LOVE3</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/neesi/autosplitters/master/LOVE3/LOVE3_livesplit.asl</URL>
