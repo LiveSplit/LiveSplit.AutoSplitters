@@ -2305,14 +2305,34 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
-            <Game>Love</Game>
-            <Game>Love+</Game>
+            <Game>LOVE</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/neesi/autosplitters/master/LOVE/LOVE_livesplit.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Automatic Timer Start and Auto Splitting is available. Splitter by majoneesi.</Description>
+        <Description>Enter speedrun mode to initiate the script. After that, it works in all game modes. Auto start, split, reset. Game Time syncing. SleepMargin settings to fix low in-game FPS.</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>kuso</Game>
+            <Game>LOVE 2: kuso</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/neesi/autosplitters/master/kuso/kuso_livesplit.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start, split, reset. Game Time syncing. SleepMargin settings to fix low in-game FPS.</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>LOVE 3</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/neesi/autosplitters/master/LOVE3/LOVE3_livesplit.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start, split, reset. Game Time syncing. Script works in Time Attack mode only (including Level Select).</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -8939,17 +8959,6 @@
         </URLs>
         <Type>Script</Type>
         <Description> Load removal and auto splitting. By: Your Solution </Description>
-    </AutoSplitter>
-    <AutoSplitter>
-        <Games>
-            <Game>Kuso</Game>
-	    <Game>LOVE 2: kuso</Game>
-        </Games>
-        <URLs>
-            <URL>https://raw.githubusercontent.com/neesi/autosplitters/master/kuso/kuso_livesplit.asl</URL>
-        </URLs>
-        <Type>Script</Type>
-        <Description>IGT syncing, automatic starting, splitting and resetting. Works in all game modes. Splitter by majoneesi.</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
