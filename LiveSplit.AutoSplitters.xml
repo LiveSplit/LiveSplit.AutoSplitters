@@ -13651,4 +13651,14 @@
 		<Type>Script</Type>
 		<Description>Loadremover and start by Mysterion_06_</Description>
 	</AutoSplitter>
+	<AutoSplitter>
+        <Games>
+            <Game>Prototype</Game>
+        </Games>
+        <URLs>
+            <URL>https://gist.githubusercontent.com/partoftheworlD/c371df2bd0aba59d56dfd9497c43fa37/raw/1553f351ab0a64f841df0428abbc2e9619a1680a/prototype_igt.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Loadremover for Prototype by partoftheworlD</Description>
+    </AutoSplitter>
 </AutoSplitters>
