@@ -369,6 +369,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Sonic 4: Episode II</Game>
+            <Game>Sonic 4: Episode Metal</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/SonicSpeedrunning/LiveSplit.Sonic4Episode2/master/Components/LiveSplit.Sonic4Episode2.dll</URL>
+        </URLs>
+        <Type>Component</Type>
+        <Description>Autosplitting by Jujstme</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Brave Fencer Musashi</Game>
         </Games>
         <URLs>
