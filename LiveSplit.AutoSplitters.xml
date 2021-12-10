@@ -2337,6 +2337,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Halo Infinite</Game>
+            <Game>Halo Infinite Category Extensions</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Jujstme/Autosplitters/master/Halo%20Infinite/HaloInfinite.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load remover by Jujstme</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>LOVE 3</Game>
             <Game>LOVE3</Game>
         </Games>
