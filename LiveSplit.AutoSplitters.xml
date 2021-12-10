@@ -13661,7 +13661,7 @@
             <URL>https://raw.githubusercontent.com/Micrologist/LiveSplit.SolarAsh/main/solarash.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load Removal (by Micrologist#2351)</Description>
+        <Description>Auto Splitting & Load Removal (by Micrologist#2351)</Description>
     </AutoSplitter>
 	<AutoSplitter>
 		<Games>
