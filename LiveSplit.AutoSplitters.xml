@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
+    <AutoSplitter>
+        <Games>
+            <Game>Scoot Kaboom and the Tomb of Doom</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/ntzm/SKATTOD-Autosplitter/main/SKATTOD.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for Scoot Kaboom and the Tomb of Doom by ntzm</Description>
+    </Autosplitter>
 <AutoSplitter>
         <Games>
             <Game>REVISITOR</Game>
