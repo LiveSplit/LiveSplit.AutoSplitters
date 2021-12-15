@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
+	<AutoSplitter>
+        <Games>
+            <Game>Call Of Juarez: Gunslinger</Game>
+	    <Game>CoJ: Gunslinger</Game>
+	    <Game>CoJ:G</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/AidenFear/Autosplitters/main/CoJGunslinger.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter + Load Remover for Call of Juarez: Gunslinger (By AidenFear)</Description>
+        <Website>https://www.speedrun.com/call_of_juarez_gunslinger</Website>
+  </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>Scoot Kaboom and the Tomb of Doom</Game>
