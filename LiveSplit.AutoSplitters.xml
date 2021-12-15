@@ -7462,7 +7462,6 @@
 			<Game>TR2 Gold</Game>
 			<Game>TRII: Golden Mask</Game>
 			<Game>TR2: Golden Mask</Game>
-			<Game>Classic Tomb Raider Category Extensions</Game>
 		</Games>
 		<URLs>
 			<URL>https://raw.githubusercontent.com/TombRunners/autosplitters/master/TombRaiderIIGold/Components/TR2Gold.dll</URL>
@@ -9182,9 +9181,11 @@
     <AutoSplitter>
         <Games>
 	        <Game>Tomb Raider I</Game>
+	        <Game>Tomb Raider 1</Game>
 	        <Game>Tomb Raider</Game>
 	        <Game>Tomb Raider (1996)</Game>
 	        <Game>TRI</Game>
+	        <Game>TR1</Game>
 	        <Game>TR</Game>
 	        <Game>TR1996</Game>
         </Games>
