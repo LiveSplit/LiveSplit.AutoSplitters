@@ -4280,7 +4280,7 @@
             <Game>Black Mesa (MOD Version)</Game>
         </Games>
         <URLs>
-            <URL>https://github.com/thisis2838/SourceSplit/raw/master/update/LiveSplit.SourceSplit.dll/URL>
+            <URL>https://github.com/thisis2838/SourceSplit/raw/master/update/LiveSplit.SourceSplit.dll</URL>
         </URLs>
         <Type>Component</Type>
         <ShowInLayoutEditor />
