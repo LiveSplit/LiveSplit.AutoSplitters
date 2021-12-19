@@ -2124,9 +2124,6 @@
     <AutoSplitter>
         <Games>
             <Game>Source Engine</Game>
-            <Game>Black Mesa: Source</Game>
-            <Game>Black Mesa</Game>
-            <Game>Black Mesa (MOD Version)</Game>
             <Game>Blue Portals</Game>
             <Game>Dark Messiah of Might and Magic</Game>
             <Game>Dear Esther</Game>
@@ -4278,11 +4275,15 @@
             <Game>Sin Episodes Emergence</Game>
             <Game>Sin Episodes</Game>
             <Game>Synergy</Game>
+            <Game>Black Mesa: Source</Game>
+            <Game>Black Mesa</Game>
+            <Game>Black Mesa (MOD Version)</Game>
         </Games>
         <URLs>
-            <URL>https://github.com/thisis2838/SourceSplit/releases/download/2838-fork/LiveSplit.SourceSplit.dll</URL>
+            <URL>https://github.com/thisis2838/SourceSplit/raw/master/update/LiveSplit.SourceSplit.dll</URL>
         </URLs>
         <Type>Component</Type>
+        <ShowInLayoutEditor />
         <Description>Game Time and Auto Splitting are available. (By Fatalis and 2838)</Description>
         <Website>https://github.com/thisis2838/SourceSplit/blob/master/README.md</Website>
     </AutoSplitter>
