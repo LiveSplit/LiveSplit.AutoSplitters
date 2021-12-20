@@ -2124,86 +2124,20 @@
     <AutoSplitter>
         <Games>
             <Game>Source Engine</Game>
-            <Game>Blue Portals</Game>
             <Game>Dark Messiah of Might and Magic</Game>
-            <Game>Dear Esther</Game>
             <Game>E.Y.E: Divine Cybermancy</Game>
-            <Game>Half-Life: Source</Game>
             <Game>Half-Life 2</Game>
             <Game>Half-Life 2 Category Extensions</Game>
             <Game>Half-Life 2: Episode One</Game>
             <Game>Half-Life 2: Episode Two</Game>
-            <Game>Half-Life 2: Lost Coast</Game>
-            <Game>Half-Life 2: Sniper's Episode</Game>
             <Game>Half-Life 2: Ghosting Mod</Game>
-            <Game>Half-Life 2 Mods</Game>
             <Game>Half-Life 2 Done Portal</Game>
             <Game>Portal</Game>
             <Game>Portal: Prelude</Game>
-            <Game>Portal Elevators</Game>
-            <Game>Portal: Elevators</Game>
-            <Game>Portal: Canonical Base of RxRxR</Game>
-            <Game>Portal: CBoRRR</Game>
             <Game>Portal Category Extensions</Game>
             <Game>Portal Mods</Game>
-            <Game>Rexaura</Game>
-            <Game>Source Mods</Game>
-            <Game>1187: Episode One</Game>
-            <Game>Estranged: Act I</Game>
             <Game>Blamod Reborn</Game>
-            <Game>CombinationVille</Game>
-            <Game>Companion Piece</Game>
-            <Game>Dank Memes</Game>
-            <Game>Dark Intervention</Game>
-            <Game>Dear Esther(mod version)</Game>
-            <Game>Entropy : Zero</Game>
-            <Game>Episode One</Game>
-            <Game>EXIT 2</Game>
-            <Game>Experimental Fuel</Game>
             <Game>FakeFactory's Cinematic Mod</Game>
-            <Game>Gordon Freakman</Game>
-            <Game>Gordon Freakman 2: Kleiner-Life</Game>
-            <Game>Half-Life 2: Deep Down</Game>
-            <Game>Half-Life 2: DownFall</Game>
-            <Game>Half-Life 2: Reject</Game>
-            <Game>Half-Life 2: Uncertainty Principle</Game>
-            <Game>Half-Life 2: Year Long Alarm</Game>
-            <Game>Half-Life: Abridged</Game>
-            <Game>Hells Mines</Game>
-            <Game>ICE</Game>
-            <Game>Kill the Monk</Game>
-            <Game>PhaseVille</Game>
-            <Game>Prospekt</Game>
-            <Game>RunThinkShootLiveVille</Game>
-            <Game>School Adventures</Game>
-            <Game>The 72-Second Experiment</Game>
-            <Game>The Lost City</Game>
-            <Game>Think Tank</Game>
-            <Game>Tinje</Game>
-            <Game>Too Many Crates!</Game>
-            <Game>Transmissions: Element 120</Game>
-            <Game>TrapVille</Game>
-            <Game>Upmine Struggle</Game>
-            <Game>Very Hard Mod</Game>
-            <Game>Watching Paint Dry: The Game</Game>
-            <Game>Get a Life</Game>
-            <Game>Nightmare House 2</Game>
-            <Game>The Forgotten Ones</Game>
-            <Game>Grey</Game>
-            <Game>Black Mesa: Hazard Course</Game>
-            <Game>Clone Machine</Game>
-            <Game>Da Baby</Game>
-            <Game>DayHard</Game>
-            <Game>Jolly's Hardcore Mod</Game>
-            <Game>Logistique Act. 1</Game>
-            <Game>The Citizen Series</Game>
-            <Game>The PTSD Mod</Game>
-            <Game>Hunt Down the Freeman</Game>
-            <Game>Precursor</Game>
-            <Game>Hangover</Game>
-            <Game>Gnome</Game>
-            <Game>Half-Life 2: Genry's Great Escape From City 13</Game>
-            <Game>Half-Life 2: Offshore</Game>
         </Games>
         <URLs>
             <URL>http://fatalis.pw/livesplit/update/Components/LiveSplit.SourceSplit.dll</URL>
@@ -4278,6 +4212,72 @@
             <Game>Black Mesa: Source</Game>
             <Game>Black Mesa</Game>
             <Game>Black Mesa (MOD Version)</Game>
+            <Game>Blue Portals</Game>
+            <Game>Dear Esther</Game>
+            <Game>Half-Life: Source</Game>
+            <Game>Half-Life 2: Lost Coast</Game>
+            <Game>Half-Life 2: Sniper's Episode</Game>
+            <Game>Half-Life 2 Mods</Game>
+            <Game>Portal: Canonical Base of RxRxR</Game>
+            <Game>Portal: CBoRRR</Game>
+            <Game>Rexaura</Game>
+            <Game>1187: Episode One</Game>
+            <Game>Estranged: Act I</Game>
+            <Game>CombinationVille</Game>
+            <Game>Source Mods</Game>
+            <Game>Companion Piece</Game>
+            <Game>Dank Memes</Game>
+            <Game>Dark Intervention</Game>
+            <Game>Dear Esther(mod version)</Game>
+            <Game>Entropy : Zero</Game>
+            <Game>Episode One</Game>
+            <Game>EXIT 2</Game>
+            <Game>Experimental Fuel</Game>
+            <Game>Gordon Freakman</Game>
+            <Game>Gordon Freakman 2: Kleiner-Life</Game>
+            <Game>Half-Life 2: Deep Down</Game>
+            <Game>Half-Life 2: DownFall</Game>
+            <Game>Half-Life 2: Reject</Game>
+            <Game>Half-Life 2: Uncertainty Principle</Game>
+            <Game>Half-Life 2: Year Long Alarm</Game>
+            <Game>Half-Life: Abridged</Game>
+            <Game>Hells Mines</Game>
+            <Game>ICE</Game>
+            <Game>Kill the Monk</Game>
+            <Game>PhaseVille</Game>
+            <Game>Prospekt</Game>
+            <Game>RunThinkShootLiveVille</Game>
+            <Game>School Adventures</Game>
+            <Game>The 72-Second Experiment</Game>
+            <Game>The Lost City</Game>
+            <Game>Think Tank</Game>
+            <Game>Tinje</Game>
+            <Game>Too Many Crates!</Game>
+            <Game>Transmissions: Element 120</Game>
+            <Game>TrapVille</Game>
+            <Game>Upmine Struggle</Game>
+            <Game>Very Hard Mod</Game>
+            <Game>Watching Paint Dry: The Game</Game>
+            <Game>Get a Life</Game>
+            <Game>Nightmare House 2</Game>
+            <Game>The Forgotten Ones</Game>
+            <Game>Grey</Game>
+            <Game>Black Mesa: Hazard Course</Game>
+            <Game>Clone Machine</Game>
+            <Game>Da Baby</Game>
+            <Game>DayHard</Game>
+            <Game>Jolly's Hardcore Mod</Game>
+            <Game>Logistique Act. 1</Game>
+            <Game>The Citizen Series</Game>
+            <Game>The PTSD Mod</Game>
+            <Game>Hunt Down the Freeman</Game>
+            <Game>Precursor</Game>
+            <Game>Hangover</Game>
+            <Game>Gnome</Game>
+            <Game>Half-Life 2: Genry's Great Escape From City 13</Game>
+            <Game>Half-Life 2: Offshore</Game>
+            <Game>Portal Elevators</Game>
+            <Game>Portal: Elevators</Game>
         </Games>
         <URLs>
             <URL>https://github.com/thisis2838/SourceSplit/raw/master/update/LiveSplit.SourceSplit.dll</URL>
