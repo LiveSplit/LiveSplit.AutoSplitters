@@ -13738,4 +13738,14 @@
         <Type>Script</Type>
         <Description>Loadremover for Prototype by partoftheworlD</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Buzz Lightyear of Star Command (PC)</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/hdc0/LiveSplit-asl/master/Buzz%20Lightyear%20of%20Star%20Command.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto starting, splitting and load removal. (By hdc0)</Description>
+    </AutoSplitter>
 </AutoSplitters>
