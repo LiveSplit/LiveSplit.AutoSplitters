@@ -13749,4 +13749,14 @@
         <Type>Script</Type>
         <Description>Auto starting, splitting and load removal. (By hdc0)</Description>
     </AutoSplitter>
+	<AutoSplitter>
+        <Games>
+            <Game>Pingwinek Kelvin</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/rythin-sr/ASL-Scripts/master/PingwinekKelvin.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting and Load Removal available (by rythin, Flower35)</Description>
+    </AutoSplitter>
 </AutoSplitters>
