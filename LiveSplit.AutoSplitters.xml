@@ -1305,6 +1305,7 @@
             <Game>Gunfire Reborn</Game>
         </Games>
         <URLs>
+	    <URL>https://raw.githubusercontent.com/just-ero/AutoSplitHelp/master/mono/mono_il2cpp_2019_x64.xml</URL>
             <URL>https://raw.githubusercontent.com/just-ero/AutoSplitTools/master/Gunfire%20Reborn/GunfireReborn.asl</URL>
         </URLs>
         <Type>Script</Type>
