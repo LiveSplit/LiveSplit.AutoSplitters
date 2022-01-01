@@ -297,7 +297,7 @@ vars.exe = memory.ReadBytes(modules.First().BaseAddress, modules.First().ModuleM
 vars.test = memory.ReadValue<byte>(modules.First().BaseAddress + 0x9001);
 vars.test2 = memory.ReadString(modules.First().BaseAddress + 0x9002, 256);
 vars.test3 = new DeepPointer("some.dll", 0x9003, vars.test, 0x02).Deref<int>(game);
-vars.test4 = memory.ReadString(modules.Where(m => x.ModuleName == "some.dll").First().BaseAddress + 0x9002, 256);
+vars.test4 = memory.ReadString(modules.Where(m => m.ModuleName == "some.dll").First().BaseAddress + 0x9002, 256);
 ```
 
 ### Settings
