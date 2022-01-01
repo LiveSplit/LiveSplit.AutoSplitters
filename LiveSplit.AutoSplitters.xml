@@ -2296,11 +2296,11 @@
             <Game>Halo Infinite Category Extensions</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Jujstme/LiveSplit.HaloInfinite/master/Components/LiveSplit.HaloInfinite.dll</URL>
+            <URL>https://raw.githubusercontent.com/Jujstme/Autosplitters/master/Halo%20Infinite/HaloInfinite.asl</URL>
         </URLs>
-        <Type>Component</Type>
+        <Type>Script</Type>
         <Description>Configurable autosplitting and load remover (by Jujstme)</Description>
-        <Website>https://github.com/Jujstme/LiveSplit.HaloInfinite</Website>
+        <Website>https://github.com/Jujstme/Autosplitters/tree/master/Halo%20Infinite</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
