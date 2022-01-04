@@ -1403,6 +1403,18 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>PAW Patrol: Mighty Pups save Adventure Bay</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/just-ero/AutoSplitTools/master/PAW%20Patrol%20%E2%80%93%20Mighty%20Pups%20save%20Adventure%20Bay/PP_MPsAB.asl</URL>
+            <URL>https://raw.githubusercontent.com/just-ero/AutoSplitHelp/master/mono/mono_v2_x64.xml</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Removes loads. (by Ero)</Description>
+        <Website>https://github.com/just-ero/AutoSplitTools/tree/master/PAW%20Patrol%20%E2%80%93%20Mighty%20Pups%20save%20Adventure%20Bay</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>The Pedestrian</Game>
         </Games>
         <URLs>
