@@ -3102,10 +3102,11 @@
             <Game>KotOR</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/glasnonck/LiveSplit.ASL/master/KotOR.asl</URL>
+            <URL>https://raw.githubusercontent.com/x-e-r-o/KotOR-Autosplitter/master/K1splitter.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load Removal is available. (By glasnonck)</Description>
+        <Description>Auto Splitter is available by Xero. Includes Load Removal by glasnonck.</Description>
+	    <Website>https://github.com/x-e-r-o/KotOR-Autosplitter/blob/master/README.md</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
