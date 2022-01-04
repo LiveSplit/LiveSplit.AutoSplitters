@@ -13770,4 +13770,19 @@
         <Type>Script</Type>
         <Description>Autosplitting and Load Removal available (by rythin, Flower35)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Aldo's Adventure</Game>
+            <Game>Aldo's Adventure v1.0</Game>
+            <Game>Aldo's Adventure v1.1</Game>
+            <Game>Aldo Again</Game>
+            <Game>Aldo's Assault</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/sonneveld/aldo-livesplit/master/aldo.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for the Aldo series on DOSBox. Split at the end of each level.</Description>
+        <Website>https://github.com/sonneveld/aldo-livesplit</Website>
+    </AutoSplitter>
 </AutoSplitters>
