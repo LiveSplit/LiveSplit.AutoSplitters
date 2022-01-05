@@ -12176,10 +12176,10 @@
 	        <Game>TR3</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/TombRunners/autosplitters/master/LiveSplit.TR3.asl</URL>
+	        <URL>https://raw.githubusercontent.com/TombRunners/autosplitters/master/TombRaiderIII/Components/TR3.dll</URL>
         </URLs>
-        <Type>Script</Type>
-        <Description>Automatic start, split, reset, and IGT display are available. (by apel, Danza, Midge, rr-)</Description>
+        <Type>Component</Type>
+        <Description>Automatic start, split, reset, and IGT for FG, IL, and deathruns. By apel, Danza, Midge, rr-, rtrger</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
