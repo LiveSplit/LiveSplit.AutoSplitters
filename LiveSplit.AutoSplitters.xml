@@ -7134,6 +7134,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Chrono Cross</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Coltaho/Autosplitters/master/ChronoCross/ChronoCrossautosplit.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for Chrono Cross (By Coltaho)</Description>
+        <Website>https://github.com/Coltaho/Autosplitters/blob/master/ChronoCross/README.md</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Astalon: Tears of the Earth</Game>
             <Game>Astalon</Game>
         </Games>
