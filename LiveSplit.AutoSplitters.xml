@@ -396,9 +396,9 @@
             <Game>Sonic 4: Episode Metal</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/SonicSpeedrunning/LiveSplit.Sonic4Episode2/master/Components/LiveSplit.Sonic4Episode2.dll</URL>
+            <URL>https://raw.githubusercontent.com/SonicSpeedrunning/LiveSplit.Sonic4Episode2/master/LiveSplit.Sonic4Episode2.asl</URL>
         </URLs>
-        <Type>Component</Type>
+        <Type>Script</Type>
         <Description>Autosplitting by Jujstme</Description>
     </AutoSplitter>
     <AutoSplitter>
