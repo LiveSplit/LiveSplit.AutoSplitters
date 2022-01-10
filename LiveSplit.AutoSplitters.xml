@@ -13820,7 +13820,6 @@
         <Description>Autosplitter for the Vlak on DOSBox 0.72. Split at the end of each level.</Description>
         <Website>https://github.com/Marek2810/Vlak</Website>
     </AutoSplitter>
-</AutoSplitters>
 	<AutoSplitter>
 		<Games>
 			<Game>Gazillionaire</Game>
@@ -13833,3 +13832,4 @@
 		<Description>Auto start/split/reset, splits at start of week on every million or every victory. (By SabulineHorizon)</Description>
 		<Website>https://github.com/SabulineHorizon/Autosplitters</Website>
 	</AutoSplitter>
+</AutoSplitters>
