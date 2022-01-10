@@ -13821,3 +13821,15 @@
         <Website>https://github.com/Marek2810/Vlak</Website>
     </AutoSplitter>
 </AutoSplitters>
+	<AutoSplitter>
+		<Games>
+			<Game>Gazillionaire</Game>
+			<Game>Gazillionaire!</Game>
+		</Games>
+		<URLs>
+			<URL>https://raw.githubusercontent.com/SabulineHorizon/Autosplitters/main/Gazillionaire.asl</URL>
+		</URLs>
+		<Type>Script</Type>
+		<Description>Auto start/split/reset, splits at start of week on every million or every victory. (By SabulineHorizon)</Description>
+		<Website>https://github.com/SabulineHorizon/Autosplitters</Website>
+	</AutoSplitter>
