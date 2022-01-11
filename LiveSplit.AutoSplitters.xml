@@ -13832,4 +13832,17 @@
 		<Description>Auto start/split/reset, splits at start of week on every million or every victory. (By SabulineHorizon)</Description>
 		<Website>https://github.com/SabulineHorizon/Autosplitters</Website>
 	</AutoSplitter>
+	<AutoSplitter>
+    <Games>
+      <Game>Dead Island Riptide:DE</Game>
+      <Game>Dead Island Riptide - Definitive Edition</Game>
+      <Game>DIRDE</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/LTR-JT/AutoSplitters/main/DIRDE-Splits.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>Auto start/split, splits are at start of every chapter (LTR-JT)</Description>
+    <Website>https://www.speedrun.com/dead_island_riptide</Website>
+  </AutoSplitter>
 </AutoSplitters>
