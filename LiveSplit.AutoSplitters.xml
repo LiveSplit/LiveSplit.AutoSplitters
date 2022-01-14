@@ -13857,4 +13857,15 @@
 		<Description>Autosplitter with LRT by Mysterion_06_</Description>
 		<Website>https://github.com/Mysterion06/FF7RSplitter/blob/main/README.md</Website>
 	</AutoSplitter>
+	<AutoSplitter>
+		<Games>
+			<Game>Sonic's Schoolhouse</Game>
+		</Games>
+		<URLs>
+			<URL>https://raw.githubusercontent.com/SpectralPlatypus/AutoSplitters/master/SonicSH.asl</URL>
+		</URLs>
+		<Type>Script</Type>
+		<Description>Autosplitter for Sonic's Schoolhouse (by SpectralPlatypus)</Description>
+		<Website>https://www.speedrun.com/sonics_schoolhouse</Website>
+	</AutoSplitter>
 </AutoSplitters>
