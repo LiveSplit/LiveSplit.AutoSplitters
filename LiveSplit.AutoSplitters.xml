@@ -13868,4 +13868,18 @@
 		<Description>Autosplitter for Sonic's Schoolhouse (by SpectralPlatypus)</Description>
 		<Website>https://www.speedrun.com/sonics_schoolhouse</Website>
 	</AutoSplitter>
+	<AutoSplitter>
+		<Games>
+			<Game>OpenTTD</Game>
+			<Game>OpenTTD 1.11.2</Game>
+			<Game>OpenTTD 1.12.1</Game>
+			<Game>OpenTTD 12.1</Game>
+		</Games>
+		<URLs>
+			<URL>https://raw.githubusercontent.com/yaram/openttd-autosplitter/master/OpenTTD.asl</URL>
+		</URLs>
+		<Type>Script</Type>
+		<Description>Autosplitting, Autostart, Auto Reset for OpenTTD (by Yaram)</Description>
+		<Website>https://github.com/yaram/openttd-autosplitter</Website>
+	</AutoSplitter>
 </AutoSplitters>
