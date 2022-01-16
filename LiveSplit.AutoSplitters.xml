@@ -9398,10 +9398,10 @@
             <Game>The Evil Within</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Mattmatt10111/asl-scripts/master/evilwithin.asl</URL>
+            <URL>https://raw.githubusercontent.com/Mysterion06/TEWSplitter/main/EvilWithinIGT.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto Splitting and Load Removal are available. (by Mattmatt)</Description>
+        <Description>Autosplitter and IGT by Mattmatt and Mysterion_06_</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
