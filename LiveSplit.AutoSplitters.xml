@@ -1306,7 +1306,7 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/just-ero/AutoSplitTools/master/Gunfire%20Reborn/GunfireReborn.asl</URL>
-	    <URL>https://raw.githubusercontent.com/just-ero/AutoSplitHelp/master/mono/mono_il2cpp_2019_x64.xml</URL>
+	    <URL>https://raw.githubusercontent.com/just-ero/AutoSplitHelp/master/mono/il2cpp_x64.xml</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Starts, resets automatically. Splits available in the settings. Pauses when dying. (by Ero)</Description>
