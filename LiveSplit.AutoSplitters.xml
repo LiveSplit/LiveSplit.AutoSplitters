@@ -4734,7 +4734,7 @@
             <URL>https://raw.githubusercontent.com/LukeSaward1/AutoSplitters/main/Ursa/Ursa_Autosplitter.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Game Time and Auto Start/Split/Reset are available. (By LukeSaward)</Description>
+        <Description>Game Time and Auto Start/Split/Reset are available. (By LukeSaward & Ero)</Description>
         <Website>https://github.com/LukeSaward1</Website>
     </AutoSplitter>
     <AutoSplitter>
@@ -4745,7 +4745,7 @@
             <URL>https://raw.githubusercontent.com/LukeSaward1/AutoSplitters/main/DiFM/DoItForMe.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Game Time and Auto Start/Split/Reset are available. DiFM Speedrun Mod v1.0.2 or above is required. (By LukeSaward)</Description>
+        <Description>Game Time, Auto Start/Split/Reset are available. DiFM Speedrun Mod >= v1.0.2 needed. (By LukeSaward)</Description>
         <Website>https://github.com/LukeSaward1/DiFM-Speedrun-Mod/releases/tag/v1.0.2</Website>
     </AutoSplitter>
     <AutoSplitter>
