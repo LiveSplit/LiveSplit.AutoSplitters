@@ -13897,4 +13897,15 @@
 		<Description>Autosplitting, Autostart, Auto Reset for OpenTTD (by Yaram)</Description>
 		<Website>https://github.com/yaram/openttd-autosplitter</Website>
 	</AutoSplitter>
+    <AutoSplitter>
+        <Games>
+	    <Game>Everhood</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/DeamonHunter/Autosplitters/main/Everhood/EverhoodAutosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart, Autosplitting and Load Removal for Everhood (by DeamonHunter)</Description>
+        <Website>https://github.com/DeamonHunter/Autosplitters/blob/main/Everhood/Readme.md</Website>
+    </AutoSplitter>
 </AutoSplitters>
