@@ -13897,4 +13897,15 @@
 		<Description>Autosplitting, Autostart, Auto Reset for OpenTTD (by Yaram)</Description>
 		<Website>https://github.com/yaram/openttd-autosplitter</Website>
 	</AutoSplitter>
+	<AutoSplitter>
+		<Games>
+			<Game>Receiver 2</Game>
+		</Games>
+		<URLs>
+			<URL>https://raw.githubusercontent.com/ultimate-vegan/receiver-2-anyperc-autosplitter/main/receiver-2.asl</URL>
+		</URLs>
+		<Type>Script</Type>
+		<Description>Autosplitter & in-game timer for Receiver 2, final split on pausing in last level (by vegan)</Description>
+		<Website>https://github.com/ultimate-vegan/receiver-2-anyperc-autosplitter</Website>
+	</AutoSplitter>
 </AutoSplitters>
