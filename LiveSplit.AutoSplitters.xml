@@ -13902,10 +13902,10 @@
 	    <Game>Everhood</Game>
         </Games>
         <URLs>
-            <URL>https://gist.githubusercontent.com/DeamonHunter/2c4a32e1dccc650d06f52e054a6f9ff3/raw/ce97ce5a277bbfba5034dde7371cf0b68146deca/EverhoodAutosplitter.asl</URL>
+            <URL>https://raw.githubusercontent.com/DeamonHunter/Autosplitters/main/Everhood/EverhoodAutosplitter.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autostart, Autosplitting and Load Removal for Everhood (by DeamonHunter)</Description>
-        <Website>https://gist.github.com/DeamonHunter/2c4a32e1dccc650d06f52e054a6f9ff3</Website>
+        <Website>https://github.com/DeamonHunter/Autosplitters/blob/main/Everhood/Readme.md</Website>
     </AutoSplitter>
 </AutoSplitters>
