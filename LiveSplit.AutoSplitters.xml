@@ -2,6 +2,17 @@
 <AutoSplitters>
 	<AutoSplitter>
         <Games>
+            <Game>The Two of Us</Game>
+	    <Game>ttou</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Radioactiv03/Other-Load-Removers/main/ttou.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter (By Radioactiv)</Description>
+  </AutoSplitter>
+	<AutoSplitter>
+        <Games>
             <Game>Call Of Juarez: Gunslinger</Game>
 	    <Game>CoJ: Gunslinger</Game>
 	    <Game>CoJ:G</Game>
