@@ -1317,7 +1317,8 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/just-ero/AutoSplitTools/master/Gunfire%20Reborn/GunfireReborn.asl</URL>
-	    <URL>https://raw.githubusercontent.com/just-ero/AutoSplitHelp/master/mono/il2cpp_x64.xml</URL>
+	    <URL>https://raw.githubusercontent.com/just-ero/AutoSplitHelp/main/mono/mono.cs</URL>
+	    <URL>https://raw.githubusercontent.com/just-ero/AutoSplitHelp/main/mono/mono_helpers.cs</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Starts, resets automatically. Splits available in the settings. Pauses when dying. (by Ero)</Description>
@@ -1418,7 +1419,8 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/just-ero/AutoSplitTools/master/PAW%20Patrol%20%E2%80%93%20Mighty%20Pups%20save%20Adventure%20Bay/PP_MPsAB.asl</URL>
-            <URL>https://raw.githubusercontent.com/just-ero/AutoSplitHelp/master/mono/mono_v2_x64.xml</URL>
+	    <URL>https://raw.githubusercontent.com/just-ero/AutoSplitHelp/main/mono/mono.cs</URL>
+	    <URL>https://raw.githubusercontent.com/just-ero/AutoSplitHelp/main/mono/mono_helpers.cs</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Removes loads. (by Ero)</Description>
@@ -1533,7 +1535,8 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/just-ero/AutoSplitTools/master/Strobophagia%20%E2%80%93%20Rave%20Horror/Strobophagia.asl</URL>
-	    <URL>https://raw.githubusercontent.com/just-ero/AutoSplitHelp/master/mono/il2cpp_master_x64.xml</URL>
+	    <URL>https://raw.githubusercontent.com/just-ero/AutoSplitHelp/main/mono/mono.cs</URL>
+	    <URL>https://raw.githubusercontent.com/just-ero/AutoSplitHelp/main/mono/mono_helpers.cs</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Starts, resets automatically. Splits available in the settings. Removes loads. (by Ero)</Description>
@@ -10972,7 +10975,8 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/ldmnt/ash-autosplitter/master/ASH_Autosplitter.asl</URL>
-            <URL>https://raw.githubusercontent.com/just-ero/AutoSplitHelp/master/mono/mono_v2_x86.xml</URL>
+	    <URL>https://raw.githubusercontent.com/just-ero/AutoSplitHelp/main/mono/mono.cs</URL>
+	    <URL>https://raw.githubusercontent.com/just-ero/AutoSplitHelp/main/mono/mono_helpers.cs</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Starts, resets, splits (check settings), syncs to IGT. Click 'Website' to look up locations. (by Ero and Hamb)</Description>
@@ -13929,5 +13933,16 @@
 		<Type>Script</Type>
 		<Description>Autosplitter and in-game timer for Receiver 2, final split on pausing in last level (by vegan)</Description>
 		<Website>https://github.com/ultimate-vegan/receiver-2-anyperc-autosplitter</Website>
+    </AutoSplitter>
+	<AutoSplitter>
+		<Games>
+			<Game>FINAL FANTASY TYPE-0</Game>
+		</Games>
+		<URLs>
+			<URL>https://raw.githubusercontent.com/Mysterion06/FFType0Splitter/main/FFType0_Splitter_Current.asl</URL>
+		</URLs>
+		<Type>Script</Type>
+		<Description>Autosplitter with LRT by Mysterion_06_</Description>
+		<Website>https://github.com/Mysterion06/FFType0Splitter/blob/main/README.md</Website>
 	</AutoSplitter>
 </AutoSplitters>
