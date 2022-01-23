@@ -4751,7 +4751,7 @@
             <URL>https://raw.githubusercontent.com/LukeSaward1/AutoSplitters/main/Neave/Neave_Autosplitter.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Game Time and Auto Start/Split/Reset are available. (By MiP and LukeSaward)</Description>
+        <Description>Game Time and Auto Start/Split/Reset are available. (By MiP, LukeSaward)</Description>
         <Website>https://github.com/LukeSaward1</Website>
     </AutoSplitter>
     <AutoSplitter>
@@ -4762,7 +4762,7 @@
             <URL>https://raw.githubusercontent.com/LukeSaward1/AutoSplitters/main/Ursa/Ursa_Autosplitter.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Game Time and Auto Start/Split/Reset are available. (By LukeSaward)</Description>
+        <Description>Game Time and Auto Start/Split/Reset are available. (By LukeSaward, Ero)</Description>
         <Website>https://github.com/LukeSaward1</Website>
     </AutoSplitter>
     <AutoSplitter>
@@ -4773,8 +4773,19 @@
             <URL>https://raw.githubusercontent.com/LukeSaward1/AutoSplitters/main/DiFM/DoItForMe.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Game Time and Auto Start/Split/Reset are available. DiFM Speedrun Mod v1.0.2 or above is required. (By LukeSaward)</Description>
-        <Website>https://github.com/LukeSaward1/DiFM-Speedrun-Mod/releases/tag/v1.0.2</Website>
+        <Description>Game Time, Auto Start/Split/Reset are available. Latest DiFM Speedrun Mod recommended. (By LukeSaward)</Description>
+        <Website>https://github.com/LukeSaward1/DiFM-Speedrun-Mod/releases/latest</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Nekour</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/LukeSaward1/AutoSplitters/main/Nekour/Nekour_Autosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Start/Split/Reset are available. Manual end split required. (By LukeSaward)</Description>
+        <Website>https://github.com/LukeSaward1/DiFM-Speedrun-Mod/releases/latest</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
