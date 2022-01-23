@@ -4774,7 +4774,18 @@
         </URLs>
         <Type>Script</Type>
         <Description>Game Time, Auto Start/Split/Reset are available. Latest DiFM Speedrun Mod recommended. (By LukeSaward)</Description>
-        <Website>https://github.com/LukeSaward1/DiFM-Speedrun-Mod/releases/tag/v1.0.2</Website>
+        <Website>https://github.com/LukeSaward1/DiFM-Speedrun-Mod/releases/latest</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Nekour</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/LukeSaward1/AutoSplitters/main/Nekour/Nekour_Autosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Start/Split/Reset are available. Manual end split required. (By LukeSaward)</Description>
+        <Website>https://github.com/LukeSaward1/DiFM-Speedrun-Mod/releases/latest</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
