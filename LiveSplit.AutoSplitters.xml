@@ -13956,4 +13956,16 @@
 		<Description>Autosplitter with LRT by Mysterion_06_</Description>
 		<Website>https://github.com/Mysterion06/FFType0Splitter/blob/main/README.md</Website>
 	</AutoSplitter>
+	<AutoSplitter>
+		<Games>
+			<Game>Wrath Aeon of Ruin</Game>
+			<Game>Wrath: Aeon of Ruin</Game>
+		</Games>
+		<URLs>
+			<URL>https://raw.githubusercontent.com/SabulineHorizon/Autosplitters/main/WrathAeonOfRuin.asl</URL>
+		</URLs>
+		<Type>Script</Type>
+		<Description>Auto start/split/reset. (By SabulineHorizon)</Description>
+		<Website>https://github.com/SabulineHorizon/Autosplitters</Website>
+	</AutoSplitter>
 </AutoSplitters>
