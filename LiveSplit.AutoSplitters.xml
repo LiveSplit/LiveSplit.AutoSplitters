@@ -2623,6 +2623,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Shrek The Third</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/GhostKir/misc/main/ShrekTheThird.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter by GhostKir</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Bully: Scholarship Edition</Game>
             <Game>Bully: Scholarship Edition - Category Extension</Game>
         </Games>
