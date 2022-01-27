@@ -10765,6 +10765,8 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/Micrologist/Livesplit.Karlson/master/Karlson3D.asl</URL>
+	    <URL>https://raw.githubusercontent.com/just-ero/AutoSplitHelp/main/mono/mono.cs</URL>
+	    <URL>https://raw.githubusercontent.com/just-ero/AutoSplitHelp/main/mono/mono_helpers.cs</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Game Time and Auto Splitting available. (By Micrologist)</Description>
