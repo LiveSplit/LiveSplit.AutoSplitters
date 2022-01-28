@@ -12555,13 +12555,15 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
-            <Game>Marble It Up!</Game>
+            <Game>Marble It UP!</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/TalentedPlatinum/AutoSplitters/main/MarbleItUp.asl</URL>
+	    <URL>https://raw.githubusercontent.com/just-ero/AutoSplitHelp/main/mono/mono.cs</URL>
+	    <URL>https://raw.githubusercontent.com/just-ero/AutoSplitHelp/main/mono/mono_helpers.cs</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>A Marble it up auto splitter (By TalentedPlatinum)</Description>
+        <Description>Starts the timer automatically on Learning To Roll. Splits available in the settings. (by TalentedPlatinum, Ero)</Description>
         <Website>https://github.com/TalentedPlatinum/AutoSplitters/blob/main/README.md</Website>
     </AutoSplitter>
     <AutoSplitter>
