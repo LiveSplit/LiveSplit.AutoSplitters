@@ -1349,6 +1349,19 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>How Fish Is Made</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/just-ero/AutoSplitTools/master/How%20Fish%20is%20Made/HowFishIsMade.asl</URL>
+	    <URL>https://raw.githubusercontent.com/just-ero/AutoSplitHelp/main/mono/mono.cs</URL>
+	    <URL>https://raw.githubusercontent.com/just-ero/AutoSplitHelp/main/mono/mono_helpers.cs</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Starts, resets automatically. Splits when the end dialog begins. (by Ero)</Description>
+        <Website>https://github.com/just-ero/AutoSplitTools/tree/master/How%20Fish%20is%20Made</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Just Shake It</Game>
         </Games>
         <URLs>
