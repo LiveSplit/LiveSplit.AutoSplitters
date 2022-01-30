@@ -14010,4 +14010,15 @@
 		<Description>Autosplitter by Mysterion_06_</Description>
 		<Website>https://github.com/Mysterion06/GunSplitter/blob/main/README.md</Website>
 	</AutoSplitter>
+	<AutoSplitter>
+		<Games>
+			<Game>Tytus Romek i A'Tomek</Game>
+			<Game>Monkey's Adventures</Game>
+		</Games>
+		<URLs>
+			<URL>https://raw.githubusercontent.com/rythin-sr/ASL-Scripts/master/Tytus.asl</URL>
+		</URLs>
+		<Type>Script</Type>
+		<Description>Autosplitting and Load Removal available (by rythin)</Description>
+	</AutoSplitter>
 </AutoSplitters>
