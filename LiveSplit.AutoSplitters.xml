@@ -14034,4 +14034,15 @@
 		<Type>Script</Type>
 		<Description>Autosplitting and Load Removal available (by rythin)</Description>
 	</AutoSplitter>
+	<AutoSplitter>
+		<Games>
+			<Game>Simmiland</Game>
+		</Games>
+		<URLs>
+			<URL>https://raw.githubusercontent.com/Consoletation/LiveSplit.AutoSplitters/main/Simmiland.asl</URL>
+		</URLs>
+		<Type>Script</Type>
+		<Description>Auto start/reset, in-game timer.</Description>
+		<Website>https://www.speedrun.com/simmiland/</Website>
+	</AutoSplitter>
 </AutoSplitters>
