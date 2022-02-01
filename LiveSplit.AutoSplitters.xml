@@ -13971,9 +13971,11 @@
 		</Games>
 		<URLs>
 			<URL>https://raw.githubusercontent.com/ultimate-vegan/receiver-2-anyperc-autosplitter/main/receiver-2.asl</URL>
+			<URL>https://raw.githubusercontent.com/just-ero/AutoSplitHelp/main/mono/mono.cs</URL>
+			<URL>https://raw.githubusercontent.com/just-ero/AutoSplitHelp/main/mono/mono_helpers.cs</URL>
 		</URLs>
 		<Type>Script</Type>
-		<Description>Autosplitter and in-game timer for Receiver 2, final split on pausing in last level (by vegan)</Description>
+		<Description>Autosplitter and in-game timer for Receiver 2, final split on pausing in last level (by vegan, Ero)</Description>
 		<Website>https://github.com/ultimate-vegan/receiver-2-anyperc-autosplitter</Website>
     </AutoSplitter>
 	<AutoSplitter>
