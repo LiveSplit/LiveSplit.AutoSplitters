@@ -97,6 +97,18 @@
         <Type>Script</Type>
         <Description>Loadless timer made by TDOG20</Description>
     </AutoSplitter>
+    </AutoSplitter>
+	<AutoSplitter>
+        <Games>
+            <Game>Webbed</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/GiraudoSR/Autosplitters/master/Webbed/Webbed%20Autosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for Webbed by Giraudo</Description>
+	<Website>https://github.com/GiraudoSR/Autosplitters/blob/master/Webbed/Webbed%20Autosplitter.asl</Website>
+    </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>UNSIGHTED</Game>
