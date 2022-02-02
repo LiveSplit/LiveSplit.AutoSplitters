@@ -2488,10 +2488,10 @@
             <Game>Left 4 Dead: Survivors</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/ImAciidz/L4D2-Autosplitter/main/L4D2Survivors.asl</URL>
+            <URL>https://raw.githubusercontent.com/Suprnova/L4DAC-Autosplitter/main/L4DSurvivors.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load Removal and Auto Splitting are available. (By Aciidz and bill_play3)</Description>
+        <Description>Game Time and Auto Splitting are available. (By Aciidz,bill_play3, and Suprnova)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
