@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
+<AutoSplitter>
+        <Games>
+            <Game>Far Cry 6</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/LiterallyMetaphorical/LiveSplit.FarCry6/main/FarCry6.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Remover for Far Cry 6 (By AlexYeahNot, Binslev & Meta)</Description>
+        <Website>https://discord.com/invite/3KA4UY3</Website>
+</AutoSplitter>
 	<AutoSplitter>
         <Games>
             <Game>The Two of Us</Game>
