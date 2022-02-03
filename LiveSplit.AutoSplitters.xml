@@ -11,6 +11,16 @@
         <Type>Script</Type>
         <Description>Autosplitter (By Radioactiv)</Description>
   </AutoSplitter>
+<AutoSplitter>
+        <Games>
+            <Game>Far Cry 6</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/LiterallyMetaphorical/LiveSplit.FarCry6/main/FarCry6.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Remover (By AlexYeahNot, Binslev, & Meta)</Description>
+  </AutoSplitter>
 	<AutoSplitter>
         <Games>
             <Game>Call Of Juarez: Gunslinger</Game>
