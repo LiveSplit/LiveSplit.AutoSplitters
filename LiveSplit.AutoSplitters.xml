@@ -14057,4 +14057,15 @@
 		<Description>Auto start/reset, in-game timer.</Description>
 		<Website>https://www.speedrun.com/simmiland/</Website>
 	</AutoSplitter>
+	<AutoSplitter>
+		<Games>
+			<Game>Muumit Ja Taikurin hattu</Game>
+		</Games>
+		<URLs>
+			<URL>https://raw.githubusercontent.com/SioNisti/SioNisti.github.io/master/mum3.asl</URL>
+		</URLs>
+		<Type>Script</Type>
+		<Description>Automatically starts, resets, splits after every ruby piece and splits for the end.  tested to work on versions 6.0.2.32 and 6.5.0.0.  (by SioN)</Description>
+		<Website>https://www.speedrun.com/mjth</Website>
+	</AutoSplitter>
 </AutoSplitters>
