@@ -13197,11 +13197,11 @@
             <Game>Sunblaze</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/sseneca42/Sunblaze-Autosplitter/main/Sunblaze_Autosplitter.asl</URL>
+            <URL>https://raw.githubusercontent.com/sseneca42/Autosplitters/main/Sunblaze/Sunblaze_Autosplitter.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>AutoSplitter (by Nepo)</Description>
-        <Website>https://github.com/sseneca42/Sunblaze-Autosplitter</Website>
+        <Website>https://github.com/sseneca42/Autosplitters/tree/main/Sunblaze</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -14068,4 +14068,15 @@
 		<Description>Automatically starts, resets, splits after every ruby piece and splits for the end.  tested to work on versions 6.0.2.32 and 6.5.0.0.  (by SioN)</Description>
 		<Website>https://www.speedrun.com/mjth</Website>
 	</AutoSplitter>
+	<AutoSplitter>
+        	<Games>
+            		<Game>Cave Crawler</Game>
+        	</Games>
+        	<URLs>
+            		<URL>https://raw.githubusercontent.com/sseneca42/Autosplitters/main/Cave%20Crawler/CaveCrawler_Autosplitter.asl</URL>
+        	</URLs>
+        	<Type>Script</Type>
+        	<Description>AutoSplitter (by Nepo)</Description>
+        	<Website>https://github.com/sseneca42/Autosplitters/tree/main/Cave%20Crawler</Website>
+    	</AutoSplitter>
 </AutoSplitters>
