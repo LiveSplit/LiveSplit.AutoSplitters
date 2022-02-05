@@ -14069,4 +14069,14 @@
         	<Description>AutoSplitter (by Nepo)</Description>
         	<Website>https://github.com/sseneca42/Autosplitters/tree/main/Cave%20Crawler</Website>
     	</AutoSplitter>
+	<AutoSplitter>
+        	<Games>
+            		<Game>Not for Broadcast</Game>
+        	</Games>
+        	<URLs>
+            		<URL>https://raw.githubusercontent.com/TypicallyThomas/NFB_autosplitter/main/NotForBroadcast%20-%201.0%20splitter.asl</URL>
+        	</URLs>
+        	<Type>Script</Type>
+        	<Description>AutoSplitter</Description>
+    	</AutoSplitter>
 </AutoSplitters>
