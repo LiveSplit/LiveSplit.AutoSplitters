@@ -14079,4 +14079,14 @@
         	<Type>Script</Type>
         	<Description>AutoSplitter</Description>
     	</AutoSplitter>
+	<AutoSplitter>
+        <Games>
+            <Game>Dying Light 2: Stay Human</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/TheDementedSalad/Dying-Light-2-Load-Remover/blob/main/Dying%20Light%202%20Load%20Remover.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Removes load times from loading screens, main menu and pausing on single player. - (by TheDementedSalad)</Description>
+    </AutoSplitter>
 </AutoSplitters>
