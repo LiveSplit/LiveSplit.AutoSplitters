@@ -14055,7 +14055,7 @@
 			<URL>https://raw.githubusercontent.com/SioNisti/SioNisti.github.io/master/mum3.asl</URL>
 		</URLs>
 		<Type>Script</Type>
-		<Description>Automatically starts, resets, splits after every ruby piece and splits for the end.  tested to work on versions 6.0.2.32 and 6.5.0.0.  (by SioN)</Description>
+		<Description>Automatically starts, resets, splits after every ruby piece and splits for the end.  (by SioN)</Description>
 		<Website>https://www.speedrun.com/mjth</Website>
 	</AutoSplitter>
 	<AutoSplitter>
@@ -14079,4 +14079,17 @@
         	<Type>Script</Type>
         	<Description>AutoSplitter</Description>
     	</AutoSplitter>
+	<AutoSplitter>
+		<Games>
+			<Game>MEFB</Game>
+			<Game>Mission Escape From Bad (games)</Game>
+			<Game>Mission Escape From Bad games</Game>
+		</Games>
+		<URLs>
+			<URL>https://raw.githubusercontent.com/SioNisti/autosplit/main/mission117.asl</URL>
+		</URLs>
+		<Type>Script</Type>
+		<Description>Autosplitter with options for different categories.  (by SioN)</Description>
+		<Website>https://speed.siontea.com/game/mefb/</Website>
+	</AutoSplitter>
 </AutoSplitters>
