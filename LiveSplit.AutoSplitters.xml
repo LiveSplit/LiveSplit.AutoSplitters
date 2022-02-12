@@ -14112,4 +14112,15 @@
         <Description>Autosplitter with options for different categories.  (by SioN)</Description>
         <Website>https://speed.siontea.com/game/mefb/</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Hyper Princess Pitch</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/ZywelZill/zywel-zill-autosplitters/main/Hyper%20Princess%20Pitch/HyperPrincessPitch.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Website>https://github.com/ZywelZill/zywel-zill-autosplitters</Website>
+        <Description>AutoSplitter By Zywel Zill)</Description>
+    </AutoSplitter>
 </AutoSplitters>
