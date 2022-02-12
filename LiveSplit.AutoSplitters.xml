@@ -20,6 +20,16 @@
         <Type>Script</Type>
         <Description>Load Remover (By AlexYeahNot, Binslev, and Meta)</Description>
     </AutoSplitter>
+     <AutoSplitter>
+        <Games>
+            <Game>Ghostbusters The Video Game Remastered</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/KunoDemetries/AutoSplitter/master/GhostbustersTheVideoGameRemastered.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitter/Load Remover (By KunoDemetries)</Description>
+    </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>The Two of Us</Game>
