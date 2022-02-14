@@ -14143,4 +14143,15 @@
         <Website>https://github.com/ZywelZill/zywel-zill-autosplitters</Website>
         <Description>AutoSplitter By Zywel Zill)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Apes vs Helium</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/adam-street/avh-autosplitter/main/apes_vs_helium.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Website>https://github.com/adam-street/avh-autosplitter</Website>
+        <Description>AutoSplitter</Description>
+    </AutoSplitter>
 </AutoSplitters>
