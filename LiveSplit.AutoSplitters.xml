@@ -14144,4 +14144,14 @@
         <Website>https://github.com/ZywelZill/zywel-zill-autosplitters</Website>
         <Description>AutoSplitter By Zywel Zill)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Eye of the Temple</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/runevision/EyeOfTheTempleAutoSplitter/main/EyeOfTheTemple.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Loadless timer based on in-game time. (By runevision)</Description>
+    </AutoSplitter>
 </AutoSplitters>
