@@ -14150,6 +14150,7 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/runevision/EyeOfTheTempleAutoSplitter/main/EyeOfTheTemple.asl</URL>
+            <URL>https://raw.githubusercontent.com/just-ero/AutoSplitHelp/main/libraries/ULibrary.bin</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Loadless timer based on in-game time. (By runevision)</Description>
