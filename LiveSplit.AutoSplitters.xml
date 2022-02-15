@@ -395,7 +395,7 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/Sanders68/BoomerangXSplit/master/BOOMERANGX.asl</URL>
-            <URL>https://raw.githubusercontent.com/just-ero/AutoSplitHelp/main/unity/ULibrary.bin</URL>
+            <URL>https://raw.githubusercontent.com/just-ero/AutoSplitHelp/main/libraries/ULibrary.bin</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Boomerang X Autosplitter (by ero)</Description>
