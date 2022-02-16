@@ -14166,4 +14166,17 @@
         <Description>(PC) Check settings for Auto-Starts and Auto-Splits. (By Slask and CptBrian)</Description>
         <Website>https://www.speedrun.com/grappledog</Website>
     </AutoSplitter>
+        <AutoSplitter>
+        <Games>
+            <Game>Castlevania: Symphony of the Night</Game>
+            <Game>Symphony of the Night</Game>
+            <Game>SOTN</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/TalicZealot/SotN-Autosplitters/main/Playstation/SOTNautosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for PSX SOTN. Supports Bizhawk, with options for most Alucard and Richter categories.</Description>
+        <Website>https://github.com/TalicZealot</Website>
+    </AutoSplitter>
 </AutoSplitters>
