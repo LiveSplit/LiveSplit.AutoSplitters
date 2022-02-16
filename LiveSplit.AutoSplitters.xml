@@ -14155,4 +14155,15 @@
         <Type>Script</Type>
         <Description>Loadless timer based on in-game time. (By runevision)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Grapple Dog</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/CptBrian/Autosplitters/master/GrappleDog.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>(PC) Check settings for Auto-Starts and Auto-Splits. (By Slask and CptBrian)</Description>
+        <Website>https://www.speedrun.com/grappledog</Website>
+    </AutoSplitter>
 </AutoSplitters>
