@@ -14160,7 +14160,7 @@
             <Game>Grapple Dog</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/CptBrian/Autosplitters/master/GrappleDog.asl</URL>
+            <URL>https://raw.githubusercontent.com/CptBrian/GrappleDogTeam/main/GrappleDog.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>(PC) Check settings for Auto-Starts and Auto-Splits. (By Slask and CptBrian)</Description>
