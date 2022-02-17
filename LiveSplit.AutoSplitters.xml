@@ -14004,7 +14004,7 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/DeamonHunter/Autosplitters/main/Everhood/EverhoodAutosplitter.asl</URL>
-            <URL>https://raw.githubusercontent.com/just-ero/AutoSplitHelp/main/libraries/ULibrary.bin</URL>
+            <URL>https://raw.githubusercontent.com/just-ero/AutoSplitHelp/main/libraries/UnityASL.bin</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autostart, Autosplitting and Load Removal for Everhood (By DeamonHunter, Ero)</Description>
