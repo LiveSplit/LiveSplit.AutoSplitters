@@ -14179,4 +14179,15 @@
         <Description>Autosplitter for PSX SOTN. Supports Bizhawk, with options for most Alucard and Richter categories.</Description>
         <Website>https://github.com/TalicZealot</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Ultimate DOOM</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/rogender/LiveSplit.Ultimate-DOOM/master/LiveSplit.Ultimate-DOOM.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Ultimate DOOM autosplitter. Working only on latest versions of source ports</Description>
+        <Website>https://github.com/rogender/LiveSplit.Ultimate-DOOM</Website>
+    </AutoSplitter>
 </AutoSplitters>
