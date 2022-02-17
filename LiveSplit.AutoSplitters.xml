@@ -14190,4 +14190,15 @@
         <Description>Ultimate DOOM autosplitter. Working only on latest versions of source ports</Description>
         <Website>https://github.com/rogender/LiveSplit.Ultimate-DOOM</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Museum of Simulation Technology</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/samjones246/most-asl/master/most.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/split/reset supported (By CaptainRektbeard)</Description>
+        <Website>https://github.com/samjones246/most-asl</Website>
+    </AutoSplitter>
 </AutoSplitters>
