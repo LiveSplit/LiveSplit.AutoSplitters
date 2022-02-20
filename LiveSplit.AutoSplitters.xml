@@ -4472,10 +4472,10 @@
             <Game>Outlast: Whistleblower</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/KunoDemetries/AutoSplitter/master/Outlast.asl</URL>
+            <URL>https://raw.githubusercontent.com/Anti-Steak/Outlast-New/main/Outlast-New.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autosplitter/Load Remover (by AlexisDR, KunoDemetries, Mattmatt)</Description>
+        <Description>Auto Splitting and Load Removal are available. (by AlexisDR, KunoDemetries, Mattmatt, anti)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
