@@ -14201,4 +14201,15 @@
         <Description>Auto start/split/reset supported (By CaptainRektbeard)</Description>
         <Website>https://github.com/samjones246/most-asl</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Drift86</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/SioNisti/autosplit/raw/main/Drift86%20V3.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+		<Description>Autosplitter for fullgame categories plus an option for lap splits.  (by SioN)</Description>
+		<Website>http://www.drift86speed.ga/</Website>
+    </AutoSplitter>
 </AutoSplitters>
