@@ -42,17 +42,6 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
-            <Game>The Two of Us</Game>
-            <Game>ttou</Game>
-        </Games>
-        <URLs>
-            <URL>https://raw.githubusercontent.com/Radioactiv03/Other-Load-Removers/main/ttou.asl</URL>
-        </URLs>
-        <Type>Script</Type>
-        <Description>Autosplitter (By Radioactiv)</Description>
-    </AutoSplitter>
-    <AutoSplitter>
-        <Games>
             <Game>Call Of Juarez: Gunslinger</Game>
             <Game>CoJ: Gunslinger</Game>
             <Game>CoJ:G</Game>
@@ -1624,6 +1613,19 @@
         <Type>Script</Type>
         <Description>Starts automatically. Splits available in the settings. Final split must be manual. (by Ero)</Description>
         <Website>https://github.com/just-ero/AutoSplitTools/tree/master/Transformers%20%E2%80%93%20The%20Game</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>The Two Of Us</Game>
+            <Game>ttou</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/just-ero/AutoSplitTools/master/The%20Two%20of%20Us/TheTwoOfUs.asl</URL>
+            <URL>https://raw.githubusercontent.com/just-ero/AutoSplitHelp/main/libraries/UnityASL.bin</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Starts, resets automatically. Splits when either player touches the trophy. (by Ero)</Description>
+        <Website>https://github.com/just-ero/AutoSplitTools/tree/master/The%20Two%20of%20Us</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
