@@ -1627,6 +1627,18 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>The Two Of Us</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/just-ero/AutoSplitTools/master/The%20Two%20of%20Us/TheTwoOfUs.asl</URL>
+            <URL>https://raw.githubusercontent.com/just-ero/AutoSplitHelp/main/libraries/UnityASL.bin</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Starts, resets automatically. Splits when either player touches the trophy. (by Ero)</Description>
+        <Website>https://github.com/just-ero/AutoSplitTools/tree/master/The%20Two%20of%20Us</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Voidigo</Game>
         </Games>
         <URLs>
