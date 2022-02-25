@@ -14229,4 +14229,14 @@
         <Description>Autosplitter for Satisfactory</Description>
         <Website>https://github.com/Epiphane/AutoSplitHelper#readme</Website>
     </AutoSplitter>
+	 <AutoSplitter>
+        <Games>
+            <Game>Resident Evil: Revelations 2</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/TheDementedSalad/Resident-Evil-2-Revelations-Splitter/main/Resident%20Evil%20Revelations%202%20Autosplitter%202.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>RE Rev 2 Autosplitter - LRT Timed - Sub Chapter, DLC and Full Campaign Splitting - (by TheDementedSalad)</Description>
+    </AutoSplitter>
 </AutoSplitters>
