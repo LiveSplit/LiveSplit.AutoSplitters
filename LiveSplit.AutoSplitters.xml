@@ -14239,4 +14239,15 @@
         <Type>Script</Type>
         <Description>RE Rev 2 Autosplitter - LRT Timed - Sub Chapter, DLC and Full Campaign Splitting - (by TheDementedSalad)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Elden Ring</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/dwonisch/LiveSplit.EldenRing/master/Components/LiveSplit.EldenRing.dll</URL>
+        </URLs>
+        <Type>Component</Type>
+        <Description>Autosplitter for Elden Ring</Description>
+        <Website>https://github.com/dwonisch/LiveSplit.EldenRing</Website>
+    </AutoSplitter>
 </AutoSplitters>
