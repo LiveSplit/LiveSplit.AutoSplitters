@@ -14250,4 +14250,15 @@
         <Description>GameTime for Elden Ring</Description>
         <Website>https://github.com/dwonisch/LiveSplit.EldenRing</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>The Suffering</Game>
+	    <Game>The Suffering: Prison is Hell</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/OwlLukas/Components/main/The%20Suffering%20Prison%20is%20Hell%20Autosplitter/TheSufferingPrisonIsHell.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Full RTA Autosplitting is available. (by Owllukas)</Description>
+    </AutoSplitter>
 </AutoSplitters>
