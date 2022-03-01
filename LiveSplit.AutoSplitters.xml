@@ -14274,4 +14274,15 @@
         <Type>Script</Type>
         <Description>Full RTA Autosplitting is available. (by Owllukas)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Neon White</Game>
+            <Game>Neon White Demo</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/crashb/neon-white-autosplitter/main/neonwhite.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for Neon White</Description>
+    </AutoSplitter>
 </AutoSplitters>
