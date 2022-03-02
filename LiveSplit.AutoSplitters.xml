@@ -14285,4 +14285,14 @@
         <Type>Script</Type>
         <Description>Autosplitter for Neon White</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Catwoman</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/SioNisti/autosplit/main/CATWOMAN.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for a bad game. (by SioN)</Description>
+    </AutoSplitter>
 </AutoSplitters>
