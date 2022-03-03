@@ -13743,6 +13743,7 @@
         </Games>
         <URLs>
             <URL>https://github.com/just-ero/LiveSplitters/raw/main/Inscryption.asl</URL>
+            <URL>https://github.com/just-ero/AutoSplitHelp/raw/main/libraries/UnityASL.bin</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Starts the timer automatically. Splits available in the settings. Removes loads. (by Ero, Andersama)</Description>
