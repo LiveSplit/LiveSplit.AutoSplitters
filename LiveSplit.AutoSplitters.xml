@@ -13742,10 +13742,11 @@
             <Game>Inscryption</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Andersama/LiveSplitters/main/Inscryption.asl</URL>
+            <URL>https://github.com/just-ero/LiveSplitters/raw/main/Inscryption.asl</URL>
+            <URL>https://github.com/just-ero/AutoSplitHelp/raw/main/libraries/UnityASL.bin</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Inscryption AutoSplitter by Andersama</Description>
+        <Description>Starts the timer automatically. Splits available in the settings. Removes loads. (by Ero, Andersama)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
