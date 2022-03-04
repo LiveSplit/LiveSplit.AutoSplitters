@@ -3101,6 +3101,19 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Penumbra: Requiem</Game>
+            <Game>Penumbra Requiem</Game>
+            <Game>Requiem</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/TheMagicAlicorn/asl/blob/master/Penumbra%20Requiem.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter is availaible.</Description>
+        <Website>https://github.com/TheMagicAlicorn/asl</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>BioShock: The Collection</Game>
             <Game>BioShock The Collection</Game>
             <Game>BioShock Remastered</Game>
