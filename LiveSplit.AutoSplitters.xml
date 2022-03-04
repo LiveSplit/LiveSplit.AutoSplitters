@@ -1327,17 +1327,6 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
-            <Game>Exo One</Game>
-        </Games>
-        <URLs>
-            <URL>https://raw.githubusercontent.com/just-ero/AutoSplitTools/master/Exo%20One/EXO_ONE.asl</URL>
-        </URLs>
-        <Type>Script</Type>
-        <Description>Starts automatically. Splits when warping. Syncs to level-completion time upon warping. (by Ero)</Description>
-        <Website>https://github.com/just-ero/AutoSplitTools/tree/master/Exo%20One</Website>
-    </AutoSplitter>
-    <AutoSplitter>
-        <Games>
             <Game>The Final Station</Game>
         </Games>
         <URLs>
