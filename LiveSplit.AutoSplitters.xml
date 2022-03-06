@@ -13723,11 +13723,11 @@
             <Game>Satisfactory</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Epiphane/asl-helper/master/Splitter.asl</URL>
+            <URL>https://raw.githubusercontent.com/Epiphane/AutoSplitHelper/master/Splitter.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitter for Satisfactory</Description>
-        <Website>https://github.com/Epiphane/asl-helper#readme</Website>
+        <Website>https://github.com/Epiphane/AutoSplitHelper#readme</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
