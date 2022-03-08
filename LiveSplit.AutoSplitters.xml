@@ -13451,7 +13451,7 @@
             <URL>https://raw.githubusercontent.com/Marek2810/Vlak/main/vlak.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autosplitter for the Vlak on DOSBox 0.72. Split at the end of each level.</Description>
+        <Description>Autosplitter for the Vlak on DOSBox. Split at the end of each level.</Description>
         <Website>https://github.com/Marek2810/Vlak</Website>
     </AutoSplitter>
     <AutoSplitter>
