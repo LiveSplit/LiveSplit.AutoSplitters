@@ -2,6 +2,16 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Shadow Warrior 3</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/LiterallyMetaphorical/LiveSplit.ShadowWarrior3/main/ShadowWarrior3.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and Load Remover made by Meta</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Need for Speed: Underground 2</Game>
         </Games>
         <URLs>
