@@ -6712,11 +6712,11 @@
             <Game>Sonic CD 2011</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/SonicSpeedrunning/LiveSplitASL/master/Sonic%20CD.asl</URL>
+            <URL>https://raw.githubusercontent.com/SonicSpeedrunning/LiveSplit.SonicCD2011/main/LiveSplit.SonicCD2011.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>For CD 2011 on Steam. Game Time - Mins and Secs, with ms added on final level.</Description>
-        <Website>https://github.com/SonicSpeedrunning/LiveSplitASL</Website>
+        <Description>Supports both Steam release and decompilation versions of Sonic CD (2011). Settings available.</Description>
+        <Website>https://github.com/SonicSpeedrunning/LiveSplit.SonicCD2011</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
