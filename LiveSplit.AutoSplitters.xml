@@ -1746,6 +1746,8 @@
         <Games>
             <Game>Kao the Kangaroo: Round 2</Game>
             <Game>Kao the Kangaroo Round 2</Game>
+            <Game>Kao the Kangaroo: Round 2 Category Extensions</Game>
+            <Game>Kao the Kangaroo Round 2 Category Extensions</Game>
             <Game>Kangurek Kao: Runda 2</Game>
             <Game>Kangurek Kao Runda 2</Game>
             <Game>Kangurek Kao: Runda 2-ga</Game>
@@ -10270,6 +10272,7 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/rythin-sr/ASL-Scripts/master/RiskofRain2.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/libraries/UnityASL.bin</URL>
         </URLs>
         <Type>Script</Type>
         <Description> Autospltting and Load Removal available (by rythin) </Description>
@@ -14252,5 +14255,15 @@
         <Type>Script</Type>
         <Description>Starts, resets automatically. Splits available in the settings. (by Ero)</Description>
         <Website>https://github.com/just-ero/asl/tree/main/YAPP%20%E2%80%93%20Yet%20Another%20Puzzle%20Platformer</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Kao the Kangaroo Multiruns</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/rythin-sr/ASL-Scripts/master/KaoTrilogy.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting and Load Removal available (by rythin)</Description>
     </AutoSplitter>
 </AutoSplitters>
