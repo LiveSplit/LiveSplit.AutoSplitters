@@ -14222,6 +14222,18 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Total War: WARHAMMER III</Game>
+            <Game>Total War: WARHAMMER 3</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/just-ero/asl/raw/main/Total%20War%20%E2%80%93%20WARHAMMER%20III/TotalWar_Warhammer3.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Removes loading times. (by Ero)</Description>
+        <Website>https://github.com/just-ero/asl/tree/main/Total%20War%20%E2%80%93%20WARHAMMER%20III</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Transformers: The Game</Game>
         </Games>
         <URLs>
@@ -14266,6 +14278,7 @@
         <Description>Starts, resets automatically. Splits available in the settings. (by Ero)</Description>
         <Website>https://github.com/just-ero/asl/tree/main/YAPP%20%E2%80%93%20Yet%20Another%20Puzzle%20Platformer</Website>
     </AutoSplitter>
+
     <AutoSplitter>
         <Games>
             <Game>Kao the Kangaroo Multiruns</Game>
