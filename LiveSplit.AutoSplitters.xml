@@ -14301,4 +14301,15 @@
         <Type>Script</Type>
         <Description>Autosplitting and Load Removal available (by rythin)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Circuit Superstars</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/rythin-sr/ASL-Scripts/master/CircuitSuperstars.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/libraries/UnityASL.bin</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description> Autospltting and In-Game Time available (by rythin) </Description>
+    </AutoSplitter>
 </AutoSplitters>
