@@ -14165,6 +14165,18 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>RE:RUN</Game>
+            <Game>RE: RUN</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/just-ero/asl/raw/main/RE%20RUN/RERUN.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Starts, resets automatically. Splits when finishing a level. Adds together level times. (by Ero)</Description>
+        <Website>https://github.com/just-ero/asl/tree/main/RE%20RUN</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Ruff Night at the Gallery</Game>
         </Games>
         <URLs>
