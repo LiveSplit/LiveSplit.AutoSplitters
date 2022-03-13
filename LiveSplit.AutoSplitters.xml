@@ -14312,4 +14312,15 @@
         <Type>Script</Type>
         <Description> Autospltting and In-Game Time available (by rythin) </Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>liminal ranger</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/samjones246/liminalranger-asl/master/liminalranger.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/split supported (By CaptainRektbeard)</Description>
+        <Website>https://github.com/samjones246/liminalranger-asl</Website>
+    </AutoSplitter>
 </AutoSplitters>
