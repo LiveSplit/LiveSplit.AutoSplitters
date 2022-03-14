@@ -8,7 +8,7 @@
             <Game>Will You Snail? Category Extensions</Game>
         </Games>
         <URLs>
-            <URL>https://github.com/mitchell-merry/wys_asl/blob/main/wys.asl</URL>
+            <URL>https://raw.githubusercontent.com/mitchell-merry/wys_asl/main/wys.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitter written by diggity and FlippyDolphin.</Description>
