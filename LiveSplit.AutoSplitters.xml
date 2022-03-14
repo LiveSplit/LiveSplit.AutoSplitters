@@ -2,6 +2,19 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Will You Snail?</Game>
+            <Game>Will You Snail</Game>
+            <Game>WYS</Game>
+            <Game>Will You Snail? Category Extensions</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/mitchell-merry/wys_asl/blob/main/wys.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter written by diggity and FlippyDolphin.</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Shadow Warrior 3</Game>
         </Games>
         <URLs>
