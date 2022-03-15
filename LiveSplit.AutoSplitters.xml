@@ -14336,4 +14336,15 @@
         <Description>Auto start/split supported (By CaptainRektbeard)</Description>
         <Website>https://github.com/samjones246/liminalranger-asl</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Hyperbolica</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/samjones246/hyperbolica-asl/main/hyperbolica.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/split and load removal supported (By CaptainRektbeard)</Description>
+        <Website>https://github.com/samjones246/hyperbolica-asl</Website>
+    </AutoSplitter>
 </AutoSplitters>
