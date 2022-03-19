@@ -23,6 +23,17 @@
         <Type>Script</Type>
         <Description>Autosplitter and Load Remover made by Meta</Description>
     </AutoSplitter>
+        <AutoSplitter>
+        <Games>
+            <Game>TALES OF ARISE</Game>
+            <Game>Tale of Arise</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/KunoDemetries/AutoSplitter/master/TalesofArise.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Remover (By KunoDemetries)</Description>
+    </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>Need for Speed: Underground 2</Game>
