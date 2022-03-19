@@ -14348,4 +14348,16 @@
         <Description>Auto start/split and load removal supported (By CaptainRektbeard)</Description>
         <Website>https://github.com/samjones246/hyperbolica-asl</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Have a Nice Death</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Museus/autosplitters/main/HaveANiceDeath/HaveANiceDeath.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/libraries/UnityASL.bin</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter/Load Remover for Have a Nice Death</Description>
+        <Website>https://github.com/Museus/autosplitters/tree/main/HaveANiceDeath</Website>
+    </AutoSplitter>
 </AutoSplitters>
