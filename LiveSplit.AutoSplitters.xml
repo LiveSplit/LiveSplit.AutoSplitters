@@ -13782,11 +13782,15 @@
             <Game>Elden Ring</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/dwonisch/LiveSplit.EldenRing/master/Components/LiveSplit.EldenRing.dll</URL>
+            <URL>https://raw.githubusercontent.com/FrankvdStam/SoulSplitter/main/Components/MaterialDesignColors.dll</URL>
+	    <URL>https://raw.githubusercontent.com/FrankvdStam/SoulSplitter/main/Components/MaterialDesignThemes.Wpf.dll</URL>
+	    <URL>https://raw.githubusercontent.com/FrankvdStam/SoulSplitter/main/Components/MaterialDesignThemes.Wpf.xml</URL>
+            <URL>https://raw.githubusercontent.com/FrankvdStam/SoulSplitter/main/Components/SoulMemory.dll</URL>
+            <URL>https://raw.githubusercontent.com/FrankvdStam/SoulSplitter/main/Components/SoulSplitter.dll</URL>
         </URLs>
         <Type>Component</Type>
-        <Description>GameTime for Elden Ring</Description>
-        <Website>https://github.com/dwonisch/LiveSplit.EldenRing</Website>
+        <Description>Modified in game time for Elden Ring</Description>
+        <Website>https://github.com/FrankvdStam/SoulSplitter</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
