@@ -14248,6 +14248,18 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>TUNIC</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/just-ero/asl/raw/main/TUNIC/TUNIC.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/libraries/UnityASL.bin</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Starts, resets automatically. Splits when the run is over. Syncs to game time. (by Ero)</Description>
+        <Website>https://github.com/just-ero/asl/tree/main/TUNIC</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>There Is No Game</Game>
         </Games>
         <URLs>
