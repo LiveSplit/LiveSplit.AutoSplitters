@@ -14398,4 +14398,14 @@
         <Type>Script</Type>
         <Description>AutoStart, Autosplit, AutoReset by the_kovic</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>PICO PARK</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Schyvun/Pico-Park-Autosplitter/main/pico.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>AutoStart and Autosplit by Paum & Schy</Description>
+    </AutoSplitter>
 </AutoSplitters>
