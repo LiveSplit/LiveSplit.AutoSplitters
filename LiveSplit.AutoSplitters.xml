@@ -14387,4 +14387,15 @@
         <Description>Autosplitter/Load Remover for Have a Nice Death</Description>
         <Website>https://github.com/Museus/autosplitters/tree/main/HaveANiceDeath</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Indiana Jones and the Emperor's Tomb</Game>
+            <Game>Indiana Jones and the Emperors Tomb</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/thekovic/IJET-AutoSplit/main/IJET-AutoSplit.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>AutoStart, Autosplit & AutoReset by the_kovic</Description>
+    </AutoSplitter>
 </AutoSplitters>
