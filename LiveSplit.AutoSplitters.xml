@@ -8957,13 +8957,21 @@
             <Game>TR1</Game>
             <Game>TR</Game>
             <Game>TR1996</Game>
+            <Game>Tomb Raider 1 Unfinished Business</Game>
+            <Game>Tomb Raider Unfinished Business</Game>
+            <Game>Tomb Raider 1: Unfinished Business</Game>
+            <Game>Tomb Raider: Unfinished Business</Game>
+            <Game>TR1UB</Game>
+            <Game>TRUB</Game>
+            <Game>TR1:UB</Game>
+            <Game>TR:UB</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/TombRunners/autosplitters/master/TombRaider1996/Components/TR1996.dll</URL>
-            <URL>https://raw.githubusercontent.com/TombRunners/autosplitters/master/TombRaider1996/Components/TRUtil.dll</URL>
+		    <URL>https://raw.githubusercontent.com/TombRunners/autosplitters/master/TombRaider1996/Components/TRUtil.dll</URL>
         </URLs>
         <Type>Component</Type>
-        <Description>Automatic start, split, and reset are available, as well as an IL timer and IGT display. (by Midge, rtrger, Lowosos, RiiFT)</Description>
+        <Description>Automatic start, split, reset, and IGT for FG, IL, and deathruns. (by Midge, rtrger, Lowosos, RiiFT)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
