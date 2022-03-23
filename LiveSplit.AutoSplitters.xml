@@ -13894,6 +13894,18 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Marble Blast Ultra</Game>
+            <Game>OpenMBU</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/thearst3rd/autosplitters/main/LiveSplit.OpenMBU.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Supports load removal, auto start and splits on OpenMBU beta 1.11 and newer. (by thearst3rd)</Description>
+        <Website>https://github.com/thearst3rd/autosplitters</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Receiver 2</Game>
         </Games>
         <URLs>
