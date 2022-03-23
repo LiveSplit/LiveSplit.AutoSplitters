@@ -8968,7 +8968,7 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/TombRunners/autosplitters/master/TombRaider1996/Components/TR1996.dll</URL>
-		    <URL>https://raw.githubusercontent.com/TombRunners/autosplitters/master/TombRaider1996/Components/TRUtil.dll</URL>
+            <URL>https://raw.githubusercontent.com/TombRunners/autosplitters/master/TombRaider1996/Components/TRUtil.dll</URL>
         </URLs>
         <Type>Component</Type>
         <Description>Automatic start, split, reset, and IGT for FG, IL, and deathruns. (by Midge, rtrger, Lowosos, RiiFT)</Description>
