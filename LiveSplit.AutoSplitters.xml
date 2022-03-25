@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
+<AutoSplitter>
+        <Games>
+            <Game>Ghostwire: Tokyo</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/LiterallyMetaphorical/LiveSplit.GhostwireTokyo/main/GhostwireTokyo.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter written by Meta.</Description>
+    </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>Will You Snail?</Game>
