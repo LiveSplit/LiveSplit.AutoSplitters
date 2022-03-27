@@ -33,6 +33,16 @@
         <Type>Script</Type>
         <Description>Autosplitter and Load Remover made by Meta</Description>
     </AutoSplitter>
+	    <AutoSplitter>
+        <Games>
+            <Game>Martha is Dead</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/KunoDemetries/AutoSplitter/master/marthaisdead.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Remover (By KunoDemetries)</Description>
+    </AutoSplitter>
         <AutoSplitter>
         <Games>
             <Game>TALES OF ARISE</Game>
