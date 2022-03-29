@@ -6664,6 +6664,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Anthem</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Lemuura/Livesplit-Autosplitters/main/Anthem.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load removal is available. (By Lemuura)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Dragon Age: Inquisition</Game>
         </Games>
         <URLs>
