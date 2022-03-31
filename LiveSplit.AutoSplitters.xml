@@ -7255,6 +7255,27 @@
         <Description>Autosplitting and Autostart available for commonly run game versions (By Supra)</Description>
         <Website>https://github.com/supra0/slime-rancher-autosplitter</Website>
     </AutoSplitter>
+        <AutoSplitter>
+        <Games>
+            <Game>Tomb Raider 4</Game>
+            <Game>Tomb Raider IV</Game>
+            <Game>Tomb Raider 4: The Last Revelation</Game>
+            <Game>Tomb Raider IV: The Last Revelation</Game>
+            <Game>Tomb Raider: The Last Revelation</Game>
+            <Game>TR4</Game>
+            <Game>TRIV</Game>
+            <Game>TR4: The Last Revelation</Game>
+            <Game>TRIV: The Last Revelation</Game>
+            <Game>TR: The Last Revelation</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/TombRunners/autosplitters/master/TombRaiderIV/Components/TR4.dll</URL>
+            <URL>https://raw.githubusercontent.com/TombRunners/autosplitters/master/TRUtil/Components/TRUtil.dll</URL>
+        </URLs>
+        <Type>Component</Type>
+        <Description>Automatic start, split and reset for FG, IL, and deathruns of leaderboard-approved versions for TRIV - by Midge, apel, and trivess</Description>
+        <Website>https://github.com/TombRunners/Autosplitters</Website>
+    </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>Tomb Raider II</Game>
