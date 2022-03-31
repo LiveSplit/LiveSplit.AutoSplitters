@@ -9612,10 +9612,10 @@
             <Game>BONEWORKS</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/DerKO9/AutoSplitters/master/Boneworks/Boneworks.asl</URL>
+            <URL>https://raw.githubusercontent.com/Sychke/AutoSplitters/master/Boneworks/Boneworks.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto-splitting, start, and load removal are available (By DerKO).</Description>
+        <Description>Auto-splitting, start, and load removal are available (By DerKO and Sychke).</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
