@@ -7285,7 +7285,7 @@
             <URL>https://raw.githubusercontent.com/TombRunners/autosplitters/master/TRUtil/Components/TRUtil.dll</URL>
         </URLs>
         <Type>Component</Type>
-        <Description>Automatic start, split and reset for FG, IL, and deathruns of leaderboard-approved versions for TRIV - by Midge, apel, and trivess</Description>
+        <Description>Automatic start, split, reset, and IGT for FG, IL, and deathruns. (by Midge, apel, trivess)</Description>
         <Website>https://github.com/TombRunners/Autosplitters</Website>
     </AutoSplitter>
     <AutoSplitter>
@@ -7305,10 +7305,10 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/TombRunners/autosplitters/master/TombRaiderII/Components/TR2.dll</URL>
-            <URL>https://raw.githubusercontent.com/TombRunners/autosplitters/master/TombRaiderII/Components/TRUtil.dll</URL>
+            <URL>https://raw.githubusercontent.com/TombRunners/autosplitters/master/TRUtil/Components/TRUtil.dll</URL>
         </URLs>
         <Type>Component</Type>
-        <Description>Automatic start, split and reset for FG, IL, and deathruns of leaderboard-approved versions for TR2 and TR2 Gold - by Midge and rtrger</Description>
+        <Description>Automatic start, split, reset, and IGT for FG, IL, and deathruns. (by Midge and rtrger)</Description>
         <Website>https://github.com/TombRunners/Autosplitters</Website>
     </AutoSplitter>
     <AutoSplitter>
@@ -9041,7 +9041,7 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/TombRunners/autosplitters/master/TombRaider1996/Components/TR1996.dll</URL>
-            <URL>https://raw.githubusercontent.com/TombRunners/autosplitters/master/TombRaider1996/Components/TRUtil.dll</URL>
+            <URL>https://raw.githubusercontent.com/TombRunners/autosplitters/master/TRUtil/Components/TRUtil.dll</URL>
         </URLs>
         <Type>Component</Type>
         <Description>Automatic start, split, reset, and IGT for FG, IL, and deathruns. (by Midge, rtrger, Lowosos, RiiFT)</Description>
@@ -11950,10 +11950,10 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/TombRunners/autosplitters/master/TombRaiderIII/Components/TR3.dll</URL>
-            <URL>https://raw.githubusercontent.com/TombRunners/autosplitters/master/TombRaiderIII/Components/TRUtil.dll</URL>
+            <URL>https://raw.githubusercontent.com/TombRunners/autosplitters/master/TRUtil/Components/TRUtil.dll</URL>
         </URLs>
         <Type>Component</Type>
-        <Description>Automatic start, split, reset, and IGT for FG, IL, and deathruns. By apel, Danza, Midge, rr-, rtrger</Description>
+        <Description>Automatic start, split, reset, and IGT for FG, IL, and deathruns. (by apel, Danza, Midge, rr-, rtrger)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
