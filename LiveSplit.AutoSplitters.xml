@@ -2108,6 +2108,18 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Tiny Tina's Wonderlands</Game>
+            <Game>Wonderlands</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/apple1417/Autosplitters/master/wonderlands.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitting and Load Removal are available. (By apple1417)</Description>
+        <Website>https://discord.gg/jF8eSnP</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Sonic Adventure 2: Battle</Game>
             <Game>Sonic Adventure 2: Battle - Category Extensions</Game>
             <Game>Sonic Adventure 2 Battle</Game>
