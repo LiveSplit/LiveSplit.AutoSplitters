@@ -14501,4 +14501,26 @@
         <Type>Script</Type>
         <Description>AutoStart and Autosplit by Paum &amp; Schy</Description>
     </AutoSplitter>
+	<AutoSplitter>
+        <Games>
+            <Game>Tomb Raider 5</Game>
+            <Game>Tomb Raider V</Game>
+            <Game>Tomb Raider Chronicles</Game>
+            <Game>Tomb Raider 5: Chronicles</Game>
+            <Game>Tomb Raider V: Chronicles</Game>
+            <Game>Tomb Raider: Chronicles</Game>
+            <Game>TR5</Game>
+            <Game>TRV</Game>
+            <Game>TRC</Game>
+            <Game>TR5: Chronicles</Game>
+            <Game>TRV: Chronicles</Game>
+            <Game>TR: Chronicles</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/TombRunners/autosplitters/master/TombRaiderV/Components/TR5.dll</URL>
+            <URL>https://raw.githubusercontent.com/TombRunners/autosplitters/master/TRUtil/Components/TRUtil.dll</URL>
+        </URLs>
+        <Type>Component</Type>
+        <Description>Automatic start, split, reset, and IGT for FG, IL, and deathruns. (by Midge and apel)</Description>
+    </AutoSplitter>
 </AutoSplitters>
