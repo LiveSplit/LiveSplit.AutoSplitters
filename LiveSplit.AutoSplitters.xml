@@ -2,6 +2,16 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Octopath Traveler</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Eein/octopath-autosplitter/main/octopath.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter (By Z3R01337 and SuperFamicom)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>SkiFree</Game>
         </Games>
         <URLs>
