@@ -14546,4 +14546,15 @@
         <Type>Script</Type>
         <Description>Load Remover By Derric Young</Description>
     </AutoSplitter>
+	<AutoSplitter>
+        <Games>
+            <Game>Shadow of Mordor</Game>
+            <Game>Middle-Earth: Shadow of Mordor</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/rythin-sr/ASL-Scripts/master/ShadowofMordor.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load removal available (by rythin)</Description>
+    </AutoSplitter>
 </AutoSplitters>
