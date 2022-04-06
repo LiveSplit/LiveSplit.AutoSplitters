@@ -14534,4 +14534,16 @@
         <Type>Component</Type>
         <Description>Automatic start, split, reset, and IGT for FG, IL, and deathruns. (by Midge and apel)</Description>
     </AutoSplitter>
+	  <AutoSplitter>
+        <Games>
+            <Game>SM57 Deluxe Collection</Game>
+	    <Game>SM57 2 Deluxe</Game>
+	    <Game>SM57 Deluxe</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/derric-young/smloadremove/main/SM57%20load%20remover.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Remover By Derric Young</Description>
+    </AutoSplitter>
 </AutoSplitters>
