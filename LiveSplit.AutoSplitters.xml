@@ -2304,8 +2304,6 @@
             <Game>Unreal Return to Na Pali</Game>
             <Game>Return to Na Pali</Game>
             <Game>Unreal Mission Pack: Return to Na Pali</Game>
-            <Game>Splinter Cell</Game>
-            <Game>Tom Clancy's Splinter Cell</Game>
             <Game>Splinter Cell 3</Game>
             <Game>Splinter Cell: Chaos Theory</Game>
             <Game>Splinter Cell Chaos Theory</Game>
@@ -14566,5 +14564,16 @@
         </URLs>
         <Type>Script</Type>
         <Description>Load removal available (by rythin)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Splinter Cell</Game>
+            <Game>Tom Clancy's Splinter Cell</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/BlueLovin/TCSCAutoSplitter/main/TCSC_AutoSplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load removal available (by Distro)</Description>
     </AutoSplitter>
 </AutoSplitters>
