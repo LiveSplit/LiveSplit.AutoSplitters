@@ -14576,4 +14576,14 @@
         <Type>Script</Type>
         <Description>Load removal available (by Distro)</Description>
     </AutoSplitter>
+	<AutoSplitter>
+        <Games>
+            <Game>Cry of Fear</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/IlyaTsyganov/Livesplit.CryofFear/main/cryoffear.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting and load removal by DrLa</Description>
+    </AutoSplitter>
 </AutoSplitters>
