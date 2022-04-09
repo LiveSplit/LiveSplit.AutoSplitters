@@ -6843,8 +6843,6 @@
             <Game>Sonic &amp; Knuckles</Game>
             <Game>Sonic and Knuckles</Game>
             <Game>Sonic 3 Complete</Game>
-            <Game>Sonic 3: Angel Island Revisited</Game>
-            <Game>S3AIR - D.A. Garden Edition</Game>
             <Game>Sonic the Hedgehog 3</Game>
             <Game>Sonic 3D Blast</Game>
             <Game>Sonic Spinball (Genesis / Mega Drive)</Game>
@@ -6874,6 +6872,18 @@
         <Type>Script</Type>
         <Description>SEGA Master Splitter supported game, see website for details on emulators, timing etc. (By BenInSweden and others.)</Description>
         <Website>https://github.com/SonicSpeedrunning/SEGAMasterSplitter</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Sonic 3: Angel Island Revisited</Game>
+            <Game>S3AIR - D.A. Garden Edition</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/SonicSpeedrunning/LiveSplit.Sonic3AIR/main/LiveSplit.Sonic3AIR.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Sonic 3 AIR dedicated autosplitter (by Jujstme and BenInSweden)</Description>
+        <Website>https://github.com/SonicSpeedrunning/LiveSplit.Sonic3AIR</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
