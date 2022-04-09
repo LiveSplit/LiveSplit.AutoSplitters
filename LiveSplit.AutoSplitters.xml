@@ -14586,4 +14586,15 @@
         <Type>Script</Type>
         <Description>Autosplitting and load removal by DrLa</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Marble Marcher</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/samjones246/marblemarcher-asl/main/marblemarcher.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/split/reset supported (By CaptainRektbeard)</Description>
+        <Website>https://github.com/samjones246/marblemarcher-asl</Website>
+    </AutoSplitter>
 </AutoSplitters>
