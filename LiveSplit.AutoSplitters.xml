@@ -396,6 +396,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Deltarune</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Tenebrosful/DELTARUNE-Livesplit.Autosplitter/0.1-beta.2/Deltarune.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Available for all versions, SURVEY inclued. Auto-endsplit only for SURVEY. Created by Tenebrosful from Narry's Autosplitter</Description>
+        <Website>https://github.com/Tenebrosful/DELTARUNE-Livesplit.Autosplitter</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Eversleep: Lunistice Gaiden</Game>
             <Game>Eversleep: Lunistice Gaiden Demo</Game>
         </Games>
