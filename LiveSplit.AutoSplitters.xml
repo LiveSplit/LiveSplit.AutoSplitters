@@ -399,7 +399,7 @@
             <Game>Deltarune</Game>
         </Games>
         <URLs>
-            <URLhttps://raw.githubusercontent.com/Tenebrosful/DELTARUNE-Livesplit.Autosplitter/0.1-beta.2/Deltarune.asl</URL>
+            <URL>https://raw.githubusercontent.com/Tenebrosful/DELTARUNE-Livesplit.Autosplitter/0.1-beta.2/Deltarune.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Available for all versions, SURVEY inclued. Auto-endsplit only for SURVEY. Created by Tenebrosful from Narry's Autosplitter</Description>
