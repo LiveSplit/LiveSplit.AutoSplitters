@@ -5514,6 +5514,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Command &amp; Conquer Remastered</Game>
+            <Game>cncremastered</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Pezzah/LiveSplit.AutoSplitters/main/LiveSplit.CnCRemastered.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start / split / reset are available and calculating game time. (By ROMaster2/Pezzah)</Description>
+    </AutoSplitter>	
+    <AutoSplitter>
+        <Games>
             <Game>SM64: Last Impact</Game>
             <Game>Super Mario 64: Last Impact</Game>
             <Game>Super Mario: Last Impact</Game>
