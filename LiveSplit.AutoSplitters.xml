@@ -11378,10 +11378,10 @@
             <Game>Ratatouille (Asobo)</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/ThePhotoshopMaster/Ratatouille-Asobo-Load-Remover/master/RatatouilleLoadRemover.asl</URL>
+            <URL>https://raw.githubusercontent.com/TTPPMM/Ratatouille-Asobo-Load-Remover/any%25/Ratatouille-LoadRemover-AutoSplitter.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load removal</Description>
+        <Description>Auto-start, auto-splitter and load remover.</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
