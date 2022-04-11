@@ -11381,7 +11381,7 @@
             <URL>https://raw.githubusercontent.com/TTPPMM/Ratatouille-Asobo-Load-Remover/any%25/Ratatouille-LoadRemover-AutoSplitter.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load removal</Description>
+        <Description>Auto-start, auto-splitter and load remover.</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
