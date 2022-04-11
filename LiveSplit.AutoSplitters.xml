@@ -7330,6 +7330,13 @@
             <Game>TR4: The Last Revelation</Game>
             <Game>TRIV: The Last Revelation</Game>
             <Game>TR: The Last Revelation</Game>
+            <Game>The Times Exclusive</Game>
+            <Game>Tomb Raider: The Times Exclusive</Game>
+            <Game>Tomb Raider The Times Exclusive</Game>
+            <Game>Tomb Raider: TTE</Game>
+            <Game>Tomb Raider TTE</Game>
+            <Game>TR:TTE</Game>
+            <Game>TRTTE</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/TombRunners/autosplitters/master/TombRaiderIV/Components/TR4.dll</URL>
