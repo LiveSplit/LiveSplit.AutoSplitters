@@ -14637,7 +14637,6 @@
             <URL>https://raw.githubusercontent.com/amanekko/little-big-adventure-2-ASL/main/Little%20Big%20Adventure%202%20(Twinsen's%20Odyssey)%20-%20Any%25%20(GOG).asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto start/split/reset for LBA2 on GOG & Steam versions.</Description>
-        <Website>https://github.com/amanekko/little-big-adventure-2-ASL</Website>
+        <Description>Auto start/split/reset for LBA2</Description>
     </AutoSplitter>
 </AutoSplitters>
