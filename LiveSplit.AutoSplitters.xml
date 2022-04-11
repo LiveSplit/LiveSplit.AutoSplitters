@@ -63,7 +63,7 @@
         <Type>Script</Type>
         <Description>Autosplitter and Load Remover made by Meta</Description>
     </AutoSplitter>
-	    <AutoSplitter>
+        <AutoSplitter>
         <Games>
             <Game>Martha is Dead</Game>
         </Games>
@@ -5348,7 +5348,7 @@
             <Game>StarTrack² Stadium</Game>
             <Game>StarTrack² Valley</Game>
             <Game>TrackMania One - Alpine</Game>
-	    <Game>TrackMania² Canyon : Platform</Game>
+        <Game>TrackMania² Canyon : Platform</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/Rastats/Maniaplanet/main/TM2-Autosplitter-IGT%20(by%20Malakat).asl</URL>
@@ -5522,7 +5522,7 @@
         </URLs>
         <Type>Script</Type>
         <Description>Auto start / split / reset are available and calculating game time. (By ROMaster2/Pezzah)</Description>
-    </AutoSplitter>	
+    </AutoSplitter> 
     <AutoSplitter>
         <Games>
             <Game>SM64: Last Impact</Game>
@@ -10613,16 +10613,6 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
-            <Game>Tomb Raider: The Lost Artifact</Game>
-        </Games>
-        <URLs>
-            <URL>https://raw.githubusercontent.com/rtrger/Components/master/TombRaider3Gold/Component/TR3Gold.dll</URL>
-        </URLs>
-        <Type>Component</Type>
-        <Description>Game time, autostart, autoreset and autosplit for The Lost Artifact.</Description>
-    </AutoSplitter>
-    <AutoSplitter>
-        <Games>
             <Game>Oddworld: Abe's Oddysee</Game>
         </Games>
         <URLs>
@@ -11998,6 +11988,12 @@
             <Game>TR3: Adventures of Lara Croft</Game>
             <Game>TRIII</Game>
             <Game>TR3</Game>
+            <Game>Tomb Raider: The Lost Artifact</Game>
+            <Game>Tomb Raider The Lost Artifact</Game>
+            <Game>TR: The Lost Artifact</Game>
+            <Game>TR The Lost Artifact</Game>
+            <Game>TR:TLA</Game>
+            <Game>TLA</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/TombRunners/autosplitters/master/TombRaiderIII/Components/TR3.dll</URL>
@@ -13914,10 +13910,10 @@
             <Game>Elden Ring</Game>
         </Games>
         <URLs>
-	    <URL>https://raw.githubusercontent.com/FrankvdStam/SoulSplitter/main/Components/SoulSplitter.dll</URL>
+        <URL>https://raw.githubusercontent.com/FrankvdStam/SoulSplitter/main/Components/SoulSplitter.dll</URL>
             <URL>https://raw.githubusercontent.com/FrankvdStam/SoulSplitter/main/Components/MaterialDesignColors.dll</URL>
-	    <URL>https://raw.githubusercontent.com/FrankvdStam/SoulSplitter/main/Components/MaterialDesignThemes.Wpf.dll</URL>
-	    <URL>https://raw.githubusercontent.com/FrankvdStam/SoulSplitter/main/Components/MaterialDesignThemes.Wpf.xml</URL>
+        <URL>https://raw.githubusercontent.com/FrankvdStam/SoulSplitter/main/Components/MaterialDesignThemes.Wpf.dll</URL>
+        <URL>https://raw.githubusercontent.com/FrankvdStam/SoulSplitter/main/Components/MaterialDesignThemes.Wpf.xml</URL>
             <URL>https://raw.githubusercontent.com/FrankvdStam/SoulSplitter/main/Components/SoulMemory.dll</URL>
         </URLs>
         <Type>Component</Type>
@@ -14552,7 +14548,7 @@
         <Type>Script</Type>
         <Description>AutoStart and Autosplit by Paum &amp; Schy</Description>
     </AutoSplitter>
-	<AutoSplitter>
+    <AutoSplitter>
         <Games>
             <Game>Tomb Raider 5</Game>
             <Game>Tomb Raider V</Game>
@@ -14574,11 +14570,11 @@
         <Type>Component</Type>
         <Description>Automatic start, split, reset, and IGT for FG, IL, and deathruns. (by Midge and apel)</Description>
     </AutoSplitter>
-	  <AutoSplitter>
+      <AutoSplitter>
         <Games>
             <Game>SM57 Deluxe Collection</Game>
-	    <Game>SM57 2 Deluxe</Game>
-	    <Game>SM57 Deluxe</Game>
+        <Game>SM57 2 Deluxe</Game>
+        <Game>SM57 Deluxe</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/derric-young/smloadremove/main/SM57%20load%20remover.asl</URL>
@@ -14586,7 +14582,7 @@
         <Type>Script</Type>
         <Description>Load Remover By Derric Young</Description>
     </AutoSplitter>
-	<AutoSplitter>
+    <AutoSplitter>
         <Games>
             <Game>Shadow of Mordor</Game>
             <Game>Middle-Earth: Shadow of Mordor</Game>
@@ -14608,7 +14604,7 @@
         <Type>Script</Type>
         <Description>Load removal available (by Distro)</Description>
     </AutoSplitter>
-	<AutoSplitter>
+    <AutoSplitter>
         <Games>
             <Game>Cry of Fear</Game>
         </Games>
