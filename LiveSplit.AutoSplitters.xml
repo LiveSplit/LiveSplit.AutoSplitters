@@ -14629,4 +14629,14 @@
         <Description>Auto start/split/reset supported (By CaptainRektbeard)</Description>
         <Website>https://github.com/samjones246/marblemarcher-asl</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Little Big Adventure 2 (Twinsen's Odyssey)</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/amanekko/little-big-adventure-2-ASL/main/Little%20Big%20Adventure%202%20(Twinsen's%20Odyssey)%20-%20Any%25%20(GOG).asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/split/reset for LBA2</Description>
+    </AutoSplitter>
 </AutoSplitters>
