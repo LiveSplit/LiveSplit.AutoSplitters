@@ -6,6 +6,7 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/SomeoneSom/PatricksParaboxASL/main/Parabox.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/libraries/UnityASL.bin</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitter (By atpx8)</Description>
