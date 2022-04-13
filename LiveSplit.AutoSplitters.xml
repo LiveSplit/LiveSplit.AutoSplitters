@@ -14654,4 +14654,16 @@
         <Type>Script</Type>
         <Description>Auto start/split/reset for LBA2</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>PogoChamp</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/JakeRabinowitz/PogoChampAutosplitter/main/PogoChamp.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/libraries/UnityASL.bin</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplit support with several different modes, made by the developer of PogoChamp.</Description>
+        <Website>https://github.com/JakeRabinowitz/PogoChampAutosplitter</Website>
+    </AutoSplitter>
 </AutoSplitters>
