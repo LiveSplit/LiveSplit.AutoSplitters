@@ -14104,6 +14104,19 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>ANNO: Mutationem</Game>
+            <Game>ANNO: Mutationem Demo</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/just-ero/asl/raw/main/ANNO%20%E2%80%93%20Mutationem/ANNO_Mutationem.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/libraries/UnityASL.bin</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Removes loading times. (by Ero)</Description>
+        <Website>https://github.com/just-ero/asl/tree/main/ANNO%20%E2%80%93%20Mutationem</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Assemble with Care</Game>
         </Games>
         <URLs>
