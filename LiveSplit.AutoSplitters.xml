@@ -4811,7 +4811,7 @@
             <URL>https://raw.githubusercontent.com/JRoeseph/nppNewAuto/master/nppNewAuto.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Automatic Splitting is available. (By MoleTrooper, JRoeseph, and XandoToaster)</Description>
+        <Description>Automatic Splitting is available. (By MoleTrooper, JRoeseph, XandoToaster, and Tratix)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -14101,6 +14101,19 @@
         <Type>Script</Type>
         <Description>Starts automatically. Splits available in the settings, default split on credits. (by Ero)</Description>
         <Website>https://github.com/just-ero/asl/tree/main/And%20All%20Would%20Cry%20Beware!</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>ANNO: Mutationem</Game>
+            <Game>ANNO: Mutationem Demo</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/just-ero/asl/raw/main/ANNO%20%E2%80%93%20Mutationem/ANNO_Mutationem.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/libraries/UnityASL.bin</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Removes loading times. (by Ero)</Description>
+        <Website>https://github.com/just-ero/asl/tree/main/ANNO%20%E2%80%93%20Mutationem</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
