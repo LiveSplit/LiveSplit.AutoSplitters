@@ -2,6 +2,17 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Wild Guns Reloaded</Game>
+            <Game>Wild Guns: Reloaded</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/aeihu/AutoSplittersForSomeGames/main/Wild%20Guns%20Reloaded.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter by Aeihu</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Patrick's Parabox</Game>
         </Games>
         <URLs>
