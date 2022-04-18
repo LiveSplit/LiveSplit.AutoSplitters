@@ -2,6 +2,16 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>The Vessel of Embers</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/tyshoe/asl/main/The%20Vessel%20of%20Embers/TheVesselofEmbers.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter revised by TY</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Wild Guns Reloaded</Game>
             <Game>Wild Guns: Reloaded</Game>
         </Games>
