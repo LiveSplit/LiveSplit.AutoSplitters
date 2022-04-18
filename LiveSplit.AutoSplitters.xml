@@ -1460,9 +1460,9 @@
             <Game>Sonic Colours: Ultimate</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/SonicSpeedrunning/LiveSplit.SonicColors/master/Components/LiveSplit.SonicColors.dll</URL>
+            <URL>https://raw.githubusercontent.com/SonicSpeedrunning/LiveSplit.SonicColors/master/LiveSplit.SonicColors.asl</URL>
         </URLs>
-        <Type>Component</Type>
+        <Type>Script</Type>
         <Description>Autosplitting and In-Game Timer are available (by Jujstme)</Description>
         <Website>https://discord.gg/XRsRwRU</Website>
     </AutoSplitter>
