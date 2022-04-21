@@ -2,6 +2,19 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Aliens versus Predator 2</Game>
+            <Game>Aliens versus Predator 2: Primal Hunt</Game>
+            <Game>avp2</Game>
+            <Game>avp2ph</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/mitchell-merry/avp2_asl/main/avp2.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and load remover by diggity and The_One.</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>The Vessel of Embers</Game>
         </Games>
         <URLs>
