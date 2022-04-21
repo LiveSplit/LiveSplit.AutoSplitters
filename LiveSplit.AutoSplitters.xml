@@ -15,6 +15,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Charlie in the Moistverse of Madness</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/tyshoe/asl/main/Charlie%20in%20the%20Moistverse%20of%20Madness/CharlieInTheMoistverseOfMadness.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter (by TY)</Description>
+        <Website>https://www.speedrun.com/charlie_in_the_moistverse_of_madness</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>The Vessel of Embers</Game>
         </Games>
         <URLs>
