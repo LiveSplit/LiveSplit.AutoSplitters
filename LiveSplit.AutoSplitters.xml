@@ -6808,6 +6808,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>It Takes Two</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Lemuura/It-Takes-Two-Autosplitter/main/ItTakesTwo.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter is available. (By Ironhead39 &amp; Lemuura)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Anthem</Game>
         </Games>
         <URLs>
