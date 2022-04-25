@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
- <AutoSplitter>
+    <AutoSplitter>https://raw.githubusercontent.com/mitchell-merry/deathflush_asl/main/deathflush.asl
+        <Games>
+            <Game>Death Flush</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/mitchell-merry/deathflush_asl/main/deathflush.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and load remover by diggity. Set start time to 4.38.</Description>
+    </AutoSplitter>
+    <AutoSplitter>
         <Games>
             <Game>Selaco</Game>
         </Games>
