@@ -13,6 +13,29 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>The Stanley Parable: Ultra Deluxe</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Nikoheartttv/TheStanleyParableUltraDeluxe_Autosplitter/main/TSPUD_AutoSplitter.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/libraries/UnityASL.bin</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter by Nikoheart</Description>
+        <Website>https://www.speedrun.com/tspud</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Dexter Stardust: Adventures in Outer Space</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Nikoheartttv/DexterStardustAdventuresInOuterSpace_AutoSplitter/main/DexterStardust.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/libraries/UnityASL.bin</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter by Nikoheart</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Mini Metro</Game>
         </Games>
         <URLs>
