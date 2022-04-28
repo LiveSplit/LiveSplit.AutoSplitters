@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
+    <AutoSplitter>
+        <Games>
+            <Game>Mini Metro</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/aeihu/AutoSplittersForSomeGames/main/Mini_Metro.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter by Aeihu</Description>
+        <Website>https://www.speedrun.com/mini_metro</Website>
+    </AutoSplitter>
     <AutoSplitter>https://raw.githubusercontent.com/mitchell-merry/deathflush_asl/main/deathflush.asl
         <Games>
             <Game>Death Flush</Game>
