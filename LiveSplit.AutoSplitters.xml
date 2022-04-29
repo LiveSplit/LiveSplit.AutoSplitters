@@ -4519,11 +4519,11 @@
             <Game>ASAMU</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/0Seren/AutoSplitters/master/ASAMU/ASAMU.asl</URL>
+            <URL>https://raw.githubusercontent.com/gizmovor/ASAMU_Load_Remover/main/ASAMU_Load_Remover.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto Splitting and Load Removal are available. (By 0Seren)</Description>
-        <Website>https://github.com/0Seren/AutoSplitters/tree/master/ASAMU</Website>
+        <Description>Auto Splitting, Auto Starting and Load Removal are available. (By Gizmovor)</Description>
+        <Website>https://github.com/gizmovor/ASAMU_Load_Remover</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
