@@ -14866,4 +14866,16 @@
         <Type>Script</Type>
         <Description>Load Removal is available. (By Weed)</Description>
     </AutoSplitter>
+      <AutoSplitter>
+        <Games>
+            <Game>Wolfenstein 3D</Game>
+            <Game>Wolfenstein3D</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/rogender/LiveSplit.Wolfenstein3D/main/LiveSplit.Wolfenstein3D.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Wolfenstein 3D autosplitter. Working only with latest version of source ports</Description>
+        <Website>https://github.com/rogender/LiveSplit.Wolfenstein3D</Website>
+    </AutoSplitter>
 </AutoSplitters>
