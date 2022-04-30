@@ -14483,6 +14483,18 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Pathfinder: Wrath of the Righteous</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/just-ero/asl/raw/main/Pathfinder%20%E2%80%93%20Wrath%20of%20the%20Righteous/P_WotR.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/libraries/UnityASL.bin</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Removes loads. (by Ero)</Description>
+        <Website>https://github.com/just-ero/asl/tree/main/Pathfinder%20%E2%80%93%20Wrath%20of%20the%20Righteous</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>The Pedestrian</Game>
         </Games>
         <URLs>
