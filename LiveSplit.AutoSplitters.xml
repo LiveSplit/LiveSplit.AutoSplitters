@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
-      <AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Mini Motorways</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/aeihu/AutoSplittersForSomeGames/main/Mini_Motorways.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter by Aeihu</Description>
+        <Website>https://www.speedrun.com/mini_motorways</Website>
+    </AutoSplitter>
+    <AutoSplitter>
         <Games>
             <Game>Homecoming: City of Heroes</Game>
         </Games>
