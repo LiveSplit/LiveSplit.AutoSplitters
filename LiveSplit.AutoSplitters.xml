@@ -13,6 +13,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Path of Exile</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/purxiz/poe_autosplitter/main/poe.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter by purxiz</Description>
+        <Website>https://www.speedrun.com/poe</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Homecoming: City of Heroes</Game>
         </Games>
         <URLs>
