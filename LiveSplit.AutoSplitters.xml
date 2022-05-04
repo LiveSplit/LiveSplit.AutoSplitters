@@ -14912,4 +14912,15 @@
         <Description>Wolfenstein 3D autosplitter. Working only with latest version of source ports</Description>
         <Website>https://github.com/rogender/LiveSplit.Wolfenstein3D</Website>
     </AutoSplitter>
+     <AutoSplitter>
+        <Games>
+            <Game>Pearl Grabber</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/samjones246/pgrab-asl/master/pgrab.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/split supported (By CaptainRektbeard)</Description>
+        <Website>https://github.com/samjones246/pgrab-asl</Website>
+    </AutoSplitter>
 </AutoSplitters>
