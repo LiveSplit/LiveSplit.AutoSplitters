@@ -14923,4 +14923,15 @@
         <Description>Auto start/split supported (By CaptainRektbeard)</Description>
         <Website>https://github.com/samjones246/pgrab-asl</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Commandos 2</Game>
+            <Game>Commandos 2: Men of Courage</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/SuiMachine/LiveSplit.ASLScripts/master/Commandos-2/LiveSplit.Commandos2.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load remover (By SuicideMachine)</Description>
+    </AutoSplitter>
 </AutoSplitters>
