@@ -280,7 +280,7 @@
             <URL>https://raw.githubusercontent.com/BrandenEK/dysmantle-autosplitter/main/DYSMANTLE.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autosplitter for DYSMANTLE (Load remover coming soon)</Description>
+        <Description>Load remover and autosplitter for DYSMANTLE</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
