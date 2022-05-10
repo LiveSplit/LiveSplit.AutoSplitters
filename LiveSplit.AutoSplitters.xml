@@ -2,6 +2,17 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Tropic Jim's Sweet Island Adventure</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/samjones246/tjsia-asl/master/tjsia.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/split supported (By CaptainRektbeard)</Description>
+        <Website>https://github.com/samjones246/tjsia-asl</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Mini Motorways</Game>
         </Games>
         <URLs>
