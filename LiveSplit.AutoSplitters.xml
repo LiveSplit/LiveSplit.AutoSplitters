@@ -7837,6 +7837,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Crow Story</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/LRFLEW/LiveSplit.CrowStory/main/CrowStory.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>LiveSplit AutoSplitter for Crow Story</Description>
+        <Website>https://github.com/LRFLEW/LiveSplit.CrowStory</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>FEAR</Game>
             <Game>FEAR: First Encounter Assault Recon</Game>
             <Game>F.E.A.R.</Game>
