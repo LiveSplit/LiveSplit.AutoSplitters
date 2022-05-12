@@ -98,6 +98,16 @@
         <Type>Script</Type>
         <Description>Autosplitter by Meta</Description>
     </AutoSplitter>
+        <AutoSplitter>
+        <Games>
+            <Game>POPPY PLAYTIME: CHAPTER 2</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/KunoDemetries/AutoSplitter/master/PoppyPlaytimeChapter2.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter by Kuno</Description>
+    </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>Bloodwash</Game>
