@@ -8,7 +8,7 @@
             <URL>https://raw.githubusercontent.com/WaterArcanum/AutoSplitters/main/zonerunner2.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autosplitter by Arko. Timer is reset on death by default, untick the "Reset" checkbox to disable this functionality.</Description>
+        <Description>Autosplitter by Arko. You can set whether to reset on death in the settings. Timer resets on title screen by default.</Description>
         <Website>https://www.speedrun.com/zone_runner_2</Website>
     </AutoSplitter>
     <AutoSplitter>
