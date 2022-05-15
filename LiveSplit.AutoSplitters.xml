@@ -117,7 +117,7 @@
             <URL>https://raw.githubusercontent.com/KunoDemetries/AutoSplitter/master/PoppyPlaytimeChapter2.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autosplitter by Kuno</Description>
+        <Description>Autosplitter (by KunoDemetries)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -13695,7 +13695,7 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
-            <Game>Poppy Playtime</Game>
+            <Game>POPPY PLAYTIME: CHAPTER 2</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/TitomakaniJr/AutoSplits/main/Poppy%20Playtime/PoppyPlaytime.asl</URL>
