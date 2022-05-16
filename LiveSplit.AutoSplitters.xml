@@ -5593,6 +5593,7 @@
             <Game>StarTrack² Stadium</Game>
             <Game>StarTrack² Valley</Game>
             <Game>TrackMania One - Alpine</Game>
+            <Game>ZrT Trackmania Cup</Game>
         <Game>TrackMania² Canyon : Platform</Game>
         </Games>
         <URLs>
@@ -11313,19 +11314,6 @@
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitting and autostart available (by JohnStephenEvil)</Description>
-    </AutoSplitter>
-    <AutoSplitter>
-        <Games>
-            <Game>Trackmania</Game>
-            <Game>Trackmania Category Extensions</Game>
-            <Game>Trackmania Club Campaigns</Game>
-        </Games>
-        <URLs>
-            <URL>https://raw.githubusercontent.com/Voxelse/ASLScripts/master/Livesplit.Trackmania/Livesplit.Trackmania.asl</URL>
-        </URLs>
-        <Type>Script</Type>
-        <Description>Auto Start/Split and Game Time (by Voxelse)</Description>
-        <Website>https://github.com/Voxelse/ASLScripts/tree/master/Livesplit.Trackmania</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
