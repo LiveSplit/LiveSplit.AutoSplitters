@@ -24,6 +24,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Yume Nikki</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/samjones246/yumenikki-asl/master/yumenikki.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/split supported (By CaptainRektbeard)</Description>
+        <Website>https://github.com/samjones246/yumenikki-asl</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Tropic Jim's Sweet Island Adventure</Game>
         </Games>
         <URLs>
