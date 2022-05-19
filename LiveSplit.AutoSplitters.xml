@@ -5599,7 +5599,7 @@
             <Game>Trackmania Club Campaigns</Game>
         </Games>
         <URLs>
-            <URL>https://github.com/GreepTheSheep/LiveSplit.Server/releases/download/1.8.20-custom/LiveSplit.Server.dll</URL>
+            <URL>https://github.com/GreepTheSheep/LiveSplit.Server/releases/latest/download/LiveSplit.TMServer.dll</URL>
         </URLs>
         <Type>Component</Type>
         <Description>Openplanet plugin for IGT caclulation and autosplitter are available. (By Greep)</Description>
