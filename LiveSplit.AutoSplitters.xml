@@ -5595,6 +5595,19 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Trackmania</Game>
+            <Game>Trackmania Club Campaigns</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/GreepTheSheep/LiveSplit.Server/releases/latest/download/LiveSplit.TMServer.dll</URL>
+        </URLs>
+        <Type>Component</Type>
+        <Description>Openplanet plugin for IGT caclulation and autosplitter are available. (By Greep)</Description>
+        <Website>https://openplanet.dev/plugin/speedrun</Website>
+        <ShowInLayoutEditor />
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>TrackMania² Canyon</Game>
             <Game>TrackMania² Lagoon</Game>
             <Game>TrackMania² Stadium</Game>
