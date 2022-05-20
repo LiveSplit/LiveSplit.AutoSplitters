@@ -13275,10 +13275,10 @@
             <Game>The Emperor's New Groove</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/UltraStars3000/kuzcoASL/main/KuzcoASL.asl</URL>
+            <URL>https://raw.githubusercontent.com/UltraStars3000/UltraASL/main/KuzcoASL.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autosplitter for the PC version of [The Emperor's New Groove]. (by UltraStars3000)</Description>
+        <Description>Autosplitter for The Emperor's New Groove (by UltraStars3000)</Description>
         <Website>https://discord.gg/Mknzj3RfxG</Website>
     </AutoSplitter>
     <AutoSplitter>
@@ -15032,5 +15032,16 @@
         <Type>Component</Type>
         <Description>AutoSplit, speed graph, and more. (By Gelmo)</Description>
         <Website>https://github.com/Gelmo/LiveSplit.Roboquest</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Oddworld: Soulstorm</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/UltraStars3000/UltraASL/main/SoulstormASL.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for Oddworld: Soulstorm (by UltraStars3000)</Description>
+        <Website>https://discord.gg/uyqMtsD</Website>
     </AutoSplitter>
 </AutoSplitters>
