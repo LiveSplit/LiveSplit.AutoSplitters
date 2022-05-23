@@ -2,6 +2,15 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>click to ten</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Gauley123/click-to-ten-autosplitter/main/clicktoten.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter by Gauley.</Description>
+        <Website>https://clicktoten.neocities.org</Website>
+        <Games>
             <Game>Zone Runner 2</Game>
         </Games>
         <URLs>
