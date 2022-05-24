@@ -15066,4 +15066,15 @@
         <Description>Autosplitter for Oddworld: Soulstorm (by UltraStars3000)</Description>
         <Website>https://discord.gg/uyqMtsD</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Nightmare of Decay</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/rythin-sr/ASL-Scripts/master/NightmareofDecay.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/libraries/UnityASL.bin</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting and Load Removal available (by rythin)</Description>
+    </AutoSplitter>
 </AutoSplitters>
