@@ -26,9 +26,10 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/Schyvun/Haiku-Autosplitter/main/Haiku.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/libraries/UnityASL.bin</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autosplitter by Jarlyk and Schy.</Description>
+        <Description>Autosplitter by Jarlyk and Schy</Description>
         <Website>https://www.speedrun.com/haiku</Website>
     </AutoSplitter>
     <AutoSplitter>
