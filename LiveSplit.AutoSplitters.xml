@@ -2,6 +2,18 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>In Sound Mind</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/ontrigger/ism-autosplitter/main/insoundmind.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/libraries/UnityASL.bin</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Remover and Autosplitter by diggity and ontrigger.</Description>
+        <Website>https://www.speedrun.com/in_sound_mind</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>click to ten</Game>
         </Games>
         <URLs>
@@ -10,6 +22,8 @@
         <Type>Script</Type>
         <Description>Autosplitter by Gauley.</Description>
         <Website>https://clicktoten.neocities.org</Website>
+    </AutoSplitter>
+    <AutoSplitter>
         <Games>
             <Game>Zone Runner 2</Game>
         </Games>
