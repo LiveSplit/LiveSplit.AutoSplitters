@@ -2,6 +2,17 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Aim Climb</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/MechaYutori/AimClimbAutosplitter/main/AimClimbAutosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter by Yutori.</Description>
+        <Website>https://www.speedrun.com/aim_climb</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>In Sound Mind</Game>
         </Games>
         <URLs>
