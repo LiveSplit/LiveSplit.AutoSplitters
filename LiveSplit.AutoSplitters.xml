@@ -15103,3 +15103,16 @@
         <Description>Autosplitting and Load Removal available (by rythin)</Description>
     </AutoSplitter>
 </AutoSplitters>
+<AutoSplitter>
+        <Games>
+            <Game>Doom II</Game>
+            <Game>Doom 2</Game>
+            <Game>Doom II: Hell on Earth</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/rogender/LiveSplit.Ultimate-DOOM/master/LiveSplit.Ultimate-DOOM.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>DOOM II autosplitter. Working only on latest versions of source ports</Description>
+        <Website>https://github.com/rogender/LiveSplit.Ultimate-DOOM</Website>
+</AutoSplitter>
