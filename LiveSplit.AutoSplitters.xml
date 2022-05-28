@@ -2,6 +2,18 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Heretic II</Game>
+            <Game>Heretic 2</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/mitchell-merry/heretic2_asl/master/heretic2.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load remover and autosplitter by diggity.</Description>
+        <Website>https://www.speedrun.com/heretic_ii</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Aim Climb</Game>
         </Games>
         <URLs>
