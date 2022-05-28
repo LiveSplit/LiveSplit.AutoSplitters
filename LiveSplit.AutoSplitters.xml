@@ -2,6 +2,17 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Granny 3 (PC)</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/mitchell-merry/granny3_asl/master/granny3.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter by diggity. Final split is manual.</Description>
+        <Website>https://www.speedrun.com/granny_3_pc</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>The Blair Witch Volumes</Game>
             <Game>The Blair Witch Volume 1: Rustin Parr</Game>
             <Game>The Blair Witch Volume I: Rustin Parr</Game>
