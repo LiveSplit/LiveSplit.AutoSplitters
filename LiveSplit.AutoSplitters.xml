@@ -2,6 +2,23 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>The Blair Witch Volumes</Game>
+            <Game>The Blair Witch Volume 1: Rustin Parr</Game>
+            <Game>The Blair Witch Volume I: Rustin Parr</Game>
+            <Game>The Blair Witch Volume 2: The Legend of Coffin Rock</Game>
+            <Game>The Blair Witch Volume II: The Legend of Coffin Rock</Game>
+            <Game>The Blair Witch Volume 3: The Elly Kedward Tale</Game>
+            <Game>The Blair Witch Volume III: The Elly Kedward Tale</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/MildGothDaddy/Bw_asl/main/bw.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load remover by diggity and MildGothDaddy. Run livesplit as admin. Volume 1 will auto-start.</Description>
+        <Website>https://www.speedrun.com/the_blair_witch_volumes</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Heretic II</Game>
             <Game>Heretic 2</Game>
         </Games>
