@@ -2,6 +2,17 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>.flow</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/samjones246/dotflow-asl/master/dotflow.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/split/reset supported (By CaptainRektbeard)</Description>
+        <Website>https://github.com/samjones246/dotflow-asl</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Granny 3 (PC)</Game>
         </Games>
         <URLs>
