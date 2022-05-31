@@ -2233,6 +2233,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Kao the Kangaroo (2022)</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Jujstme/Autosplitters/master/Kao%20the%20Kangaroo/LiveSplit.KaoTheKangaroo2022.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting and Load Removal available. (by Jujstme)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Rayman 2: The Great Escape</Game>
         </Games>
         <URLs>
