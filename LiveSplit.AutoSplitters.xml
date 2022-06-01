@@ -15189,4 +15189,14 @@
         <Description>DOOM II autosplitter. Working only on latest versions of source ports</Description>
         <Website>https://github.com/rogender/LiveSplit.Ultimate-DOOM</Website>
        </AutoSplitter>
+     <AutoSplitter>
+        <Games>
+            <Game>Legacy of Kain: Soul Reaver 2</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/TheDementedSalad/Soul-Reaver-2-Autosplitter/main/LoKSR2%20Autosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Timed via IGT (Load Remover) W/Autosplitter capabilities (by TheDementedSalad, Mysterion06)</Description>
+    </AutoSplitter>
 </AutoSplitters>
