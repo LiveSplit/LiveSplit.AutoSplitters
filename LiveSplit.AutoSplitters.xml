@@ -8,6 +8,7 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/Ebunix/mlp-amba-autosplits/main/MLP_AMBA_Autosplit.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/libraries/UnityASL.bin</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Supports auto start and split on each load, as well as load time removal (By Ebunix)</Description>
