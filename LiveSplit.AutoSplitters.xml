@@ -2,6 +2,17 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Ib</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/samjones246/ib-asl/master/ib.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/split/reset supported (By CaptainRektbeard)</Description>
+        <Website>https://github.com/samjones246/ib-asl</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>My Little Pony: A Maretime Bay Adventure</Game>
             <Game>My Little Pony: AMBA</Game>
             <Game>MLP: AMBA</Game>
