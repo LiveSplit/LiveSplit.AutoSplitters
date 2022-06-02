@@ -15211,4 +15211,14 @@
         <Type>Script</Type>
         <Description>Timed via IGT (Load Remover) W/Autosplitter capabilities (by TheDementedSalad, Mysterion06)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Arietta of Spirits</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/thirdspiritgames/aos-speedrunning/main/scripts/AriettaOfSpirits.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for Arietta of Spirits.</Description>
+    </AutoSplitter>
 </AutoSplitters>
