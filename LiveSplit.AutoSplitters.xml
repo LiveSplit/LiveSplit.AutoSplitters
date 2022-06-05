@@ -2,6 +2,16 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Devil Catcher</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/mitchell-merry/autosplitters/main/Devil%20Catcher/devilcatcher.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and load remover by diggity.</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Ib</Game>
         </Games>
         <URLs>
