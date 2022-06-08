@@ -15221,4 +15221,15 @@
         <Type>Script</Type>
         <Description>Autosplitter for Arietta of Spirits.</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Persona 4 Golden</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/emilybrooks/p4g-load-remover/main/persona4golden.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load remover for Persona 4 Golden (PC).</Description>
+        <Website>https://github.com/emilybrooks/p4g-load-remover</Website>
+    </AutoSplitter>
 </AutoSplitters>
