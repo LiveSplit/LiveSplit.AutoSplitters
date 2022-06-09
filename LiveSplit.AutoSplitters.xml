@@ -2,6 +2,16 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Devastation</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/mitchell-merry/autosplitters/main/Devastation/devastation.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load remover by diggity.</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Devil Catcher</Game>
         </Games>
         <URLs>
@@ -51,7 +61,7 @@
             <Game>Granny 3 (PC)</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/mitchell-merry/granny3_asl/master/granny3.asl</URL>
+            <URL>https://raw.githubusercontent.com/mitchell-merry/autosplitters/main/Granny%203/granny3.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitter by diggity. Final split is manual.</Description>
@@ -80,7 +90,7 @@
             <Game>Heretic 2</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/mitchell-merry/heretic2_asl/master/heretic2.asl</URL>
+            <URL>https://raw.githubusercontent.com/mitchell-merry/autosplitters/main/Heretic%20II/heretic2.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Load remover and autosplitter by diggity.</Description>
@@ -237,10 +247,10 @@
             <Game>Death Flush</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/mitchell-merry/deathflush_asl/main/deathflush.asl</URL>
+            <URL>https://raw.githubusercontent.com/mitchell-merry/autosplitters/main/Death%20Flush/deathflush.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autosplitter and load remover by diggity. Set start time to 4.38.</Description>
+        <Description>Autosplitter and load remover by diggity.</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -267,10 +277,10 @@
             <Game>Bloodwash</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/mitchell-merry/bloodwash_asl/main/bloodwash.asl</URL>
+            <URL>https://raw.githubusercontent.com/mitchell-merry/autosplitters/main/Bloodwash/bloodwash.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load remover by diggity.</Description>
+        <Description>Autosplitter and load remover by diggity.</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -302,7 +312,7 @@
             <Game>nbg3</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/mitchell-merry/nbg3_asl/main/nbg3.asl</URL>
+            <URL>https://raw.githubusercontent.com/mitchell-merry/autosplitters/main/Northbury%20Grove%203%20-%20Walls%20Closing%20In/nbg3.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitter and load remover by diggity.</Description>
@@ -315,7 +325,7 @@
             <Game>avp2ph</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/mitchell-merry/avp2_asl/main/avp2.asl</URL>
+            <URL>https://raw.githubusercontent.com/mitchell-merry/autosplitters/main/Aliens%20versus%20Predator%202/avp2.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitter and load remover by diggity and The_One.</Description>
@@ -412,7 +422,7 @@
             <Game>Will You Snail? Category Extensions</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/mitchell-merry/wys_asl/main/wys.asl</URL>
+            <URL>https://raw.githubusercontent.com/mitchell-merry/autosplitters/main/Will%20You%20Snail/wys.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitter written by diggity and FlippyDolphin.</Description>
@@ -13627,7 +13637,7 @@
             <Game>The Whitetail Incident</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/diggitydingdong/whitetail_asl/main/whitetail.asl</URL>
+            <URL>https://raw.githubusercontent.com/mitchell-merry/autosplitters/main/The%20Whitetail%20Incident/whitetail.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitting is available. Created by diggity and Ero.</Description>
@@ -13638,7 +13648,7 @@
             <Game>Late Work</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/diggitydingdong/latework_asl/main/latework.asl</URL>
+            <URL>https://raw.githubusercontent.com/mitchell-merry/autosplitters/main/Late%20Work/latework.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Automatic start/stop is available. Created by diggity.</Description>
