@@ -3790,17 +3790,6 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
-            <Game>Dark Souls III</Game>
-            <Game>Dark Souls 3</Game>
-        </Games>
-        <URLs>
-            <URL>https://raw.githubusercontent.com/Jiiks/Ds3Igt/master/Components/Ds3Igt.dll</URL>
-        </URLs>
-        <Type>Component</Type>
-        <Description>Game Time is available. (By Jiiks) Autosplitter is available. (by B3LYP)</Description>
-    </AutoSplitter>
-    <AutoSplitter>
-        <Games>
             <Game>Shadow of the Tomb Raider</Game>
             <Game>SOTTR</Game>
         </Games>
@@ -14345,17 +14334,19 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Dark Souls III</Game>
+            <Game>Dark Souls 3</Game>
             <Game>Elden Ring</Game>
         </Games>
         <URLs>
-        <URL>https://raw.githubusercontent.com/FrankvdStam/SoulSplitter/main/Components/SoulSplitter.dll</URL>
+            <URL>https://raw.githubusercontent.com/FrankvdStam/SoulSplitter/main/Components/SoulSplitter.dll</URL>
             <URL>https://raw.githubusercontent.com/FrankvdStam/SoulSplitter/main/Components/MaterialDesignColors.dll</URL>
-        <URL>https://raw.githubusercontent.com/FrankvdStam/SoulSplitter/main/Components/MaterialDesignThemes.Wpf.dll</URL>
-        <URL>https://raw.githubusercontent.com/FrankvdStam/SoulSplitter/main/Components/MaterialDesignThemes.Wpf.xml</URL>
+            <URL>https://raw.githubusercontent.com/FrankvdStam/SoulSplitter/main/Components/MaterialDesignThemes.Wpf.dll</URL>
+            <URL>https://raw.githubusercontent.com/FrankvdStam/SoulSplitter/main/Components/MaterialDesignThemes.Wpf.xml</URL>
             <URL>https://raw.githubusercontent.com/FrankvdStam/SoulSplitter/main/Components/SoulMemory.dll</URL>
         </URLs>
         <Type>Component</Type>
-        <Description>Modified in game time for Elden Ring</Description>
+        <Description>MIGT, load removal, blackscreen removal and autosplitting for Elden Ring and Dark Souls 3</Description>
         <Website>https://github.com/FrankvdStam/SoulSplitter</Website>
     </AutoSplitter>
     <AutoSplitter>
