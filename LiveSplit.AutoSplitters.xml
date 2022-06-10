@@ -14340,10 +14340,10 @@
         </Games>
         <URLs>
 			<URL>https://raw.githubusercontent.com/FrankvdStam/SoulSplitter/main/Components/SoulSplitter.dll</URL>
-            <URL>https://raw.githubusercontent.com/FrankvdStam/SoulSplitter/main/Components/MaterialDesignColors.dll</URL>
+			<URL>https://raw.githubusercontent.com/FrankvdStam/SoulSplitter/main/Components/MaterialDesignColors.dll</URL>
 			<URL>https://raw.githubusercontent.com/FrankvdStam/SoulSplitter/main/Components/MaterialDesignThemes.Wpf.dll</URL>
 			<URL>https://raw.githubusercontent.com/FrankvdStam/SoulSplitter/main/Components/MaterialDesignThemes.Wpf.xml</URL>
-            <URL>https://raw.githubusercontent.com/FrankvdStam/SoulSplitter/main/Components/SoulMemory.dll</URL>
+			<URL>https://raw.githubusercontent.com/FrankvdStam/SoulSplitter/main/Components/SoulMemory.dll</URL>
         </URLs>
         <Type>Component</Type>
         <Description>MIGT, load removal, blackscreen removal and autosplitting for Elden Ring and Dark Souls 3</Description>
