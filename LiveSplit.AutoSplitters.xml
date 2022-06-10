@@ -14335,8 +14335,8 @@
     <AutoSplitter>
         <Games>
 			<Game>Dark Souls III</Game>
-            <Game>Dark Souls 3</Game>
-            <Game>Elden Ring</Game>
+			<Game>Dark Souls 3</Game>
+			<Game>Elden Ring</Game>
         </Games>
         <URLs>
 			<URL>https://raw.githubusercontent.com/FrankvdStam/SoulSplitter/main/Components/SoulSplitter.dll</URL>
