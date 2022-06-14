@@ -15233,4 +15233,15 @@
         <Description>Load remover for Persona 4 Golden (PC).</Description>
         <Website>https://github.com/emilybrooks/p4g-load-remover</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Another World</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/velcheran/autosplitters/main/AnotherWorld20thAnniversary.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for Another World 20th Anniversary edition (PC).</Description>
+        <Website>https://github.com/velcheran/autosplitters/blob/main/AnotherWorld20thAnniversary.asl</Website>
+    </AutoSplitter>
 </AutoSplitters>
