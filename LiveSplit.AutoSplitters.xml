@@ -15244,4 +15244,16 @@
         <Description>Autosplitter for Another World 20th Anniversary edition (PC).</Description>
         <Website>https://github.com/velcheran/autosplitters/blob/main/AnotherWorld20thAnniversary.asl</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>I Am Fish</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/aranel616/autosplitters/raw/main/I%20Am%20Fish/IAmFish.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/Components/UnityASL.bin</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for I Am Fish (By Aranel616)</Description>
+        <Website>https://www.speedrun.com/i_am_fish</Website>
+    </AutoSplitter>
 </AutoSplitters>
