@@ -15244,4 +15244,15 @@
         <Description>Autosplitter for Another World 20th Anniversary edition (PC).</Description>
         <Website>https://github.com/velcheran/autosplitters/blob/main/AnotherWorld20thAnniversary.asl</Website>
     </AutoSplitter>
+     <AutoSplitter>
+        <Games>
+            <Game>Postal 4: No Regerts</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/SpectralPlatypus/AutoSplitters/master/Postal4.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter/Load Remover for Postal 4: No Regerts (by SpectralPlatypus)</Description>
+        <Website>https://www.speedrun.com/postal4</Website>
+    </AutoSplitter>
 </AutoSplitters>
