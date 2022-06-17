@@ -15244,13 +15244,24 @@
         <Description>Autosplitter for Another World 20th Anniversary edition (PC).</Description>
         <Website>https://github.com/velcheran/autosplitters/blob/main/AnotherWorld20thAnniversary.asl</Website>
     </AutoSplitter>
+     <AutoSplitter>
+        <Games>
+            <Game>Postal 4: No Regerts</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/SpectralPlatypus/AutoSplitters/master/Postal4.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter/Load Remover for Postal 4: No Regerts (by SpectralPlatypus)</Description>
+        <Website>https://www.speedrun.com/postal4</Website>
+    </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>I Am Fish</Game>
         </Games>
         <URLs>
             <URL>https://github.com/aranel616/autosplitters/raw/main/I%20Am%20Fish/IAmFish.asl</URL>
-            <URL>https://github.com/just-ero/asl-help/raw/main/Components/UnityASL.bin</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/Components/LiveSplit.ASLHelper.bin</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitter for I Am Fish (By Aranel616)</Description>
