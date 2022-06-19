@@ -14376,13 +14376,22 @@
     <AutoSplitter>
         <Games>
             <Game>Neon White</Game>
-            <Game>Neon White Demo</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/crashb/neon-white-autosplitter/main/neonwhite.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitter for Neon White</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Neon White Demo</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/crashb/neon-white-autosplitter/main/demo/neonwhitedemo.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for Neon White Demo</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
