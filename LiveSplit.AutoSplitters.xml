@@ -2,6 +2,16 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Goosebumps: Dead of Night</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Nikoheartttv/Goosebumps_DeadOfNight/main/GDON_Autosplitter</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter/Load remover/IL Run Timer by Nikoheart.</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Devastation</Game>
         </Games>
         <URLs>
