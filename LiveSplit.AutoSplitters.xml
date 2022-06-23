@@ -431,10 +431,10 @@
             <Game>Ghostwire: Tokyo</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/LiterallyMetaphorical/LiveSplit.GhostwireTokyo/main/GhostwireTokyo.asl</URL>
+            <URL>https://raw.githubusercontent.com/KunoDemetries/AutoSplitter/master/GhostWireTokyo.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autosplitter written by Meta.</Description>
+        <Description>Autosplitter written (By Meta, Kuno Demetries).</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
