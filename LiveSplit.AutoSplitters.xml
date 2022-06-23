@@ -967,6 +967,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Sonic Origins</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/SonicSpeedrunning/LiveSplit.SonicOrigins/main/LiveSplit.SonicOrigins.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting by Jujstme</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Brave Fencer Musashi</Game>
         </Games>
         <URLs>
