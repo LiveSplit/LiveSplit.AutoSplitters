@@ -431,10 +431,10 @@
             <Game>Ghostwire: Tokyo</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/LiterallyMetaphorical/LiveSplit.GhostwireTokyo/main/GhostwireTokyo.asl</URL>
+            <URL>https://raw.githubusercontent.com/KunoDemetries/AutoSplitter/master/GhostWireTokyo.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autosplitter written by Meta.</Description>
+        <Description>Autosplitter written (By Meta, Kuno Demetries).</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -961,6 +961,16 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/SonicSpeedrunning/LiveSplit.Sonic4Episode2/master/LiveSplit.Sonic4Episode2.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting by Jujstme</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Sonic Origins</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/SonicSpeedrunning/LiveSplit.SonicOrigins/main/LiveSplit.SonicOrigins.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitting by Jujstme</Description>
@@ -4962,7 +4972,18 @@
         </URLs>
         <Type>Script</Type>
         <Description>Auto Start/Split/Reset are available. Manual end split required. (By LukeSaward)</Description>
-        <Website>https://github.com/LukeSaward1/DiFM-Speedrun-Mod/releases/latest</Website>
+        <Website>https://github.com/LukeSaward1</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>The Impossible Quiz</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/LukeSaward1/AutoSplitters/main/The%20Impossible%20Quiz/TiQ_Autosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Start/Split/Reset are available. (By LukeSaward)</Description>
+        <Website>https://github.com/LukeSaward1</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -7071,7 +7092,7 @@
             <Game>Quickie Mountain 2</Game>
             <Game>Celeste Category Extensions</Game>
             <Game>Modded Celeste</Game>
-            <Game>D-Sides</Game>
+            <Game>Monika's D-Sides</Game>
             <Game>2020 Spring Collab</Game>
             <Game>Glyph Pack</Game>
             <Game>Into The Jungle</Game>
