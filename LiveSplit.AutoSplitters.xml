@@ -14498,6 +14498,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Marble Blast Gold</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/thearst3rd/autosplitters/main/LiveSplit.MarbleBlastGold.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Supports auto start and configurable splits on MBG 1.4.1 (by thearst3rd and CaptainRektbeard)</Description>
+        <Website>https://github.com/thearst3rd/autosplitters</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Marble Blast Ultra</Game>
             <Game>OpenMBU</Game>
         </Games>
