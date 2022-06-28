@@ -4141,6 +4141,9 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Resident Evil Zero</Game>
+            <Game>Resident Evil 0</Game>
+            <Game>RE0</Game>
             <Game>Resident Evil 0 HD</Game>
             <Game>RE0HD</Game>
             <Game>RE0 HD</Game>
@@ -4149,10 +4152,11 @@
             <Game>Resident Evil 0 HD Remaster</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/cursedtoast/re0livesplit/master/LiveSplit.RE0.asl</URL>
+            <URL>https://raw.githubusercontent.com/deserteagle417/RE0-Autosplitter/main/re0hd.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Game Time is available. (By CursedToast)</Description>
+        <Description>Door splits, item splits, and key event splits are available. Click Website for more information.</Description>
+        <Website>https://github.com/deserteagle417/RE0-Autosplitter</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
