@@ -12525,10 +12525,10 @@
             <Game>Peggle Deluxe</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Janiczek/PeggleDeluxeAutosplitter/master/Peggle%20Deluxe%20-%20Adventure%20Mode.asl</URL>
+            <URL>https://raw.githubusercontent.com/brassbeat/autosplitters/main/Peggle-Deluxe/Adventure-Mode</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autosplitter for Peggle Deluxe - Adventure Mode, for 55 splits.</Description>
+        <Description>Auto start/split for Adventure Mode. Splits by level and by master available.</Description>
         <Website>https://www.speedrun.com/peggle_deluxe</Website>
     </AutoSplitter>
     <AutoSplitter>
