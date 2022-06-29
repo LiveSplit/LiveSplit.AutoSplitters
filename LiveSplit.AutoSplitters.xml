@@ -31,6 +31,16 @@
         <Type>Script</Type>
         <Description>Load remover by diggity.</Description>
     </AutoSplitter>
+     <AutoSplitter>
+        <Games>
+            <Game>Sniper Elite 5</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/KunoDemetries/AutoSplitter/master/SniperElite5.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter/Load Remover (By Kunodemetries, xZeko)</Description>
+    </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>Devil Catcher</Game>
