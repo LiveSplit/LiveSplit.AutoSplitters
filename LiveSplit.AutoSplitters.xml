@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
+       <AutoSplitter>
+        <Games>
+            <Game>Dead Rising 4</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/DeadRising4.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Written by Kuno Demetries and streetbackguy. Features Autosplitting in Story Mode, Capcom Heroes and Frank Rising. Load Removal across all game modes.</Description>
+    </AutoSplitter>
  <AutoSplitter>
         <Games>
             <Game>The Quarry</Game>
