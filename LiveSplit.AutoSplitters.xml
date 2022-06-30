@@ -9158,18 +9158,6 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
-            <Game>Sekiro</Game>
-            <Game>Sekiro: Shadows Die Twice</Game>
-        </Games>
-        <URLs>
-            <URL>https://gist.githubusercontent.com/RefinedHornet/70453f953d536229d093a7f86b4559cd/raw/8679a9a6e36e949e1f88ee8979d6852d4e2bb0c9/Sekiro.asl</URL>
-        </URLs>
-        <Type>Script</Type>
-        <Description>Game time, auto-start and several QOL improvments.</Description>
-        <Website>https://gist.github.com/pawREP</Website>
-    </AutoSplitter>
-    <AutoSplitter>
-        <Games>
             <Game>Painkiller</Game>
             <Game>Painkiller Black Edition</Game>
             <Game>Painkiller: Black Edition</Game>
@@ -14395,6 +14383,8 @@
         <Games>
             <Game>Dark Souls III</Game>
             <Game>Dark Souls 3</Game>
+            <Game>Sekiro</Game>
+            <Game>Sekiro: Shadows Die Twice</Game>
             <Game>Elden Ring</Game>
         </Games>
         <URLs>
@@ -14406,7 +14396,7 @@
             <URL>https://raw.githubusercontent.com/FrankvdStam/SoulSplitter/main/Components/soulinjectee.dll</URL>
         </URLs>
         <Type>Component</Type>
-        <Description>MIGT, load removal, blackscreen removal and autosplitting for Elden Ring and Dark Souls 3</Description>
+        <Description>SoulSplitter: timer and autosplitter for various soulsgames</Description>
         <Website>https://github.com/FrankvdStam/SoulSplitter</Website>
     </AutoSplitter>
     <AutoSplitter>
