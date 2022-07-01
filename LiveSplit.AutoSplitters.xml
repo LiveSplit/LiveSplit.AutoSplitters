@@ -15357,4 +15357,14 @@
         <Description>Autosplitter for I Am Fish (By Aranel616)</Description>
         <Website>https://www.speedrun.com/i_am_fish</Website>
     </AutoSplitter>
+<AutoSplitter>
+        <Games>
+            <Game>Scooby-Doo! First Frights</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/kamil2050/ASL-scripts/main/Scooby-Doo!%20First%20Frights%20load%20remover.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load remover for PC version by kamil2050</Description>
+    </AutoSplitter>
 </AutoSplitters>
