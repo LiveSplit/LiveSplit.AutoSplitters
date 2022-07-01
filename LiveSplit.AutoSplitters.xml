@@ -10,6 +10,17 @@
         <Type>Script</Type>
         <Description>Written by Meta.</Description>
     </AutoSplitter>
+  <AutoSplitter>
+        <Games>
+            <Game>DEAD RISING 3</Game>
+            <Game>Dead Rising 3</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/KunoDemetries/AutoSplitter/master/DeadRising3.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter (By Kuno Demetries, StreetBackGuy)</Description>
+    </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>Goosebumps: Dead of Night</Game>
