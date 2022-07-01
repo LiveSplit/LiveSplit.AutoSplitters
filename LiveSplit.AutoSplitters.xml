@@ -15357,8 +15357,7 @@
         <Description>Autosplitter for I Am Fish (By Aranel616)</Description>
         <Website>https://www.speedrun.com/i_am_fish</Website>
     </AutoSplitter>
-</AutoSplitters>
-<AutoSplitter>
+    <AutoSplitter>
         <Games>
             <Game>Scooby-Doo! First Frights
         </Games>
@@ -15368,3 +15367,4 @@
         <Type>Script</Type>
         <Description>Load remover for PC version by kamil2050</Description>
     </AutoSplitter>
+</AutoSplitters>
