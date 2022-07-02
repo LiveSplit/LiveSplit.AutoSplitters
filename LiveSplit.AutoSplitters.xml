@@ -15347,6 +15347,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>POSTAL Brain Damaged</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/TheIntercom/Autosplitters/master/PostalBrainDamaged/LiveSplit-PostalBrainDamaged.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Basic auto-start, auto-splitting, and auto-reset for POSTAL Brain Damaged (by TheIntercom)</Description>
+        <Website>https://www.speedrun.com/postal_bd/</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>I Am Fish</Game>
         </Games>
         <URLs>
