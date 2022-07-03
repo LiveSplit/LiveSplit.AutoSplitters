@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
+       <AutoSplitter>
+        <Games>
+            <Game>Dead Rising 4</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/DeadRising4.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Written by Kuno Demetries and streetbackguy. Autosplitter and Load Remover.</Description>
+    </AutoSplitter>
  <AutoSplitter>
         <Games>
             <Game>The Quarry</Game>
@@ -9,6 +19,16 @@
         </URLs>
         <Type>Script</Type>
         <Description>Written by Meta.</Description>
+    </AutoSplitter>
+  <AutoSplitter>
+        <Games>
+            <Game>DEAD RISING 3</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/KunoDemetries/AutoSplitter/master/DeadRising3.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter (By Kuno Demetries, StreetBackGuy)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -30,6 +50,16 @@
         </URLs>
         <Type>Script</Type>
         <Description>Load remover by diggity.</Description>
+    </AutoSplitter>
+     <AutoSplitter>
+        <Games>
+            <Game>Sniper Elite 5</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/KunoDemetries/AutoSplitter/master/SniperElite5.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter/Load Remover (By Kunodemetries, xZeko)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -9148,18 +9178,6 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
-            <Game>Sekiro</Game>
-            <Game>Sekiro: Shadows Die Twice</Game>
-        </Games>
-        <URLs>
-            <URL>https://gist.githubusercontent.com/RefinedHornet/70453f953d536229d093a7f86b4559cd/raw/8679a9a6e36e949e1f88ee8979d6852d4e2bb0c9/Sekiro.asl</URL>
-        </URLs>
-        <Type>Script</Type>
-        <Description>Game time, auto-start and several QOL improvments.</Description>
-        <Website>https://gist.github.com/pawREP</Website>
-    </AutoSplitter>
-    <AutoSplitter>
-        <Games>
             <Game>Painkiller</Game>
             <Game>Painkiller Black Edition</Game>
             <Game>Painkiller: Black Edition</Game>
@@ -14385,6 +14403,8 @@
         <Games>
             <Game>Dark Souls III</Game>
             <Game>Dark Souls 3</Game>
+            <Game>Sekiro</Game>
+            <Game>Sekiro: Shadows Die Twice</Game>
             <Game>Elden Ring</Game>
         </Games>
         <URLs>
@@ -14396,7 +14416,7 @@
             <URL>https://raw.githubusercontent.com/FrankvdStam/SoulSplitter/main/Components/soulinjectee.dll</URL>
         </URLs>
         <Type>Component</Type>
-        <Description>MIGT, load removal, blackscreen removal and autosplitting for Elden Ring and Dark Souls 3</Description>
+        <Description>SoulSplitter: timer and autosplitter for various soulsgames</Description>
         <Website>https://github.com/FrankvdStam/SoulSplitter</Website>
     </AutoSplitter>
     <AutoSplitter>
@@ -15327,6 +15347,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>POSTAL: Brain Damaged</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/TheIntercom/Autosplitters/master/PostalBrainDamaged/LiveSplit-PostalBrainDamaged.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Basic auto-start, auto-splitting, and auto-reset for POSTAL Brain Damaged (by TheIntercom)</Description>
+        <Website>https://www.speedrun.com/postal_bd/</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>I Am Fish</Game>
         </Games>
         <URLs>
@@ -15336,5 +15367,15 @@
         <Type>Script</Type>
         <Description>Autosplitter for I Am Fish (By Aranel616)</Description>
         <Website>https://www.speedrun.com/i_am_fish</Website>
+    </AutoSplitter>
+<AutoSplitter>
+        <Games>
+            <Game>Scooby-Doo! First Frights</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/kamil2050/ASL-scripts/main/Scooby-Doo!%20First%20Frights%20load%20remover.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load remover for PC version by kamil2050</Description>
     </AutoSplitter>
 </AutoSplitters>
