@@ -15427,4 +15427,15 @@
         <Description>Autosplitter for Steam and GOG versions by the_kovic</Description>
         <Website>https://github.com/thekovic/Doom64-AutoSplitter</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Holo Dungeon</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/szczoo17/autosplitters/main/Holo%20Dungeon/holo_dungeon.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter is available (by Skoczek)</Description>
+        <Website>https://github.com/szczoo17/autosplitters/tree/main/Holo%20Dungeon</Website>
+    </AutoSplitter>
 </AutoSplitters>
