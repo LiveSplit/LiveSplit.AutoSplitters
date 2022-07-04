@@ -15392,4 +15392,15 @@
         <Type>Script</Type>
         <Description>Load remover for PC version by kamil2050</Description>
     </AutoSplitter>
+<AutoSplitter>
+        <Games>
+            <Game>Cloudpunk</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Hilltopy/Cloudpunk-Load-Remover/main/Cloudpunk.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load remover for the Steam version</Description>
+        <Website>https://github.com/Hilltopy/Cloudpunk-Load-Remover</Website>
+    </AutoSplitter>
 </AutoSplitters>
