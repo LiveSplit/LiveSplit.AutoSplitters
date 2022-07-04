@@ -14643,6 +14643,18 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>BallisticNG</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/just-ero/asl/raw/main/BallisticNG/BallisticNG.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/Components/LiveSplit.ASLHelper.bin</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Starts automatically. Splits after each track, optionally on each completed lap. (by Ero)</Description>
+        <Website>https://github.com/just-ero/asl/tree/main/BallisticNG</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Devil Daggers</Game>
         </Games>
         <URLs>
@@ -14743,7 +14755,7 @@
         </Games>
         <URLs>
             <URL>https://github.com/just-ero/asl/raw/main/Here%20Comes%20Niko/HereComesNiko.asl</URL>
-            <URL>https://github.com/just-ero/asl-help/raw/main/Components/UnityASL.bin</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/Components/LiveSplit.ASLHelper.bin</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Starts, resets automatically. Splits available in the settings. Removes loads. (by Ero)</Description>
