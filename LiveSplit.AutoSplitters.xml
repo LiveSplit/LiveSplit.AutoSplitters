@@ -15382,7 +15382,7 @@
         <Description>Autosplitter for I Am Fish (By Aranel616)</Description>
         <Website>https://www.speedrun.com/i_am_fish</Website>
     </AutoSplitter>
-<AutoSplitter>
+    <AutoSplitter>
         <Games>
             <Game>Scooby-Doo! First Frights</Game>
         </Games>
@@ -15392,7 +15392,7 @@
         <Type>Script</Type>
         <Description>Load remover for PC version by kamil2050</Description>
     </AutoSplitter>
-<AutoSplitter>
+    <AutoSplitter>
         <Games>
             <Game>Cloudpunk</Game>
         </Games>
@@ -15402,5 +15402,17 @@
         <Type>Script</Type>
         <Description>Load remover for the Steam version</Description>
         <Website>https://github.com/Hilltopy/Cloudpunk-Load-Remover</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Doom 64</Game>
+            <Game>Doom 64 (2020)</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/thekovic/Doom64-AutoSplitter/main/Doom64-AutoSplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for Steam and GOG versions by the_kovic</Description>
+        <Website>https://github.com/thekovic/Doom64-AutoSplitter</Website>
     </AutoSplitter>
 </AutoSplitters>
