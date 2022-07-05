@@ -12545,10 +12545,10 @@
             <Game>Pegged</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/brassbeat/autosplitters/main/Peggle-Deluxe/Adventure-Mode.asl</URL>
+            <URL>https://raw.githubusercontent.com/brassbeat/autosplitters/main/Peggle-Deluxe/PeggleDeluxeAdventureMode.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto start/split for Adventure Mode. Splits by level and by master available.</Description>
+        <Description>Auto start/split for Adventure Mode. Splits by level and by master available (by brassbeat).</Description>
         <Website>https://www.speedrun.com/peggle_deluxe</Website>
     </AutoSplitter>
     <AutoSplitter>
@@ -12557,10 +12557,10 @@
             <Game>Peggle: World of Warcraft Edition</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/brassbeat/autosplitters/main/Peggle-Nights/Adventure-Mode.asl</URL>
+            <URL>https://raw.githubusercontent.com/brassbeat/autosplitters/main/Peggle-Nights/PeggleNightsAdventureMode.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto split for Adventure Mode. Splits by level and by master available.</Description>
+        <Description>Auto split for Adventure Mode. Splits by level and by master available (by brassbeat).</Description>
         <Website>https://www.speedrun.com/peggle_nights</Website>
     </AutoSplitter>
     <AutoSplitter>
