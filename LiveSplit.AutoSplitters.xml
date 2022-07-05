@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
-       <AutoSplitter>
+    <AutoSplitter>
         <Games>
             <Game>Dead Rising 4</Game>
         </Games>
@@ -10,7 +10,7 @@
         <Type>Script</Type>
         <Description>Written by Kuno Demetries and streetbackguy. Autosplitter and Load Remover.</Description>
     </AutoSplitter>
- <AutoSplitter>
+    <AutoSplitter>
         <Games>
             <Game>The Quarry</Game>
         </Games>
@@ -20,7 +20,7 @@
         <Type>Script</Type>
         <Description>Written by Meta.</Description>
     </AutoSplitter>
-  <AutoSplitter>
+    <AutoSplitter>
         <Games>
             <Game>DEAD RISING 3</Game>
         </Games>
@@ -51,7 +51,7 @@
         <Type>Script</Type>
         <Description>Load remover by diggity.</Description>
     </AutoSplitter>
-     <AutoSplitter>
+    <AutoSplitter>
         <Games>
             <Game>Sniper Elite 5</Game>
         </Games>
@@ -14925,6 +14925,21 @@
         <Type>Script</Type>
         <Description>Starts, resets automatically. Splits available in the settings. (by Ero)</Description>
         <Website>https://github.com/just-ero/asl/tree/main/Ruff%20Night%20at%20the%20Gallery</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Sonic Project '06</Game>
+            <Game>Sonic Project 06</Game>
+            <Game>Sonic P06</Game>
+            <Game>Project '06</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/just-ero/asl/raw/main/Sonic%20Project%20'06/SonicProject06.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/Components/LiveSplit.ASLHelper.bin</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Starts automatically with an offset. Splits upon completion of an act. Removes loads. (by Ero)</Description>
+        <Website>https://github.com/just-ero/asl/tree/main/Sonic%20Project%20'06</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
