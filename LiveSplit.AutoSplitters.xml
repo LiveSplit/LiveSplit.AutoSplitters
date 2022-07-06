@@ -15455,4 +15455,15 @@
         <Description>Autosplitter is available (by Skoczek)</Description>
         <Website>https://github.com/szczoo17/autosplitters/tree/main/Holo%20Dungeon</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Funk Unplugged</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/AndetSTK/FunkUnpluggedASL/raw/main/FunkUnplugged.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/Components/LiveSplit.ASLHelper.bin</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter with load removal (by Andet, credit to Ero for ASLHelper)</Description>
+    </AutoSplitter>
 </AutoSplitters>
