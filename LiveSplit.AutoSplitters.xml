@@ -1003,7 +1003,8 @@
             <URL>https://raw.githubusercontent.com/SonicSpeedrunning/LiveSplit.SonicOrigins/main/LiveSplit.SonicOrigins.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autosplitting by Jujstme</Description>
+        <Description>Autosplitting and in-game timing with customizable options according to speedrun.com rulings (by Jujstme)</Description>
+        <Website>https://github.com/SonicSpeedrunning/LiveSplit.SonicOrigins</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
