@@ -15467,4 +15467,14 @@
         <Type>Script</Type>
         <Description>Autosplitter with load removal (by Andet, credit to Ero for ASLHelper)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Taz: Wanted</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/MilkGames/TWASV/main/TWASV2.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for Taz: Wanted (by MilkGames)</Description>
+    </AutoSplitter>
 </AutoSplitters>
