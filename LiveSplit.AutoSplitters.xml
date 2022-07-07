@@ -15395,6 +15395,7 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/TheIntercom/Autosplitters/master/PostalBrainDamaged/LiveSplit-PostalBrainDamaged.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/Components/LiveSplit.ASLHelper.bin</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Basic auto-start, auto-splitting, and auto-reset for POSTAL Brain Damaged (by TheIntercom)</Description>
