@@ -6688,11 +6688,13 @@
             <Game>Cuphead Category Extensions</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/ShootMe/LiveSplit.Cuphead/master/Components/LiveSplit.Cuphead.dll</URL>
+            <URL>https://github.com/just-ero/asl/raw/main/Cuphead/Cuphead.asl</URL>
+            <URL>https://github.com/just-ero/asl/raw/main/Cuphead/Cuphead.Splits.xml</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/Components/LiveSplit.ASLHelper.bin</URL>
         </URLs>
-        <Type>Component</Type>
-        <Description>Autosplitting and Load Removal is available. (By DevilSquirrel)</Description>
-        <Website>https://github.com/ShootMe/LiveSplit.Cuphead</Website>
+        <Type>Script</Type>
+        <Description>Starts automatically. Splits are available in the settings. Removes loads. (temp fix by Ero)</Description>
+        <Website>https://github.com/just-ero/asl/tree/main/Cuphead</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
