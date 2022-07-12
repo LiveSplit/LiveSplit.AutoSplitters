@@ -49,6 +49,7 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/MelloYourFello/COTL-DEMO/main/COTL%20DEMO.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/Components/LiveSplit.ASLHelper.bin</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitter for the Demo of Cult of the Lamb (Made by MelloYourFello)</Description>
