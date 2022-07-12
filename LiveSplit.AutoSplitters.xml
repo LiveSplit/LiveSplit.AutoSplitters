@@ -15461,6 +15461,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Smol Ame</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/szczoo17/autosplitters/main/Smol%20Ame/smol_ame.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter is available (by BloodyRedditor and Skoczek)</Description>
+        <Website>https://github.com/szczoo17/autosplitters/tree/main/Smol%20Ame</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Funk Unplugged</Game>
         </Games>
         <URLs>
