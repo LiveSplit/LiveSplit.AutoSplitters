@@ -51,6 +51,19 @@
         <Type>Script</Type>
         <Description>Load remover by diggity.</Description>
     </AutoSplitter>
+        <AutoSplitter>
+        <Games>
+            <Game>Cult of the Lamb Demo</Game>
+            <Game>COTL Demo</Game>
+            <Game>COTLD</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/MelloYourFello/COTL-DEMO-ASL/main/COTL%20DEMO</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for Demo of Cult of the Lamb</Description>
+        <Website>https://www.speedrun.com/cotl_demo</Website>
+    </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>Sniper Elite 5</Game>
