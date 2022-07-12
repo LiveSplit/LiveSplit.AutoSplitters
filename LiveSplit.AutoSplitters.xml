@@ -43,6 +43,19 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Cult of the Lamb Demo</Game>
+            <Game>COTL Demo</Game>
+            <Game>COTLD</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/MelloYourFello/COTL-DEMO/main/COTL%20DEMO.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for the Demo of Cult of the Lamb (Made by MelloYourFello)</Description>
+        <Website>https://www.speedrun.com/cotl_demo</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Devastation</Game>
         </Games>
         <URLs>
