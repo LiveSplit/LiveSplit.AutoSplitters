@@ -673,6 +673,21 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Catatstrophe Crow</Game>
+            <Game>Catatstrophe Crow!</Game>
+            <Game>CC64</Game>
+            <Game>Crow64</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/MelloYourFello/Catastrophe-Crow-Autosplitter/main/CC64.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/Components/LiveSplit.ASLHelper.bin</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for Catastrophe Crow! Made by MelloYourFello</Description>
+        <Website>https://www.speedrun.com/crow64</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>EarthX</Game>
         </Games>
         <URLs>
