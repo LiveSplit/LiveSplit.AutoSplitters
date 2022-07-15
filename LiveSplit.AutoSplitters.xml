@@ -78,7 +78,7 @@
             <Game>COTLD</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/MelloYourFello/COTL-DEMO/main/COTL%20DEMO.asl</URL>
+            <URL>https://github.com/MelloYourFello/Autosplitters/raw/main/COTL_DEMO.asl</URL>
             <URL>https://github.com/just-ero/asl-help/raw/main/Components/LiveSplit.ASLHelper.bin</URL>
         </URLs>
         <Type>Script</Type>
@@ -679,7 +679,7 @@
             <Game>Crow64</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/MelloYourFello/Catastrophe-Crow-Autosplitter/main/CC64.asl</URL>
+            <URL>https://github.com/MelloYourFello/Autosplitters/raw/main/CC64.asl</URL>
             <URL>https://github.com/just-ero/asl-help/raw/main/Components/LiveSplit.ASLHelper.bin</URL>
         </URLs>
         <Type>Script</Type>
