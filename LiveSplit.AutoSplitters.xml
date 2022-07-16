@@ -241,7 +241,7 @@
             <Game>Haiku, the Robot</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Schyvun/Haiku-Autosplitter/main/Haiku.asl</URL>
+            <URL>https://raw.githubusercontent.com/Jarlyk/Haiku-Autosplitter/main/Haiku.asl</URL>
             <URL>https://github.com/just-ero/asl-help/raw/main/Components/UnityASL.bin</URL>
         </URLs>
         <Type>Script</Type>
