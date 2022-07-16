@@ -12334,10 +12334,10 @@
             <Game>Yakuza: Like a Dragon</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/vojtas131/AutoSplits/master/lad/livesplit_lad.asl</URL>
+            <URL>https://raw.githubusercontent.com/Mysterion06/YakuzaLADSplitter/main/YakuzaLikeADragonSplitter.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load removal by vojtas131</Description>
+        <Description>Autosplitter with Loadremover by Mysterion_06_</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
