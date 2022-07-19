@@ -4246,8 +4246,30 @@
             <URL>https://raw.githubusercontent.com/deserteagle417/RE0-Autosplitter/main/re0hd.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Door splits, item splits, and key event splits are available. Click Website for more information.</Description>
+        <Description>Door splits, item splits, and key event splits are available. Click Website for more information. (by deserteagle417)</Description>
         <Website>https://github.com/deserteagle417/RE0-Autosplitter</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Biohazard 3</Game>
+            <Game>Biohazard 3: Nemesis</Game>
+            <Game>Biohazard 3 Nemesis</Game>
+            <Game>Resident Evil 3: Nemesis</Game>
+            <Game>Resident Evil 3 Nemesis</Game>
+            <Game>RE3: Nemesis</Game>
+            <Game>RE3 Nemesis</Game>
+            <Game>Resident Evil 3 1999</Game>
+            <Game>Resident Evil 3 (1999)</Game>
+            <Game>RE3</Game>
+            <Game>RE3 1999</Game>
+            <Game>RE3 (1999)</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/deserteagle417/RE3-Autosplitter/main/RE3aio.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Door and Item autosplits available for multiple routes. See Website for more detail. (by deserteagle417)</Description>
+        <Website>https://github.com/deserteagle417/RE3-Autosplitter</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
