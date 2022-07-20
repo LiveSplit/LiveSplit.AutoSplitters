@@ -2,6 +2,18 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Escape Academy</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/mitchell-merry/autosplitters/main/Escape%20Academy/escapeacademy.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/Components/LiveSplit.ASLHelper.bin</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and load remover by diggity.</Description>
+        <Website>https://github.com/mitchell-merry/autosplitters/blob/main/Escape%20Academy/escapeacademy.asl</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Nocturne</Game>
         </Games>
         <URLs>
