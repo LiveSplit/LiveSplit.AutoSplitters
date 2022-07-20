@@ -2,6 +2,17 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Nocturne</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/mitchell-merry/autosplitters/main/Nocturne/nocturne.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and load remover by diggity. Run LiveSplit as admin.</Description>
+        <Website>https://github.com/mitchell-merry/autosplitters/blob/main/Nocturne/nocturne.asl</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Yakuza 5</Game>
         </Games>
         <URLs>
