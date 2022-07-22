@@ -15598,4 +15598,14 @@
         <Type>Script</Type>
         <Description>Autosplitter for Taz: Wanted (by MilkGames)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Ty the Tasmanian Tiger</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/rythin-sr/ASL-Scripts/master/TY.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting and Load Removal available (by rythin)</Description>
+    </AutoSplitter>
 </AutoSplitters>
