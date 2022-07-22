@@ -15608,4 +15608,15 @@
         <Type>Script</Type>
         <Description>Autosplitting and Load Removal available (by rythin)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Stray</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Micrologist/LiveSplit.Stray/main/stray.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitting and Load Removal available (by Micrologist and Meta)</Description>
+        <Website>https://github.com/Micrologist/LiveSplit.Stray</Website>
+    </AutoSplitter>
 </AutoSplitters>
