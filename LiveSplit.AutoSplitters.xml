@@ -11892,11 +11892,11 @@
             <Game>Super Mario Bros.</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/g2ffi/SMBAutoSplitter/master/SuperMarioBros.asl</URL>
+            <URL>https://raw.githubusercontent.com/periwinkle9/smb-autosplitter/main/SuperMarioBros.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>AutoSplitter for Nestopia v1.40 (By Giffi)</Description>
-        <Website>https://github.com/g2ffi/SMBAutoSplitter/</Website>
+        <Description>(NES) SMB1 autosplitter for various emulators and categories (by periwinkle)</Description>
+        <Website>https://github.com/periwinkle9/smb-autosplitter</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
