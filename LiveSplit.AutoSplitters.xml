@@ -15619,4 +15619,14 @@
         <Description>Auto Splitting and Load Removal available (by Micrologist and Meta)</Description>
         <Website>https://github.com/Micrologist/LiveSplit.Stray</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Outriders</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Tiln1/outriders-auto-splitter/blob/main/outriders.ASL</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitting and Load Removal available (by Tiln1). Made for the Steam version, post-Worldslayer.</Description>
+    </AutoSplitter>
 </AutoSplitters>
