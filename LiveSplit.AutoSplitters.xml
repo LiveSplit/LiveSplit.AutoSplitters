@@ -15624,7 +15624,7 @@
             <Game>Outriders</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Tiln1/outriders-auto-splitter/blob/main/outriders.ASL</URL>
+            <URL>https://raw.githubusercontent.com/Tiln1/outriders-auto-splitter/main/outriders.ASL</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Auto Splitting and Load Removal available (by Tiln1). Made for the Steam version, post-Worldslayer.</Description>
