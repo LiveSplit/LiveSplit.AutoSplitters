@@ -15629,4 +15629,14 @@
         <Type>Script</Type>
         <Description>Auto Splitting and Load Removal available (by Tiln1). Made for the Steam version, post-Worldslayer.</Description>
     </AutoSplitter>
+        <AutoSplitter>
+        <Games>
+            <Game>Metal Gear: Ghost Babel</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/NickRPGreen/Metal-Gear-Ghost-Babel-Autosplitter/main/Metal%20Gear%20Ghost%20Babel%20Autosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitting and IGT tracking (by NickRPGreen)</Description>
+    </AutoSplitter>
 </AutoSplitters>
