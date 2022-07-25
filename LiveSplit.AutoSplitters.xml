@@ -11583,7 +11583,7 @@
             <URL>https://raw.githubusercontent.com/henpemaz/Rain-World-Autosplitter/master/RWAutosplitter.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Automatic start, triggers for rooms, gates, achievements, encounters and more. By Henpemaz and ICED. Should no longer split twice after death for rooms</Description>
+        <Description>Automatic start, triggers for rooms, gates, achievements, encounters and more. By Henpemaz</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
