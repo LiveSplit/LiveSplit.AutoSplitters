@@ -15639,4 +15639,14 @@
         <Type>Script</Type>
         <Description>Auto Splitting and IGT tracking (by NickRPGreen)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Journey to the Savage Planet</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/InfaReQt/JTTSP/main/LoadRemoverSteamAndEpic.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Removal (by InfaReQt). Works for Steam and Epic.</Description>
+    </AutoSplitter>
 </AutoSplitters>
