@@ -8932,10 +8932,10 @@
             <Game>FC5</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/AlexYeahNot/asl-scripts/master/FC5LR.asl</URL>
+            <URL>https://raw.githubusercontent.com/Binslev/FC5LR/main/FC5LR.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>LoadRemover is available (by AlexYeahNot )</Description>
+        <Description>LoadRemover is available (by Binslev, credit to AlexYeahNot)</Description>
         <Website>https://discord.gg/D7vJsC</Website>
     </AutoSplitter>
     <AutoSplitter>
