@@ -8946,10 +8946,10 @@
             <Game>FC:ND</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/AlexYeahNot/asl-scripts/master/FCNDLR.asl</URL>
+            <URL>https://raw.githubusercontent.com/Binslev/FCNDLR/main/FCNDLR.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>LoadRemover is available (by AlexYeahNot )</Description>
+        <Description>LoadRemover is available (by ChiefSupreme, credit to AlexYeahNot)</Description>
         <Website>https://discord.gg/D7vJsC</Website>
     </AutoSplitter>
     <AutoSplitter>
