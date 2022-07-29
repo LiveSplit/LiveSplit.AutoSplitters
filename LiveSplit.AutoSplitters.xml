@@ -15649,4 +15649,14 @@
         <Type>Script</Type>
         <Description>Load Removal (by InfaReQt). Works for all current versions of the game.</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Vex 3</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/NoobTracker/vex-3-autosplitter/main/vex-3.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for the Any% category, by NoobTracker</Description>
+    </AutoSplitter>
 </AutoSplitters>
