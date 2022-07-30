@@ -15657,6 +15657,6 @@
             <URL>https://raw.githubusercontent.com/NoobTracker/vex-3-autosplitter/main/vex-3.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autosplitter for the Any% category, by NoobTracker</Description>
+        <Description>Autosplitter and IGT for the Any% category, by NoobTracker. For the .exe version. </Description>
     </AutoSplitter>
 </AutoSplitters>
