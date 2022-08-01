@@ -15659,4 +15659,15 @@
         <Type>Script</Type>
         <Description>Autosplitter and IGT for the Any% category, by NoobTracker. For the .exe version. </Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>MADiSON</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/edunad/madison-autosplit/master/madison.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitting available (By FailCake & Hazzytje)</Description>
+        <Website>https://raw.githubusercontent.com/edunad/madison-autosplit</Website>
+    </AutoSplitter>
 </AutoSplitters>
