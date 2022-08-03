@@ -15671,7 +15671,7 @@
             <Game>Hell Pie</Game>
         </Games>
         <URLs>
-            <URL>https://gist.githubusercontent.com/ShadowthePast/3c82e9b26859f253f4a4eb2a6ce81cf3/raw/d9f3627630f100fe9e5dbcf08855918b4c618074/hellpieloadremover.asl</URL>
+            <URL>https://raw.githubusercontent.com/ShadowthePast/HellPieLoadRemover/main/hellpieloadremover.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Load remover for Hell Pie by ShadowthePast</Description>
