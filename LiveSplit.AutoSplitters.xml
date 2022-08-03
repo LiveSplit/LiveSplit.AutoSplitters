@@ -15666,4 +15666,14 @@
         <Type>Script</Type>
         <Description>Autosplitter and IGT for the Any% category, by NoobTracker. For the .exe version. </Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Hell Pie</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/ShadowthePast/HellPieLoadRemover/main/hellpieloadremover.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load remover for Hell Pie by ShadowthePast</Description>
+    </AutoSplitter>
 </AutoSplitters>
