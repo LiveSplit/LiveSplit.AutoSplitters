@@ -2,6 +2,17 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>What Lies in the Multiverse</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/bauglir-splits/autosplitters/main/What%20Lies%20in%20the%20Multiverse.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and load removal, with IGT tracking.</Description>
+        <Website>https://discord.gg/bGTTkRhyfu</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Escape Academy</Game>
         </Games>
         <URLs>
