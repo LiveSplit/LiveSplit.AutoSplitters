@@ -15698,4 +15698,15 @@
         <Type>Script</Type>
         <Description>Load remover for Hell Pie by ShadowthePast</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Hammerwatch</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/tobbez/hammerwatch-autosplitter/master/Hammerwatch.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto splitter (by tobbez)</Description>
+        <Website>https://github.com/tobbez/hammerwatch-autosplitter</Website>
+    </AutoSplitter>
 </AutoSplitters>
