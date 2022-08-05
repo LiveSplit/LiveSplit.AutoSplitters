@@ -2,6 +2,17 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Kingdom Hearts II Final Mix</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Denhonator/KHPCSpeedrunTools/main/LoadRemovers/KH2.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>AutoSplitter and Load Remover by Denho, S0nzero, and ColeQuil</Description>
+        <Website>https://github.com/Denhonator/KHPCSpeedrunTools/blob/main/LoadRemovers/KH2.asl</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Mr. Driller: Drill Land</Game>
         </Games>
         <URLs>
