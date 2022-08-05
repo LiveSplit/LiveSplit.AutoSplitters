@@ -2,6 +2,17 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Mr. Driller: Drill Land</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/aeihu/AutoSplittersForSomeGames/main/Mr_DRILLER_DrillLand.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter by Aeihu</Description>
+        <Website>https://www.speedrun.com/mr_driller_drill_land</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>What Lies in the Multiverse</Game>
         </Games>
         <URLs>
