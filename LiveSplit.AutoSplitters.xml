@@ -15720,4 +15720,15 @@
         <Description>Auto splitter (by tobbez)</Description>
         <Website>https://github.com/tobbez/hammerwatch-autosplitter</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>MADiSON</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/edunad/madison-autosplit/master/madison.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitting available, by FailCake and Hazzytje</Description>
+        <Website>https://github.com/edunad/madison-autosplit</Website>
+    </AutoSplitter>
 </AutoSplitters>
