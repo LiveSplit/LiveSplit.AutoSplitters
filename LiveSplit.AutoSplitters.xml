@@ -477,10 +477,10 @@
             <Game>avp2ph</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/mitchell-merry/autosplitters/main/Aliens%20versus%20Predator%202/avp2.asl</URL>
+            <URL>https://raw.githubusercontent.com/mitchell-merry/LiveSplit.AVP2/main/Components/Livesplit.AVP2.dll</URL>
         </URLs>
-        <Type>Script</Type>
-        <Description>Autosplitter and load remover by diggity and The_One.</Description>
+        <Type>Component</Type>
+        <Description>Autosplitter and load remover are available. (By diggity and The_One)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
