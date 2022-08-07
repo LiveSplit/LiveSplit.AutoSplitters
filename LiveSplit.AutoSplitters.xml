@@ -7592,6 +7592,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Sonic Triple Trouble (16-Bit)</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/SonicSpeedrunning/LiveSplit.SonicTripleTrouble16bit/main/LiveSplit.SonicTripleTrouble16bit.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start and reset available. Custom splitting options available in settings (by Jujstme)</Description>
+        <Website>https://github.com/SonicSpeedrunning/LiveSplit.SonicTripleTrouble16bit</Website>
+    </AutoSplitter>    
+    <AutoSplitter>
+        <Games>
             <Game>Sonic Generations</Game>
         </Games>
         <URLs>
