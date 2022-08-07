@@ -479,7 +479,7 @@
         <URLs>
             <URL>https://raw.githubusercontent.com/mitchell-merry/LiveSplit.AVP2/main/Components/Livesplit.AVP2.dll</URL>
         </URLs>
-        <Type>Script</Type>
+        <Type>Component</Type>
         <Description>Autosplitter and load remover are available. (By diggity and The_One)</Description>
     </AutoSplitter>
     <AutoSplitter>
