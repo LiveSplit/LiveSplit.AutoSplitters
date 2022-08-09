@@ -15742,7 +15742,18 @@
             <URL>https://raw.githubusercontent.com/edunad/madison-autosplit/master/madison.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto Splitting available, by FailCake and Hazzytje</Description>
+        <Description>Auto Splitting available (by FailCake and Hazzytje)</Description>
         <Website>https://github.com/edunad/madison-autosplit</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>The Mortuary Assistant</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/edunad/mortuary-assistant-autosplit/master/mortuary.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitting available (by FailCake and Hazzytje)</Description>
+        <Website>https://github.com/edunad/mortuary-assistant-autosplit</Website>
     </AutoSplitter>
 </AutoSplitters>
