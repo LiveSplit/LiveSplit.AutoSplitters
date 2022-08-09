@@ -475,9 +475,12 @@
             <Game>Aliens versus Predator 2: Primal Hunt</Game>
             <Game>avp2</Game>
             <Game>avp2ph</Game>
+            <Game>avp2:ph</Game>
+            <Game>avp2: ph</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/mitchell-merry/LiveSplit.AVP2/main/Components/Livesplit.AVP2.dll</URL>
+            <URL>https://raw.githubusercontent.com/mitchell-merry/LiveSplit.AVP2/main/bin/Release/Livesplit.AVP2.dll</URL>
+            <URL>https://raw.githubusercontent.com/mitchell-merry/LiveSplit.AVP2/main/bin/Release/AVP2.Campaigns.xml</URL>
         </URLs>
         <Type>Component</Type>
         <Description>Autosplitter and load remover are available. (By diggity and The_One)</Description>
