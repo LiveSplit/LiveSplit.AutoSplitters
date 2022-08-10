@@ -15756,4 +15756,14 @@
         <Description>Auto Splitting available (by FailCake and Hazzytje)</Description>
         <Website>https://github.com/edunad/mortuary-assistant-autosplit</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Give Up, Robot 2</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/mirrorcult/autosplitters/main/GiveUpRobot2.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>"New Game" and "New HARD Game" autosplitter for Give Up Robot, 2 Adobe AIR >=e2.0 (by mirrorcult)</Description>
+    </AutoSplitter>
 </AutoSplitters>
