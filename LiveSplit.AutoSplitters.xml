@@ -15770,4 +15770,21 @@
         <Type>Script</Type>
         <Description>"New Game" and "New HARD Game" autosplitter for Give Up Robot, 2 Adobe AIR >=e2.0 (by mirrorcult)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Gothic</Game>
+            <Game>Gothic 1</Game>
+            <Game>Gothic 1 Classic</Game>
+            <Game>Gothic 2</Game>
+            <Game>Gothic II</Game>
+            <Game>Gothic 2 Classic</Game>
+            <Game>Gothic 2: Night of the Raven</Game>
+            <Game>Gothic 2 Gold</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/thekovic/GothicASL/main/gothic.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>LiveSplit connection for Gothic 1/2 Timer mod available</Description>
+    </AutoSplitter>
 </AutoSplitters>
