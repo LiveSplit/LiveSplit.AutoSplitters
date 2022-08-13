@@ -2,6 +2,15 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Deadly Premonition: Director's Cut</Game>
+            <Game>Deadly Premonition</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/Livesplit.DeadlyPremonition.asl</URL>
+        </URLS>
+        <Type>Script</Type>
+        <Description>Load Remover and Autostart by streetbackguy</Description>
+        <Games>
             <Game>Kingdom Hearts II Final Mix</Game>
         </Games>
         <URLs>
