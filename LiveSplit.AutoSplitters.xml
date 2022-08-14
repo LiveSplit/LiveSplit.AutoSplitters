@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
-    <Autosplitter>
-            <Games>
+    <AutoSplitter>
+        <Games>
             <Game>Deadly Premonition: Director's Cut</Game>
             <Game>Deadly Premonition</Game>
         </Games>
@@ -10,7 +10,7 @@
         </URLs>
         <Type>Script</Type>
         <Description>Load Remover and Autostart by streetbackguy</Description>
-    </Autosplitter>
+    </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>Kingdom Hearts II Final Mix</Game>
