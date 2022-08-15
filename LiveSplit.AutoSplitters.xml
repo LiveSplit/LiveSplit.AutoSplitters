@@ -5057,11 +5057,11 @@
             <Game>Manifold Garden</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/TehGelly/autosplitters/master/manifoldgarden.asl</URL>
+            <URL>https://raw.githubusercontent.com/hatkirby/autosplitters/main/Manifold%20Garden.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Split, start, and reset available. (By Gelly)</Description>
-        <Website>https://github.com/Gelly/autosplitters</Website>
+        <Description>Split, start, and reset available. (By hatkirby)</Description>
+        <Website>https://github.com/hatkirby/autosplitters</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
