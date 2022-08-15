@@ -2033,6 +2033,17 @@
         <Description> Autosplitter and IGT for SADX (by Turtlechuck, IDGeek121, Prahaha and Sora)</Description>
         <Website>https://discord.gg/NUCatnN</Website>
     </AutoSplitter>
+	<AutoSplitter>
+        <Games>
+            <Game>Spark the Electric Jester 3</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/skewbmaster/Livesplit-ASL-Scripts/master/Spark%203/LiveSplit.Spark3.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description> Autosplitter and IGT for Spark 3 (by skoob)</Description>
+        <Website>https://discord.gg/rw59u3bph8</Website>
+    </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>LUFIA II - ANCIENT CAVE</Game>
