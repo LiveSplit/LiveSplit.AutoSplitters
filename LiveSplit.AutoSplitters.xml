@@ -15035,6 +15035,18 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Pathfinder: Kingmaker</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/just-ero/asl/raw/main/Pathfinder%20%E2%80%93%20Kingmaker/Pathfinder_Kingmaker.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/Components/LiveSplit.ASLHelper.bin</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Removes loads. (by Ero)</Description>
+        <Website>https://github.com/just-ero/asl/tree/main/Pathfinder%20%E2%80%93%20Kingmaker</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Pathfinder: Wrath of the Righteous</Game>
         </Games>
         <URLs>
