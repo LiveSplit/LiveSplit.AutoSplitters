@@ -2043,7 +2043,7 @@
         <Description> Autosplitter and IGT for SADX (by Turtlechuck, IDGeek121, Prahaha and Sora)</Description>
         <Website>https://discord.gg/NUCatnN</Website>
     </AutoSplitter>
-	<AutoSplitter>
+    <AutoSplitter>
         <Games>
             <Game>Spark the Electric Jester 3</Game>
         </Games>
@@ -13176,16 +13176,6 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
-            <Game>ULTRAKILL</Game>
-        </Games>
-        <URLs>
-            <URL>https://raw.githubusercontent.com/Mysterion06/Ultrakill/main/Ultrakillautosplitter.asl</URL>
-        </URLs>
-        <Type>Script</Type>
-        <Description>Autosplitter with IGT by Mysterion_06_</Description>
-    </AutoSplitter>
-    <AutoSplitter>
-        <Games>
             <Game>The Adventures of Elena Temple</Game>
         </Games>
         <URLs>
@@ -14771,6 +14761,17 @@
         <Type>Script</Type>
         <Description>Starts, resets automatically. Splits after each elvel. Syncs to game time. (by vegan, Ero)</Description>
         <Website>https://github.com/ultimate-vegan/receiver-2-anyperc-autosplitter</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>ULTRAKILL</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/Mysterion06/Ultrakill/raw/main/Ultrakillautosplitter.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/Components/LiveSplit.ASLHelper.bin</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Starts, splits, resets automatically. Syncs to in-game time. (by Ero)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
