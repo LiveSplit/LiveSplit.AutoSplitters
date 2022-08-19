@@ -15834,4 +15834,14 @@
         <Type>Script</Type>
         <Description>LiveSplit connection for Gothic 1/2 Timer mod available</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Zapling Bygone</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/ori-sky/asl/main/zapling-bygone.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto-starts, splits when the run is over (by Ori Sky)</Description>
+    </AutoSplitter>
 </AutoSplitters>
