@@ -2,6 +2,16 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>South Park: The Stick of Truth</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/LiveSplit.SouthParkStickOfTruth.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Remover, Autosplitter and Autostart/reset by streetbackguy</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Marvel's Spider-Man</Game>
         </Games>
         <URLs>
