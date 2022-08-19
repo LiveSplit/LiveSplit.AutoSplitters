@@ -15845,4 +15845,14 @@
         <Type>Script</Type>
         <Description>Auto-starts, splits when the run is over (by Ori Sky)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Cult of the Lamb</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/glcoder/asl/blob/main/Cult%20Of%20The%20Lamb.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/blob/main/Components/LiveSplit.ASLHelper.bin</URL>
+        </URLs>
+        <Type>Script</Type>
+    </AutoSplitter>
 </AutoSplitters>
