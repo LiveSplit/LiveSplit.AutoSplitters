@@ -2,6 +2,16 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Turnip Boy Commits Tax Evasion</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/LiterallyMetaphorical/LiveSplit.TurnipBoy/main/TurnipBoy.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>In-Game Time Tracker and Autosplitter by Meta and SabulineHorizon</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>South Park: The Stick of Truth</Game>
         </Games>
         <URLs>
