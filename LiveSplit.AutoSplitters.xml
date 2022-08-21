@@ -15865,4 +15865,16 @@
         <Type>Script</Type>
         <Description>Auto-starts, splits when the run is over (by Ori Sky)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>The Looker</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/hatkirby/autosplitters/main/TheLooker.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/Components/LiveSplit.ASLHelper.bin</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Split, start, and load removal available. (By hatkirby)</Description>
+        <Website>https://github.com/hatkirby/autosplitters</Website>
+    </AutoSplitter>
 </AutoSplitters>
