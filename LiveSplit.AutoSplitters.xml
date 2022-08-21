@@ -2992,11 +2992,11 @@
             <Game>Shrek 2 (PC)</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/kevinjpetersen/Shrek2-LiveSplit/master/Shrek2-LiveSplit/Components/Shrek2-LiveSplit.dll</URL>
+            <URL>https://raw.githubusercontent.com/Master-64/Shrek2-LiveSplit/master/Shrek2-LiveSplit/Components/Shrek2-LiveSplit.dll</URL>
         </URLs>
         <Type>Component</Type>
-        <Description>Auto Splitting is available. (By KevinJPetersen &amp; Dalet)</Description>
-        <Website>https://github.com/kevinjpetersen/Shrek2-LiveSplit/blob/master/README.md</Website>
+        <Description>Auto Splitting & Load Removal is available. (By KevinJPetersen, Master_64 &amp; Dalet)</Description>
+        <Website>https://github.com/Master-64/Shrek2-LiveSplit/blob/master/README.md</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
