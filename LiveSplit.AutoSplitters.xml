@@ -3266,6 +3266,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Wolfenstein</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Jujstme/Autosplitters/master/Wolfenstein/LiveSplit.Wolfenstein.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Remover (By Jujstme)</Description>
+        <Website>https://github.com/Jujstme/Autosplitters/tree/master/Wolfenstein</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Wolfenstein: The New Order</Game>
             <Game>Wolfenstein The New Order</Game>
             <Game>Wolfenstein: TNO</Game>
