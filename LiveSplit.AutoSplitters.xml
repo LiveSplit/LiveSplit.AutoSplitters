@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
+        <AutoSplitter>
+        <Games>
+            <Game>South Park: The Fractured But Whole</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/LiveSplit.SouthParkFracturedButWhole.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Remover and Autostart/reset by streetbackguy</Description>
+    </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>Turnip Boy Commits Tax Evasion</Game>
