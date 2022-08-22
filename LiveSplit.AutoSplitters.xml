@@ -12,6 +12,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Garshasp: The Monster Slayer</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/aposteriorist/PeachPit.LiveSplit/main/LiveSplit.GarshaspTheMonsterSlayer.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Remover and Autostart by PlayingLikeAss</Description>
+        <Website>https://github.com/aposteriorist/PeachPit.LiveSplit</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Turnip Boy Commits Tax Evasion</Game>
         </Games>
         <URLs>
