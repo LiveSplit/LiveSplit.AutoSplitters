@@ -15909,4 +15909,15 @@
         <Description>Split, start, and load removal available. (By hatkirby)</Description>
         <Website>https://github.com/hatkirby/autosplitters</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>OpenGOAL: Jak 1</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/open-goal/speedrunning/master/jak1/opengoal-jak1-autosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Starts, resets, splits.  Use with "Speedrunner Mode" enabled!</Description>
+        <Website>https://opengoal.dev/</Website>
+    </AutoSplitter>
 </AutoSplitters>
