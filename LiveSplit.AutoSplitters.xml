@@ -10,6 +10,17 @@
         <Type>Script</Type>
         <Description>Load Remover and Autostart/reset by streetbackguy</Description>
     </AutoSplitter>
+         <AutoSplitter>
+        <Games>
+                <Game>BARBIE IN THE 12 DANCING PRINCESSES (PC/PS2)</Game>
+                <Game>BARBIE IN THE 12 DANCING PRINCESSES</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/KunoDemetries/AutoSplitter/master/BarbieInThe12DancingPrincesses.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter (by KunoDemetries)</Description>
+    </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>Garshasp: The Monster Slayer</Game>
