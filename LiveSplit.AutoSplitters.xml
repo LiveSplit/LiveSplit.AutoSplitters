@@ -711,10 +711,10 @@
             <Game>Far Cry 6</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/LiterallyMetaphorical/LiveSplit.FarCry6/main/FarCry6.asl</URL>
+            <URL>https://raw.githubusercontent.com/Binslev/FC6LR/main/FC6%201.5.0.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load Remover (By AlexYeahNot, Binslev, and Meta)</Description>
+        <Description>Load Remover for patch 1.5.0 (by Binslev, credit to AlexYeahNot)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
