@@ -4029,22 +4029,6 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
-            <Game>Dark Souls</Game>
-            <Game>Dark Souls 1</Game>
-            <Game>Dark Souls 1: Prepare to Die Edition</Game>
-            <Game>Dark Souls: Prepare to Die Edition</Game>
-            <Game>Dark Souls Remastered</Game>
-            <Game>Dark Souls: Remastered</Game>
-        </Games>
-        <URLs>
-            <URL>https://raw.githubusercontent.com/CapitaineToinon/LiveSplit.DarkSoulsIGT/master/LiveSplit.DarkSoulsIGT/Components/LiveSplit.DarkSoulsIGT.dll</URL>
-        </URLs>
-        <Type>Component</Type>
-        <Description>Game Time is available. (By CapitaineToinon)</Description>
-        <Website>https://github.com/CapitaineToinon/LiveSplit.DarkSoulsIGT</Website>
-    </AutoSplitter>
-    <AutoSplitter>
-        <Games>
             <Game>Dark Souls 2</Game>
             <Game>Dark Souls II</Game>
             <Game>Dark Souls 2: SotFS</Game>
@@ -14672,6 +14656,12 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Dark Souls</Game>
+            <Game>Dark Souls 1</Game>
+            <Game>Dark Souls 1: Prepare to Die Edition</Game>
+            <Game>Dark Souls: Prepare to Die Edition</Game>
+            <Game>Dark Souls Remastered</Game>
+            <Game>Dark Souls: Remastered</Game>
             <Game>Dark Souls III</Game>
             <Game>Dark Souls 3</Game>
             <Game>Sekiro</Game>
