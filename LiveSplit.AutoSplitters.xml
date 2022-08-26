@@ -205,14 +205,16 @@
             <Game>Cult of the Lamb Demo</Game>
             <Game>COTL Demo</Game>
             <Game>COTLD</Game>
+            <Game>Cult of the Lamb</Game>
+            <Game>COTL</Game>
         </Games>
         <URLs>
-            <URL>https://github.com/MelloYourFello/Autosplitters/raw/main/COTL_DEMO.asl</URL>
+            <URL>https://raw.githubusercontent.com/glcoder/asl/main/Cult%20Of%20The%20Lamb.asl</URL>
             <URL>https://github.com/just-ero/asl-help/raw/main/Components/LiveSplit.ASLHelper.bin</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autosplitter for the Demo of Cult of the Lamb (Made by MelloYourFello)</Description>
-        <Website>https://www.speedrun.com/cotl_demo</Website>
+        <Description>Autosplitter and load remover for Cult of the Lamb.</Description>
+        <Website>https://github.com/glcoder/asl/blob/main/Cult%20Of%20The%20Lamb.asl</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
