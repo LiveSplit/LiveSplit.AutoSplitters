@@ -15921,4 +15921,15 @@
         <Description>Starts, resets, splits.  Use with "Speedrunner Mode" enabled!</Description>
         <Website>https://opengoal.dev/</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>KEEK</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/NighthawkSLO/Autosplitters/master/KEEK.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/Components/UnityASL.bin</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Start/Split/Reset are available. (By NighthawkSLO)</Description>
+    </AutoSplitter>
 </AutoSplitters>
