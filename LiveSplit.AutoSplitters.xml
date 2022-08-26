@@ -2,6 +2,16 @@
 <AutoSplitters>
         <AutoSplitter>
         <Games>
+            <Game>Saints Row (2022)</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/LiterallyMetaphorical/LiveSplit.SaintsRow2022/main/SaintsRow2022.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Remover and Autostart by Meta</Description>
+</AutoSplitter>
+        <AutoSplitter>
+        <Games>
             <Game>South Park: The Fractured But Whole</Game>
         </Games>
         <URLs>
