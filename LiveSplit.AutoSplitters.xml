@@ -5709,6 +5709,18 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Pac-Man World Re-Pac</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Jujstme/Autosplitters/master/Pac-Man%20World%20Re-Pac/LiveSplit.PacManWorldRePac.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/Components/UnityASL.bin</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load remover (by Jujstme)</Description>
+        <Website>https://github.com/Jujstme/Autosplitters/tree/master/Pac-Man%20World%20Re-Pac</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Pac-Man World 3</Game>
             <Game>Pac Man World 3</Game>
             <Game>PMW3</Game>
