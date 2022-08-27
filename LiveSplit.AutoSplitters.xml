@@ -8649,10 +8649,11 @@
             <Game>Sonic Mania</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/ClarisRobyn/ManiaPlusAutosplitter/master/SonicManiaPlus.asl</URL>
+            <URL>https://raw.githubusercontent.com/SonicSpeedrunning/LiveSplit.SonicMania/main/LiveSplit.SonicMania.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>PC version, auto splitting/start/reset available. Splits at the very end of each act. (By Claris)</Description>
+        <Description>Auto splitting/start/reset available. Splits at the end of each act. (by Jujstme and Claris)</Description>
+        <Website>https://github.com/SonicSpeedrunning/LiveSplit.SonicMania</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
