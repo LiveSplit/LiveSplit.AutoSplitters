@@ -15956,4 +15956,14 @@
         <Type>Script</Type>
         <Description>Auto Start/Split/Reset are available. (By NighthawkSLO)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Spirit of the North</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/nyooNyoo/LiveSplit.SpiritOfTheNorth/main/SpiritOfTheNorth.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Start/Split/Reset + Loadremover</Description>
+    </AutoSplitter>
 </AutoSplitters>
