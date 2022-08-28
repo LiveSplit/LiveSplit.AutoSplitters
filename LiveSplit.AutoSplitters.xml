@@ -15967,4 +15967,14 @@
         <Type>Script</Type>
         <Description>Start/Split/Reset + Loadremover</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Thymesia</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/TheDementedSalad/Thymesia-Autosplitter/main/Thymesia.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Start/End and Load Removal are available. (By TheDementedSalad)</Description>
+    </AutoSplitter>
 </AutoSplitters>
