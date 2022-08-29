@@ -15962,10 +15962,10 @@
             <Game>Spirit of the North</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/nyooNyoo/LiveSplit.SpiritOfTheNorth/main/SpiritOfTheNorth.asl</URL>
+            <URL>https://raw.githubusercontent.com/nyooNyoo/AutoSplitters/main/Spirit%20of%20the%20North/SpiritOfTheNorth.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Start/Split/Reset + Loadremover</Description>
+        <Description>Auto Start/Split/Reset and Load Remover available. (By Nyoo)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
