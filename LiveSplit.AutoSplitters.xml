@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
+    <AutoSplitter>
+        <Games>
+            <Game>Unrailed!</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/aeihu/AutoSplittersForSomeGames/main/Unrailed.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter by Aeihu</Description>
+        <Website>https://www.speedrun.com/unrailed</Website>
+    </AutoSplitter>
         <AutoSplitter>
         <Games>
             <Game>Saints Row (2022)</Game>
