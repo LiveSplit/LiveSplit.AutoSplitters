@@ -15988,4 +15988,17 @@
         <Type>Script</Type>
         <Description>Auto Start/End and Load Removal are available. (By TheDementedSalad)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Star Wars: Shadows of the Empire</Game>
+            <Game>Shadows of the Empire</Game>
+            <Game>SotE</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/SabulineHorizon/Autosplitters/main/ShadowsOfTheEmpire.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/split/reset. (By SabulineHorizon)</Description>
+        <Website>https://github.com/SabulineHorizon/Autosplitters</Website>
+    </AutoSplitter>
 </AutoSplitters>
