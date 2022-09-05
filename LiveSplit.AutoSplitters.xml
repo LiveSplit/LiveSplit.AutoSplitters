@@ -11280,6 +11280,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Plants vs. Zombies Category Extensions</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/ymblcza/ASL-Scripts/master/PlantsVsZombies.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>For pvz original and Steam version.</Description>
+        <Website>https://discord.gg/ss5uTqE</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Zed</Game>
         </Games>
         <URLs>
