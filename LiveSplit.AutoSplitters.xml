@@ -16025,4 +16025,16 @@
         <Type>Script</Type>
         <Description>Start/Split/Reset with support for 100k and 1m runs</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Tinykin</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Toothie2213/tinykinasl/main/tinykin.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/Components/LiveSplit.ASLHelper.bin</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Loadremover by Toothie</Description>
+        <Website>https://www.speedrun.com/Tinykin</Website>
+    </AutoSplitter>
 </AutoSplitters>
