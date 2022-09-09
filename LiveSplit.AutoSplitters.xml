@@ -15924,6 +15924,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Gloomwood</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/edunad/gloomwood-autosplit/master/gloomwood.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitting available (by FailCake and Hazzytje)</Description>
+        <Website>https://github.com/edunad/gloomwood-autosplit</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Give Up, Robot 2</Game>
         </Games>
         <URLs>
