@@ -371,6 +371,7 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/ontrigger/ism-autosplitter/main/insoundmind.asl</URL>
+            <URL>https://raw.githubusercontent.com/ontrigger/ism-autosplitter/main/ISM.Data.xml</URL>
             <URL>https://github.com/just-ero/asl-help/raw/main/Components/LiveSplit.ASLHelper.bin</URL>
         </URLs>
         <Type>Script</Type>
