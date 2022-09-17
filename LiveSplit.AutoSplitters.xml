@@ -16073,6 +16073,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Streelrising</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/TheDementedSalad/Steelrising-Splitter-Load-Remover/main/Steelrising.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>IGT Timer Available. (By TheDementedSalad)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Autonauts</Game>
         </Games>
         <URLs>
