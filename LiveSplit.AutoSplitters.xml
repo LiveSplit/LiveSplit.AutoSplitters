@@ -16073,6 +16073,28 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Streelrising</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/TheDementedSalad/Steelrising-Splitter-Load-Remover/main/Steelrising.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>IGT Timer Available. (By TheDementedSalad)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Autonauts</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/tyrope/autosplitters/master/autonauts.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/Components/UnityASL.bin</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart, remove loads/pauses, and split on tiers.</Description>
+        <Website>https://github.com/tyrope/autosplitters</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Taiji</Game>
         </Games>
         <URLs>
