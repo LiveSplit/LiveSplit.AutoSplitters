@@ -16093,4 +16093,15 @@
         <Description>Autostart, remove loads/pauses, and split on tiers.</Description>
         <Website>https://github.com/tyrope/autosplitters</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Taiji</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/hatkirby/autosplitters/main/Taiji.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Start, split, and load removal available. (By hatkirby)</Description>
+        <Website>https://github.com/hatkirby/autosplitters</Website>
+    </AutoSplitter>
 </AutoSplitters>
