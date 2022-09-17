@@ -16071,4 +16071,16 @@
         <Description>Supports autostart, splitting and game time. With options. (By Henny022)</Description>
         <Website>https://gitlab.com/henny022/asl/-/tree/main/Kamiko</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Autonauts</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/tyrope/autosplitters/master/autonauts.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/Components/UnityASL.bin</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart, remove loads/pauses, and split on tiers.</Description>
+        <Website>https://github.com/tyrope/autosplitters</Website>
+    </AutoSplitter>
 </AutoSplitters>
