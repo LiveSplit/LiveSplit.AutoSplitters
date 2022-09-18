@@ -16104,4 +16104,15 @@
         <Description>Start, split, and load removal available. (By hatkirby)</Description>
         <Website>https://github.com/hatkirby/autosplitters</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Klonoa Phantasy Reverie Series</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/TheDementedSalad/Klonoa-Phantasy-Reverie-Series-Splitter/main/Klonoa.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/Components/LiveSplit.ASLHelper.bin</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for PR1 and PR2 are available (By TheDementedSalad &amp; NickPRGreen)</Description>
+    </AutoSplitter>
 </AutoSplitters>
