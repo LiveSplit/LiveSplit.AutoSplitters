@@ -16126,4 +16126,14 @@
         <Type>Script</Type>
         <Description>Autosplitter for PR1 and PR2 are available (By TheDementedSalad &amp; NickPRGreen)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Vex</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/NoobTracker/vex-1-autosplitter/main/vex.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and IGT for the Any% category, by NoobTracker. For the hacked .exe version. </Description>
+    </AutoSplitter>
 </AutoSplitters>
