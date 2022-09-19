@@ -2,6 +2,17 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Night at the Gates of Hell</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/mitchell-merry/autosplitters/main/Night%20at%20the%20Gates%20Of%20Hell/natgoh.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load removing is available. (By diggity)</Description>
+        <Website>https://www.speedrun.com/night_at_the_gates_of_hell</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Contra Hard Corps</Game>
         </Games>
         <URLs>
