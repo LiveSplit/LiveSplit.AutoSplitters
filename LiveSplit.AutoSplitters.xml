@@ -16136,4 +16136,15 @@
         <Type>Script</Type>
         <Description>Autosplitter and IGT for the Any% category, by NoobTracker. For the hacked .exe version. </Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Metal: Hellsinger</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/vojtas131/AutoSplits/master/metal/livesplit_metal.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and Load removal by vojtas131 &amp; Dev1ne</Description>
+        <Website>https://github.com/vojtas131/AutoSplits/blob/master/metal/livesplit_metal.asl</Website>
+    </AutoSplitter>
 </AutoSplitters>
