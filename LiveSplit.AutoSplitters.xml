@@ -315,6 +315,18 @@
         <Website>https://github.com/Ebunix/mlp-amba-autosplits</Website>
     </AutoSplitter>
     <AutoSplitter>
+            <Games>
+                <Game>Prodeus</Game>
+            </Games>
+            <URLs>
+                <URL>https://raw.githubusercontent.com/samontenegro/ASL/main/prodeus/prodeus.asl</URL>
+                <URL>https://github.com/just-ero/asl-help/raw/main/Components/UnityASL.bin</URL>
+            </URLs>
+            <Type>Script</Type>
+            <Description>Prodeus Autosplitter by oneir1c / @samontenegro</Description>
+            <Website>https://www.speedrun.com/prodeus</Website>
+    </AutoSplitter>
+    <AutoSplitter>
         <Games>
             <Game>.flow</Game>
         </Games>
