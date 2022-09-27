@@ -16171,4 +16171,15 @@
         <Description>Autosplitter and Load removal by vojtas131 &amp; Dev1ne</Description>
         <Website>https://github.com/vojtas131/AutoSplits/blob/master/metal/livesplit_metal.asl</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Aquanox</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/SabulineHorizon/Autosplitters/main/Aquanox.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/split/reset/loads. (By SabulineHorizon)</Description>
+        <Website>https://github.com/SabulineHorizon/Autosplitters</Website>
+    </AutoSplitter>
 </AutoSplitters>
