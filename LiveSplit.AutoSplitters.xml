@@ -2,6 +2,18 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Haunted Gas Station</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/mitchell-merry/autosplitters/main/Haunted%20Gas%20Station/hgs.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/Components/LiveSplit.ASLHelper.bin</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start and stop is available. (By diggity)</Description>
+        <Website>https://www.speedrun.com/haunted_gas_station</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Night at the Gates of Hell</Game>
         </Games>
         <URLs>
