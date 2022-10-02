@@ -14055,9 +14055,10 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/mitchell-merry/autosplitters/main/The%20Whitetail%20Incident/whitetail.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autosplitting is available. Created by diggity and Ero.</Description>
+        <Description>Autosplitting is available. (By diggity)</Description>
         <Website>https://speedrun.com/whitetail</Website>
     </AutoSplitter>
     <AutoSplitter>
