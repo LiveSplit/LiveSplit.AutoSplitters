@@ -16192,4 +16192,15 @@
         <Description>Auto start/split/reset/loads. (By SabulineHorizon)</Description>
         <Website>https://github.com/SabulineHorizon/Autosplitters</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>I Wanna Escape Heavenly Host</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Gaphodil/iwehh-autosplitter/main/IWEHH.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter, death count, and game time, with options. (by Gaphodil)</Description>
+        <Website>https://github.com/Gaphodil/iwehh-autosplitter</Website>
+    </AutoSplitter>
 </AutoSplitters>
