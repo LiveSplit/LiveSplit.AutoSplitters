@@ -2,6 +2,19 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Corridor: Amount of Fear</Game>
+            <Game>Corridor Amount of Fear</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/mitchell-merry/autosplitters/main/Corridor%20Amount%20of%20Fear/corridor_amount_of_fear.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting and load removal is available. (By diggity)</Description>
+        <Website>https://www.speedrun.com/corridor_amount_of_fear</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Haunted Gas Station</Game>
         </Games>
         <URLs>
