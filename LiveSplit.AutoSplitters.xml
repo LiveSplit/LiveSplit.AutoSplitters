@@ -12249,7 +12249,7 @@
             <URL>https://raw.githubusercontent.com/vrchmvgx/rdr2_asl/master/RDR2.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Automatic starting, splitting and load removal. Original project by definitelynotcrab, fork maintained by vrchmvgx for the duration of his absence.</Description>
+        <Description>Automatic starting, splitting and load removal.</Description>
         <Website>https://github.com/vrchmvgx/rdr2_asl</Website>
     </AutoSplitter>
     <AutoSplitter>
