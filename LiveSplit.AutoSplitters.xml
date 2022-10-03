@@ -12246,11 +12246,11 @@
             <Game>Red Dead Redemption 2</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/definitelynotcrab/rdr2_asl/master/RDR2.asl</URL>
+            <URL>https://raw.githubusercontent.com/vrchmvgx/rdr2_asl/master/RDR2.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Automatic starting, splitting and load removal.</Description>
-        <Website>https://github.com/definitelynotcrab/rdr2_asl</Website>
+        <Description>Automatic starting, splitting and load removal. Original project by definitelynotcrab, fork maintained by vrchmvgx for the duration of his absence.</Description>
+        <Website>https://github.com/vrchmvgx/rdr2_asl</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
