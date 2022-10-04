@@ -5855,11 +5855,11 @@
             <Game>RE7: Biohazard</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/cursedtoast/re7/master/RE7.asl</URL>
+            <URL>https://raw.githubusercontent.com/TheDementedSalad/re7/master/RE7.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto Splitting and Load Removal available. Compare against Game Time. (By CursedToast)</Description>
-        <Website>https://github.com/cursedtoast/re7/blob/master/README.md</Website>
+        <Description>Auto Splitting and Load Removal available. Compare against Game Time. (By CursedToast &amp; TheDementedSalad)</Description>
+        <Website>https://github.com/TheDementedSalad/re7/blob/master/README.md</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
