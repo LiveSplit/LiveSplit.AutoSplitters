@@ -5856,9 +5856,10 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/TheDementedSalad/re7/master/RE7.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto Splitting and Load Removal available. Compare against Game Time. (By CursedToast &amp; TheDementedSalad)</Description>
+        <Description>Auto Splitting and Load Removal available. Compare to IGT (By CursedToast &amp; TheDementedSalad)</Description>
         <Website>https://github.com/TheDementedSalad/re7/blob/master/README.md</Website>
     </AutoSplitter>
     <AutoSplitter>
