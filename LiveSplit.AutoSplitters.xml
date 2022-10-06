@@ -2,6 +2,18 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Crypt</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/clydejallorina/CryptSpeedrun/master/LiveSplit/Crypt.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Crypt autosplitter (By gristCollector)</Description>
+        <Website>https://www.speedrun.com/Crypt</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Corridor: Amount of Fear</Game>
             <Game>Corridor Amount of Fear</Game>
         </Games>
