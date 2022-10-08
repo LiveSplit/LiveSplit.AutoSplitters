@@ -13,6 +13,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Maid Cafe Massacre</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/mitchell-merry/autosplitters/main/Maid%20Cafe%20Massacre/maidcafemassacre.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting and load removal is available. (By diggity)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Don't Be Afraid</Game>
             <Game>Dont Be Afraid</Game>
         </Games>
