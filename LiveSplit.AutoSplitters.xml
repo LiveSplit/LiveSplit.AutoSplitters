@@ -16293,4 +16293,14 @@
         <Description>Autosplitter, death count, and game time, with options. (by Gaphodil)</Description>
         <Website>https://github.com/Gaphodil/iwehh-autosplitter</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Fobia: St. Dinfna Hotel</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/TheDementedSalad/Fobia-Autosplitter/main/Fobia.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter & Load Removal Available. Time via IGT (by TheDementedSalad)</Description>
+    </AutoSplitter>
 </AutoSplitters>
