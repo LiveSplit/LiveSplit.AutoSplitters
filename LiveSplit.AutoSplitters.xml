@@ -36,6 +36,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Ninja Gaiden Sigma</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/RazRaz94/autosplitters/main/NinjaGaidenSigmaAutoSplitterLRT_By%20Mysterion_06_.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting and load removal is available. (by Mysterion_06_ and LonerHero)</Description>
+        <Website>https://www.speedrun.com/ninja_gaiden_sigma</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Ninja Gaiden Sigma 2</Game>
         </Games>
         <URLs>
