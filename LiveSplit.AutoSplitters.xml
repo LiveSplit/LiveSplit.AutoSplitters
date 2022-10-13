@@ -16312,4 +16312,14 @@
         <Type>Script</Type>
         <Description>Autosplitter and Load Removal Available. Time via IGT (by TheDementedSalad)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>A Bug's Life</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/hdc0/LiveSplit-asl/master/A%20Bug's%20Life.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto starting, splitting and load removal are available. (By hdc0)</Description>
+    </AutoSplitter>
 </AutoSplitters>
