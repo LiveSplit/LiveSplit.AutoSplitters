@@ -8959,64 +8959,6 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
-            <Game>Astérix &amp; Obélix XXL</Game>
-            <Game>Asterix &amp; Obelix XXL</Game>
-        </Games>
-        <URLs>
-            <URL>https://raw.githubusercontent.com/NoTeefy/AAOXXL1-AutoSplit/master/aaoxxl1.asl</URL>
-        </URLs>
-        <Type>Script</Type>
-        <Description>Automated Splitting/Start/End/Reset + Loadless Timer (By NoTeefy)</Description>
-        <Website>https://noteefy.de/aao</Website>
-    </AutoSplitter>
-    <AutoSplitter>
-        <Games>
-            <Game>Astérix &amp; Obélix XXL 2: Mission: Las Vegum Remastered</Game>
-            <Game>Astérix &amp; Obélix XXL 2</Game>
-        </Games>
-        <URLs>
-            <URL>https://raw.githubusercontent.com/NoTeefy/AAOXXL2HD-AutoSplit/master/aaormstr.asl</URL>
-        </URLs>
-        <Type>Script</Type>
-        <Description>Automated Splitting/Start/End + Loadless Timer (By NoTeefy)</Description>
-        <Website>https://noteefy.de/aao</Website>
-    </AutoSplitter>
-    <AutoSplitter>
-        <Games>
-            <Game>Astérix &amp; Obélix XXL 2: Mission: Las Vegum</Game>
-        </Games>
-        <URLs>
-            <URL>https://raw.githubusercontent.com/NoTeefy/AAOXXL2-AutoSplit/master/aaoxxl2.asl</URL>
-        </URLs>
-        <Type>Script</Type>
-        <Description>Automated Splitting/Start/End + Loadless Timer (By NoTeefy)</Description>
-        <Website>https://noteefy.de/aao</Website>
-    </AutoSplitter>
-    <AutoSplitter>
-        <Games>
-            <Game>Lost Ember</Game>
-        </Games>
-        <URLs>
-            <URL>https://raw.githubusercontent.com/NoTeefy/LostEmber-AutoSplit/master/lostember.asl</URL>
-        </URLs>
-        <Type>Script</Type>
-        <Description>Loadless Timer (By NoTeefy)</Description>
-        <Website>https://discord.gg/bfHd8fW</Website>
-    </AutoSplitter>
-    <AutoSplitter>
-        <Games>
-            <Game>Viscera Cleanup Detail</Game>
-            <Game>VCD</Game>
-        </Games>
-        <URLs>
-            <URL>https://raw.githubusercontent.com/NoTeefy/VCD-AutoSplit/master/VCD.asl</URL>
-        </URLs>
-        <Type>Script</Type>
-        <Description>Loadless Timer (By NoTeefy)</Description>
-        <Website>https://discord.gg/AdBKn5P</Website>
-    </AutoSplitter>
-    <AutoSplitter>
-        <Games>
             <Game>Little Nightmares</Game>
         </Games>
         <URLs>
