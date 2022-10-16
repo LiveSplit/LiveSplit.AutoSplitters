@@ -16274,4 +16274,14 @@
         <Type>Script</Type>
         <Description>Auto starting, splitting and load removal are available. (By hdc0)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Desperados III</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/smorrrs/Desperados-III-Resources/main/desperados_iii.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start, split, and load removal by smorrs</Description>
+    </AutoSplitter>
 </AutoSplitters>
