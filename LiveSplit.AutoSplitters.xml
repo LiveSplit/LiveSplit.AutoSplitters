@@ -2,6 +2,16 @@
 <AutoSplitters>
   <AutoSplitter>
         <Games>
+            <Game>Five Nights at Freddy's: Security Breach</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/NintwnDude879/fnaf-sb-autosplitter/master/FNaFSBAutoSplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and Load Remover made by NintenDude and Daltone</Description>
+  </AutoSplitter>
+  <AutoSplitter>
+        <Games>
             <Game>Scorn</Game>
         </Games>
         <URLs>
