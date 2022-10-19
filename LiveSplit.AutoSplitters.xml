@@ -16290,7 +16290,7 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/AndetSTK/BeenyASL/main/Beeny.asl</URL>
-            <URL>https://github.com/just-ero/asl-help/blob/main/lib/asl-help</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Starting and splitting by Andet, credit to Ero for asl-help</Description>
