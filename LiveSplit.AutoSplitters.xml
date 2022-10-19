@@ -16284,4 +16284,15 @@
         <Type>Script</Type>
         <Description>Auto start, split, and load removal by smorrs</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Beeny</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/AndetSTK/BeenyASL/main/Beeny.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/blob/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Starting and splitting by Andet, credit to Ero for asl-help</Description>
+    </AutoSplitter>
 </AutoSplitters>
