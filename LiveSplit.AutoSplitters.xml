@@ -2,6 +2,16 @@
 <AutoSplitters>
   <AutoSplitter>
         <Games>
+            <Game>Pitfall: The Mayan Adventure</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Svipur/Autosplitters/main/Pitfall%20-%20The%20Mayan%20Adventure%20(Windows%20PC)/PitfallPC.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for the Windows PC version. (Svipur)</Description>
+    </AutoSplitter>
+  <AutoSplitter>
+        <Games>
             <Game>Uncharted: The Lost Legacy (PC)</Game>
         </Games>
         <URLs>
