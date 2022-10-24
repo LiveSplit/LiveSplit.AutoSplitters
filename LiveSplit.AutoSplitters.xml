@@ -66,6 +66,18 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Chaos Legion</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/RazRaz94/autosplitters/main/ChaosLegion.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for Chaos Legion PC By LonerHero </Description>
+        <Website>https://www.speedrun.com/chaos_legion</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Ninja Gaiden Sigma</Game>
         </Games>
         <URLs>
