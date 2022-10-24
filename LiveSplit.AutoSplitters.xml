@@ -3368,14 +3368,14 @@
     <AutoSplitter>
         <Games>
             <Game>Dragon Age 2</Game>
+            <Game>Dragon Age II</Game>
             <Game>DA2</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/drtchops/asl/master/dragonage2.asl</URL>
+            <URL>https://raw.githubusercontent.com/Lemuura/Livesplit-Autosplitters/main/dragonage2.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load Removal is available. (By DrTChops)</Description>
-        <Website>https://github.com/drtchops/asl/blob/master/README.md</Website>
+        <Description>Load Removal/Autosplitter is available. (By Lemuura)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
