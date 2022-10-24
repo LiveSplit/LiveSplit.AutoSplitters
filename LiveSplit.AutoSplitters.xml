@@ -5968,11 +5968,11 @@
             <Game>Resident Evil: Village</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/cursedtoast/re8/main/re8.asl</URL>
+            <URL>https://raw.githubusercontent.com/TheDementedSalad/re8/main/re8.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto Splits and Load Removal available. Compare against Game Time.(By CursedToast)</Description>
-        <Website>https://github.com/cursedtoast/re8/blob/main/README.md</Website>
+        <Description>Auto Splits and Load Removal available. Compare to IGT.(By CursedToast &amp; TheDementedSalad)</Description>
+        <Website>https://github.com/TheDementedSalad/re8/blob/main/README.md</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
