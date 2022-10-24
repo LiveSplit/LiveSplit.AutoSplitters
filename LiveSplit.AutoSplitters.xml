@@ -16346,4 +16346,15 @@
         <Type>Script</Type>
         <Description>ASL script for the 2018 C64 game 'Organism'. Meant for use with Vice 3.6.1</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Agent Hugo</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Banzkux/autosplitters/main/agent-hugo/agenthugo.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and load remover for Agent Hugo. (by Banz)</Description>
+        <Website>https://www.speedrun.com/agent_hugo</Website>
+    </AutoSplitter>
   </AutoSplitters>
