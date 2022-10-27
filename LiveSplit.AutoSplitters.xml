@@ -16357,4 +16357,14 @@
         <Description>Autosplitter and load remover for Agent Hugo. (by Banz)</Description>
         <Website>https://www.speedrun.com/agent_hugo</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Gotham Knights</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/ShikenNuggets/Autosplitters/master/GothamKnights.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Remover by ShikenNuggets</Description>
+    </AutoSplitter>
   </AutoSplitters>
