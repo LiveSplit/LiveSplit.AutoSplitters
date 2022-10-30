@@ -12,6 +12,16 @@
     </AutoSplitter>
   <AutoSplitter>
         <Games>
+            <Game>A PLAGUE TALE: REQUIEM</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/KunoDemetries/AutoSplitter/master/A_Plague_Tale_Requiem.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter/Load Remover (By TheDementedSalad, KunoDemetires, Meta)</Description>
+    </AutoSplitter>
+  <AutoSplitter>
+        <Games>
             <Game>Uncharted: The Lost Legacy (PC)</Game>
         </Games>
         <URLs>
