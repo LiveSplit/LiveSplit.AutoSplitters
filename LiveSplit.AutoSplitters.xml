@@ -1252,18 +1252,6 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
-            <Game>Lunistice</Game>
-            <Game>Lunistice Demo</Game>
-        </Games>
-        <URLs>
-            <URL>https://github.com/CryZe/lunistice-auto-splitter/releases/download/latest/lunistice_auto_splitter.wasm</URL>
-        </URLs>
-        <Type>AutoSplittingRuntimeScript</Type>
-        <Description>Auto Splitting and Game Time are available (by CryZe)</Description>
-        <Website>https://github.com/CryZe/lunistice-auto-splitter</Website>
-    </AutoSplitter>
-    <AutoSplitter>
-        <Games>
             <Game>Facility 47</Game>
         </Games>
         <URLs>
