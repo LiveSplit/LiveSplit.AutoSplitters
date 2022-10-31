@@ -1252,15 +1252,15 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
-            <Game>Eversleep: Lunistice Gaiden</Game>
-            <Game>Eversleep: Lunistice Gaiden Demo</Game>
+            <Game>Lunistice</Game>
+            <Game>Lunistice Demo</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/CryZe/LiveSplit.Eversleep/master/LiveSplit.Eversleep.asl</URL>
+            <URL>https://github.com/CryZe/lunistice-auto-splitter/releases/download/latest/lunistice_auto_splitter.wasm</URL>
         </URLs>
-        <Type>Script</Type>
+        <Type>AutoSplittingRuntimeScript</Type>
         <Description>Auto Splitting and Game Time are available (by CryZe)</Description>
-        <Website>https://github.com/CryZe/LiveSplit.Eversleep</Website>
+        <Website>https://github.com/CryZe/lunistice-auto-splitter</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
