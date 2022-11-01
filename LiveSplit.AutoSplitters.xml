@@ -52,6 +52,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Snuff</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/mitchell-merry/autosplitters/main/Snuff/snuff.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load removal is available. (By diggity)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Okaeri</Game>
         </Games>
         <URLs>
