@@ -5920,7 +5920,7 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/Jujstme/Autosplitters/master/Pac-Man%20World%20Re-Pac/LiveSplit.PacManWorldRePac.asl</URL>
-            <URL>https://github.com/just-ero/asl-help/raw/main/lib/LiveSplit.ASLHelper.bin</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitter and load remover (by Jujstme)</Description>
