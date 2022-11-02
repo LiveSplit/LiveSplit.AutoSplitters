@@ -7941,6 +7941,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Sonic and the Fallen Star</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/SonicSpeedrunning/LiveSplit.SonicAndTheFallenStar/main/LiveSplit.SonicAndTheFallenStar.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter by BenInSweden and Jujstme</Description>
+        <Website>https://github.com/SonicSpeedrunning/LiveSplit.SonicAndTheFallenStar</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Sonic The Hedgehog Forever</Game>
             <Game>Sonic Forever</Game>
         </Games>
