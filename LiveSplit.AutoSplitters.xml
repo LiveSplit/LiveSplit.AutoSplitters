@@ -11278,10 +11278,10 @@
             <Game>Salt and Sanctuary</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/seresharp/LiveSplit.Salt/master/Livesplit.Salt/Components/LiveSplit.Salt.dll</URL>
+            <URL>https://raw.githubusercontent.com/vorban/LiveSplit.Salt/master/Livesplit.Salt/Components/LiveSplit.Salt.dll</URL>
         </URLs>
         <Type>Component</Type>
-        <Description>Autosplitting and auto-start available (by SerenaM)</Description>
+        <Description>Autosplitting and auto-start available (by Nyvelant and SerenaM)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
