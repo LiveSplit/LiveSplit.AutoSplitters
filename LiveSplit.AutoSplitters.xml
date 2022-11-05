@@ -16410,4 +16410,14 @@
         <Type>Script</Type>
         <Description>Load Remover by ShikenNuggets</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Spacegulls</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/totobono4/Auto-Splitter-Scripts/main/ASL/Spacegulls.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for Spacegulls. (by totobono4 and Lyliya)</Description>
+    </AutoSplitter>
   </AutoSplitters>
