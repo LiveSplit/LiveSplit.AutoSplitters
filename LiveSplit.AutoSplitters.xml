@@ -3077,6 +3077,17 @@
         <Type>Script</Type>
         <Description>Load Removal is available. (By ShiningFace)</Description>
     </AutoSplitter>
+	<AutoSplitter>
+        <Games>
+            <Game>Sonic Heroes</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/skewbmaster/Livesplit-ASL-Scripts/main/Sonic%20Heroes/LiveSplit.DolphinHeroes64BIT.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>IGT and Autosplitting Script for Sonic Heroes on Dolphin 5.0 (By skoob)</Description>
+        <Website>https://discord.gg/vCSvQrPg3A</Website>
+    </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>Alice: Madness Returns</Game>
