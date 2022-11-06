@@ -16450,5 +16450,6 @@
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitter for Mobility (by tcookiem)</Description>
+        <Website>https://github.com/tcookiem/MobilityAutosplitter</Website>
     </AutoSplitter>
   </AutoSplitters>
