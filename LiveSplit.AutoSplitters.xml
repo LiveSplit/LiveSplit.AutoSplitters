@@ -16420,4 +16420,14 @@
         <Type>Script</Type>
         <Description>Autosplitter for Spacegulls. (by totobono4 and Lyliya)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Lonely Mountains: Downhill</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Lyliya/LonelyMountainDownhill-Autosplitter/master/LonelyMountainDownhill.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for Lonely Mountains: Downhill (By Lyliya)</Description>
+    </AutoSplitter>
   </AutoSplitters>
