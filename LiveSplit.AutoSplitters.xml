@@ -16441,4 +16441,14 @@
         <Type>Script</Type>
         <Description>Autosplitter for Lonely Mountains: Downhill (By Lyliya)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Mobility</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/tcookiem/MobilityAutosplitter/main/Mobility.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for Mobility (by tcookiem)</Description>
+    </AutoSplitter>
   </AutoSplitters>
