@@ -200,6 +200,10 @@ Understanding the order and conditions under which timer control actions are exe
   - If `reset` does not explicitly return `true`, then the `split` action will be run.
 3. If `update` did not explicitly return `false` and the timer is currently not running (and not paused), then the `start` action will be run.
 
+##### Events
+
+While a broader suite of events exist in LiveSplit, three are also available as ASL actions. The `onStart`, `onSplit` and `onReset` actions will be triggered when the timer is started, split, and reset respectively.
+
 #### Script Management
 
 ##### Script Startup
