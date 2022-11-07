@@ -2278,6 +2278,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Sonic Omens</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/SonicSpeedrunning/LiveSplit.SonicOmens/main/LiveSplit.SonicOmens.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load time remover (by Jujstme)</Description>
+        <Website>https://github.com/SonicSpeedrunning/LiveSplit.SonicOmens</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Sonic &amp; Sega All-Stars Racing</Game>
             <Game>Sonic &amp; Sega All-Stars Racing - Category Extensions</Game>
         </Games>
