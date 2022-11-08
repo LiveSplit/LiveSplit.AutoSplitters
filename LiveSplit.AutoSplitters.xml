@@ -52,6 +52,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Vacation Island</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/mitchell-merry/autosplitters/main/Vacation%20Island/vacation_island.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting is available. (By diggity)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Snuff</Game>
         </Games>
         <URLs>
