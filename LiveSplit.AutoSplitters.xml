@@ -8041,6 +8041,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Sonic Frontiers</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/SonicSpeedrunning/LiveSplit.SonicFrontiers/main/LiveSplit.SonicFrontiers.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load remover and IGT calculator (switchable in settings) - by Jujstme</Description>
+        <Website>https://github.com/SonicSpeedrunning/LiveSplit.SonicFrontiers</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Sonic Generations</Game>
         </Games>
         <URLs>
