@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
   <AutoSplitter>
+    <Games>
+      <Game>2</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/samjones246/two-asl/master/two.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>Auto start/split/reset & IGT supported (By CaptainRektbeard)</Description>
+    <Website>https://github.com/samjones246/two-asl</Website>
+  </AutoSplitter>
+  <AutoSplitter>
         <Games>
             <Game>Pitfall: The Mayan Adventure</Game>
         </Games>
