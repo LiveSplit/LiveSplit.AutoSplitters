@@ -8056,10 +8056,10 @@
             <Game>Sonic Frontiers</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/SonicSpeedrunning/LiveSplit.SonicFrontiers/main/LiveSplit.SonicFrontiers.asl</URL>
+            <URL>https://raw.githubusercontent.com/SonicSpeedrunning/LiveSplit.SonicFrontiers/main/Components/LiveSplit.SonicFrontiers.dll</URL>
         </URLs>
-        <Type>Script</Type>
-        <Description>Load remover and IGT calculator (switchable in settings) - by Jujstme</Description>
+        <Type>Component</Type>
+        <Description>Autosplitter and load remover with configurable splitting conditions (by Jujstme)</Description>
         <Website>https://github.com/SonicSpeedrunning/LiveSplit.SonicFrontiers</Website>
     </AutoSplitter>
     <AutoSplitter>
