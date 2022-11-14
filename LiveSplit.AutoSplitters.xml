@@ -762,10 +762,11 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/mitchell-merry/autosplitters/main/Bloodwash/bloodwash.asl</URL>
+            <URL>https://raw.githubusercontent.com/mitchell-merry/autosplitters/main/Bloodwash/Bloodwash.Data.xml</URL>
             <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autosplitter and load remover available. (By diggity)</Description>
+        <Description>Autosplitting and load removal is available. Enter the Plaza before doing runs. (By diggity)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
