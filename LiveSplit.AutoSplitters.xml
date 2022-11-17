@@ -10,6 +10,16 @@
         <Type>Script</Type>
         <Description>Load Removal is available (by Crysal)</Description>
     </AutoSplitter>
+	 <AutoSplitter>
+        <Games>
+            <Game>CRASH NITRO KART</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/KunoDemetries/AutoSplitter/master/CrashNitroKart.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Remover for Dolphin (by KunoDemetries)</Description>
+    </AutoSplitter>
   <AutoSplitter>
     <Games>
       <Game>2</Game>
