@@ -43,16 +43,6 @@
     </AutoSplitter>
 	 <AutoSplitter>
         <Games>
-            <Game>CRYOSTASIS: SLEEP OF REASON</Game>
-        </Games>
-        <URLs>
-            <URL>https://raw.githubusercontent.com/KunoDemetries/AutoSplitter/master/Cryostasis.asl</URL>
-        </URLs>
-        <Type>Script</Type>
-        <Description>Autosplitter/Load Remover (By SuicideMachine, KunoDemetires)</Description>
-    </AutoSplitter>
-	 <AutoSplitter>
-        <Games>
             <Game>NIGHT AT THE MUSEUM: BATTLE OF THE SMITHSONIAN</Game>
         </Games>
         <URLs>
@@ -8681,10 +8671,10 @@
             <Game>Cryostasis: Sleep of Reason</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/SuiMachine/LiveSplit.ASLScripts/master/Cryostasis/LiveSplit.Cryostasis.asl</URL>
+            <URL>https://raw.githubusercontent.com/KunoDemetries/AutoSplitter/master/Cryostasis.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Loadd removal is available. (By SuicideMachine)</Description>
+        <Description>Autosplitter/ Load Remover (By SuicideMachine, KunoDemetries)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
