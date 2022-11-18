@@ -41,6 +41,26 @@
         <Type>Script</Type>
         <Description>Autosplitter/Load Remover (By TheDementedSalad, KunoDemetires, Meta)</Description>
     </AutoSplitter>
+	 <AutoSplitter>
+        <Games>
+            <Game>CRYOSTASIS: SLEEP OF REASON</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/KunoDemetries/AutoSplitter/master/Cryostasis.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter/Load Remover (By SuicideMachine, KunoDemetires)</Description>
+    </AutoSplitter>
+	 <AutoSplitter>
+        <Games>
+            <Game>NIGHT AT THE MUSEUM: BATTLE OF THE SMITHSONIAN</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/KunoDemetries/AutoSplitter/master/NightAtTheMuseum2.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter/Load Remover (By KunoDemetires)</Description>
+    </AutoSplitter>
   <AutoSplitter>
         <Games>
             <Game>Uncharted: The Lost Legacy (PC)</Game>
