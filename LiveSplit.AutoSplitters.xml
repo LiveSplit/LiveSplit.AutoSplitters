@@ -41,6 +41,16 @@
         <Type>Script</Type>
         <Description>Autosplitter/Load Remover (By TheDementedSalad, KunoDemetires, Meta)</Description>
     </AutoSplitter>
+	 <AutoSplitter>
+        <Games>
+            <Game>ASSAULT SPY</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/KunoDemetries/AutoSplitter/master/AssaultSpy.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter/Load Remover (By KunoDemetires)</Description>
+    </AutoSplitter>
   <AutoSplitter>
         <Games>
             <Game>Uncharted: The Lost Legacy (PC)</Game>
