@@ -3016,21 +3016,39 @@
             <Game>LOVE</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/neesi/autosplitters/master/LOVE/LOVE_livesplit.asl</URL>
+            <URL>https://raw.githubusercontent.com/neesi/autosplitters/main/LOVE/LOVE.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Works in all game modes after you enter Speedrun mode. Auto start, split, reset. IGT syncing.</Description>
+        <Description>Auto start, split, reset. Game Time syncing.</Description>
+        <Website>https://github.com/neesi/autosplitters/tree/main/LOVE</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>LOVE 2: kuso</Game>
             <Game>kuso</Game>
+            <Game>LOVE 2: kuso Demo</Game>
+            <Game>kuso Demo</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/neesi/autosplitters/master/kuso/kuso_livesplit.asl</URL>
+            <URL>https://raw.githubusercontent.com/neesi/autosplitters/main/LOVE_2_kuso/LOVE2kuso.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto start, split, reset. Game Time syncing. SleepMargin settings to fix low in-game FPS.</Description>
+        <Description>Auto start, split, reset. Game Time syncing. Website has important info about Demo version.</Description>
+        <Website>https://github.com/neesi/autosplitters/tree/main/LOVE_2_kuso</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>LOVE 3</Game>
+            <Game>LOVE3</Game>
+            <Game>LOVE 3 Demo</Game>
+            <Game>LOVE3 Demo</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/neesi/autosplitters/main/LOVE_3/LOVE3.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start, split, reset. Game Time syncing.</Description>
+        <Website>https://github.com/neesi/autosplitters/tree/main/LOVE_3</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -3043,17 +3061,6 @@
         <Type>Script</Type>
         <Description>Configurable autosplitting and load remover (by Jujstme)</Description>
         <Website>https://github.com/Jujstme/Autosplitters/tree/master/Halo%20Infinite</Website>
-    </AutoSplitter>
-    <AutoSplitter>
-        <Games>
-            <Game>LOVE 3</Game>
-            <Game>LOVE3</Game>
-        </Games>
-        <URLs>
-            <URL>https://raw.githubusercontent.com/neesi/autosplitters/master/LOVE3/LOVE3_livesplit.asl</URL>
-        </URLs>
-        <Type>Script</Type>
-        <Description>Auto start, split, reset. Game Time syncing. Script works in Time Attack mode only (including Level Select).</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
