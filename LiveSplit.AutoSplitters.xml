@@ -16541,4 +16541,15 @@
         <Description>Autosplitter for Mobility (by tcookiem)</Description>
         <Website>https://github.com/tcookiem/MobilityAutosplitter</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Freedom Fighters</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Banzkux/autosplitters/main/freedom-fighters/freedomfighters.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/split and load removal available. (By Banz)</Description>
+        <Website>https://github.com/Banzkux/autosplitters/blob/main/freedom-fighters/README.md</Website>
+    </AutoSplitter>
   </AutoSplitters>
