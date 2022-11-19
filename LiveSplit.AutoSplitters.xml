@@ -4787,6 +4787,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Resident Evil 4 2007</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/gabriel-dornelles/ASPC07/main/ASPC07.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and Load Time Removal are available. (by Gabriel Dornelles)</Description>
+        <Website>https://github.com/gabriel-dornelles/ASPC07/blob/main/README.md</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>LA Noire</Game>
             <Game>L.A. Noire</Game>
         </Games>
