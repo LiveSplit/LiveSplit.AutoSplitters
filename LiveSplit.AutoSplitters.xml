@@ -16570,4 +16570,15 @@
         <Description>Auto start/split and load removal available. (By Banz)</Description>
         <Website>https://github.com/Banzkux/autosplitters/blob/main/freedom-fighters/README.md</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Last Battle/Hokuto no Ken</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/dread-pirate-johnny-spaceboots/last-battle-autosplitter/master/LastBattle.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/split/reset. (By Johnny Spaceboots)</Description>
+        <Website>https://github.com/dread-pirate-johnny-spaceboots/last-battle-autosplitter</Website>
+    </AutoSplitter>
   </AutoSplitters>
