@@ -16581,4 +16581,15 @@
         <Description>Auto start/split/reset. (By Johnny Spaceboots)</Description>
         <Website>https://github.com/dread-pirate-johnny-spaceboots/last-battle-autosplitter</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Alkali</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/krille71/alkali-autosplitter/master/alkali-autosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/split/reset (by krille71)</Description>
+	<Website>https://github.com/krille71/alkali-autosplitter</Website>
+    </AutoSplitter>
   </AutoSplitters>
