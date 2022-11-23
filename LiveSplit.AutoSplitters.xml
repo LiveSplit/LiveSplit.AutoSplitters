@@ -20,6 +20,16 @@
         <Type>Script</Type>
         <Description>Load Remover for Dolphin (by KunoDemetries)</Description>
     </AutoSplitter>
+	 <AutoSplitter>
+        <Games>
+            <Game>GUNGRAVE G.O.R.E.</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/KunoDemetries/AutoSplitter/master/GunGraveGore.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>AutoSplitter/Load Remover (by KunoDemetries, Micrologist)</Description>
+    </AutoSplitter>
   <AutoSplitter>
     <Games>
       <Game>2</Game>
