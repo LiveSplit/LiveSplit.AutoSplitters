@@ -16618,4 +16618,15 @@
         <Description>Auto start/split/reset (by krille71)</Description>
 	<Website>https://github.com/krille71/alkali-autosplitter</Website>
     </AutoSplitter>
+    <AutoSplitter>
+	<Games>
+	    <Game>ADACA</Game>
+	</Games>
+	<URLs>
+	    <URL>https://raw.githubusercontent.com/BurndiL/ADACA-Autosplitter/main/adaca.asl</URL>
+	</URLs>
+	<Type>Script</Type>
+	<Description>Auto start/split (by Zach and Burndi)</Description>
+	<Website>https://github.com/BurndiL/ADACA-Autosplitter</Website>
+    </AutoSplitter>
   </AutoSplitters>
