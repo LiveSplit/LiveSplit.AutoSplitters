@@ -16629,4 +16629,14 @@
 	<Description>Auto start/split (by Zach and Burndi)</Description>
 	<Website>https://github.com/BurndiL/ADACA-Autosplitter</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Agent Hugo: RoboRumble</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/SioNisti/autosplit/main/Agent%20Hugo%20Roborubmle.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and Loadremover. (by SioN)</Description>
+    </AutoSplitter>
   </AutoSplitters>
