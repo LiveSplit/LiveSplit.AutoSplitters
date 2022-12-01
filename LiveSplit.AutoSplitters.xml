@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
+ <AutoSplitter>
+        <Games>
+            <Game>Marvel's Spider-Man: Miles Morales</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/LiterallyMetaphorical/Livesplit.Spider-ManMilesMorales/main/SpidermanMilesMoralesRemastered.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Remover made by Meta</Description>
+    </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>Fifo's Night</Game>
