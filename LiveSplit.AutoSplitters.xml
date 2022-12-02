@@ -8118,9 +8118,9 @@
             <Game>Sonic Triple Trouble (16-Bit)</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/SonicSpeedrunning/LiveSplit.SonicTripleTrouble16bit/main/LiveSplit.SonicTripleTrouble16bit.asl</URL>
+            <URL>https://raw.githubusercontent.com/SonicSpeedrunning/LiveSplit.SonicTripleTrouble16bit/main/Components/LiveSplit.SonicTripleTrouble16bit.dll</URL>
         </URLs>
-        <Type>Script</Type>
+        <Type>Component</Type>
         <Description>Auto start and reset available. Custom splitting options available in settings (by Jujstme)</Description>
         <Website>https://github.com/SonicSpeedrunning/LiveSplit.SonicTripleTrouble16bit</Website>
     </AutoSplitter>
