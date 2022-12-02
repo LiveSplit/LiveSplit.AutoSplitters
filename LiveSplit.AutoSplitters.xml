@@ -3226,7 +3226,7 @@
             <URL>https://raw.githubusercontent.com/SirWillian/Autosplitters/master/L4D2/L4D2.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load Removal and Auto Splitting are available. (By bill_play3, 2838, and Aciidz)</Description>
+        <Description>Load Removal and Auto Splitting are available. (By bill_play3, 2838, and aciidz)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -3237,7 +3237,7 @@
             <URL>https://raw.githubusercontent.com/SirWillian/Autosplitters/master/L4D1/L4D.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load Removal and Auto Splitting are available. (By bill_play3 and Aciidz)</Description>
+        <Description>Load Removal and Auto Splitting are available. (By bill_play3, 2838, and aciidz)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -3247,7 +3247,7 @@
             <URL>https://raw.githubusercontent.com/Suprnova/L4DAC-Autosplitter/main/L4DSurvivors.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Game Time and Auto Splitting are available. (By Aciidz, bill_play3, and Suprnova)</Description>
+        <Description>Game Time and Auto Splitting are available. (By aciidz, bill_play3, and Suprnova)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
