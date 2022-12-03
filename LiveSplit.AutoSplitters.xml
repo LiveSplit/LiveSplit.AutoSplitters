@@ -2,6 +2,16 @@
 <AutoSplitters>
  <AutoSplitter>
         <Games>
+            <Game>The Callisto Protocol</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/LiterallyMetaphorical/Livesplit.CallistoProtocol/main/CallistoProtocol.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Remover, Autostart, and Autosplit made by Meta</Description>
+    </AutoSplitter>
+ <AutoSplitter>
+        <Games>
             <Game>Marvel's Spider-Man: Miles Morales</Game>
         </Games>
         <URLs>
