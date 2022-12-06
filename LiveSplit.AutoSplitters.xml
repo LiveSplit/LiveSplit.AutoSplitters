@@ -4690,10 +4690,10 @@
             <Game>Spelunky</Game>
         </Games>
         <URLs>
-            <URL>https://github.com/saturnin55/SpelunkyLiveSplit/raw/master/LiveSplit.Spelunky.dll</URL>
+            <URL>https://github.com/spelunky-fyi/LiveSplit-Spelunky-HD/raw/main/Components/LiveSplit.Spelunky.dll</URL>
         </URLs>
         <Type>Component</Type>
-        <Description>Auto Splitting is available. (By sashavol)</Description>
+        <Description>Auto Splitting is available. (By sashavol/garebear)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
