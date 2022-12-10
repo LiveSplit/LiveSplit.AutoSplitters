@@ -16676,5 +16676,15 @@
         </URLs>
         <Type>Script</Type>
         <Description>ASL script for the 1989 C64 game 'Rick Dangerous'. Meant for use with Vice 3.6.1</Description>
-    </AutoSplitter>    
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Jolly 3: Chapter 1</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/derric-young/Jolly3SpeedrunStuff/main/Jolly%203%20Chapter%201%20Auto%20Splitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Starts, splits, resets. Set timer offset to -28.59. (by AITYuniverse and derric)</Description>
+    </AutoSplitter>
 </AutoSplitters>
