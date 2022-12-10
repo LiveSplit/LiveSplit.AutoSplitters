@@ -21,6 +21,16 @@
         <Type>Script</Type>
         <Description>Load Remover, Autostart, and Autosplit made by Meta</Description>
     </AutoSplitter>
+        <AutoSplitter>
+        <Games>
+            <Game>BARBIE HORSE ADVENTURES: MYSTERY RIDE</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/KunoDemetries/AutoSplitter/master/BarbieHorseAdventuresMysteryRide.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>AutoSplitter/Load Remover (by KunoDemetries)</Description>
+    </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>Marvel's Spider-Man: Miles Morales</Game>
