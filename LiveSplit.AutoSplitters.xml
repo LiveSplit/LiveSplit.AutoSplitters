@@ -16697,4 +16697,14 @@
         <Type>Script</Type>
         <Description>Starts, splits, resets. Set timer offset to -28.59. (by AITYuniverse and derric)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>I Wanna Be The Indigo Needle</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Rnd-Guy/livesplit-autosplitters/main/indigo-needle/indigo-needle.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart, autosplit and optional autoreset. (by Rnd-Guy)</Description>
+    </AutoSplitter>
 </AutoSplitters>
