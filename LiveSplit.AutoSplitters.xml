@@ -11,6 +11,16 @@
         <Type>Script</Type>
         <Description>Auto start/split/reset and load removal supported (By CaptainRektbeard)</Description>
     </AutoSplitter>
+     <AutoSplitter>
+        <Games>
+            <Game>CHOO-CHOO CHARLES</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/KunoDemetries/AutoSplitter/master/Choo-ChooCharles.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter/Load Remover (By KunoDemetries)</Description>
+    </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>The Callisto Protocol</Game>
