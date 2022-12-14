@@ -124,13 +124,14 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
-            <Game>Uncharted: The Lost Legacy (PC)</Game>
+            <Game>Uncharted 4: A Thief's End</Game>
+            <Game>Uncharted: The Lost Legacy</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Mattmatt10111/asl-scripts/master/UCLL.asl</URL>
+            <URL>https://raw.githubusercontent.com/TheDementedSalad/Uncharted-Legacy-of-Thieves-Collection-Autosplitter/main/Legacy%20of%20Thieves.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autosplitter and Load Remover by Mattmatt</Description>
+        <Description>Auto Splitting is available. Timed via IGT. (By TheDementedSalad)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
