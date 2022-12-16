@@ -2,6 +2,16 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Chop Goblins</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/cynkcaj/AutoSplitter/main/ChopGoblins.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter/Load Remover (By cynkcaj)</Description>
+   </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Super Kiwi 64</Game>
         </Games>
         <URLs>
