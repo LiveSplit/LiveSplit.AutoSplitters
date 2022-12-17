@@ -16730,4 +16730,14 @@
         <Type>Script</Type>
         <Description>Autostart, autosplit and optional autoreset. (by Rnd-Guy)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Mac Tonight and The Forgotten Ones</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/derric-young/MTATFOAutosplitter/main/MTaTFOAuto.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Start, Split and Reset by Both Derric and AITYunivers. 6 splits for any%. 7 for 100%</Description>
+    </AutoSplitter>
 </AutoSplitters>
