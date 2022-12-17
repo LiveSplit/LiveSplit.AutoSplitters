@@ -2,6 +2,16 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Wavetale</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Lemuura/Livesplit-Autosplitters/main/Wavetale.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter is available. (By Lemuura)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Darkwood</Game>
         </Games>
         <URLs>
