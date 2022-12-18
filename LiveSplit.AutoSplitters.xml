@@ -2,6 +2,16 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>The Entropy Centre</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/RandomisedTV/entropy-splitter/main/EntropyAutoSplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for The Entropy Centre (by RandomizedTV)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Wavetale</Game>
         </Games>
         <URLs>
