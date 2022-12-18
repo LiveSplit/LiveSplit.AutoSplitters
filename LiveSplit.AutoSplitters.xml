@@ -5,7 +5,7 @@
             <Game>The Entropy Centre</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/RandomisedTV/entropy-splitter/main/EntropyAutoSplitter_v1.1.asl</URL>
+            <URL>https://raw.githubusercontent.com/RandomisedTV/entropy-splitter/main/EntropyAutoSplitter.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitter for The Entropy Centre (by RandomizedTV)</Description>
