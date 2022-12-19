@@ -16760,4 +16760,15 @@
         <Type>Script</Type>
         <Description>Start, Split and Reset by Both Derric and AITYunivers. 6 splits for any%. 7 for 100%</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Toy Story 3: The Video Game</Game>
+            <Game>Toy Story 3</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/AndetSTK/ToyStory3ASL/main/ToyStory3.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter with load removal by Andet</Description>
+    </AutoSplitter>
 </AutoSplitters>
