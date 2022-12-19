@@ -2980,11 +2980,6 @@
             <Game>Half-Life 2: Episode One</Game>
             <Game>Half-Life 2: Episode Two</Game>
             <Game>Half-Life 2: Ghosting Mod</Game>
-            <Game>Half-Life 2 Done Portal</Game>
-            <Game>Portal</Game>
-            <Game>Portal: Prelude</Game>
-            <Game>Portal Category Extensions</Game>
-            <Game>Portal Mods</Game>
             <Game>Blamod Reborn</Game>
             <Game>FakeFactory's Cinematic Mod</Game>
         </Games>
@@ -5241,6 +5236,11 @@
             <Game>Half-Life 2: Offshore</Game>
             <Game>Portal Elevators</Game>
             <Game>Portal: Elevators</Game>
+            <Game>Half-Life 2 Done Portal</Game>
+            <Game>Portal</Game>
+            <Game>Portal: Prelude</Game>
+            <Game>Portal Category Extensions</Game>
+            <Game>Portal Mods</Game>            
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/thisis2838/SourceSplit/master/update/Components/LiveSplit.SourceSplit.dll</URL>
