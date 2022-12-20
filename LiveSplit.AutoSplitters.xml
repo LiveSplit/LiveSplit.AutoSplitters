@@ -43,7 +43,10 @@
     </AutoSplitter>
      <AutoSplitter>
         <Games>
-            <Game>CHOO-CHOO CHARLES</Game>
+            <Game>Choo-Choo Charles</Game>
+            <Game>Choo Choo Charles</Game>
+            <Game>Choo-Choo Charles Category Extensions</Game>
+            <Game>Choo Choo Charles Category Extensions</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/KunoDemetries/AutoSplitter/master/Choo-ChooCharles.asl</URL>
