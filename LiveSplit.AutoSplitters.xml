@@ -2,6 +2,17 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>The Lightbringer</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/pr0te/TheLightbringerASL/main/TheLightbringer.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/split/stop/reset and load removal (by pr0te)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Gorge</Game>
         </Games>
         <URLs>
