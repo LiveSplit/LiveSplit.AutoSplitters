@@ -2,6 +2,16 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Gorge</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Fibes1/gorge-autosplitter/main/gorge-autosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter &amp; load remover (by Fibes)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>The Entropy Centre</Game>
         </Games>
         <URLs>
