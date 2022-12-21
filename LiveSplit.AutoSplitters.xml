@@ -14204,6 +14204,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>High on Life</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/henyK/autosplitters/master/HighonLife/HighonLife.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Removal and Automatic Timer Start is available. (By Jujstme and heny)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>The Emperor's New Groove</Game>
         </Games>
         <URLs>
