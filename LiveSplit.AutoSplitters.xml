@@ -16806,4 +16806,14 @@
         <Type>Script</Type>
         <Description>Autosplitter with load removal by Andet</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Crisis Core: Final Fantasy VII - Reunion</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/desa35/CCFF7R-Loadremover/master/CCFF7R.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Loadremover with automatic Timer Start by desa.</Description>
+    </AutoSplitter>
 </AutoSplitters>
