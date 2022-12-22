@@ -2,6 +2,17 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>JellyCar Worlds</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Metraberryy/JellyCarWorlds-AutoSplitter/main/JellyCarWorlds.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for JCW (by Metraberryy and Hyperfied)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>The Lightbringer</Game>
         </Games>
         <URLs>
