@@ -1603,6 +1603,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>TimeSplitters: Future Perfect</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Jujstme/Autosplitters/master/TimeSplitters%20-%20Future%20Perfect/LiveSplit.TimeSplittersFuturePerfect.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Automatic game time calculator - supports GCN version emulated through Dolphin (by Jujstme)</Description>
+        <Website>https://github.com/Jujstme/Autosplitters/tree/master/TimeSplitters%20-%20Future%20Perfect</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Sonic 4: Episode II</Game>
             <Game>Sonic 4: Episode Metal</Game>
         </Games>
