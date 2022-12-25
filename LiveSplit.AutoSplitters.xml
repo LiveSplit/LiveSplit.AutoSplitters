@@ -1609,7 +1609,7 @@
             <URL>https://raw.githubusercontent.com/Jujstme/Autosplitters/master/TimeSplitters%20-%20Future%20Perfect/LiveSplit.TimeSplittersFuturePerfect.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Automatic game time calculator - supports GCN version emulated through Dolphin (by Jujstme)</Description>
+        <Description>Automatic game time calculator - supports both PS2 and GCN versions. Supported emulators: PCSX2, Dolphin (by Jujstme)</Description>
         <Website>https://github.com/Jujstme/Autosplitters/tree/master/TimeSplitters%20-%20Future%20Perfect</Website>
     </AutoSplitter>
     <AutoSplitter>
