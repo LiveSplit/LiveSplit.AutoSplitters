@@ -11500,11 +11500,11 @@
             <Game>Kula World</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Jujstme/LiveSplit.KulaWorld/master/Components/LiveSplit.KulaWorld.dll</URL>
+            <URL>https://raw.githubusercontent.com/Jujstme/Autosplitters/master/Kula%20World/LiveSplit.KulaWorld.asl</URL>
         </URLs>
-        <Type>Component</Type>
-        <Description>Automatic splitting and in-game timer</Description>
-        <Website>https://github.com/Jujstme/LiveSplit.KulaWorld</Website>
+        <Type>Script</Type>
+        <Description>Autosplitter and in-game timer. Supports all major PS1 emulators, including retroarch (by Jujstme)</Description>
+        <Website>https://github.com/Jujstme/Autosplitters/tree/master/Kula%20World</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
