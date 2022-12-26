@@ -16838,4 +16838,15 @@
         <Type>Script</Type>
         <Description>Auto Start/Split/Reset</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Jumpin' Jack</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Marek2810/Tata-hrdina/main/tata-hrdina.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and loadremover for the umpin' Jack (Táta Hrdina). Split at the end of each level.</Description>
+        <Website>https://github.com/Marek2810/Tata-hrdina</Website>
+    </AutoSplitter>
 </AutoSplitters>
