@@ -352,7 +352,7 @@ settings.Add("main_missions", true, "Main Missions");
 settings.Add("mission1", true, "First Mission", "main_missions");
 ```
 
-Settings only return `true` (checked) when their `parent` setting is `true` as well. The user can still freely toggle settings that have their parent unchecked, however they will be grayed out to indicate they are disabled.
+Settings only return `true` (checked) when their `parent` setting is `true` as well. The user is unable to toggle settings that have their parent unchecked, and they will be grayed out to indicate they are disabled.
 
 Any setting can act as a `parent` setting, so you could for example do the following to go one level deeper (continuing from the last example):
 
