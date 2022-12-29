@@ -16849,4 +16849,14 @@
         <Description>Autosplitter and loadremover for the umpin' Jack (Táta Hrdina). Split at the end of each level.</Description>
         <Website>https://github.com/Marek2810/Tata-hrdina</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Amok Runner</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/TheDementedSalad/Amok-Runner-Autosplitter/main/Amok%20Runner.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitting is available. Timed via IGT Load Remover. (By TheDementedSalad)</Description>
+    </AutoSplitter>
 </AutoSplitters>
