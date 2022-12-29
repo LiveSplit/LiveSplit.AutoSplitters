@@ -3241,10 +3241,10 @@
             <Game>BL1GOTY</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/FromDarkHell/Livesplit.LoadRemovers/master/Borderlands%201%20Enhanced%20Edition/BLGOTY.asl</URL>
+            <URL>https://gist.github.com/mentalitybl/9ede8a851bb7683089b43a3d723594ef/raw/bl1e.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load Removal is available for 1.0 (by FromDarkHell)</Description>
+        <Description>Load Removal is available. (by Bgm_)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
