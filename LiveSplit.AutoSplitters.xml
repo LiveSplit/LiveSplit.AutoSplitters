@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
-    <AutoSplitter>
-        <Games>
    <AutoSplitter>
         <Games>
             <Game>Chop Goblins</Game>
@@ -11,7 +9,9 @@
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitter/Load Remover (By cynkcaj)</Description>
-   </AutoSplitter>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>JellyCar Worlds</Game>
         </Games>
         <URLs>
