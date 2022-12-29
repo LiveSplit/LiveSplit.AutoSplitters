@@ -16869,4 +16869,14 @@
         <Type>Script</Type>
         <Description>Auto Splitting is available. Timed via IGT Load Remover. (By TheDementedSalad)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Drug Dealer Simulator</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/kenchie-sr/drug-dealer-simulator-livesplit/main/LiveSplit.DDS.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for Drug Dealer Simulator. Configurable splitting by level. Auth: Archmagus, Kinzykenzie</Description>
+    </AutoSplitter>
 </AutoSplitters>
