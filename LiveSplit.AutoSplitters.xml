@@ -11511,9 +11511,10 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/Jujstme/Autosplitters/master/Kula%20World/LiveSplit.KulaWorld.asl</URL>
+           <URL>https://github.com/Jujstme/emu-help/raw/master/lib/emu-help</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autosplitter and in-game timer. Supports all major PS1 emulators, including retroarch (by Jujstme)</Description>
+        <Description>Autosplitter and in-game timer. Supports all major PS1 emulators (by Jujstme)</Description>
         <Website>https://github.com/Jujstme/Autosplitters/tree/master/Kula%20World</Website>
     </AutoSplitter>
     <AutoSplitter>
