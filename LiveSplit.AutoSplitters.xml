@@ -9853,7 +9853,7 @@
             <Game>Tomb Raider: Legend</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/FluxMonkii/Autosplitters/master/TombRaiderLegend.asl</URL>
+            <URL>https://raw.githubusercontent.com/BryNu/Legend-Autosplitter/main/TombRaiderLegend.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autostart and selectable splitting points available for full-game runs. (by FluxMonkii)</Description>
