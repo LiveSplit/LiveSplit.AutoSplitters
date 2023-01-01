@@ -16893,4 +16893,15 @@
         <Description>Auto start/split/stop and in-game timer (by Gyoshi)</Description>
         <Website>https://github.com/Gyoshi/PhoA-AutoSplitter</Website>
     </AutoSplitter>
+   <AutoSplitter>
+        <Games>
+            <Game>Mario Kart Wii</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/zormy111/mario-kart-wii-autosplitter/main/mkwii-splitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting, In-Game Timer, Autostart, Autoreset (by zorm#01#1)</Description>
+        <Website>https://discord.gg/nxX4uHf</Website>
+    </AutoSplitter>
 </AutoSplitters>
