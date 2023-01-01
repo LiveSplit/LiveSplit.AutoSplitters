@@ -16904,4 +16904,14 @@
         <Description>Autosplitting, In-Game Timer, Autostart, Autoreset (by zorm#01#1)</Description>
         <Website>https://discord.gg/nxX4uHf</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>God of War (2018)</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Dobridp/GoW2018ASL/main/GodOfWar.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and Load Remover (by Dobrido). Splits on every task.</Description>
+    </AutoSplitter>
 </AutoSplitters>
