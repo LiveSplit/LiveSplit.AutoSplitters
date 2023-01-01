@@ -16881,4 +16881,16 @@
         <Type>Script</Type>
         <Description>Autosplitter for Drug Dealer Simulator. Configurable splitting by level. Auth: Archmagus, Kinzykenzie</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Phoenotopia: Awakening</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Gyoshi/PhoA-AutoSplitter/main/PhoA.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/split/stop and in-game timer (by Gyoshi)</Description>
+        <Website>https://github.com/Gyoshi/PhoA-AutoSplitter</Website>
+    </AutoSplitter>
 </AutoSplitters>
