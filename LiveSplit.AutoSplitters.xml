@@ -16883,14 +16883,12 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
-            <Game>Phoenotopia: Awakening</Game>
+            <Game>God of War (2018)</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Gyoshi/PhoA-AutoSplitter/main/PhoA.asl</URL>
-            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+            <URL>https://raw.githubusercontent.com/Dobridp/GoW2018ASL/main/GodOfWar.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto start/split/stop and in-game timer (by Gyoshi)</Description>
-        <Website>https://github.com/Gyoshi/PhoA-AutoSplitter</Website>
+        <Description>Autosplitter and Load Remover (by Dobrido). Splits at the end of each task.</Description>
     </AutoSplitter>
 </AutoSplitters>
