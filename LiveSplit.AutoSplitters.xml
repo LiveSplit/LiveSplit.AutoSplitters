@@ -10575,7 +10575,7 @@
             <Game>Control</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/MrLette/ControlAutoSplitter/main/Control.asl</URL>
+            <URL>https://raw.githubusercontent.com/thelolcoder2007/Control.autosplitter/default/Control.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Auto start/split/end and load removal (by MrLette and derwangler)</Description>
