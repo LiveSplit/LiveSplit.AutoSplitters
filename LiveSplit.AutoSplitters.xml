@@ -16914,4 +16914,15 @@
         <Type>Script</Type>
         <Description>Autosplitter and Load Remover (by Dobrido). Splits on every task.</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Moonlaw</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/SBDWolf/ASL-Autosplitters/main/Moonlaw/Moonlaw.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter (by SBDWolf)</Description>
+        <Website>https://github.com/SBDWolf/ASL-Autosplitters/tree/main/Moonlaw</Website>
+    </AutoSplitter>   
 </AutoSplitters>
