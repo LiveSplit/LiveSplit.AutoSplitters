@@ -16924,5 +16924,16 @@
         <Type>Script</Type>
         <Description>Autosplitter (by SBDWolf)</Description>
         <Website>https://github.com/SBDWolf/ASL-Autosplitters/tree/main/Moonlaw</Website>
+    </AutoSplitter>
+   <AutoSplitter>
+        <Games>
+            <Game>LEGO Racers</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/bagelsrc/autosplitters/main/LR.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and load remover by Bagel</Description>
+        <Website>https://github.com/bagelsrc/autosplitters/tree/main</Website>
     </AutoSplitter>   
 </AutoSplitters>
