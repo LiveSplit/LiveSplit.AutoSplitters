@@ -8941,6 +8941,18 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Melatonin</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/LRFLEW/LiveSplit.Melatonin/main/Melatonin.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>LiveSplit AutoSplitter for Melatonin</Description>
+        <Website>https://github.com/LRFLEW/LiveSplit.Melatonin</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>FEAR</Game>
             <Game>FEAR: First Encounter Assault Recon</Game>
             <Game>F.E.A.R.</Game>
