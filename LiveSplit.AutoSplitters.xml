@@ -16936,4 +16936,15 @@
         <Description>Autosplitter and load remover by Bagel</Description>
         <Website>https://github.com/bagelsrc/autosplitters/tree/main</Website>
     </AutoSplitter>   
+   <AutoSplitter>
+        <Games>
+            <Game>Journey</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/arckoor/autosplitters/main/Journey/Journey.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter (by arckoor)</Description>
+        <Website>https://github.com/arckoor/autosplitters/tree/main/Journey</Website>
+    </AutoSplitter>   
 </AutoSplitters>
