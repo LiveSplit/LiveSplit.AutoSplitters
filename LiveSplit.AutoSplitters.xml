@@ -696,6 +696,18 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Fashion Police Squad</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/samontenegro/ASL/main/fashionpolicesquad/fps.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Fashion Police Squad Autosplitter by oneir1c / @samontenegro</Description>
+        <Website>https://www.speedrun.com/fashion_police_squad</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Signalis</Game>
         </Games>
         <URLs>
