@@ -16985,3 +16985,14 @@
         <Website>https://github.com/arckoor/autosplitters/tree/main/Journey</Website>
     </AutoSplitter>   
 </AutoSplitters>
+ <AutoSplitter>
+        <Games>
+            <Game>Spore</Game>
+        </Games>
+        <URLs>
+            <URL>https://www.speedrun.com/spore/resourceasset/1m1cg</URL>
+            <URL>https://www.speedrun.com/spore/resourceasset/1m1cg</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>LiveSplit AutoSplitter for Spore Steam 1.3.0.22 version.</Description>
+    </AutoSplitter>
