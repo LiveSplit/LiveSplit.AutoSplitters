@@ -16983,5 +16983,15 @@
         <Type>Script</Type>
         <Description>Autosplitter (by arckoor)</Description>
         <Website>https://github.com/arckoor/autosplitters/tree/main/Journey</Website>
-    </AutoSplitter>   
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Dreamball 64</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Grimdonuts/dreamball64autosplitter/main/LiveSplit.Dreamball64.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter is available By Grimdonuts</Description>
+    </AutoSplitter>
 </AutoSplitters>
