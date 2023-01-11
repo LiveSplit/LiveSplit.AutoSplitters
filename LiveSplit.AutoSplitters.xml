@@ -9370,6 +9370,17 @@
         <Type>Script</Type>
         <Description>Autosplitter/Load Removal (By Nikko)</Description>
     </AutoSplitter>
+   <AutoSplitter>
+        <Games>
+            <Game>Little Witch Nobeta</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/ShinRunner1st/LWN-ASL/master/Little_Witch_Nobeta.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter/Load Remover for Little Witch Nobeta by ShinRunner1st</Description>
+        <Website>https://discord.gg/3FMeB4m</Website>
+    </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>GRIS</Game>
