@@ -16448,6 +16448,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Sinner97</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/edunad/sinner-97-autosplit/master/sinner97.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitting available (by FailCake)</Description>
+        <Website>https://github.com/edunad/sinner-97-autosplit</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Give Up, Robot 2</Game>
         </Games>
         <URLs>
