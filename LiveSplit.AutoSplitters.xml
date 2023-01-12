@@ -8225,6 +8225,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Sonic 1 SMS Remake</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/SonicSpeedrunning/LiveSplit.Sonic1SMSRemake/master/Components/LiveSplit.Sonic1SMSRemake.dll</URL>
+        </URLs>
+        <Type>Component</Type>
+        <Description>Auto start and reset available. Customizable splitting options (by Jujstme)</Description>
+        <Website>https://github.com/SonicSpeedrunning/LiveSplit.Sonic1SMSRemake</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Sonic The Hedgehog Forever</Game>
             <Game>Sonic Forever</Game>
         </Games>
