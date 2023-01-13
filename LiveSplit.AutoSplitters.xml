@@ -17038,4 +17038,14 @@
         <Type>Script</Type>
         <Description>Autosplitter is available By Grimdonuts</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Rising Dusk</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Gyoshi/RisingDusk-AutoSplitter/main/Rising%20Dusk.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Simple auto start/split/stop (by Gyoshi)</Description>
+    </AutoSplitter>
 </AutoSplitters>
