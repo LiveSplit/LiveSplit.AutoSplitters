@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
+    <AutoSplitter>
+        <Games>
+            <Game>Lone Ruin</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Nikoheartttv/LoneRuin_Autosplitter/main/LoneRuin.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and Load Removal (by Nikoheart)</Description>
+    </AutoSplitter>
    <AutoSplitter>
         <Games>
             <Game>Chop Goblins</Game>
@@ -604,7 +615,7 @@
             <Game>Goosebumps: Dead of Night</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Nikoheartttv/Goosebumps_DeadOfNight/main/GDON_Autosplitter</URL>
+            <URL>https://raw.githubusercontent.com/Nikoheartttv/Goosebumps_DeadOfNight/main/GDON_Autosplitter.asl</URL>
             <URL>https://github.com/just-ero/asl-help/raw/main/lib/LiveSplit.ASLHelper.bin</URL>
         </URLs>
         <Type>Script</Type>
