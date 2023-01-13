@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
+    <AutoSplitter>
+        <Games>
+            <Game>Lone Ruin</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Nikoheartttv/LoneRuin_Autosplitter/main/LoneRuin.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and Load Removal (by Nikoheart)</Description>
+    </AutoSplitter>
    <AutoSplitter>
         <Games>
             <Game>Chop Goblins</Game>
@@ -604,7 +615,7 @@
             <Game>Goosebumps: Dead of Night</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Nikoheartttv/Goosebumps_DeadOfNight/main/GDON_Autosplitter</URL>
+            <URL>https://raw.githubusercontent.com/Nikoheartttv/Goosebumps_DeadOfNight/main/GDON_Autosplitter.asl</URL>
             <URL>https://github.com/just-ero/asl-help/raw/main/lib/LiveSplit.ASLHelper.bin</URL>
         </URLs>
         <Type>Script</Type>
@@ -8222,6 +8233,17 @@
         <Type>Script</Type>
         <Description>Autosplitter by BenInSweden and Jujstme</Description>
         <Website>https://github.com/SonicSpeedrunning/LiveSplit.SonicAndTheFallenStar</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Sonic 1 SMS Remake</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/SonicSpeedrunning/LiveSplit.Sonic1SMSRemake/master/Components/LiveSplit.Sonic1SMSRemake.dll</URL>
+        </URLs>
+        <Type>Component</Type>
+        <Description>Auto start and reset available. Customizable splitting options (by Jujstme)</Description>
+        <Website>https://github.com/SonicSpeedrunning/LiveSplit.Sonic1SMSRemake</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -17015,15 +17037,5 @@
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitter is available By Grimdonuts</Description>
-    </AutoSplitter>
-    <AutoSplitter>
-        <Games>
-            <Game>Rising Dusk</Game>
-        </Games>
-        <URLs>
-            <URL>https://raw.githubusercontent.com/Gyoshi/RisingDusk-AutoSplitter/main/Rising%20Dusk.asl</URL>
-        </URLs>
-        <Type>Script</Type>
-        <Description>Simple auto start/split/stop (by Gyoshi)</Description>
     </AutoSplitter>
 </AutoSplitters>
