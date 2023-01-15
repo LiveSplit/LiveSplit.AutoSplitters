@@ -17048,4 +17048,15 @@
         <Type>Script</Type>
         <Description>Simple auto start/split/stop (by Gyoshi)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>BABBDI</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Lyfeless/Babbdi-Autosplitter/master/babbdi_splitter.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load remover and customizable start/reset/split (by Lyfeless)</Description>
+    </AutoSplitter>
 </AutoSplitters>
