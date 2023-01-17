@@ -17070,4 +17070,15 @@
         <Type>Script</Type>
         <Description>Load remover and customizable start/reset/split (by Lyfeless)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Escape the Backrooms</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/jonetiz/ETB-Autosplitter/main/escape_backrooms.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto splitter and load removal is available by Xero.</Description>
+        <Website>https://github.com/jonetiz/ETB-Autosplitter/blob/main/README.md</Website>
+    </AutoSplitter>
 </AutoSplitters>
