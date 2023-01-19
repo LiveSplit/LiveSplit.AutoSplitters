@@ -205,6 +205,7 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/KunoDemetries/AutoSplitter/master/A_Plague_Tale_Requiem.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitter/Load Remover (By TheDementedSalad, KunoDemetires, Meta)</Description>
