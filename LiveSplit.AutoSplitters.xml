@@ -9964,6 +9964,39 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Worms 2</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/dezgeg/Autosplitters/master/LiveSplit.Worms2.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitting and Auto Start are available (By Dezgeg)</Description>
+        <Website>https://github.com/dezgeg/Autosplitters</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Worms Armageddon</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/dezgeg/Autosplitters/master/LiveSplit.WormsArmageddon.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitting and Auto Start are available for All Missions Any% and Deathmatch categories (By Dezgeg)</Description>
+        <Website>https://github.com/dezgeg/Autosplitters</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Worms World Party</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/dezgeg/Autosplitters/master/LiveSplit.WormsWorldParty.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitting and Auto Start are available for Any% and Time Attack categories (By Dezgeg)</Description>
+        <Website>https://github.com/dezgeg/Autosplitters</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Tomb Raider: Legend</Game>
         </Games>
         <URLs>
