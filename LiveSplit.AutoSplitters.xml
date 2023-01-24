@@ -17114,4 +17114,15 @@
         <Description>Auto splitter and load removal is available by Xero.</Description>
         <Website>https://github.com/jonetiz/ETB-Autosplitter/blob/main/README.md</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>One Piece Odyssey</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Art-Izon/OdysseyLoadRemover/main/OdysseyLoadRemover.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Remover (by Nighlin)</Description>
+    </AutoSplitter>
 </AutoSplitters>
