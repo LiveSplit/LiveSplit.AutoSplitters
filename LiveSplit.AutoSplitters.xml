@@ -6364,10 +6364,10 @@
             <Game>Jubilee</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/cursedtoast/Jubilee-Autosplitter/main/jubilee.asl</URL>
+            <URL>https://raw.githubusercontent.com/gaphodil/Jubilee-Autosplitter/main/jubilee.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto Splitting on shrines and auto-starting timer. By CursedToast</Description>
+        <Description>Auto Splitting on shrines and ending, and auto-starting timer. By CursedToast and Gaphodil</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
