@@ -2,6 +2,16 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Madagascar</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/triguii/asl-scripts/main/Madagascar.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Remover and automatic start for Madagascar (PC) (by Triguii)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Barbie and the Magic of Pegasus (PC)</Game>
         </Games>
         <URLs>
