@@ -2,6 +2,16 @@
 <AutoSplitters>
 <AutoSplitter>
         <Games>
+            <Game>Hi-Fi RUSH</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/LiterallyMetaphorical/LiveSplit.HiFiRUSH/main/HiFiRush.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Removal is available (by Meta)</Description>
+    </AutoSplitter>
+<AutoSplitter>
+        <Games>
             <Game>Dead Space</Game>
         </Games>
         <URLs>
