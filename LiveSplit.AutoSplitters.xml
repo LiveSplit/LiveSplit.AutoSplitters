@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
+<AutoSplitter>
+        <Games>
+            <Game>Dead Space</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/LiterallyMetaphorical/Livesplit.DeadSpaceRemake/main/DeadSpaceRemake.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Removal is available (by Meta)</Description>
+    </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>Madagascar</Game>
@@ -7639,9 +7649,9 @@
         <Description>Auto Start and Split are available. Split points chosen by user. More may be added by request. (By Roosta)</Description>
         <Website>https://github.com/blakehartley/LRFF13_autosplitter</Website>
     </AutoSplitter>
-    <AutoSplitter>
+   <AutoSplitter>
         <Games>
-            <Game>Dead Space</Game>
+            <Game>Dead Space (2008)</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/Mattmatt10111/asl-scripts/master/deadspace.asl</URL>
