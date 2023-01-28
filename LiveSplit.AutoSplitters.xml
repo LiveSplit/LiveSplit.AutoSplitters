@@ -18,7 +18,7 @@
             <URL>https://raw.githubusercontent.com/LiterallyMetaphorical/Livesplit.DeadSpaceRemake/main/DeadSpaceRemake.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load Removal is available (by Meta)</Description>
+        <Description>Load Removal and Autosplitting is available (by Meta and TheDementedSalad)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
