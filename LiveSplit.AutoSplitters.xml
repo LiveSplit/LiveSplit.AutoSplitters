@@ -17187,4 +17187,15 @@
         <Type>Script</Type>
         <Description>Load Remover (by Nighlin)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Lingo</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/hatkirby/autosplitters/main/Lingo.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Start and split available. (By hatkirby)</Description>
+        <Website>https://github.com/hatkirby/autosplitters</Website>
+    </AutoSplitter>
 </AutoSplitters>
