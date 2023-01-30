@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
+        <AutoSplitter>
+        <Games>
+            <Game>Lost Judgment</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/LiveSplit.LostJudgment.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Removal and Autosplitter by Streetbackguy</Description>
+    </AutoSplitter>
 <AutoSplitter>
         <Games>
             <Game>Hi-Fi RUSH</Game>
