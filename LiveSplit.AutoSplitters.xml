@@ -2,6 +2,16 @@
 <AutoSplitters>
         <AutoSplitter>
         <Games>
+            <Game>Exodus from the Earth</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/LiterallyMetaphorical/Livesplit.ExodusFromTheEarth/main/ExodusFromTheEarth.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Removal by deluxyze and Meta</Description>
+    </AutoSplitter>
+        <AutoSplitter>
+        <Games>
             <Game>Lost Judgment</Game>
         </Games>
         <URLs>
