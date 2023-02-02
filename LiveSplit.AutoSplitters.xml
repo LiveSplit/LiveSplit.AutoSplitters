@@ -17250,4 +17250,15 @@
         <Description>Auto Splitting and Game Time are available (by TheCoolSquare)</Description>
         <Website>https://github.com/SquareMan/cosmic-shake-auto-splitter</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Shin Megami Tensei: Persona 3 Portable</Game>
+            <Game>Persona 3 Portable</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/hoXyy/Livesplit.Autosplitters/master/LiveSplit.P3P.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load removal available for Steam and Game Pass version (by hoxi)</Description>
+    </AutoSplitter>
 </AutoSplitters>
