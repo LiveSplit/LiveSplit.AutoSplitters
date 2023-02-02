@@ -17218,4 +17218,16 @@
         <Description>Start and split available. (By hatkirby)</Description>
         <Website>https://github.com/hatkirby/autosplitters</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>SpongeBob SquarePants: The Cosmic Shake</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/SquareMan/cosmic-shake-auto-splitter/releases/download/latest/cosmic-shake-auto-splitter.wasm</URL>
+        </URLs>
+        <Type>Script</Type>
+        <ScriptType>AutoSplittingRuntime</ScriptType>
+        <Description>Auto Splitting and Game Time are available (by TheCoolSquare)</Description>
+        <Website>https://github.com/SquareMan/cosmic-shake-auto-splitter</Website>
+    </AutoSplitter>
 </AutoSplitters>
