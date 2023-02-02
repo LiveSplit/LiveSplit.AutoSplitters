@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
+     <AutoSplitter>
+        <Games>
+            <Game>Star Wars: The Force Unleashed</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/LiveSplit.SWTFU.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Removal by streetbackguy</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Star Wars: The Force Unleashed 2</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/LiveSplit.SWTFU2.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Removal by Scales</Description>
+    </AutoSplitter>
         <AutoSplitter>
         <Games>
             <Game>Exodus from the Earth</Game>
