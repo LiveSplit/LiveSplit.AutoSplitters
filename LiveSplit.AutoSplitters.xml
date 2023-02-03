@@ -17230,6 +17230,7 @@
     <AutoSplitter>
         <Games>
             <Game>Lingo</Game>
+            <Game>Lingo Custom Maps</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/hatkirby/autosplitters/main/Lingo.asl</URL>
