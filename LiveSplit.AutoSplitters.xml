@@ -10837,10 +10837,10 @@
             <Game>Spyro Reignited Trilogy (PC)</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Dinopony/spyrort-asl/master/spyrort.asl</URL>
+            <URL>https://raw.githubusercontent.com/SirBorris/SpyroAutoSplit/main/SRT_AutoSplitter.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto-splitting, Start, Reset and Load Removal are available (by Dinopony)</Description>
+        <Description>Auto-splitting, Start, Reset and Load Removal are available (by Dinopony, Edited by SirBorris &amp; BoredBanana)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
