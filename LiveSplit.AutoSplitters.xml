@@ -20,16 +20,16 @@
         <Type>Script</Type>
         <Description>Load Removal by Scales</Description>
     </AutoSplitter>
-        <AutoSplitter>
-        <Games>
-            <Game>Exodus from the Earth</Game>
-        </Games>
-        <URLs>
-            <URL>https://raw.githubusercontent.com/LiterallyMetaphorical/Livesplit.ExodusFromTheEarth/main/ExodusFromTheEarth.asl</URL>
-        </URLs>
-        <Type>Script</Type>
-        <Description>Load Removal by deluxyze and Meta</Description>
-    </AutoSplitter>
+         <AutoSplitter>
+       <Games>
+           <Game>Exodus from the Earth</Game>
+       </Games>
+       <URLs>
+           <URL>https://raw.githubusercontent.com/TheDementedSalad/Exodus-From-The-Earth-Autosplitter/main/Exodus%20From%20The%20Earth.asl</URL>
+       </URLs>
+       <Type>Script</Type>
+       <Description>Auto Splitting and Load Removal are available. (By TheDementedSalad &amp; Ellie &amp; SabulineHorizon)</Description>
+     </AutoSplitter>
         <AutoSplitter>
         <Games>
             <Game>Lost Judgment</Game>
