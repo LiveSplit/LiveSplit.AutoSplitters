@@ -17274,3 +17274,14 @@
         <Description>Load removal available for Steam and Game Pass version (by hoxi)</Description>
     </AutoSplitter>
 </AutoSplitters>
+<Games>
+            <Game>The Multi-Medium</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/ZarzaSR/TMMSplit/releases/download/v1.8.9/TMMSplit.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitting and Load Removal are available (by Zarza)</Description>
+        <Website>https://github.com/ZarzaSR/TMMSplit</Website>
+    </AutoSplitter>
+    <AutoSplitter>
