@@ -5883,6 +5883,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Perfect Vermin</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/LukeSaward1/AutoSplitters/main/Perfect%20Vermin/PerfectVermin.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Start/Split/Reset is available. (By LukeSaward)</Description>
+        <Website>https://github.com/LukeSaward1</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>NEAVE</Game>
         </Games>
         <URLs>
