@@ -2718,10 +2718,10 @@
             <Game>Sonic Colours: Ultimate</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/SonicSpeedrunning/LiveSplit.SonicColors/master/LiveSplit.SonicColors.asl</URL>
+            <URL>https://raw.githubusercontent.com/SonicSpeedrunning/LiveSplit.SonicColors/master/Components/LiveSplit.SonicColors.dll</URL>
         </URLs>
-        <Type>Script</Type>
-        <Description>Autosplitting and In-Game Timer are available (by Jujstme)</Description>
+        <Type>Component</Type>
+        <Description>Autosplitting and In-Game Timer are available. Supports both Sonic Colors and Sonic Colors: Ultimate (by Jujstme)</Description>
         <Website>https://discord.gg/XRsRwRU</Website>
     </AutoSplitter>
     <AutoSplitter>
