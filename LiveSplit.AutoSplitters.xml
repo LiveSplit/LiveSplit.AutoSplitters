@@ -3,14 +3,13 @@
     <AutoSplitter>
         <Games>
             <Game>Lake Haven</Game>
-            <Game>Lake Haven - Chrysalis</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/LiveSplit.LakeHavenChrysalis.asl</URL>
             <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>In-Game Timer and Autostart by Streetbackguy</Description>
+        <Description>In-Game Timer, Autostart and Autosplitter by Streetbackguy</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
