@@ -17337,4 +17337,14 @@
         <Description>Auto Splitting and Load Removal are available (by Zarza)</Description>
         <Website>https://github.com/ZarzaSR/TMMSplit</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Waluigi's Taco Stand</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/willgundee/WaluigiTacoStand-Autosplitter/main/WaluigiTacoStandAutosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitting and Auto Reset (by Willgundee)</Description>
+    </AutoSplitter>
 </AutoSplitters>
