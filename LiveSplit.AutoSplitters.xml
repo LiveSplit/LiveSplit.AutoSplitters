@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
- <AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Postmouse</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/Jujstme/LiveSplit.Postmouse/releases/download/latest/livesplit_postmouse.wasm</URL>
+        </URLs>
+        <Type>Script</Type>
+        <ScriptType>AutoSplittingRuntime</ScriptType>
+        <Description>Load remover (by Jujstme)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
         <Games>
             <Game>Hogwarts Legacy</Game>
         </Games>
