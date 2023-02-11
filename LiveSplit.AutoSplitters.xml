@@ -17373,4 +17373,15 @@
         <Description>Load Removal is available for Prologue (by zoton2)</Description>
         <Website>https://github.com/zoton2/LiveSplit.Scripts</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Streets of Rage</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Devilquest/LiveSplit-AutoSplitters/main/Streets%20of%20Rage/Streets%20of%20Rage%20-%20AutoSplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitter for Streets of Rage, check the website for options/configuration (by Devilquest)</Description>
+        <Website>https://github.com/Devilquest/LiveSplit-AutoSplitters/tree/main/Streets%20of%20Rage</Website>
+    </AutoSplitter>
 </AutoSplitters>
