@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
+      <AutoSplitter>
+        <Games>
+            <Game>Stronghold</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Tay0108/livesplit-autosplitters/master/stronghold.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/split/reset available for military campaign (by Tay0108)</Description>
+    </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>Deliver Us Mars</Game>
