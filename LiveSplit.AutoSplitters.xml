@@ -17394,4 +17394,16 @@
         <Description>Auto Splitter for Streets of Rage, check the website for options/configuration (by Devilquest)</Description>
         <Website>https://github.com/Devilquest/LiveSplit-AutoSplitters/tree/main/Streets%20of%20Rage</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Garden of Banan</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Micrologist/LiveSplit.GardenOfBanan/main/banan.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting by Micrologist</Description>
+        <Website>https://github.com/Micrologist/LiveSplit.GardenOfBanan</Website>
+    </AutoSplitter>
 </AutoSplitters>
