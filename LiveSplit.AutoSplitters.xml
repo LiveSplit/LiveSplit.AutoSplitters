@@ -2,6 +2,16 @@
 <AutoSplitters>
       <AutoSplitter>
         <Games>
+            <Game>Curse Crackers: For Whom the Belle Toils</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/AyotoCorp/Curse-Crackers-Autosplitter/main/Curse%20Crackers.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart/Autosplit/Autoreset (by AyotoCorp)</Description>
+    </AutoSplitter>
+      <AutoSplitter>
+        <Games>
             <Game>Stronghold</Game>
         </Games>
         <URLs>
