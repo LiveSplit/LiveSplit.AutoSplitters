@@ -2,6 +2,16 @@
 <AutoSplitters>
       <AutoSplitter>
         <Games>
+            <Game>Secret Agent Barbie</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/Livesplit.SecretAgentBarbie.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart/Autosplit/Autoreset by Streetbackguy and Taw</Description>
+    </AutoSplitter>
+      <AutoSplitter>
+        <Games>
             <Game>Curse Crackers: For Whom the Belle Toils</Game>
         </Games>
         <URLs>
