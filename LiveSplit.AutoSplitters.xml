@@ -16547,10 +16547,10 @@
             <Game>Scooby-Doo! First Frights</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/kamil2050/ASL-scripts/main/Scooby-Doo!%20First%20Frights%20load%20remover.asl</URL>
+            <URL>https://raw.githubusercontent.com/kamil2050/ASL-scripts/main/Scooby-Doo!%20First%20Frights%20Autosplitter%20and%20Load%20Remover.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load remover for PC version by kamil2050</Description>
+        <Description>Load remover and Autosplitter for PC version (by kamil2050, HDBSD, DeathMaster, KRISU)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
