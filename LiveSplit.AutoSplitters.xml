@@ -17436,4 +17436,15 @@
         <Description>Autosplitting by Micrologist</Description>
         <Website>https://github.com/Micrologist/LiveSplit.GardenOfBanan</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Hard Truck 2: King of the Road</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Kiraerong/Hard-Truck-2-Autosplitter/main/HT2.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and Reset for HT2: KOTR by Kiraerong</Description>
+        <Website>https://github.com/Kiraerong/Hard-Truck-2-Autosplitter</Website>
+    </AutoSplitter>
 </AutoSplitters>
