@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
-      <AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Happys Humble Burger Farm</Game>
+            <Game>Happy's Humble Burger Farm</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/mitchell-merry/autosplitters/main/Happy's%20Humble%20Burger%20Farm/hhbf.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting and load removal is available. (By diggity, Andet, and goodluckNito)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
         <Games>
             <Game>The Misadventures of P.B. Winterbottom</Game>
         </Games>
