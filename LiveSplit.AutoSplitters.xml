@@ -17467,4 +17467,14 @@
         <Description>Autosplitting by Micrologist</Description>
         <Website>https://github.com/Micrologist/LiveSplit.GardenOfBanan</Website>
     </AutoSplitter>
+    <Autosplitter>
+        <Games>
+            <Game>Pizza Tower</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/JavierMarcosFer/autosplitters/main/PizzaTowerAny%25.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Start and split available (by XBC30EP450)</Description>
+    </Autosplitter>
 </AutoSplitters>
