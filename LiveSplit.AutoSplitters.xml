@@ -17498,4 +17498,15 @@
         <Type>Script</Type>
         <Description>Start and split available (by XBC30EP450)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+	<Games>
+	    <Game>Streets of Rage 2</Game>
+	</Games>
+	<URLs>
+	    <URL>https://raw.githubusercontent.com/Devilquest/LiveSplit-AutoSplitters/main/Streets%20of%20Rage%202/Streets%20of%20Rage%202%20-%20AutoSplitter.asl</URL>
+	</URLs>
+	<Type>Script</Type>
+	<Description>Auto Splitter for Streets of Rage 2, check the website for options/configuration (by Devilquest)</Description>
+	<Website>https://github.com/Devilquest/LiveSplit-AutoSplitters/tree/main/Streets%20of%20Rage%202</Website>
+    </AutoSplitter>
 </AutoSplitters>
