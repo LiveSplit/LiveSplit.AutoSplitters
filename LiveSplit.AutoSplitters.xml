@@ -110,9 +110,10 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/LiterallyMetaphorical/Livesplit.HogwartsLegacy/main/HogwartsLegacy.asl</URL>
+	    <URL>https://github.com/just-ero/asl-help/raw/main/lib/LiveSplit.ASLHelper.bin</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load Removal and Autosplitter are available (By Meta)</Description>
+        <Description>Load Removal and Autosplitter are available (By Meta &amp; TheDementedSalad)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
