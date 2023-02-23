@@ -17520,4 +17520,15 @@
 	<Description>Auto Splitter for Streets of Rage 2, check the website for options/configuration (by Devilquest)</Description>
 	<Website>https://github.com/Devilquest/LiveSplit-AutoSplitters/tree/main/Streets%20of%20Rage%202</Website>
     </AutoSplitter>
+    <AutoSplitter>
+	<Games>
+	    <Game>Utopia City</Game>
+	</Games>
+	<URLs>
+	    <URL>https://raw.githubusercontent.com/DylanSilby/Autosplitters/main/Utopia%20City/UtopiaCityAny%25.asl</URL>
+	</URLs>
+	<Type>Script</Type>
+	<Description>Auto Splitter for Utopia City (by CodeNameMeteor)</Description>
+	<Website>https://github.com/DylanSilby/Autosplitters/blob/main/Utopia%20City/UtopiaCityAny%25.asl</Website>
+    </AutoSplitter>
 </AutoSplitters>
