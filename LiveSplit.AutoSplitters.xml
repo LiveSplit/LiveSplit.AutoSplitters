@@ -17531,7 +17531,6 @@
 	<Description>Auto Splitter for Utopia City (by CodeNameMeteor)</Description>
 	<Website>https://github.com/DylanSilby/Autosplitters/blob/main/Utopia%20City/UtopiaCityAny%25.asl</Website>
     </AutoSplitter>
-</AutoSplitters>
     <AutoSplitter>
         <Games>
             <Game>I'm going to die if I don't eat sushi!</Game>
@@ -17543,3 +17542,4 @@
         <Description>Auto Splitter and Load Remover for All sushi lovers (by 2RU10SHI6 / suika_lunch)</Description>
 	<Website>https://www.speedrun.com/im_going_to_die_if_i_dont_eat_sushi</Website>
     </AutoSplitter>
+</AutoSplitters>
