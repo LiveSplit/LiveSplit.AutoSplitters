@@ -2,7 +2,7 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
-            <GameDoritos Crash Course Go!</Game>
+            <Game>Doritos Crash Course Go!</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/samjones246/doritosccg-asl/master/doritosccg.asl</URL>
