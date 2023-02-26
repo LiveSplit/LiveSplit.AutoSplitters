@@ -17562,4 +17562,16 @@
         <Description>Auto Splitter and Load Remover for All sushi lovers (by 2RU10SHI6 / suika_lunch)</Description>
 	<Website>https://www.speedrun.com/im_going_to_die_if_i_dont_eat_sushi</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>GRIME</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Jarlyk/Grime-AutoSplitter/main/Grime.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitter for GRIME (by Jarlyk)</Description>
+	<Website>https://www.speedrun.com/grime</Website>
+    </AutoSplitter>
 </AutoSplitters>
