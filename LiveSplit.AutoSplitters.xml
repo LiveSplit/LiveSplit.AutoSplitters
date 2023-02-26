@@ -179,7 +179,7 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
-            <Game>Star Wars: The Force Unleashed 2</Game>
+            <Game>Star Wars: The Force Unleashed II</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/LiveSplit.SWTFU2.asl</URL>
@@ -5099,17 +5099,6 @@
         <Type>Component</Type>
         <Description>Auto Splitting is available. (By sashavol/garebear)</Description>
     </AutoSplitter>
-    <AutoSplitter>
-        <Games>
-            <Game>Star Wars: The Force Unleashed II</Game>
-            <Game>SWTFU II</Game>
-            <Game>SWTFU 2</Game>
-        </Games>
-        <URLs>
-            <URL>https://gist.githubusercontent.com/Zuzurr/da2e16ed6eb561a7baca69a97d20a4fe/raw/043d98f72ee481a75be177050f76fdab7732f1e1/SWFTU2loads.asl</URL>
-        </URLs>
-        <Type>Script</Type>
-        <Description>Load Removal is available. (By Zuzur)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
