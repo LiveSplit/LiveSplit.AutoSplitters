@@ -8540,9 +8540,10 @@
             <Game>Sonic Forever</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/SonicSpeedrunning/LiveSplit.Sonic1Forever/master/Components/LiveSplit.Sonic1Forever.dll</URL>
+            <URL>https://github.com/SonicSpeedrunning/LiveSplit.Sonic1Forever_wasm/releases/download/release/livesplit_sonic1forever.wasm</URL>
         </URLs>
-        <Type>Component</Type>
+        <Type>Script</Type>
+        <ScriptType>AutoSplittingRuntime</ScriptType>
         <Description>Auto start and reset available. Customizable splitting options (by Jujstme and BenInSweden).</Description>
         <Website>https://discord.gg/NpVGzcRBJ3</Website>
     </AutoSplitter>
