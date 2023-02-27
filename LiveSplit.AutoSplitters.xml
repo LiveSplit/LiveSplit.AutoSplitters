@@ -1,6 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
-        <AutoSplitter>
+     <AutoSplitter>
+        <Games>
+            <Game>Like a Dragon: Ishin</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/LiveSplit.LADIshin.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Removal and Autostart by Streetbackguy</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Doritos Crash Course</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/samjones246/doritosccg-asl/master/doritosccg.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/split supported (By CaptainRektbeard)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
         <Games>
             <Game>Judgment</Game>
         </Games>
@@ -55,7 +75,7 @@
     </AutoSplitter>
       <AutoSplitter>
         <Games>
-            <Game>Secret Agent Barbie</Game>
+            <Game>Secret Agent Barbie (PC)</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/Livesplit.SecretAgentBarbie.asl</URL>
@@ -159,7 +179,7 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
-            <Game>Star Wars: The Force Unleashed 2</Game>
+            <Game>Star Wars: The Force Unleashed II</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/LiveSplit.SWTFU2.asl</URL>
@@ -5081,18 +5101,6 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
-            <Game>Star Wars: The Force Unleashed II</Game>
-            <Game>SWTFU II</Game>
-            <Game>SWTFU 2</Game>
-        </Games>
-        <URLs>
-            <URL>https://gist.githubusercontent.com/Zuzurr/da2e16ed6eb561a7baca69a97d20a4fe/raw/043d98f72ee481a75be177050f76fdab7732f1e1/SWFTU2loads.asl</URL>
-        </URLs>
-        <Type>Script</Type>
-        <Description>Load Removal is available. (By Zuzur)</Description>
-    </AutoSplitter>
-    <AutoSplitter>
-        <Games>
             <Game>Red Faction</Game>
             <Game>Pure Faction</Game>
         </Games>
@@ -8543,9 +8551,10 @@
             <Game>Sonic 2 Absolute</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/SonicSpeedrunning/LiveSplit.Sonic2Absolute/master/Components/LiveSplit.Sonic2Absolute.dll</URL>
+            <URL>https://github.com/SonicSpeedrunning/LiveSplit.Sonic2Absolute_wasm/releases/download/release/livesplit_sonic2absolute.wasm</URL>
         </URLs>
-        <Type>Component</Type>
+        <Type>Script</Type>
+        <ScriptType>AutoSplittingRuntime</ScriptType>
         <Description>Auto start and reset available. Customizable splitting options (by Jujstme and BenInSweden).</Description>
         <Website>https://discord.gg/NpVGzcRBJ3</Website>
     </AutoSplitter>
@@ -17529,5 +17538,39 @@
         </URLs>
         <Type>Script</Type>
         <Description>Autostart &amp; autosplit (by rumii)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+	<Games>
+	    <Game>Utopia City</Game>
+	</Games>
+	<URLs>
+	    <URL>https://raw.githubusercontent.com/DylanSilby/Autosplitters/main/Utopia%20City/UtopiaCityAny%25.asl</URL>
+	</URLs>
+	<Type>Script</Type>
+	<Description>Auto Splitter for Utopia City (by CodeNameMeteor)</Description>
+	<Website>https://github.com/DylanSilby/Autosplitters/blob/main/Utopia%20City/UtopiaCityAny%25.asl</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>I'm going to die if I don't eat sushi!</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/2RU10SHI6/sushi_autosplitter/main/Sushi.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitter and Load Remover for All sushi lovers (by 2RU10SHI6 / suika_lunch)</Description>
+	<Website>https://www.speedrun.com/im_going_to_die_if_i_dont_eat_sushi</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>GRIME</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Jarlyk/Grime-AutoSplitter/main/Grime.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitter for GRIME (by Jarlyk)</Description>
+	<Website>https://www.speedrun.com/grime</Website>
     </AutoSplitter>
 </AutoSplitters>
