@@ -17573,4 +17573,14 @@
         <Description>Auto Splitter for GRIME (by Jarlyk)</Description>
         <Website>https://www.speedrun.com/grime</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Liquidator 2: Welcome to Hell</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/DylanSilby/Autosplitters/main/Liquidator%202/Liquidator2Any.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitter for Liquidator 2: Welcome to Hell (by CodeNameMeteor)</Description>
+    </AutoSplitter>
 </AutoSplitters>
