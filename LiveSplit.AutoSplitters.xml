@@ -10,6 +10,17 @@
         <Type>Script</Type>
         <Description>Load Removal and Autostart by Streetbackguy</Description>
     </AutoSplitter>
+        <AutoSplitter>
+        <Games>
+            <Game>Back 4 Blood</Game>
+            <Game>B4B</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/KunoDemetries/AutoSplitter/master/Back4Blood.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter / Load Remover (By KunoDemetries)</Description>
+    </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>Doritos Crash Course</Game>
