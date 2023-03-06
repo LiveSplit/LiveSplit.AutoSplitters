@@ -17597,4 +17597,18 @@
         <Type>Script</Type>
         <Description>Auto Splitter for Liquidator 2: Welcome to Hell (by CodeNameMeteor)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Clive 'N' Wrench</Game>
+            <Game>Clive N Wrench</Game>
+            <Game>Clive and Wrench</Game>
+            <Game>CNW</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/CptBrian/CliveNWrench/main/CliveNW.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>(PC) CNW Load Removal and more (By CptBrian and TipDaddy78)</Description>
+        <Website>https://www.speedrun.com/cnw</Website>
+    </AutoSplitter>
 </AutoSplitters>
