@@ -17597,4 +17597,15 @@
         <Type>Script</Type>
         <Description>Auto Splitter for Liquidator 2: Welcome to Hell (by CodeNameMeteor)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>ENTROPOLY</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/AlbinEriksson/Entropoly-ASL/main/Entropoly.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting, Auto Start and Auto Reset are available. (By Aetias)</Description>
+        <Website>https://github.com/AlbinEriksson/Entropoly-ASL</Website>
+    </AutoSplitter>
 </AutoSplitters>
