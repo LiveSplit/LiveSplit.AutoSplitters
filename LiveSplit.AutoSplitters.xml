@@ -2,6 +2,16 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Timothy Vs The Aliens</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/samjones246/timothyvta-asl/master/timothyvta.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/split and load removal supported. (By CaptainRektbeard)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Anemoiapolis</Game>
         </Games>
         <URLs>
