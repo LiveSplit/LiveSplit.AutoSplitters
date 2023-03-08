@@ -2,6 +2,17 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Anemoiapolis</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/bandademan/Anemoiapolis-AutoSplitter/main/Anemoiapolis.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Removal and Autostart by Mr. Monocle</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Like a Dragon: Ishin</Game>
         </Games>
         <URLs>
@@ -17607,5 +17618,19 @@
         <Type>Script</Type>
         <Description>Autosplitting, Auto Start and Auto Reset are available. (By Aetias)</Description>
         <Website>https://github.com/AlbinEriksson/Entropoly-ASL</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Clive 'N' Wrench</Game>
+            <Game>Clive N Wrench</Game>
+            <Game>Clive and Wrench</Game>
+            <Game>CNW</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/CptBrian/CliveNWrench/main/CliveNW.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>(PC) CNW Load Removal and more (By CptBrian and TipDaddy78)</Description>
+        <Website>https://www.speedrun.com/cnw</Website>
     </AutoSplitter>
 </AutoSplitters>
