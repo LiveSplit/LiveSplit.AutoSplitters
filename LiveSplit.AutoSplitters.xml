@@ -16880,6 +16880,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Gothic 3</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/marczeslaw11/LoadRemovers/master/Gothic3_loadremover.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load remover available (by marczeslaw11)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Zapling Bygone</Game>
         </Games>
         <URLs>
