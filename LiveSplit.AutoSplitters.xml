@@ -13822,7 +13822,18 @@
             <URL>https://raw.githubusercontent.com/Buurazu/AutoSplitters/main/HuniePop.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto-start/reset. Splits on every date/bonus round, and meeting Venus. Works for all categories except 100%</Description>
+        <Description>Auto-start/reset. Splits on every date/bonus round. Works for all categories except 100%</Description>
+        <Website>https://discord.gg/hHMyUjDmzu</Website>
+    </AutoSplitter>
+	<AutoSplitter>
+        <Games>
+            <Game>HunieCam Studio</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Buurazu/AutoSplitters/main/HunieCam%20Studio.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>(Requires the speedrun mod!) Auto-start/reset. Splits on new day and named fan counts by default.</Description>
         <Website>https://discord.gg/hHMyUjDmzu</Website>
     </AutoSplitter>
     <AutoSplitter>
