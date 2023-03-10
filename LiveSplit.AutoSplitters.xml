@@ -2208,10 +2208,10 @@
             <Game>Cyberpunk 2077</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Radioactiv03/Cyberpunk-Load-remover/main/cp77.asl</URL>
+            <URL>https://raw.githubusercontent.com/LiterallyMetaphorical/LiveSplit.Cyberpunk2077/main/Cyberpunk2077.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load Removal is available (by Radioactiv)</Description>
+        <Description>Load Remover &amp; Autosplitter (by Radioactiv &amp; Meta)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
