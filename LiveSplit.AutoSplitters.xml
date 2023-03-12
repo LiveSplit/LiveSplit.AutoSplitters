@@ -16444,6 +16444,19 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Splinter Cell 6</Game>
+            <Game>Splinter Cell: Blacklist</Game>
+            <Game>Tom Clancy's Splinter Cell Blacklist</Game>
+            <Game>Tom Clancy's Splinter Cell: Blacklist</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/SpikeTheMarmot/sc-blacklist-autosplitter/main/blacklist.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/split/reset and load removal by Spike</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Cry of Fear</Game>
         </Games>
         <URLs>
