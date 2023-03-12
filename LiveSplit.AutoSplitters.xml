@@ -1776,11 +1776,10 @@
             <Game>Blue Fire</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Luukie13/bluefireAutosplitter/main/BlueFire.asl</URL>
+            <URL>https://raw.githubusercontent.com/Lemuura/Livesplit-Autosplitters/main/BlueFire.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>syncs the livesplit timer to the ingame timer setting. Created by Luukie13 and R30hedron</Description>
-        <Website>https://github.com/Luukie13/bluefireAutosplitter</Website>
+        <Description>Autosplitter is available (By Lemuura and Luukie13)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
