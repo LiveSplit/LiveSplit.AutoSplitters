@@ -17670,4 +17670,14 @@
         <Description>(PC) CNW Load Removal and more (By CptBrian and TipDaddy78)</Description>
         <Website>https://www.speedrun.com/cnw</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Sons of the Forest</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/novopact/SonsOfTheForest-Autosplitter/main/SonsOfTheForest.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start, Optional Split on Death and Reset. (By Novopact)</Description>
+    </AutoSplitter>
 </AutoSplitters>
