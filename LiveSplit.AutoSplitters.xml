@@ -2,6 +2,17 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Baldy Bounce</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/samjones246/baldybounce-asl/master/baldybounce.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/split and load removal supported. (By CaptainRektbeard)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Timothy Vs The Aliens</Game>
         </Games>
         <URLs>
