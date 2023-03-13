@@ -1776,11 +1776,10 @@
             <Game>Blue Fire</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Luukie13/bluefireAutosplitter/main/BlueFire.asl</URL>
+            <URL>https://raw.githubusercontent.com/Lemuura/Livesplit-Autosplitters/main/BlueFire.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>syncs the livesplit timer to the ingame timer setting. Created by Luukie13 and R30hedron</Description>
-        <Website>https://github.com/Luukie13/bluefireAutosplitter</Website>
+        <Description>Autosplitter is available (By Lemuura and Luukie13)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -7460,7 +7459,7 @@
             <Game>Star Wars: Battlefront II (2005)</Game>
         </Games>
         <URLs>
-            <URL>https://gist.githubusercontent.com/Lako3000/3098368ac04c1f50d3e9e7b52c843088/raw/a9a84a3131d197667d83ebbf40dc195ede524110/gistfile1.txt</URL>
+            <URL>https://raw.githubusercontent.com/9Tpercentmon/swbf2_loadremover/main/swbf2_loadremover_v2.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Load Removal is available. (By lako3000)</Description>
@@ -13822,7 +13821,18 @@
             <URL>https://raw.githubusercontent.com/Buurazu/AutoSplitters/main/HuniePop.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto-start/reset. Splits on every date/bonus round, and meeting Venus. Works for all categories except 100%</Description>
+        <Description>Auto-start/reset. Splits on every date/bonus round. Works for all categories except 100%</Description>
+        <Website>https://discord.gg/hHMyUjDmzu</Website>
+    </AutoSplitter>
+	<AutoSplitter>
+        <Games>
+            <Game>HunieCam Studio</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Buurazu/AutoSplitters/main/HunieCam%20Studio.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>(Requires the speedrun mod!) Auto-start/reset. Splits on new day and named fan counts by default.</Description>
         <Website>https://discord.gg/hHMyUjDmzu</Website>
     </AutoSplitter>
     <AutoSplitter>
@@ -16433,6 +16443,19 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Splinter Cell 6</Game>
+            <Game>Splinter Cell: Blacklist</Game>
+            <Game>Tom Clancy's Splinter Cell Blacklist</Game>
+            <Game>Tom Clancy's Splinter Cell: Blacklist</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/SpikeTheMarmot/sc-blacklist-autosplitter/main/blacklist.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/split/reset and load removal by Spike</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Cry of Fear</Game>
         </Games>
         <URLs>
@@ -17645,5 +17668,15 @@
         <Type>Script</Type>
         <Description>(PC) CNW Load Removal and more (By CptBrian and TipDaddy78)</Description>
         <Website>https://www.speedrun.com/cnw</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Sons of the Forest</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/novopact/SonsOfTheForest-Autosplitter/main/SonsOfTheForest.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start, Optional Split on Death and Reset. (By Novopact)</Description>
     </AutoSplitter>
 </AutoSplitters>
