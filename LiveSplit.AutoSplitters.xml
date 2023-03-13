@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
+<AutoSplitter>
+        <Games>
+            <Game>Dude Simulator 5</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/LiterallyMetaphorical/Livesplit.DudeSim5/main/DudeSim5.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart and load removal supported. (By Meta)</Description>
+    </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>Baldy Bounce</Game>
