@@ -17713,4 +17713,14 @@
         <Type>Script</Type>
         <Description>Auto Splitter for Lovely Planet (by vidhvat)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Road Rash</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/uspeek/road_rash_autosplitter/main/ROADRASH.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>In-game time, autosplitter, reset for PC (by uspeek and Molotok)</Description>
+    </AutoSplitter>
 </AutoSplitters>
