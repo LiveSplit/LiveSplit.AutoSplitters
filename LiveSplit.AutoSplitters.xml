@@ -8645,6 +8645,7 @@
     <AutoSplitter>
         <Games>
             <Game>Sonic Frontiers</Game>
+	    <Game>Sonic Frontiers Category Extensions</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/SonicSpeedrunning/LiveSplit.SonicFrontiers/main/Components/LiveSplit.SonicFrontiers.dll</URL>
