@@ -17693,4 +17693,14 @@
         <Type>Script</Type>
         <Description>Auto start, Optional Split on Death and Reset. (By Novopact)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Lovely Planet</Game>
+        </Games>
+        <URLs>
+            <URL>https://gist.githubusercontent.com/vidhvat/8b102a617070e9e3ef87451fe86300c8/raw/LovelyPlanetAutoSplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitter for Lovely Planet (by vidhvat)</Description>
+    </AutoSplitter>
 </AutoSplitters>
