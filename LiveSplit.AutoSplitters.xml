@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
-<AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Pole (Demo)</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/samjones246/poledemo-asl/master/poledemo.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/split supported. (By CaptainRektbeard)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
         <Games>
             <Game>Dude Simulator 5</Game>
         </Games>
