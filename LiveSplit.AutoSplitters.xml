@@ -23,6 +23,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Boson X</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/NERS1111/LiveSplit.AutoSplitters/autosplitters/Lotech.BosonX.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start and split supported. (By NERS)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Timothy Vs The Aliens</Game>
         </Games>
         <URLs>
