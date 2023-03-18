@@ -9602,10 +9602,11 @@
             <Game>Sonic Mania</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/SonicSpeedrunning/LiveSplit.SonicMania/main/LiveSplit.SonicMania.asl</URL>
+            <URL>https://github.com/SonicSpeedrunning/LiveSplit.SonicMania/releases/download/latest/livesplit_sonicmania.wasm</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto splitting/start/reset available. Splits at the end of each act. (by Jujstme and Claris)</Description>
+        <ScriptType>AutoSplittingRuntime</ScriptType>
+        <Description>Auto splitting/start/reset available. Configurable splits for each act. (by Jujstme and Claris)</Description>
         <Website>https://github.com/SonicSpeedrunning/LiveSplit.SonicMania</Website>
     </AutoSplitter>
     <AutoSplitter>
