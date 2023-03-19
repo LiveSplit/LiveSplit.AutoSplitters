@@ -16688,6 +16688,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Postal 3</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/SpectralPlatypus/AutoSplitters/master/Postal3.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter/Load Remover for Postal 3 (by SpectralPlatypus)</Description>
+        <Website>https://www.speedrun.com/postal3</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Postal 4: No Regerts</Game>
         </Games>
         <URLs>
