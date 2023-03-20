@@ -2897,9 +2897,10 @@
             <Game>Sonic Omens</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/SonicSpeedrunning/LiveSplit.SonicOmens/main/LiveSplit.SonicOmens.asl</URL>
+            <URL>https://github.com/SonicSpeedrunning/LiveSplit.SonicOmens/releases/download/latest/livesplit_sonicomens.wasm</URL>
         </URLs>
         <Type>Script</Type>
+        <ScriptType>AutoSplittingRuntime</ScriptType>
         <Description>Load time remover (by Jujstme)</Description>
         <Website>https://github.com/SonicSpeedrunning/LiveSplit.SonicOmens</Website>
     </AutoSplitter>
