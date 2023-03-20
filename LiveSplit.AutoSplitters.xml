@@ -10,6 +10,16 @@
         <Type>Script</Type>
         <Description>Auto start/split supported. (By CaptainRektbeard)</Description>
     </AutoSplitter>
+     <AutoSplitter>
+        <Games>
+            <Game>Shadowrun: Dragonfall</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/LurkenW/Shadowrun-Dragonfall-Autosplitter/main/SrDTest.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and load remover (By RadioLurken/LurkenW)</Description>
+    </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>Dude Simulator 5</Game>
