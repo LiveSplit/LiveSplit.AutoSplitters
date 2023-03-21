@@ -1193,6 +1193,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Zone Runner: Anniversary Edition</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/WaterArcanum/AutoSplitters/main/zonerunnerAE.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter by Arko. Timer starts when entering the first zone from level selection.</Description>
+        <Website>https://www.speedrun.com/zone_runner_anniversary_edition</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Haiku, the Robot</Game>
         </Games>
         <URLs>
