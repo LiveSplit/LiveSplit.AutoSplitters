@@ -8607,9 +8607,10 @@
             <Game>Sonic 3D in 2D</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/SonicSpeedrunning/Sonic3Din2DSplitter/main/Components/LiveSplit.Sonic3Din2D.dll</URL>
+            <URL>https://github.com/SonicSpeedrunning/LiveSplit.Sonic3Din2D/releases/download/latest/livesplit_sonic3din2d.wasm</URL>
         </URLs>
-        <Type>Component</Type>
+        <Type>Script</Type>
+        <ScriptType>AutoSplittingRuntime</ScriptType>
         <Description>Requires Sonic 3D in 2D 1.26 or higher</Description>
         <Website>https://github.com/SonicSpeedrunning/Sonic3Din2DSplitter</Website>
     </AutoSplitter>
