@@ -17779,4 +17779,14 @@
         <Type>Script</Type>
         <Description>In-game time, autosplitter, reset for PC (by uspeek and Molotok)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>The Tubbyland Archives</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/derric-young/TTLAAutosplitter/main/The%20Tubbyland%20Archives%20Autosplitting%20Systems.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Automated Starting, Spliting and Load Removing by derric_young</Description>
+    </AutoSplitter>
 </AutoSplitters>
