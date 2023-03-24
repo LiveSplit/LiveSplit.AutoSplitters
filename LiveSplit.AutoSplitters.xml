@@ -17799,4 +17799,14 @@
         <Type>Script</Type>
         <Description>Automated Starting, Spliting and Load Removing by derric_young</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Tubbyland: 2003</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/derric-young/Tubbyland-2003-Autosplitter/main/2003.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autonomus Start, Split, Reset and load Removing by Derric</Description>
+    </AutoSplitter>
 </AutoSplitters>
