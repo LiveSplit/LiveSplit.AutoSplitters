@@ -16422,7 +16422,7 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/Museus/autosplitters/main/HaveANiceDeath/HaveANiceDeath.asl</URL>
-            <URL>https://github.com/just-ero/asl-help/raw/main/lib/UnityASL.bin</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitter/Load Remover for Have a Nice Death</Description>
