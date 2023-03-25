@@ -17809,4 +17809,14 @@
         <Type>Script</Type>
         <Description>Autonomus Start, Split, Reset and load Removing by Derric</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Bamse och sjörövarskatten</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/SplasBoi/Bamseochsjorovarskatten-Autosplitter/main/bamse-och-sjorovarskatten.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/stop and load remover</Description>
+    </AutoSplitter>
 </AutoSplitters>
