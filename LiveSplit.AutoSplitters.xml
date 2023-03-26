@@ -17830,4 +17830,14 @@
         <Type>Script</Type>
         <Description>Auto start/stop and load remover</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Resident Evil 4 (2023)</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/TheDementedSalad/RE4Make-Autosplitter/main/Resident%20Evil%204%20Remake.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitting and In Game Time are available. (By TheDementedSalad)</Description>
+    </AutoSplitter>
 </AutoSplitters>
