@@ -2,6 +2,16 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Rhythm Doctor</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Nikoheartttv/RhythmDoctor_Autosplitter/main/RhythmDoctor_Autosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Removal and Autosplitter (by Nikoheart)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Lycanthorn II - Rain of Beasts</Game>
         </Games>
         <URLs>
