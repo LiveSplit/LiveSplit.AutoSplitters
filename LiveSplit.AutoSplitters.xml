@@ -34,6 +34,19 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>FAITH: THE UNHOLY TRINITY</Game>
+	    <Game>FAITH</Game>
+	    <Game>FAITH: CHAPTER II</Game>
+	    <Game>FAITH: CHAPTER III</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/KunoDemetries/AutoSplitter/master/FAITHTheUnholyTrinity.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitter/ Load Remover (By Kuno Demetries)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Pole (Demo)</Game>
         </Games>
         <URLs>
