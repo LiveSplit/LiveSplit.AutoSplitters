@@ -17895,4 +17895,14 @@
         <Type>Script</Type>
         <Description>AutoSplitter for Both Part A and Part B (by The Real Derric Young)</Description>
     </AutoSplitter>
+	<AutoSplitter>
+        <Games>
+            <Game>Mini Ghost</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/NickRPGreen/Mini-Ghost-Autosplitter/main/Mini%20Ghost.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>AutoSplitter for Mini Ghost (by NickRPGreen)</Description>
+    </AutoSplitter>
 </AutoSplitters>
