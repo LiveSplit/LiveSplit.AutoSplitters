@@ -17830,7 +17830,7 @@
             <URL>https://raw.githubusercontent.com/derric-young/TTLAAutosplitter/main/The%20Tubbyland%20Archives%20Autosplitting%20Systems.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Automated Starting, Spliting and Load Removing by derric_young</Description>
+        <Description>Automated Starting, Spliting and Load Remover (by derric_young)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -17840,7 +17840,7 @@
             <URL>https://raw.githubusercontent.com/derric-young/Tubbyland-2003-Autosplitter/main/2003.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autonomus Start, Split, Reset and load Removing by Derric</Description>
+        <Description>Autonomus Start, Split, Reset and load Remover (by Derric)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -17861,5 +17861,15 @@
         </URLs>
         <Type>Script</Type>
         <Description>Auto Splitting and In Game Time are available. (By TheDementedSalad)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Post-Shift 2</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/derric-young/Post-Shift-2-Autosplitter/main/p-s2.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>AutoSplitter for Both Part A and Part B (by The Real Derric Young)</Description>
     </AutoSplitter>
 </AutoSplitters>
