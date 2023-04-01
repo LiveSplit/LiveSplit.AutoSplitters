@@ -264,6 +264,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>The Murder of Sonic the Hedgehog</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/SonicSpeedrunning/LiveSplit.SonicMurder/releases/download/latest/livesplit_murderofsonic.wasm</URL>
+        </URLs>
+        <Type>Script</Type>
+        <ScriptType>AutoSplittingRuntime</ScriptType>
+        <Description>Autosplitter with customizable options (by Jujstme)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Hogwarts Legacy</Game>
         </Games>
         <URLs>
