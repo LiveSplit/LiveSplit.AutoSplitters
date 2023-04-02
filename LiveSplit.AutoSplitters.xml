@@ -17909,12 +17909,22 @@
     <AutoSplitter>
         <Games>
             <Game>Fantastic 4</Game>
-	    <Game>Fantastic Four</Game>
+	          <Game>Fantastic Four</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/LeonSReckon/Fantastic-4-ASL/main/Fantastic%204.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Auto Start/Split/Reset and IGT track are available (by LeonSReckon)</Description>
+    </AutoSplitter>
+	  <AutoSplitter>
+        <Games>
+            <Game>Mini Ghost</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/NickRPGreen/Mini-Ghost-Autosplitter/main/Mini%20Ghost.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>AutoSplitter for Mini Ghost (by NickRPGreen)</Description>
     </AutoSplitter>
 </AutoSplitters>
