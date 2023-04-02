@@ -17906,7 +17906,18 @@
         <Type>Script</Type>
         <Description>AutoSplitter for Both Part A and Part B (by The Real Derric Young)</Description>
     </AutoSplitter>
-	<AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Fantastic 4</Game>
+	          <Game>Fantastic Four</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/LeonSReckon/Fantastic-4-ASL/main/Fantastic%204.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Start/Split/Reset and IGT track are available (by LeonSReckon)</Description>
+    </AutoSplitter>
+	  <AutoSplitter>
         <Games>
             <Game>Mini Ghost</Game>
         </Games>
