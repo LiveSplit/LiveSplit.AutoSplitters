@@ -17927,4 +17927,15 @@
         <Type>Script</Type>
         <Description>AutoSplitter for Mini Ghost (by NickRPGreen)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Team Fortress Classic</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Nomad7/TFCautosplitter/main/LiveSplit.TFC.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for TFC (By Nomad#6589)</Description>
+        <Website>https://github.com/Nomad7/TFCautosplitter</Website>
+    </AutoSplitter>
 </AutoSplitters>
