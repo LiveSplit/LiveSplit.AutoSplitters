@@ -8858,6 +8858,18 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Rockman 2</Game>
+            <Game>RM2</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/McBobX-1/Rockman-2/main/RM2autosplit.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for Rockman 2 (By Coltaho, modified by McBobX)</Description>
+        <Website>https://github.com/McBobX-1/Rockman-2/blob/main/README.md</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Mega Man 3</Game>
             <Game>Megaman 3</Game>
             <Game>MM3</Game>
