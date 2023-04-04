@@ -13274,10 +13274,10 @@
             <Game>Samurai Jack: Battle Through Time</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Mysterion06/SJGame/master/SJGame.asl</URL>
+            <URL>https://raw.githubusercontent.com/MattPonton/SJGame/main/SJGame-Kamon.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autosplitter by Mysterion_06_</Description>
+        <Description>Autosplitter by Mysterion_06_ and PontonFSD</Description>
         <Website>https://github.com/Mysterion06/SJGame/blob/master/README.md</Website>
     </AutoSplitter>
     <AutoSplitter>
