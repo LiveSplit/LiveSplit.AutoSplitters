@@ -17962,4 +17962,15 @@
         <Description>Autosplitter for TFC (By Nomad#6589)</Description>
         <Website>https://github.com/Nomad7/TFCautosplitter</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Cars</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Tyfuzzle25/Autosplitters/master/Cars.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and Load Remover. (By Tyfuzzle25)</Description>
+        <Website>https://github.com/Tyfuzzle25/Autosplitters</Website>
+    </AutoSplitter>
 </AutoSplitters>
