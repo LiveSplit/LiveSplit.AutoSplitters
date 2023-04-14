@@ -2,6 +2,16 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Shapez</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Alex-x90/Shapezio_autosplitter/main/shapez.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter is available. (By Alex_x90)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Dr. Langeskov, The Tiger, and The Terribly Cursed Emerald: A Whirlwind Heist</Game>
 	    <Game>Dr. Langeskov</Game>
         </Games>
