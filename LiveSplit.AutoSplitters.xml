@@ -15749,17 +15749,6 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
-            <Game>Ultimate DOOM</Game>
-        </Games>
-        <URLs>
-            <URL>https://raw.githubusercontent.com/rogender/LiveSplit.Ultimate-DOOM/master/LiveSplit.Ultimate-DOOM.asl</URL>
-        </URLs>
-        <Type>Script</Type>
-        <Description>Ultimate DOOM autosplitter. Working only on latest versions of source ports</Description>
-        <Website>https://github.com/rogender/LiveSplit.Ultimate-DOOM</Website>
-    </AutoSplitter>
-    <AutoSplitter>
-        <Games>
             <Game>Museum of Simulation Technology</Game>
         </Games>
         <URLs>
@@ -16690,18 +16679,6 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
-            <Game>Wolfenstein 3D</Game>
-            <Game>Wolfenstein3D</Game>
-        </Games>
-        <URLs>
-            <URL>https://raw.githubusercontent.com/rogender/LiveSplit.Wolfenstein3D/main/LiveSplit.Wolfenstein3D.asl</URL>
-        </URLs>
-        <Type>Script</Type>
-        <Description>Wolfenstein 3D autosplitter. Working only with latest version of source ports</Description>
-        <Website>https://github.com/rogender/LiveSplit.Wolfenstein3D</Website>
-    </AutoSplitter>
-    <AutoSplitter>
-        <Games>
             <Game>Pearl Grabber</Game>
         </Games>
         <URLs>
@@ -16765,19 +16742,6 @@
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitting and Load Removal available (by rythin)</Description>
-    </AutoSplitter>
-    <AutoSplitter>
-        <Games>
-            <Game>Doom II</Game>
-            <Game>Doom 2</Game>
-            <Game>Doom II: Hell on Earth</Game>
-        </Games>
-        <URLs>
-            <URL>https://raw.githubusercontent.com/rogender/LiveSplit.Ultimate-DOOM/master/LiveSplit.Ultimate-DOOM.asl</URL>
-        </URLs>
-        <Type>Script</Type>
-        <Description>DOOM II autosplitter. Working only on latest versions of source ports</Description>
-        <Website>https://github.com/rogender/LiveSplit.Ultimate-DOOM</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
