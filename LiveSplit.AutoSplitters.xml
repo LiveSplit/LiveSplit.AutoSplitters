@@ -47,6 +47,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Planet Alcatraz 2</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/KR33PYK1NG/PALR/main/PA2LR.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitter and Load Remover by KR33PYK1NG.</Description>
+        <Website>https://github.com/KR33PYK1NG/PALR</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>The Last of Us Part I (PC)</Game>
         </Games>
         <URLs>
