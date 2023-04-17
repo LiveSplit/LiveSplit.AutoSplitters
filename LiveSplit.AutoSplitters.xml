@@ -17971,4 +17971,15 @@
         <Description>Autosplitter and Load Remover. (By Tyfuzzle25)</Description>
         <Website>https://github.com/Tyfuzzle25/Autosplitters</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Lunch Lady</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/TheCreeep/AutoSplitters/main/LL_AS.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter By Creep</Description>
+        <Website>https://github.com/TheCreeep/AutoSplitters</Website>
+    </AutoSplitter>
 </AutoSplitters>
