@@ -18015,4 +18015,15 @@
         <Description>Auto start/split/stop (by Gyoshi)</Description>
         <Website>https://github.com/Gyoshi/PhoA-AutoSplitter</Website>
     </AutoSplitter>
+        <AutoSplitter>
+        <Games>
+            <Game>Grand Theft Auto: Tightened Thrice</Game>
+	    <Game>GTA: Tightened Thrice</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/hoXyy/Livesplit.Autosplitters/master/LiveSplit.TightenedThrice.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter available (originally by zoton2/iguana, modified for TT by hoxi)</Description>
+    </AutoSplitter>
 </AutoSplitters>
