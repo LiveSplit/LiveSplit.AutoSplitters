@@ -16150,6 +16150,7 @@
     <AutoSplitter>
         <Games>
             <Game>Grapple!</Game>
+            <Game>Grapple! (Steam)</Game>
             <Game>Barji’s Grappler</Game>
             <Game>Barji’s Grappler!</Game>
             <Game>Barji's Grappler</Game>
@@ -16157,7 +16158,7 @@
         </Games>
         <URLs>
             <URL>https://github.com/just-ero/asl/raw/main/Grapple!/Grapple.asl</URL>
-            <URL>https://github.com/just-ero/asl-help/raw/main/lib/UnityASL.bin</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Starts, resets automatically. Splits after every level. (by Ero)</Description>
