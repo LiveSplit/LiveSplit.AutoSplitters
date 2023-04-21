@@ -18003,4 +18003,15 @@
         <Description>Autosplitter By Creep</Description>
         <Website>https://github.com/TheCreeep/AutoSplitters</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Lara Croft GO</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Gyoshi/LaraCroftGO-Autosplitter/master/LaraCroftGO.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/split/stop (by Gyoshi)</Description>
+        <Website>https://github.com/Gyoshi/PhoA-AutoSplitter</Website>
+    </AutoSplitter>
 </AutoSplitters>
