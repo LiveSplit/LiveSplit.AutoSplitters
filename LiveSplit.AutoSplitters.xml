@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
+    <AutoSplitter>    
+        <Games>
+            <Game>Toppys Workshop</Game>
+            <Game>Toppy's Workshop</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/mitchell-merry/autosplitters/raw/main/Toppy's%20Workshop/toppysworkshop.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting is available. (By diggity)</Description>
+    </AutoSplitter>
 	<AutoSplitter>
         <Games>
             <Game>Sunset Overdrive</Game>
