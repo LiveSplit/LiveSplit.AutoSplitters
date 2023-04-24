@@ -18060,4 +18060,16 @@
         <Description>Auto start/split/stop/reset is available (by Mitz)</Description>
         <Website>https://github.com/ThePwnzr/CrabChampionsAutosplitter</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>The Elder Scrolls: Arena</Game>
+            <Game>TESArena</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/SabulineHorizon/Autosplitters/main/TESArena.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/split/reset (By SabulineHorizon)</Description>
+        <Website>https://github.com/SabulineHorizon/Autosplitters</Website>
+    </AutoSplitter>
 </AutoSplitters>
