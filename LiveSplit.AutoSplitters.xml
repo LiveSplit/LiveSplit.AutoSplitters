@@ -18038,4 +18038,15 @@
         <Type>Script</Type>
         <Description>Autosplitter available (originally by zoton2/iguana, modified for TT by hoxi)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Crab Champions</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/ThePwnzr/CrabChampionsAutosplitter/main/CCAutosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/split/stop/reset is available (by Mitz)</Description>
+        <Website>https://github.com/ThePwnzr/CrabChampionsAutosplitter</Website>
+    </AutoSplitter>
 </AutoSplitters>
