@@ -12,6 +12,16 @@
         <Type>Script</Type>
         <Description>Autosplitting is available. (By diggity)</Description>
     </AutoSplitter>
+	    <AutoSplitter>
+        <Games>
+            <Game>Dead Island 2</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Mattmatt10111/asl-scripts/master/DeadIsland2.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Removal by Mattmatt</Description>
+    </AutoSplitter>
 	<AutoSplitter>
         <Games>
             <Game>Sunset Overdrive</Game>
