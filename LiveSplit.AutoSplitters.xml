@@ -24,6 +24,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Dead Island 2/Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Mattmatt10111/asl-scripts/master/DeadIsland2.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and Load Removal by Mattmatt></Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Paradox Vector</Game>
         </Games>
         <URLs>
