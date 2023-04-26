@@ -18072,4 +18072,16 @@
         <Description>Auto start/split/reset (By SabulineHorizon)</Description>
         <Website>https://github.com/SabulineHorizon/Autosplitters</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>BONK: An Interactive Exposition</Game>
+            <Game>BONK</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Gaphodil/autosplitters/main/bonk-autosplitter/BONK.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter, auto-reset, death count, and game time (By Gaphodil)</Description>
+        <Website>https://github.com/Gaphodil/autosplitters/tree/main/bonk-autosplitter</Website>
+    </AutoSplitter>
 </AutoSplitters>
