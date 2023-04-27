@@ -18084,4 +18084,15 @@
         <Description>Autosplitter, auto-reset, death count, and game time (By Gaphodil)</Description>
         <Website>https://github.com/Gaphodil/autosplitters/tree/main/bonk-autosplitter</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>BETON BRUTAL</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/CubeSkyy/BetonBrutalAutoSplitter/main/BetonBrutal.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto splits and resets based on in-game height.</Description>
+        <Website>https://github.com/CubeSkyy/BetonBrutalAutoSplitter</Website>
+    </AutoSplitter>
 </AutoSplitters>
