@@ -18112,6 +18112,7 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/CubeSkyy/BetonBrutalAutoSplitter/main/BetonBrutal.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Auto splits and resets based on in-game height.</Description>
