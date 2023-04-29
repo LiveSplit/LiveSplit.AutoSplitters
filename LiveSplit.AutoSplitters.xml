@@ -2,6 +2,17 @@
 <AutoSplitters>
     <AutoSplitter>    
         <Games>
+            <Game>Viewfinder</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/samjones246/viewfinder-asl/master/viewfinder.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/split and load removal available. (By CaptainRektbeard)</Description>
+    </AutoSplitter>
+    <AutoSplitter>    
+        <Games>
             <Game>Toppys Workshop</Game>
             <Game>Toppy's Workshop</Game>
         </Games>
@@ -11,6 +22,16 @@
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitting is available. (By diggity)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Dead Island 2</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Mattmatt10111/asl-scripts/master/DeadIsland2.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and Load Removal by Mattmatt</Description>
     </AutoSplitter>
 	<AutoSplitter>
         <Games>
@@ -13319,6 +13340,7 @@
     <AutoSplitter>
         <Games>
             <Game>Ratatouille (Asobo)</Game>
+	    <Game>Ratatouille (Asobo) Category Extensions</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/TTPPMM/Ratatouille-Asobo-Load-Remover/any%25/Ratatouille-LoadRemover-AutoSplitter.asl</URL>
@@ -18094,5 +18116,16 @@
         <Type>Script</Type>
         <Description>Auto splits and resets based on in-game height.</Description>
         <Website>https://github.com/CubeSkyy/BetonBrutalAutoSplitter</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Live A Live (2022)</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/Eein/live-a-live-autosplitter-wasm/releases/latest/download/live_a_live_autosplitter_wasm.wasm</URL> </URLs>
+        <Type>Script</Type>
+        <ScriptType>AutoSplittingRuntime</ScriptType>
+        <Description>Auto Splitting and Game Time are available (by SuperFamicom)</Description>
+        <Website>https://github.com/Eein/live-a-live-autosplitter-wasm</Website>
     </AutoSplitter>
 </AutoSplitters>
