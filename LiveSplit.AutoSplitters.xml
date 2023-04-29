@@ -18108,6 +18108,18 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>BETON BRUTAL</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/CubeSkyy/BetonBrutalAutoSplitter/main/BetonBrutal.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto splits and resets based on in-game height.</Description>
+        <Website>https://github.com/CubeSkyy/BetonBrutalAutoSplitter</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Live A Live (2022)</Game>
         </Games>
         <URLs>
