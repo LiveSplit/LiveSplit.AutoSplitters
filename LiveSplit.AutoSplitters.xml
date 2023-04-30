@@ -17809,6 +17809,7 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/zoton2/LiveSplit.Scripts/master/Release/LiveSplit.IAmJesusChrist.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Load Removal is available for Prologue (by zoton2)</Description>
