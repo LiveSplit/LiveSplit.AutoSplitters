@@ -16,8 +16,8 @@
             <Game>Exhibition of Memories</Game>
         </Games>
         <URLs>
-            <URL>https://github.com/mitchell-merry/autosplitters/blob/main/Exhibition%20of%20Memories/exhibitionofmemories.asl</URL>
-            <URL>https://github.com/mitchell-merry/autosplitters/blob/main/Exhibition%20of%20Memories/ExhibitionOfMemories.Settings.Xml</URL>
+            <URL>https://github.com/mitchell-merry/autosplitters/raw/main/Exhibition%20of%20Memories/exhibitionofmemories.asl</URL>
+            <URL>https://github.com/mitchell-merry/autosplitters/raw/main/Exhibition%20of%20Memories/ExhibitionOfMemories.Settings.Xml</URL>
             <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
