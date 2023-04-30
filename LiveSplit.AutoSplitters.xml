@@ -13,6 +13,18 @@
     </AutoSplitter>
     <AutoSplitter>    
         <Games>
+            <Game>Exhibition of Memories</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/mitchell-merry/autosplitters/raw/main/Exhibition%20of%20Memories/exhibitionofmemories.asl</URL>
+            <URL>https://github.com/mitchell-merry/autosplitters/raw/main/Exhibition%20of%20Memories/ExhibitionOfMemories.Settings.Xml</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting and load removal is available. (By diggity)</Description>
+    </AutoSplitter>
+    <AutoSplitter>    
+        <Games>
             <Game>Toppys Workshop</Game>
             <Game>Toppy's Workshop</Game>
         </Games>
