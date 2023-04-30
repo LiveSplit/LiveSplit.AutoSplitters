@@ -12330,6 +12330,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Jurassic Park (SNES)</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Halderim/autosplitter/main/LiveSplit.JurassicParkSNES.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description> Autosplitting, timer start and reset timer available (by Halderim)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Jurassic Park: Trespasser</Game>
             <Game>Trespasser</Game>
             <Game>Trespasser: Jurassic Park</Game>
