@@ -17320,11 +17320,11 @@
             <Game>Klonoa Phantasy Reverie Series</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/TheDementedSalad/Klonoa-Phantasy-Reverie-Series-Splitter/main/Klonoa.asl</URL>
+            <URL>https://raw.githubusercontent.com/TheDementedSalad/Klonoa-Phantasy-Reverie-Series-Splitter/4f568d0c06dc10dcebd39b8993ac65f1ddb0353b/Klonoa.asl</URL>
             <URL>https://github.com/just-ero/asl-help/raw/main/lib/LiveSplit.ASLHelper.bin</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autosplitter for PR1 and PR2 are available (By TheDementedSalad &amp; NickPRGreen)</Description>
+        <Description>Autosplitter for PR1 and PR2 are available (By TheDementedSalad &amp; NickPRGreen, V1.2)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
