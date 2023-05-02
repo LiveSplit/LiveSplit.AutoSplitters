@@ -18183,4 +18183,16 @@
         <Type>Script</Type>
         <Description>Auto Splitting and IGT timer available. (By TheDementedSalad)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>The Elder Scrolls Adventures: Redguard</Game>
+            <Game>TESARedguard</Game>
+            <Game>Redguard</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/TheDementedSalad/TESA-Redguard-Autosplitter/main/Elder%20Scrolls%20Redguard.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/split/reset/loads (By SabulineHorizon and TheDementedSalad)</Description>
+    </AutoSplitter>
 </AutoSplitters>
