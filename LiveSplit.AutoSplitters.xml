@@ -18167,7 +18167,8 @@
             <Game>One Piece: Pirate Warriors 3</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/TheDementedSalad/OPPW3-Autosplitter/main/One%20Piece%20Pirate%20Warriors%203.asl</URL> </URLs>
+            <URL>https://raw.githubusercontent.com/TheDementedSalad/OPPW3-Autosplitter/main/One%20Piece%20Pirate%20Warriors%203.asl</URL>
+        </URLs>
         <Type>Script</Type>
         <Description>Auto Splitting and IGT timer available. (By TheDementedSalad)</Description>
     </AutoSplitter>
