@@ -10,6 +10,7 @@
         <Type>Script</Type>
         <ScriptType>AutoSplittingRuntime</ScriptType>
         <Description>Load remover (by Jujstme)</Description>
+    </AutoSplitter>
     <AutoSplitter>    
         <Games>
             <Game>MEATGRINDER</Game>
