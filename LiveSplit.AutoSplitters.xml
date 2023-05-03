@@ -8091,10 +8091,10 @@
             <Game>Quantum Conundrum</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/blairmadison11/QuantumConundrumAutosplitter/master/QuantumConundrum.asl</URL>
+            <URL>https://raw.githubusercontent.com/Tesfallout/QuantumConundrumAutosplitter/main/QuantumConundrum.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autosplitting and Load Removal is available. (by blairmadison11)</Description>
+        <Description>Autostart, Autosplitting, and Load Removal are available. (by Tesfallout)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
