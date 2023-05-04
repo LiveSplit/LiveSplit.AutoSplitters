@@ -18183,4 +18183,14 @@
         <Type>Script</Type>
         <Description>Auto Splitting and IGT timer available. (By TheDementedSalad)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>ObsCure (2004)</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/OwlLukas/Components/main/ObsCure%20(2004)%20AutoSplitter/ObsCure.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Start, Split, Reset, Load-Remover, Door-Splitter and settings are available. (by Owllukas)</Description>
+    </AutoSplitter>
 </AutoSplitters>
