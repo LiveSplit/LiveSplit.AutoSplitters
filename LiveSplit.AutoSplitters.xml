@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
- <AutoSplitter>    
+    <AutoSplitter>
+        <Games>
+            <Game>Redfall</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/Jujstme/LiveSplit.Redfall/releases/download/latest/livesplit_redfall.wasm</URL>
+        </URLs>
+        <Type>Script</Type>
+        <ScriptType>AutoSplittingRuntime</ScriptType>
+        <Description>Load remover (by Jujstme)</Description>
+    </AutoSplitter>
+    <AutoSplitter>    
         <Games>
             <Game>MEATGRINDER</Game>
         </Games>
