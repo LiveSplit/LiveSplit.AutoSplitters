@@ -18193,4 +18193,26 @@
         <Type>Script</Type>
         <Description>Start, Split, Reset, Load-Remover, Door-Splitter and settings are available. (by Owllukas)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+            <Game>The Elder Scrolls Adventures: Redguard</Game>
+            <Game>TESARedguard</Game>
+            <Game>Redguard</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/TheDementedSalad/TESA-Redguard-Autosplitter/main/Elder%20Scrolls%20Redguard.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/split/reset/loads (By SabulineHorizon and TheDementedSalad)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Lone Fungus</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Dregu/LiveSplit-LoneFungus/master/LiveSplit-LoneFungus.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/split/reset and IGT (by Dregu)</Description>
+	<Website>https://github.com/Dregu/LiveSplit-LoneFungus</Website>
+    </AutoSplitter>
 </AutoSplitters>
