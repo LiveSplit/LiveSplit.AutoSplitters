@@ -6904,6 +6904,7 @@
         </URLs>
         <Type>Script</Type>
         <Description>Auto Splitting and Load Removal available. Compare against Game Time. (By CursedToast and VideoGameRoulette)</Description>
+        <Website>https://github.com/VideoGameRoulette/re2-remake-autosplitter/blob/master/README.md</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -6931,6 +6932,7 @@
         </URLs>
         <Type>Script</Type>
         <Description>Auto Splitting and IGT available. Compare against Game Time. (By CursedToast and VideoGameRoulette)</Description>
+        <Website>https://github.com/VideoGameRoulette/re3-remake-autosplitter/blob/master/README.md</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
