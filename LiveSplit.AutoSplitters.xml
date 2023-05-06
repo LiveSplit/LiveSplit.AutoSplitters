@@ -6928,10 +6928,10 @@
             <Game>R3make</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/cursedtoast/re3-remake-autosplitter/master/re3.asl</URL>
+            <URL>https://raw.githubusercontent.com/VideoGameRoulette/re3-remake-autosplitter/main/re3.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto Splitting and IGT available. Compare against Game Time. (By CursedToast)</Description>
+        <Description>Auto Splitting and IGT available. Compare against Game Time. (By CursedToast &amp; VideoGameRoulette)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
