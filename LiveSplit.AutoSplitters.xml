@@ -18222,14 +18222,14 @@
         <Description>Auto start/split (By Seifer)</Description>
 	<Website>https://github.com/Dzoiver/SH-Autosplitter</Website>
     </AutoSplitter>
+	<AutoSplitter>
+		<Games>
+			<Game>The Impossible Quiz Demo</Game>
+		</Games>
+		<URLs>
+			<URL>https://raw.githubusercontent.com/saturnaliam/TiQ-Demo-Autosplitter/main/TiQ_Demo_Autosplitter.asl<URL>
+		</URLs>
+		<Type>Script</Type>
+		<Description>Autosplitter is available. (By Lucia)</Description>
+	</AutoSplitter>
 </AutoSplitters>
-<AutoSplitter>
-	<Games>
-		<Game>The Impossible Quiz Demo</Game>
-	</Games>
-	<URLs>
-		<URL>https://raw.githubusercontent.com/saturnaliam/TiQ-Demo-Autosplitter/main/TiQ_Demo_Autosplitter.asl<URL>
-	</URLs>
-	<Type>Script</Type>
-	<Description>Autosplitter is available. (By Lucia)</Description>
-</AutoSplitter>
