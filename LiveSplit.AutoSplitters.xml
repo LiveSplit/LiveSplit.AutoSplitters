@@ -18215,7 +18215,7 @@
             <Game>SUPERHOT</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Dzoiver/SH-Autosplitter/main/SHauto_v6.asl</URL>
+            <URL>https://github.com/Dzoiver/SH-Autosplitter/releases/download/v6/SHauto.asl</URL>
 	    <URL>https://github.com/Dzoiver/SH-Autosplitter/releases/download/v6/asl-help</URL>
         </URLs>
         <Type>Script</Type>
