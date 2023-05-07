@@ -18216,7 +18216,7 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/Dzoiver/SH-Autosplitter/main/SHauto.asl</URL>
-	    <URL>https://github.com/Dzoiver/SH-Autosplitter/releases/download/v6/asl-help</URL>
+	    <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Auto start/split (By Seifer)</Description>
