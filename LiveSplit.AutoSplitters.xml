@@ -18210,4 +18210,16 @@
         <Description>Auto start/split/reset and IGT (by Dregu)</Description>
 	<Website>https://github.com/Dregu/LiveSplit-LoneFungus</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>SUPERHOT</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Dzoiver/SH-Autosplitter/main/SHauto.asl</URL>
+	    <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/split (By Seifer)</Description>
+	<Website>https://github.com/Dzoiver/SH-Autosplitter</Website>
+    </AutoSplitter>
 </AutoSplitters>
