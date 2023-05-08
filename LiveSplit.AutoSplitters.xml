@@ -2562,6 +2562,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Duck Life 2</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Caarda/dl2/main/dl2autosplitterv1.0.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for Duck Life 2 (By Caarda) - Only works on flash player v32.0.0.114</Description>
+        <Website>https://www.speedrun.com/dl2</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Learn to Fly 2</Game>
         </Games>
         <URLs>
