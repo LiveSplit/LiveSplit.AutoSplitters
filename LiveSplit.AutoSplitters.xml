@@ -17427,6 +17427,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Shadow Tactics: Blades of the Shogun</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/smorrrs/Shadow-Tactics-Resources/main/shadow_tactics.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start, split, and load removal by smorrs</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Desperados III</Game>
         </Games>
         <URLs>
