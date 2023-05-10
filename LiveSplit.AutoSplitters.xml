@@ -18264,4 +18264,14 @@
         <Type>Script</Type>
         <Description>Autosplitter is available. (By Lucia)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>ObsCure</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/OwlLukas/Components/main/ObsCure%20(2004)%20AutoSplitter/ObsCure.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter is available. (By OwlLukas)</Description>
+    </AutoSplitter>
 </AutoSplitters>
