@@ -8841,11 +8841,12 @@
             <Game>S3AIR - D.A. Garden Edition</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/SonicSpeedrunning/LiveSplit.Sonic3AIR/main/LiveSplit.Sonic3AIR.asl</URL>
+            <URL>https://github.com/SonicSpeedrunning/LiveSplit.Sonic3AIR_wasm/releases/download/latest/livesplit_sonic3air.wasm</URL>
         </URLs>
         <Type>Script</Type>
+        <ScriptType>AutoSplittingRuntime</ScriptType>
         <Description>Sonic 3 AIR dedicated autosplitter (by Jujstme and BenInSweden)</Description>
-        <Website>https://github.com/SonicSpeedrunning/LiveSplit.Sonic3AIR</Website>
+        <Website>https://github.com/SonicSpeedrunning/LiveSplit.Sonic3AIR_wasm</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
