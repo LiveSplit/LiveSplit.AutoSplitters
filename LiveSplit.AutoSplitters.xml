@@ -18138,7 +18138,7 @@
             <URL>https://raw.githubusercontent.com/Gyoshi/LaraCroftGO-Autosplitter/master/LaraCroftGO.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto start/split/stop (by Gyoshi)</Description>
+        <Description>Auto split/stop (by Gyoshi)</Description>
         <Website>https://github.com/Gyoshi/PhoA-AutoSplitter</Website>
     </AutoSplitter>
         <AutoSplitter>
