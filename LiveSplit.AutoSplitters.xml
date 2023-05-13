@@ -18275,4 +18275,15 @@
         <Type>Script</Type>
         <Description>Autosplitter is available. (By OwlLukas)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Kubinashi Recollection</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Kamikaza404/Kubinashi-Recollection-AutoSplitter/master/kubinashi.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter is available. (By Kamikaza404)</Description>
+	<Website>https://github.com/Kamikaza404/Kubinashi-Recollection-AutoSplitter</Website>
+    </AutoSplitter>
 </AutoSplitters>
