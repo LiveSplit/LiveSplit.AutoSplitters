@@ -18286,4 +18286,15 @@
         <Description>Autosplitter is available. (By Kamikaza404)</Description>
 	<Website>https://github.com/Kamikaza404/Kubinashi-Recollection-AutoSplitter</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Neon Beats</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/saiarcot895/livesplit-neon-beats/master/Livesplit.NeonBeats.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter is available. (By saiarcot895)</Description>
+        <Website>https://github.com/saiarcot895/livesplit-neon-beats</Website>
+    </AutoSplitter>
 </AutoSplitters>
