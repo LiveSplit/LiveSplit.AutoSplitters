@@ -18297,4 +18297,15 @@
         <Type>Script</Type>
         <Description>Bramble Autosplitter/Load Removal (By Dating_tv &amp; TheNebiros)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Neon Beats</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/saiarcot895/livesplit-neon-beats/master/Livesplit.NeonBeats.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter is available. (By saiarcot895)</Description>
+        <Website>https://github.com/saiarcot895/livesplit-neon-beats</Website>
+    </AutoSplitter>
 </AutoSplitters>
