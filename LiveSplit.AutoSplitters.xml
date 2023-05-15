@@ -18138,7 +18138,7 @@
             <URL>https://raw.githubusercontent.com/Gyoshi/LaraCroftGO-Autosplitter/master/LaraCroftGO.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto start/split/stop (by Gyoshi)</Description>
+        <Description>Auto split/stop (by Gyoshi)</Description>
         <Website>https://github.com/Gyoshi/PhoA-AutoSplitter</Website>
     </AutoSplitter>
         <AutoSplitter>
@@ -18274,6 +18274,17 @@
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitter is available. (By OwlLukas)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Kubinashi Recollection</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Kamikaza404/Kubinashi-Recollection-AutoSplitter/master/kubinashi.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter is available. (By Kamikaza404)</Description>
+	      <Website>https://github.com/Kamikaza404/Kubinashi-Recollection-AutoSplitter</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
