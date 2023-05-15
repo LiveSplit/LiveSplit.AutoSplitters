@@ -18284,6 +18284,16 @@
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitter is available. (By Kamikaza404)</Description>
-	<Website>https://github.com/Kamikaza404/Kubinashi-Recollection-AutoSplitter</Website>
+	      <Website>https://github.com/Kamikaza404/Kubinashi-Recollection-AutoSplitter</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Bramble: The Mountain King</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/TheNebiros/bramble_autosplitter_load_remover/main/bramble_autosplitter_load_remover_v6.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Bramble Autosplitter/Load Removal (By Dating_tv &amp; TheNebiros)</Description>
     </AutoSplitter>
 </AutoSplitters>
