@@ -18308,4 +18308,14 @@
         <Description>Autosplitter is available. (By saiarcot895)</Description>
         <Website>https://github.com/saiarcot895/livesplit-neon-beats</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Rusted Moss</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/rythin-sr/ASL-Scripts/master/RustedMoss.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart and split on credits (by rythin)</Description>
+    </AutoSplitter>
 </AutoSplitters>
