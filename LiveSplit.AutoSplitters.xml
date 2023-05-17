@@ -18318,4 +18318,14 @@
         <Type>Script</Type>
         <Description>Autostart and split on credits (by rythin)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+	<Games>
+	    <Game>Feeding Frenzy</Game>
+	</Games>
+	<URLs>
+	    <URL>https://raw.githubusercontent.com/Xh3o1vn/FeedingFrenzy_Autosplitter/main/Feeding%20Frenzy.asl</URL>
+	</URLs>
+	<Type>Script</Type>
+	<Description>AutoSplitter for Feeding Frenzy (by Xh3o1vn)</Description>
+    </AutoSplitter>
 </AutoSplitters>
