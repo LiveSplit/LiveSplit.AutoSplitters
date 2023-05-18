@@ -2,6 +2,16 @@
 <AutoSplitters>
     <AutoSplitter>    
         <Games>
+            <Game>Scars Above</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/mitchell-merry/autosplitters/main/Scars%20Above/scarsabove.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load removal is available. (By diggity)</Description>
+    </AutoSplitter>
+    <AutoSplitter>    
+        <Games>
             <Game>Amanda The Adventurer</Game>
         </Games>
         <URLs>
