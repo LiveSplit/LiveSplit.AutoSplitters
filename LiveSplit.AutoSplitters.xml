@@ -18338,4 +18338,24 @@
 	<Type>Script</Type>
 	<Description>AutoSplitter for Feeding Frenzy (by Xh3o1vn)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+	<Games>
+	    <Game>Transformers: War for Cybertron</Game>
+	</Games>
+	<URLs>
+	    <URL>https://raw.githubusercontent.com/WilllTreaty/TF-Autosplitters/main/Livesplit.TWFC.asl</URL>
+	</URLs>
+	<Type>Script</Type>
+	<Description>Autosplitter and Loadless timer made by WillTreaty and kinkycadence</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+	<Games>
+	    <Game>Transformers: Fall of Cybertron</Game>
+	</Games>
+	<URLs>
+	    <URL>https://raw.githubusercontent.com/WilllTreaty/TF-Autosplitters/main/Livesplit.TFOC.asl</URL>
+	</URLs>
+	<Type>Script</Type>
+	<Description>Autosplitter and Loadless timer made by WillTreaty</Description>
+    </AutoSplitter>
 </AutoSplitters>
