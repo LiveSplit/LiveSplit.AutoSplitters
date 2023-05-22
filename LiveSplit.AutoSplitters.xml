@@ -2,6 +2,17 @@
 <AutoSplitters>
     <AutoSplitter>    
         <Games>
+            <Game>Gang Beasts</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/mitchell-merry/autosplitters/main/Gang%20Beasts/gangbeasts.asl</URL>
+	    <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/split and IGT available. (By diggity)</Description>
+    </AutoSplitter>
+    <AutoSplitter>    
+        <Games>
             <Game>Scars Above</Game>
         </Games>
         <URLs>
