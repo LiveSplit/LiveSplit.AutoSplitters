@@ -23,6 +23,17 @@
     </AutoSplitter>
     <AutoSplitter>    
         <Games>
+            <Game>The Outlast Trials</Game>
+	    <Game>Outlast Trials</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/KunoDemetries/AutoSplitter/master/OutlastTrials.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitter and Load Remover (By KunoDemetries)</Description>
+    </AutoSplitter>
+    <AutoSplitter>    
+        <Games>
             <Game>Amanda The Adventurer</Game>
         </Games>
         <URLs>
