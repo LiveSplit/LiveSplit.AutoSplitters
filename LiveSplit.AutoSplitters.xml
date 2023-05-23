@@ -6328,6 +6328,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Myst (2020)</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/piepenguin/myst2020-asl/main/myst.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/stop and load removal are available. (By piepenguin)</Description>
+        <Website>https://github.com/piepenguin/myst2020-asl</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>The Swapper</Game>
         </Games>
         <URLs>
