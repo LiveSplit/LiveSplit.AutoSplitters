@@ -16794,6 +16794,20 @@
         <Description>Load removal available (by Distro)</Description>
     </AutoSplitter>
     <AutoSplitter>
+	<Games>
+            <Game>Splinter Cell 4</Game>
+            <Game>Splinter Cell: Double Agent</Game>
+            <Game>Splinter Cell Double Agent</Game>
+            <Game>Tom Clancy's Splinter Cell: Double Agent</Game>
+            <Game>Tom Clancy's Splinter Cell Double Agent</Game>
+	</Games>
+	<URLs>
+	    <URL>https://raw.githubusercontent.com/Marius150PL/SCDA-AutoSplitter/main/SCDA-AutoSplitter.asl</URL>
+	</URLs>
+	<Type>Script</Type>
+	<Description>Autostart/split (remembers visited levels until reset) and load removal (by Marius150PL &amp; Distro)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
         <Games>
             <Game>Splinter Cell 6</Game>
             <Game>Splinter Cell: Blacklist</Game>
