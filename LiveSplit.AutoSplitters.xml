@@ -18388,6 +18388,18 @@
     </AutoSplitter>
     <AutoSplitter>
 	<Games>
+	    <Game>Feeding Frenzy 2: Shipwreck Showdown</Game>
+	    <Game>Feeding Frenzy 2</Game>
+	</Games>
+	<URLs>
+	    <URL>https://raw.githubusercontent.com/Xh3o1vn/FeedingFrenzy2_Autosplitter/main/FeedingFrenzy2.asl</URL>
+	</URLs>
+	<Type>Script</Type>
+	<Description>AutoSplitter for Feeding Frenzy 2 (By Xh3o1vn and plAer2)</Description>
+	<Website>https://github.com/Xh3o1vn/FeedingFrenzy2_Autosplitter</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+	<Games>
 	    <Game>Transformers: War for Cybertron</Game>
 	</Games>
 	<URLs>
