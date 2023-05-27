@@ -2,6 +2,18 @@
 <AutoSplitters>
     <AutoSplitter>    
         <Games>
+            <Game>Poly Bridge</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/mitchell-merry/autosplitters/main/Poly%20Bridge/polybridge.asl</URL>
+            <URL>https://github.com/mitchell-merry/autosplitters/blob/main/Poly%20Bridge/PolyBridge.Settings.xml</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/split is available. (By diggity)</Description>
+    </AutoSplitter>
+    <AutoSplitter>    
+        <Games>
             <Game>Gang Beasts</Game>
         </Games>
         <URLs>
