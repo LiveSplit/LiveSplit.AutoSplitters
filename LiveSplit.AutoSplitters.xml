@@ -14669,10 +14669,10 @@
             <Game>LEGO Indiana Jones: The Original Adventures</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/melodyfast/LEGO-Autosplitters/main/LIJ-Autosplitter.asl</URL>
+            <URL>https://raw.githubusercontent.com/Siedemnastek/Autosplitter/main/LIJ1.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autosplitting is available. (By Elle)</Description>
+        <Description>Autosplitting is available. (By Siedemnastek)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
