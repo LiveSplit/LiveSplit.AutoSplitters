@@ -14397,6 +14397,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Warhammer 40,000 BOLTGUN</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/HUECTRUM/boltgun_asl/main/boltgun.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Main timing method is IGT + time between save/loads.</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Raji: An Ancient Epic</Game>
         </Games>
         <URLs>
