@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
+    <AutoSplitter>
+	<Games>
+            <Game>MK4</Game>
+            <Game>Mortal Kombat 4</Game>
+	</Games>
+	<URLs>
+	    <URL>https://raw.githubusercontent.com/Marius150PL/MK4-AutoSplitter/main/MK4-AutoSplitter.asl</URL>
+	</URLs>
+	<Type>Script</Type>
+	<Description>Autostart/split/reset for PC version to 1 on 1 Kombat (by Marius150PL)</Description>
+    </AutoSplitter>
     <AutoSplitter>    
         <Games>
             <Game>Poly Bridge 3</Game>
