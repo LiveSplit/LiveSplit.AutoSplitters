@@ -1,6 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
-    <AutoSplitter>
+    <AutoSplitter>    
+        <Games>
+        	<Game>Hearthstone</Game>
+		<Game>Curse of Naxxramas</Game>
+		<Game>Blackrock Mountain</Game>
+		<Game>The League of Explorers</Game>
+		<Game>One Night in Karazhan</Game>
+		<Game>Knights of the Frozen Throne</Game>
+		<Game>Kobolds & Catacombs</Game>
+		<Game>The Witchwood</Game>
+		<Game>The Boomsday Project</Game>
+		<Game>Rastakhan's Rumble</Game>
+		<Game>The Dalaran Heist</Game>
+		<Game>Tombs of Terror</Game>
+		<Game>Galakrond's Awakening</Game>
+		<Game>Ashes of Outland</Game>
+		<Game>Book of Heroes</Game>
+		<Game>Book of Mercenaries</Game>
+		<Game>Hearthstone Mercenaries</Game>
+		<Game>March of the Lich King</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/LiveSplit.Hearthstone.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Remover by Streetbackguy</Description>
+    </AutoSplitter>
+	<AutoSplitter>
 	<Games>
             <Game>MK4</Game>
             <Game>Mortal Kombat 4</Game>
