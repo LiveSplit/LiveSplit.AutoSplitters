@@ -2,6 +2,16 @@
 <AutoSplitters>
     <AutoSplitter>    
         <Games>
+            <Game>Nomad</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/samjones246/nomad-asl/master/nomad.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/split supported. (By CaptainRektbeard)</Description>
+    </AutoSplitter>
+    <AutoSplitter>    
+        <Games>
         	<Game>My Friend Peppa Pig</Game>
         </Games>
         <URLs>
