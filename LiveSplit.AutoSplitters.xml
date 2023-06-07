@@ -2,6 +2,16 @@
 <AutoSplitters>
     <AutoSplitter>    
         <Games>
+            <Game>Porter</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/samjones246/porter-asl/master/porter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/split/reset and IGT supported. (By CaptainRektbeard)</Description>
+    </AutoSplitter>
+    <AutoSplitter>    
+        <Games>
             <Game>Nomad</Game>
         </Games>
         <URLs>
