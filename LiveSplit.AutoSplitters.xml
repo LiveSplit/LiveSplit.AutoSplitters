@@ -131,7 +131,7 @@
             <Game>Amanda The Adventurer</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/NERS1111/LiveSplit.AutoSplitters/autosplitters/Unity.AmandaTheAdventurerFULLGAME.asl</URL>
+            <URL>https://raw.githubusercontent.com/NERS1111/Autosplitter.Projects/main/Unity.AmandaTheAdventurerFULLGAME.asl</URL>
 	    <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
@@ -370,7 +370,7 @@
             <Game>Boson X</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/NERS1111/LiveSplit.AutoSplitters/autosplitters/Lotech.BosonX.asl</URL>
+            <URL>https://raw.githubusercontent.com/NERS1111/Autosplitter.Projects/main/Lotech.BosonX.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Auto start and split supported. (By NERS)</Description>
