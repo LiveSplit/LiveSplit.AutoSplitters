@@ -2,6 +2,16 @@
 <AutoSplitters>
     <AutoSplitter>    
         <Games>
+            <Game>FRACTURED MINDS (2017)</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Shaniquaniminiquani/Fractured-Minds.asl/main/Fractured%20Minds%20AutoSplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>AutoStart/Split/End aswell as Load Remover intended for the Amazon Prime version of the game. (By JayC_)</Description>
+    </AutoSplitter>
+    <AutoSplitter>    
+        <Games>
             <Game>Bionic Commando (2009)</Game>
         </Games>
         <URLs>
