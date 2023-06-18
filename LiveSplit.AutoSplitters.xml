@@ -5918,6 +5918,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Age of Empires II: Definitive Edition</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/lotsofs/livesplit-asl/master/AoE2DE.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and Game Timer available. (By LotsOfS)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Crysis 2</Game>
         </Games>
         <URLs>
@@ -7194,7 +7204,7 @@
             <URL>https://raw.githubusercontent.com/lotsofs/livesplit-asl/master/serioussam2.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load Removal is available. (By S.)</Description>
+        <Description>Load Removal is available. (By LotsOfS)</Description>
         <Website>https://github.com/lotsofs/livesplit-asl/blob/master/README.md</Website>
     </AutoSplitter>
     <AutoSplitter>
@@ -7205,7 +7215,7 @@
             <URL>https://raw.githubusercontent.com/lotsofs/livesplit-asl/master/farcry2.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load Removal is available (By S.)</Description>
+        <Description>Load Removal is available (By LotsOfS)</Description>
         <Website>https://github.com/lotsofs/livesplit-asl/blob/master/README.md</Website>
     </AutoSplitter>
     <AutoSplitter>
