@@ -21,6 +21,16 @@
         <Description>Autostart and Load Remover by Streetbackguy</Description>
     </AutoSplitter>
     <AutoSplitter>    
+	<Games>
+            <Game>Spider-Man: Shattered Dimensions</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Mattmatt10111/asl-scripts/master/SpiderManShatteredDimensions.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting and Load Removal by Mattmatt</Description>
+    </AutoSplitter>
+    <AutoSplitter>    
         <Games>
             <Game>Porter</Game>
         </Games>
