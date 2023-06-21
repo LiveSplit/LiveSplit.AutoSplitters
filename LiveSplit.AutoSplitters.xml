@@ -18597,4 +18597,16 @@
         <Description>Autosplitter with Start, Reset and configurable Splits (by traumvogel, t0mz3r, NeKRooZz and wRadion)</Description>
         <Website>https://github.com/Edgarflc/autosplitter_only_up</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Oblivion Override</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/CptBrian/Autosplitters/master/OblivionOverride.asl</URL>
+	    <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Oblivion Override (PC) Autosplitter (By CptBrian and Ero)</Description>
+        <Website>https://www.speedrun.com/oblivion_override</Website>
+    </AutoSplitter>
 </AutoSplitters>
