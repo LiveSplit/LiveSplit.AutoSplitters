@@ -18586,4 +18586,15 @@
         <Description>Basic AutoSplitter with Start/Pause timer during race. Ensure LiveSplit Compare Against is set to: Game Time</Description>
         <Website>https://github.com/JakeRabinowitz/PogoChampAutosplitter</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Oblivion Override</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/CptBrian/Autosplitters/master/OblivionOverride.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Oblivion Override (PC) Autosplitter (By CptBrian)</Description>
+        <Website>https://www.speedrun.com/oblivion_override</Website>
+    </AutoSplitter>
 </AutoSplitters>
