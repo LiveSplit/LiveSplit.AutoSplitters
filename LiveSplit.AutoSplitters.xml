@@ -13,6 +13,16 @@
     </AutoSplitter>
     <AutoSplitter>    
         <Games>
+            <Game>Trepang2</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/LiterallyMetaphorical/Livesplit.Trepang2/main/Trepang2.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description> Contains functionality for autostart, autosplit, and load removal (By Meta)</Description>
+   </AutoSplitter>
+   <AutoSplitter>    
+        <Games>
             <Game>Fractured Minds</Game>
         </Games>
         <URLs>
