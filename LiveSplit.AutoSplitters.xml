@@ -2,6 +2,17 @@
 <AutoSplitters>
     <AutoSplitter>    
         <Games>
+            <Game>Sniper Killer</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/mitchell-merry/autosplitters/main/Sniper%20Killer/sniperkillerdemo.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting and load removal is available (Demo Only). (By diggity)</Description>
+    </AutoSplitter>
+    <AutoSplitter>    
+        <Games>
             <Game>Dead From Beyond</Game>
         </Games>
         <URLs>
