@@ -2,6 +2,16 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Hitman 3 Freelancer</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/mitchell-merry/autosplitters/main/Hitman%203/hitman3.asl </URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load removal is available. (By diggity)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Janitor Bleeds</Game>
         </Games>
         <URLs>
@@ -11,7 +21,7 @@
         <Type>Script</Type>
         <Description>Load removal is available. (By diggity)</Description>
     </AutoSplitter>
-    <AutoSplitter>    
+    <AutoSplitter>   
         <Games>
             <Game>Sniper Killer</Game>
         </Games>
