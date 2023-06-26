@@ -22,6 +22,17 @@
         <Type>Script</Type>
         <Description>Autosplitting and load removal is available (Demo Only). (By diggity)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Echo Point Nova (Demo)</Game>
+            <Game>Echo Point Nova</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/mitchell-merry/autosplitters/main/Echo%20Point%20Nova/echopointnovademo.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting is available. (By diggity)</Description>
+    </AutoSplitter>
     <AutoSplitter>    
         <Games>
             <Game>Dead From Beyond</Game>
