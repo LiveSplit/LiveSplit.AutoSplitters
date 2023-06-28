@@ -62,7 +62,7 @@
             <URL>https://raw.githubusercontent.com/LiterallyMetaphorical/Livesplit.Trepang2/main/Trepang2.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description> Contains functionality for autostart, autosplit, and load removal (By Meta)</Description>
+        <Description> Contains functionality for autostart, autosplit, and load removal (By Meta &amp; Diggity)</Description>
    </AutoSplitter>
    <AutoSplitter>    
         <Games>
