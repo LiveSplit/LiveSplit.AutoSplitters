@@ -15,7 +15,7 @@
             <Game>Hitman 3 Freelancer</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/mitchell-merry/autosplitters/main/Hitman%203/hitman3.asl </URL>
+            <URL>https://raw.githubusercontent.com/mitchell-merry/autosplitters/main/Hitman%203/hitman3.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Load removal is available. (By diggity)</Description>
@@ -70,9 +70,11 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/LiterallyMetaphorical/Livesplit.Trepang2/main/Trepang2.asl</URL>
+            <URL>https://raw.githubusercontent.com/LiterallyMetaphorical/Livesplit.Trepang2/main/Trepang2.Settings.xml</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
-        <Description> Contains functionality for autostart, autosplit, and load removal (By Meta &amp; Diggity)</Description>
+        <Description>Contains functionality for autostart, autosplit, and load removal (By Meta &amp; diggity)</Description>
    </AutoSplitter>
    <AutoSplitter>    
         <Games>
