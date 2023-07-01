@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
+    <AutoSplitter>
+        <Games>
+            <Game>null.</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/samjones246/null-asl/releases/latest/download/null_asl.wasm</URL>
+        </URLs>
+        <Type>Script</Type>
+	<ScriptType>AutoSplittingRuntime</ScriptType>
+        <Description>Auto start/split/reset and IGT supported. (By CaptainRektbeard)</Description>
+    </AutoSplitter>
      <AutoSplitter>
         <Games>
             <Game>En Garde! (Demo)</Game>
