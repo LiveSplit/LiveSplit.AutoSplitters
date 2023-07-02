@@ -442,8 +442,8 @@ several benefits:
 3. The auto splitters can be written in many different languages, such as Rust,
    C, C++, JavaScript, TypeScript, Go, and more.
 4. The runtime isn't tied to just LiveSplit and can be used with other timers or
-   even run inside of the [`Auto Splitting Runtime
-   Debugger`](https://github.com/CryZe/asr-debugger) which allows you to debug
+   even run inside of the [Auto Splitting Runtime
+   Debugger](https://github.com/CryZe/asr-debugger) which allows you to debug
    the auto splitters more easily.
 
 There is one downside to auto splitters written for the new runtime however. The
