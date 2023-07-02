@@ -42,11 +42,13 @@ of the following:
 LiveSplit can automatically download and activate Auto Splitters that are
 LiveSplit components, WebAssembly modules, or ASL scripts.
 
-Currently we recommend either writing an ASL script, which has the most
-extensive support for all the features you might need. If you are feeling more
+Currently we recommend writing an ASL script, which has the most extensive
+support for all the features you might need. If you are feeling more
 adventurous, you can start looking into writing an auto splitter for the new
 cross-platform, sandboxed Auto Splitting Runtime
-[here](#sandboxed-auto-splitters).
+[here](#sandboxed-auto-splitters). Sandboxed auto splitters are currently more
+limited, but they will become the main way to write auto splitters in the
+future.
 
 ## Features of an Auto Splitter
 
