@@ -18719,4 +18719,15 @@
         <Description>Oblivion Override (PC) Autosplitter (By CptBrian and Ero)</Description>
         <Website>https://www.speedrun.com/oblivion_override</Website>
     </AutoSplitter>
+    <AutoSplitter>
+	<Games>
+	    <Game>Planet of Lana</Game>
+	</Games>
+	<URLs>
+	    <URL>https://raw.githubusercontent.com/PietHelzel/Planet-of-Lana-Autosplitter/main/Planet%20of%20Lana.asl</URL>
+	</URLs>
+	<Type>Script</Type>
+	<Description>Planet of Lana Autosplitter and Load Remover (by Penta)</Description>
+	<Website>https://www.speedrun.com/planet_of_lana</Website>
+    </AutoSplitter>
 </AutoSplitters>
