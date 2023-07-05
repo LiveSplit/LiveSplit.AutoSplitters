@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
+	<AutoSplitter>    
+        <Games>
+            <Game>Duck Simulator 2</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/sandwichmanlovertm/ALS/main/Duck%20Simulator%202.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Duck simulator 2 is a video game made by some dude who hates autosplitters because this game was hard to make for it because of the inconsistent code</Description>
+    	</AutoSplitter>
 	<AutoSplitter>
         <Games>
             <Game>DMZ: North Korea</Game>
