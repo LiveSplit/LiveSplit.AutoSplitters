@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
+	<AutoSplitter>
+        <Games>
+            <Game>DMZ: North Korea</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Biksell/asl/main/DMZ%20North%20Korea/DMZNorthKorea.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting and Load removal is available. (By Biksel)</Description>
+        <Website>https://github.com/Biksell/asl/blob/main/DMZ%20North%20Korea/README.md</Website>
+    </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>Raw Nerve</Game>
@@ -31,7 +42,7 @@
             <URL>https://raw.githubusercontent.com/LiterallyMetaphorical/Livesplit.EnGardeDemo/main/EnGarde.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load removal is available. (By Meta)</Description>
+        <Description>Autosplitting and Load removal is available. (By Biksel, Meta)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
