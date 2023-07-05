@@ -18752,4 +18752,14 @@
 	<Description>Planet of Lana Autosplitter and Load Remover (by Penta)</Description>
 	<Website>https://www.speedrun.com/planet_of_lana</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>NEO: The World Ends With You</Game>
+            <Game>ntwewy</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/TheTedder/LiveSplit.NEOTWEWY/v1.0.0/neotwewy.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URL>
+    </AutoSplitter>
 </AutoSplitters>
