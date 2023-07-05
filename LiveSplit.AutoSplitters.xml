@@ -39,11 +39,10 @@
             <Game>En Garde! (Demo)</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Biksell/asl/main/En%20Garde!%20(Demo)/EnGarde.asl</URL>
+            <URL>https://raw.githubusercontent.com/LiterallyMetaphorical/Livesplit.EnGardeDemo/main/EnGarde.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitting and Load removal is available. (By Biksel, Meta)</Description>
-        <Website>https://github.com/Biksell/asl/blob/main/En%20Garde!%20(Demo)/README.md</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
