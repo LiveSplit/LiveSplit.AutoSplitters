@@ -18765,4 +18765,15 @@
 	<Description>NEO: The World Ends With You Autosplitter and Load Remover (by Tedder)</Description>
 	<Website>https://www.speedrun.com/neotwewy</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Ys IX: Monstrum Nox</Game>
+        </Games>
+        <URLs>
+            <URL>https://gist.githubusercontent.com/JaddoSRL/e59dc11fb7d32a0e821859374d1631d6/raw/Ys%25209%2520Load%2520Remover.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Remover for Ys IX: Monstrum Nox (by Jaddo)</Description>
+        <Website>https://gist.github.com/JaddoSRL/e59dc11fb7d32a0e821859374d1631d6</Website>
+    </AutoSplitter>
 </AutoSplitters>
