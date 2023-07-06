@@ -18776,4 +18776,16 @@
         <Description>Load Remover for Ys IX: Monstrum Nox (by Jaddo)</Description>
         <Website>https://gist.github.com/JaddoSRL/e59dc11fb7d32a0e821859374d1631d6</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Pillars Of Light</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/mbourlet/pillarsOfLight-asl/main/pillarsOfLight.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and load remover for Pillars Of Light (by Narom42)</Description>
+        <Website>https://github.com/mbourlet/pillarsOfLight-asl</Website>
+    </AutoSplitter>
 </AutoSplitters>
