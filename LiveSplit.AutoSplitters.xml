@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
+    <AutoSplitter>    
+        <Games>
+            <Game>DREDGE</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/phrayse/DREDGE/main/DREDGE.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplit & load removal for patch 1.2.0+ by Phrayse</Description>
+    </AutoSplitter>
 	<AutoSplitter>    
         <Games>
             <Game>Duck Simulator 2</Game>
