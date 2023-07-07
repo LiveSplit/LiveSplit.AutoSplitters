@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
-	<AutoSplitter>    
+	<AutoSplitter>
+        <Games>
+            <Game>Strike Force Heroes Remake</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Biksell/asl/main/Strike%20Force%20Heroes%20Remake/SFHRemake.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter is available. (By Biksel)</Description>
+        <Website>https://github.com/Biksell/asl/blob/main/Strike%20Force%20Heroes%20Remake/README.md</Website>
+    </AutoSplitter>
+    <AutoSplitter>    
         <Games>
             <Game>Duck Simulator 2</Game>
         </Games>
