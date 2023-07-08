@@ -2,6 +2,19 @@
 <AutoSplitters>
 	<AutoSplitter>
         <Games>
+            <Game>Moose Lost in the Woods</Game>
+            <Game>MLitW</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Biksell/asl/main/Moose%20Lost%20in%20the%20Woods/MLitW.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter is available. (By Biksel)</Description>
+        <Website>https://github.com/Biksell/asl/blob/main/Moose%20Lost%20in%20the%20Woods/README.md</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Strike Force Heroes Remake</Game>
         </Games>
         <URLs>
