@@ -4760,11 +4760,11 @@
             <Game>Lego Batman: The Videogame</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/drtchops/asl/master/legobatman.asl</URL>
+            <URL>https://raw.githubusercontent.com/Biksell/asl/main/LEGO%20Batman/LEGOBatman.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load Removal is available. (By DrTChops)</Description>
-        <Website>https://github.com/drtchops/asl/blob/master/README.md</Website>
+        <Description>Autosplitting and Load removal is available. (By Siedemnastek & Biksel)</Description>
+        <Website>https://github.com/Biksell/asl/blob/main/LEGO%20Batman/README.md</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
