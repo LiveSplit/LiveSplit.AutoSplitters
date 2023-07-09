@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
+    <AutoSplitter>    
+        <Games>
+            <Game>DREDGE</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/phrayse/DREDGE/main/DREDGE.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplit and load removal for patch 1.2.0+ by Phrayse</Description>
+    </AutoSplitter>
 	<AutoSplitter>
         <Games>
             <Game>Moose Lost in the Woods</Game>
