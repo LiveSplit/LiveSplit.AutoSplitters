@@ -15368,4 +15368,14 @@
         <Type>Script</Type>
         <Description>Load remover by kamil2050</Description>
     </AutoSplitter>
+       <AutoSplitter>
+        <Games>
+            <Game>Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles</Game>  
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/kamil2050/ASL-scripts/main/Demon%20Slayer%20load%20remover.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load remover by kamil2050 and Nighlin</Description>
+    </AutoSplitter>
 </AutoSplitters>
