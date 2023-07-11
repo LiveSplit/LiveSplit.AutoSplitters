@@ -15357,4 +15357,15 @@
         <Description>Autosplitter for I Am Fish (By Aranel616)</Description>
         <Website>https://www.speedrun.com/i_am_fish</Website>
     </AutoSplitter>
+       <AutoSplitter>
+        <Games>
+            <Game>Kono Subarashii Sekai ni Syukufuku wo! Fukkatsu no Beldia</Game>
+            <Game>KonoSuba: Fukkatsu no Beldia</Game>   
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/kamil2050/ASL-scripts/main/KonoSuba%20Fukkatsu%20no%20Beldia%20load%20remover.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load remover by kamil2050</Description>
+    </AutoSplitter>
 </AutoSplitters>
