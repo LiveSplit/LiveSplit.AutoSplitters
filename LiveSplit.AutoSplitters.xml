@@ -2,6 +2,17 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Stairway to Heaven's Gate</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Biksell/asl/main/Stairway/StairwayToHeaven.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting and IGT is available. (By Biksel)</Description>
+        <Website>https://github.com/Biksell/asl/blob/main/Stairway/README.md</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>LEGO Alpha Team</Game>
         </Games>
         <URLs>
