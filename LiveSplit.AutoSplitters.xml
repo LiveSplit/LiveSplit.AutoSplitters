@@ -8646,6 +8646,18 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Sonic Suggests</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/Refragg/sonic-suggests-autosplitter/releases/download/latest/sonic_suggests_autosplitter.wasm</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Website>https://github.com/Refragg/sonic-suggests-autosplitter/</Website>
+        <ScriptType>AutoSplittingRuntime</ScriptType>
+        <Description>Automatic start/split/reset (By Refrag)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Firewing 64</Game>
         </Games>
         <URLs>
