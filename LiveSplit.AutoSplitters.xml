@@ -18879,4 +18879,14 @@
         <Type>Script</Type>
         <Description>Load remover by kamil2050 and Nighlin</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Plazma Burst 2</Game>  
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/XcapeEst/LiveSplit.PlazmaBurst2/main/plazmaburst2.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Removal and Auto Splitting is available. (by xCape)</Description>
+    </AutoSplitter>
 </AutoSplitters>
