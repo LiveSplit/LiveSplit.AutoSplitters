@@ -18880,3 +18880,15 @@
         <Description>Load remover by kamil2050 and Nighlin</Description>
     </AutoSplitter>
 </AutoSplitters>
+ </Games>
+<Game>The Witcher</Game>
+</Games>
+<URLs>
+    <URL>https://raw.githubusercontent.com/playBilli/The-Witcher-loadremover/main/The%20Witcher.asl</URL>
+    <URL>https://github.com/playBilli/The-Witcher-loadremover</URL>
+</URLs>
+<Type>Script</Type>
+ <Description>Autosplitter and load remover for The Witcher (by BabaBouie)</Description>
+   <Website>https://github.com/playBilli/The-Witcher-loadremover</Website>
+</AutoSplitter>
+    
