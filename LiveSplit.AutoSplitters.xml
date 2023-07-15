@@ -18902,4 +18902,15 @@
         <Type>Script</Type>
         <Description>Load Removal and Auto Splitting is available. (by xCape)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Syobon Action</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/neon-uriel/asl/main/syobon_action/syobon.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter is available. (By neon_uriel)</Description>
+        <Website>https://github.com/neon-uriel/asl/blob/main/syobon_action/README.md</Website>
+    </AutoSplitter>
 </AutoSplitters>
