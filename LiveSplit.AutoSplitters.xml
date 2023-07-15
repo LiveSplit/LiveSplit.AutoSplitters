@@ -11842,6 +11842,7 @@
         <Type>Script</Type>
         <Description>Autosplitter and Loadremover by Risal07 and Mysterion352</Description>
     </AutoSplitter>
+    <AutoSplitter>
         <Games>
             <Game>Final Fantasy XV</Game>
         </Games>
@@ -17328,7 +17329,7 @@
             <URL>https://raw.githubusercontent.com/TheDementedSalad/Soul-Reaver-2-Autosplitter/main/LoKSR2%20Autosplitter.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Timed via IGT (Load Remover) W/Autosplitter capabilities (by TheDementedSalad, Mysterion06)</Description>
+        <Description>Timed via IGT (Load Remover) W/Autosplitter capabilities (by TheDementedSalad, Mysterion352)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
