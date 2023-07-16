@@ -2,6 +2,17 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Spacky's Nightshift</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Vaqquixx8/autosplitters/main/spacky.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Removal and Autosplit is available (by vaqquixx8)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Stairway to Heaven's Gate</Game>
         </Games>
         <URLs>
