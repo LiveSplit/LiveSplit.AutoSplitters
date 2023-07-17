@@ -2571,9 +2571,9 @@
             <Game>Sonic Origins</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/SonicSpeedrunning/LiveSplit.SonicOrigins/main/LiveSplit.SonicOrigins.asl</URL>
+            <URL>https://raw.githubusercontent.com/SonicSpeedrunning/LiveSplit.SonicOrigins/main/Components/LiveSplit.SonicOrigins.dll</URL>
         </URLs>
-        <Type>Script</Type>
+        <Type>Component</Type>
         <Description>Autosplitting and in-game timing with customizable options according to speedrun.com rulings (by Jujstme)</Description>
         <Website>https://github.com/SonicSpeedrunning/LiveSplit.SonicOrigins</Website>
     </AutoSplitter>
