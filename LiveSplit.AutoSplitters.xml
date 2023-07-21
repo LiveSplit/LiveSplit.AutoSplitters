@@ -18982,4 +18982,14 @@
         <Type>Script</Type>
         <Description>Load remover by kamil2050</Description>
     </AutoSplitter>
+        <AutoSplitter>
+        <Games>
+            <Game>LEGO Indiana Jones 2: The Adventure Continues</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Siedemnastek/Autosplitter/main/LIJ2Final.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and Load Removal Available (By Siedemnastek)</Description>
+    </AutoSplitter>
 </AutoSplitters>
