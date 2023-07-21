@@ -18960,4 +18960,16 @@
         <Description>Autosplitter for Timberman Classic Mode. Different goals can be selected in the settings. (By Felicien2B and Jean20B)</Description>
         <Website>https://www.speedrun.com/timberman</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>My Friendly Neighborhood</Game>
+            <Game>My Friendly Neighbourhood</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/TheDementedSalad/My-Friendly-Neighborhood-Splitter/main/My%20Friendly%20Neighborhood.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Door Splitting available. Compare to IGT. (By TheDementedSalad)</Description>
+    </AutoSplitter>
 </AutoSplitters>
