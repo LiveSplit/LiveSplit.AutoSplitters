@@ -18972,4 +18972,15 @@
         <Type>Script</Type>
         <Description>Door Splitting available. Compare to IGT. (By TheDementedSalad)</Description>
     </AutoSplitter>
+    <AutoSplitters>
+    <AutoSplitter>
+        <Games>
+            <Game>Uwolnić Zozole</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/kamil2050/ASL-scripts/main/Uwolnić%20Zozole%20load%20remover.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load remover by kamil2050</Description>
+    </AutoSplitter>
 </AutoSplitters>
