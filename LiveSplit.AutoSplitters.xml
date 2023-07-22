@@ -2,6 +2,18 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Lust From Beyond - Scarlet</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/mitchell-merry/autosplitters/main/Lust%20From%20Beyond%20-%20Scarlet/lustfrombeyondscarlet.asl</URL>
+            <URL>https://raw.githubusercontent.com/mitchell-merry/autosplitters/main/Lust%20From%20Beyond%20-%20Scarlet/LFBScarlet.Settings.xml</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting and load removal is available. (By diggity)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Viva Piñata</Game>
         </Games>
         <URLs>
