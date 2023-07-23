@@ -2,6 +2,17 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>The Ball Pit</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/mitchell-merry/autosplitters/blob/main/The%20Ball%20Pit/theballpit.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting and load removal is available. (By diggity)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Lust From Beyond - Scarlet</Game>
         </Games>
         <URLs>
