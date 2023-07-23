@@ -14,6 +14,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>The Ball Pit</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/mitchell-merry/autosplitters/main/The%20Ball%20Pit/theballpit.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting and load removal is available. (By diggity)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Lust From Beyond - Scarlet</Game>
         </Games>
         <URLs>
@@ -18991,6 +19002,7 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/TheDementedSalad/My-Friendly-Neighborhood-Splitter/main/My%20Friendly%20Neighborhood.asl</URL>
+            <URL>https://raw.githubusercontent.com/TheDementedSalad/My-Friendly-Neighborhood-Splitter/main/MFN.Settings.xml</URL>
             <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
