@@ -14,6 +14,18 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Himno</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/aaw4421/himno-autosplitter/master/himno.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter is available. (by BlueCrystal)</Description>
+        <Website>https://github.com/aaw4421/himno-autosplitter</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>The Ball Pit</Game>
         </Games>
         <URLs>
@@ -26,6 +38,7 @@
     <AutoSplitter>
         <Games>
             <Game>Lust From Beyond - Scarlet</Game>
+            <Game>Lust From Beyond: Scarlet</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/mitchell-merry/autosplitters/main/Lust%20From%20Beyond%20-%20Scarlet/lustfrombeyondscarlet.asl</URL>
