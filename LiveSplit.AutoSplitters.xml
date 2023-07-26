@@ -13689,6 +13689,17 @@
         <Description>Automatic start, room triggers, gates, achievements, encounters and more. By Henpemaz and ICED</Description>
     </AutoSplitter>
     <AutoSplitter>
+    <Games>
+        <Game>Rain World: Downpour</Game>
+    </Games>
+    <URLs>
+        <URL>https://raw.githubusercontent.com/rekadoodle/Rain-World-Autosplitter/main/main.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>WIP Autosplitter for Rain World 1.9 (Downpour) by rek</Description>
+    <Website>https://github.com/rekadoodle/Rain-World-Autosplitter</Website>
+    </AutoSplitter>
+    <AutoSplitter>
         <Games>
             <Game>Bright Memory - Episode 1</Game>
         </Games>
