@@ -9,7 +9,7 @@
         </URLs>
         <Type>Script</Type>
         <Description>Supports Splitting and Load Removal for v1.728.0.0</Description> 
-    </Autosplitter>
+    </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>Bloodline</Game>
