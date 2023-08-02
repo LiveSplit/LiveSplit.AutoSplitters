@@ -2,6 +2,16 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Ratchet &amp; Clank: Rift Apart</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Syn34/Rift-Apart-Autosplitter/main/Riftsplitter%20v13%20by%20Jasper%20%26%20Sin.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Supports Splitting and Load Removal for v1.728.0.0</Description> 
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Bloodline</Game>
         </Games>
         <URLs>
