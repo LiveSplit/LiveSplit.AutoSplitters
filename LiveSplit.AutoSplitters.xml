@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
-    <AutoSplitter>
+     <AutoSplitter>
         <Games>
             <Game>Ratchet &amp; Clank: Rift Apart</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Syn34/Rift-Apart-Autosplitter/main/Riftsplitter%20v13%20by%20Jasper%20%26%20Sin.asl</URL>
+            <URL>https://raw.githubusercontent.com/Syn34/Rift-Apart-Autosplitter/main/Riftsplitter%20v1.728.0.0%20by%20Jasper%20and%20Sin.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Supports Splitting and Load Removal for v1.728.0.0</Description> 
+        <Description>Riftsplitter v1.728.0.0 by Jasper and Sin (Splitting/Load Removal)</Description> 
     </AutoSplitter>
     <AutoSplitter>
         <Games>
