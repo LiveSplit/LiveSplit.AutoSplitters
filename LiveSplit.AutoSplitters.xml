@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
-     <AutoSplitter>
+    <AutoSplitter>
         <Games>
             <Game>Ratchet &amp; Clank: Rift Apart</Game>
         </Games>
@@ -8,7 +8,7 @@
             <URL>https://raw.githubusercontent.com/Syn34/Rift-Apart-Autosplitter/main/Riftsplitter.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Riftsplitter by Jasper & Sin (Splitting/Load Removal)</Description> 
+        <Description>Riftsplitter by Jasper and Sin (Splitting/Load Removal)</Description> 
     </AutoSplitter>
     <AutoSplitter>
         <Games>
