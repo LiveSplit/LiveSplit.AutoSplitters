@@ -5,10 +5,10 @@
             <Game>Ratchet &amp; Clank: Rift Apart</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Syn34/Rift-Apart-Autosplitter/main/Riftsplitter%20v1.728.0.0%20by%20Jasper%20and%20Sin.asl</URL>
+            <URL>https://raw.githubusercontent.com/Syn34/Rift-Apart-Autosplitter/main/Riftsplitter.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Riftsplitter v1.728.0.0 by Jasper and Sin (Splitting/Load Removal)</Description> 
+        <Description>Riftsplitter by Jasper & Sin (Splitting/Load Removal)</Description> 
     </AutoSplitter>
     <AutoSplitter>
         <Games>
