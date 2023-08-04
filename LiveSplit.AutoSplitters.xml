@@ -2,6 +2,16 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>The Masters Pupil</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/ZeppelinGames/TheMastersPupilAutoSplit/main/the-masters-pupil.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart, split and reset for The Masters Pupil by Zeppelin</Description> 
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Ratchet &amp; Clank: Rift Apart</Game>
         </Games>
         <URLs>
