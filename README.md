@@ -24,17 +24,31 @@
 	- [Built-in Functions](#built-in-functions)
 	- [Testing your Script](#testing-your-script)
 		- [Debugging](#debugging)
+- [Sandboxed Auto Splitters](#sandboxed-auto-splitters)
 - [Adding an Auto Splitter](#adding-an-auto-splitter)
 - [Additional Resources](#additional-resources)
 
 <!-- /TOC -->
 
-LiveSplit has integrated support for Auto Splitters. An Auto Splitter can be one of the following:
+LiveSplit has integrated support for Auto Splitters. An Auto Splitter can be one
+of the following:
 * A Script written in the Auto Splitting Language (ASL).
+* A WebAssembly module that uses the new cross-platform, sandboxed Auto
+  Splitting Runtime.
 * A LiveSplit Component written in any .NET compatible language.
-* A third party application communicating with LiveSplit through the LiveSplit  Server.
+* A third party application communicating with LiveSplit through the LiveSplit
+  Server.
 
-At the moment LiveSplit can automatically download and activate Auto Splitters that are LiveSplit Components or ASL Scripts. Support for applications using the LiveSplit Server is planned, but is not yet available.
+LiveSplit can automatically download and activate Auto Splitters that are
+LiveSplit components, WebAssembly modules, or ASL scripts.
+
+Currently we recommend writing an ASL script, which has the most extensive
+support for all the features you might need. If you are feeling more
+adventurous, you can start looking into writing an auto splitter for the new
+cross-platform, sandboxed Auto Splitting Runtime
+[here](#sandboxed-auto-splitters). Sandboxed auto splitters are currently more
+limited, but they will become the main way to write auto splitters in the
+future.
 
 ## Features of an Auto Splitter
 
@@ -114,7 +128,7 @@ VARIABLE_TYPE VARIABLE_NAME : "BASE_MODULE", OFFSET, OFFSET, OFFSET, ...;
 The variable type `VARIABLE_TYPE` describes the type of the value found at the pointer path. It can be one of the following:
 
 | Type             | Description                |
-|------------------|----------------------------|
+| ---------------- | -------------------------- |
 | sbyte            | Signed 8-bit integer       |
 | byte             | Unsigned 8-bit integer     |
 | short            | Signed 16-bit integer      |
@@ -199,6 +213,10 @@ Understanding the order and conditions under which timer control actions are exe
 2. If `update` did not explicitly return `false` and the timer is currently either running or paused, then the `isLoading`, `gameTime`, and `reset` actions will be run.
   - If `reset` does not explicitly return `true`, then the `split` action will be run.
 3. If `update` did not explicitly return `false` and the timer is currently not running (and not paused), then the `start` action will be run.
+
+##### Events
+
+While a broader suite of events exist in LiveSplit, three are also available as ASL actions. The `onStart`, `onSplit` and `onReset` actions will be triggered when the timer is started, split, and reset respectively.
 
 #### Script Management
 
@@ -348,7 +366,7 @@ settings.Add("main_missions", true, "Main Missions");
 settings.Add("mission1", true, "First Mission", "main_missions");
 ```
 
-Settings only return `true` (checked) when their `parent` setting is `true` as well. The user can still freely toggle settings that have their parent unchecked, however they will be grayed out to indicate they are disabled.
+Settings only return `true` (checked) when their `parent` setting is `true` as well. The user is unable to toggle settings that have their parent unchecked, and they will be grayed out to indicate they are disabled.
 
 Any setting can act as a `parent` setting, so you could for example do the following to go one level deeper (continuing from the last example):
 
@@ -412,6 +430,37 @@ For errors, you can also check the Windows Event Logs, which you can find via:
 Control Panel ➞ Search for Event Viewer ➞ Open it ➞ Windows Logs ➞ Application ➞ Find the LiveSplit Errors
 
 Some might be unrelated to the Script, but it'll be fairly obvious which ones are caused by you.
+
+## Sandboxed Auto Splitters
+
+It is also possible to provide an auto splitter as a WebAssembly module. These
+auto splitters get executed through the new Auto Splitter Runtime, which has
+several benefits:
+1. The runtime is cross platform. It can run on Windows, macOS, and Linux.
+2. The runtime is sandboxed. All auto splitters running on the new runtime are
+   fully sandboxed and it's impossible for an auto splitter to harm the user.
+   The user is also protected from the auto splitter crashing, which will not
+   affect the timer itself.
+3. The auto splitters can be written in many different languages, such as Rust,
+   C, C++, JavaScript, TypeScript, Go, and more.
+4. The runtime isn't tied to just LiveSplit and can be used with other timers or
+   even run inside of the [Auto Splitting Runtime
+   Debugger](https://github.com/CryZe/asr-debugger) which allows you to debug
+   the auto splitters more easily.
+
+There is one downside to auto splitters written for the new runtime however. The
+fact that they are sandboxed and cross platform means that there may be certain
+functionality, that you may need for your auto splitter to work, that is not
+supported yet.
+
+Right now Rust is the language that has the best support. If you want to create
+an auto splitter using the new runtime, you can follow the instructions over
+here: [Rust Auto Splitter
+Template](https://github.com/LiveSplit/auto-splitter-template)
+
+If you need help writing an auto splitter for the new runtime, make sure to
+visit the `#auto-splitting-v2` channel in the [Speedrun Tool Development
+Discord](https://discord.gg/N6wv8pW).
 
 ## Adding an Auto Splitter
 
