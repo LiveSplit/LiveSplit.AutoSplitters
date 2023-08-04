@@ -12,6 +12,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Porkchop's Adventure</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/derric-young/Porkchop-s-Adventure-Autosplitter/main/porkchop1.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting Avalible with Toggleable Splits. by Derric</Description> 
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Bloodline</Game>
         </Games>
         <URLs>
