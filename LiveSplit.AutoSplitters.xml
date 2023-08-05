@@ -6,6 +6,7 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/ZeppelinGames/TheMastersPupilAutoSplit/main/the-masters-pupil.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autostart, split and reset for The Masters Pupil by Zeppelin</Description> 
