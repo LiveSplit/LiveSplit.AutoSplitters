@@ -10,6 +10,17 @@
         </URLs>
         <Type>Script</Type>
         <Description>Autostart, split and reset for The Masters Pupil by Zeppelin</Description> 
+   </AutoSplitter>
+   <AutoSplitter>
+        <Games>
+            <Game>Wretched Depths</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/Livesplit.WretchedDepths.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart and Load Removal by Streetbackguy</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
