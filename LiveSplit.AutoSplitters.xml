@@ -2,17 +2,6 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
-            <Game>The Masters Pupil Demo</Game>
-        </Games>
-        <URLs>
-            <URL>https://raw.githubusercontent.com/ZeppelinGames/TheMastersPupilDemoAutoSplit/main/the-masters-pupil-demo.asl</URL>
-            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
-        </URLs>
-        <Type>Script</Type>
-        <Description>Autostart, split and reset for The Masters Pupil Demo by Zeppelin</Description> 
-   </AutoSplitter>
-    <AutoSplitter>
-        <Games>
             <Game>The Masters Pupil</Game>
         </Games>
         <URLs>
