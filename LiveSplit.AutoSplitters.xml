@@ -12134,6 +12134,17 @@
         <Description>Autosplitter by Mysterion352</Description>
         <Website>https://github.com/Mysterion06/GollumLOTR/blob/main/README.md</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Pseudoregalia</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Mysterion06/PseudoregaliaSplitter/main/Pseudoregalia.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter by Mysterion352</Description>
+        <Website>https://github.com/Mysterion06/PseudoregaliaSplitter/blob/main/README.md</Website>
+    </AutoSplitter>
     <!-- Auto splitters by Mysterion352 end -->
     <AutoSplitter>
         <Games>
