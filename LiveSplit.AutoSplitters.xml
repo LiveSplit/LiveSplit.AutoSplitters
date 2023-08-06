@@ -11933,7 +11933,7 @@
             <URL>https://raw.githubusercontent.com/Mysterion06/DMC4SE-Autosplitter/master/DMC4SE_Splitter_V1.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autosplitter with LRT by Mysterion352</Description>
+        <Description>Autosplitter with Loadremover by Mysterion352</Description>
         <Website>https://github.com/Mysterion06/DMC4SE-Autosplitter/blob/master/README.md</Website>
     </AutoSplitter>
     <AutoSplitter>
@@ -11982,7 +11982,7 @@
             <URL>https://raw.githubusercontent.com/Mysterion06/FFType0Splitter/main/FFType0_Splitter_Current.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autosplitter with LRT by Mysterion352</Description>
+        <Description>Autosplitter with Loadremover by Mysterion352</Description>
         <Website>https://github.com/Mysterion06/FFType0Splitter/blob/main/README.md</Website>
     </AutoSplitter>
     <AutoSplitter>
@@ -11993,7 +11993,7 @@
             <URL>https://raw.githubusercontent.com/Mysterion06/FF7RSplitter/main/FF7R.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autosplitter with LRT by Mysterion352</Description>
+        <Description>Autosplitter with Loadremover by Mysterion352</Description>
         <Website>https://github.com/Mysterion06/FF7RSplitter/blob/main/README.md</Website>
     </AutoSplitter>
     <AutoSplitter>
@@ -12162,7 +12162,7 @@
             <URL>https://raw.githubusercontent.com/Mysterion06/GollumLOTR/main/GollumSplitter</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autosplitter by Mysterion352</Description>
+        <Description>Autosplitter with Loadremover by Mysterion352</Description>
         <Website>https://github.com/Mysterion06/GollumLOTR/blob/main/README.md</Website>
     </AutoSplitter>
     <AutoSplitter>
@@ -12175,6 +12175,17 @@
         <Type>Script</Type>
         <Description>Autosplitter by Mysterion352</Description>
         <Website>https://github.com/Mysterion06/PseudoregaliaSplitter/blob/main/README.md</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Fatum Betula</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Mysterion06/FatumBetulaSplitter/main/Fatum%20Betula.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter with Loadremover by Mysterion352</Description>
+        <Website>https://github.com/Mysterion06/FatumBetulaSplitter/blob/main/README.md</Website>
     </AutoSplitter>
     <!-- Auto splitters by Mysterion352 end -->
     <AutoSplitter>
