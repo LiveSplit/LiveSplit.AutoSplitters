@@ -19158,4 +19158,16 @@
         <Type>Script</Type>
         <Description>Autosplit and Load Removal Available (By KinzyKenzie)</Description>
     </AutoSplitter>
+	<AutoSplitter>
+        <Games>
+            <Game>AirBorne Troops: Countdown to D-Day</Game>
+            <Game>AirBorne Troops</Game>
+            <Game>ATC2DD</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/LeonSReckon/ATC2DD-ASL/main/AirBorne%20Troops%20AutoSplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Start/Split/Reset and Load Removal Available (By LeonSReckon)</Description>
+    </AutoSplitter>
 </AutoSplitters>
