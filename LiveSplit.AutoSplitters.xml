@@ -2,6 +2,18 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>What Lies Between</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/luna-dzx/LiveSplit-AutoSplitters/main/auto-wlb.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Website>https://www.speedrun.com/wlb</Website>
+        <Type>Script</Type>
+        <Description>Autostart, split and reset for What Lies Between</Description> 
+   </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>The Masters Pupil Demo</Game>
         </Games>
         <URLs>
