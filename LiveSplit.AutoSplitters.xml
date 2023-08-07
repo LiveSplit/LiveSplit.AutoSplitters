@@ -4139,13 +4139,21 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
-            <Game>Aperture Tag</Game>
             <Game>Portal 2</Game>
-            <Game>Portal 2 Speedrun Mod</Game>
             <Game>Portal 2 Category Extensions</Game>
+            <Game>Portal 2 Speedrun Mod</Game>
             <Game>Portal Reloaded</Game>
             <Game>Portal Stories: Mel</Game>
+            <Game>Aperture Tag</Game>
             <Game>Thinking with Time Machine</Game>
+            <Game>Aperture Ireland</Game>
+            <Game>Designed For Danger</Game>
+            <Game>Welcome Back</Game>
+            <Game>Memories</Game>
+            <Game>Dilapidation</Game>
+            <Game>P1 Done P2</Game>
+            <Game>Mind Escape</Game>
+            <Game>Portal: Unity Reboot</Game>
         </Games>
         <URLs>
             <URL>https://s.portal2.sr/asl</URL>
