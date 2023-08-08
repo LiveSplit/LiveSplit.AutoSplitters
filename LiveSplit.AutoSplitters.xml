@@ -2,6 +2,17 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Nightcry</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/LiveSplit.Nightcry.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart, Autosplit and Load Removal by Streetbackguy</Description> 
+   </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>The Masters Pupil Demo</Game>
         </Games>
         <URLs>
