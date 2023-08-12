@@ -10738,11 +10738,11 @@
             <Game>FC3BD</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/AlexYeahNot/asl-scripts/master/Blood%20Dragon.asl</URL>
+            <URL>https://raw.githubusercontent.com/StenIsMe/Livesplit.FarCry3BloodDragon/main/Livesplit.FarCry3BloodDragon.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>LoadRemover is available (by AlexYeahNot )</Description>
-        <Website>https://discord.gg/D7vJsC</Website>
+        <Description>Loadremover and Autosplitter for FC3:BD (by Vlad2D, AlexYeahNot, Marjn)</Description>
+        <Website>https://discord.gg/HRHy7pbqUh</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
