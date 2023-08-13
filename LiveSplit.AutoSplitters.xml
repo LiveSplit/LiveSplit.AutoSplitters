@@ -19115,19 +19115,6 @@
         <Description>Autosplitter and load remover for Pillars Of Light (by Narom42)</Description>
         <Website>https://github.com/mbourlet/pillarsOfLight-asl</Website>
     </AutoSplitter>
-    <AutoSplitter>
-        <Games>
-            <Game>Kono Subarashii Sekai ni Syukufuku wo! Fukkatsu no Beldia</Game>
-            <Game>KonoSuba: Fukkatsu no Beldia</Game>
-            <Game>Kono Subarashii Sekai ni Syukufuku wo! Fukkatsu no Beldia Category Extension</Game>
-            <Game>KonoSuba: Fukkatsu no Beldia Category Extension</Game>
-        </Games>
-        <URLs>
-            <URL>https://raw.githubusercontent.com/kamil2050/ASL-scripts/main/KonoSuba%20Fukkatsu%20no%20Beldia%20load%20remover.asl</URL>
-        </URLs>
-        <Type>Script</Type>
-        <Description>Load remover by kamil2050</Description>
-    </AutoSplitter>
            <AutoSplitter>
         <Games>
             <Game>Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles</Game>
