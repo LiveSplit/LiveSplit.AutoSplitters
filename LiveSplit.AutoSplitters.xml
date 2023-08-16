@@ -2500,14 +2500,28 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
-            <Game>Quake Remastered</Game>
+            <Game>Quake Enhanced</Game>
+            <Game>Quake 1 Enhanced</Game>
+            <Game>Quake I Enhanced</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Chris-Greaves/LiveSplit.QuakeRemastered/main/QuakeRemastered.asl</URL>
+            <URL>https://raw.githubusercontent.com/thekovic/ASL-Autosplitters/main/Q1-Enhanced.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Start, Split, Full Runs and Episode Runs (By Chris-Greaves)</Description>
-        <Website>https://github.com/Chris-Greaves/LiveSplit.QuakeRemastered</Website>
+        <Description>Start, Split, and Reset available (By the_kovic)</Description>
+        <Website>https://github.com/thekovic/ASL-Autosplitters</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Quake II Enhanced</Game>
+            <Game>Quake 2 Enhanced</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/thekovic/ASL-Autosplitters/main/Q2-Enhanced.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Start, Split, and Reset available (By the_kovic)</Description>
+        <Website>https://github.com/thekovic/ASL-Autosplitters</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -6322,10 +6336,11 @@
             <Game>Legacy of Kain: Defiance</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/thekovic/LoK-Defiance-Autosplitter/main/defiance6.asl</URL>
+            <URL>https://raw.githubusercontent.com/thekovic/ASL-Autosplitters/main/LoK_Defiance.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto Splitting and Start/Reset are available (By TheDuriel + blastedt)</Description>
+        <Description>Start, Split, Reset, and IGT are available (By TheDuriel, blastedt, the_kovic)</Description>
+        <Website>https://github.com/thekovic/ASL-Autosplitters</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -15018,11 +15033,11 @@
             <Game>HROT</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/thekovic/HROT-AutoSplitter/main/HROTAutoSplit.asl</URL>
+            <URL>https://raw.githubusercontent.com/thekovic/ASL-Autosplitters/main/HROT.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>AutoSplit, AutoStart and AutoReset available (by the_kovic and 2838)</Description>
-        <Website>https://github.com/thekovic/HROT-AutoSplitter</Website>
+        <Description>Start, Split, Reset and IGT available (by the_kovic and 2838)</Description>
+        <Website>https://github.com/thekovic/ASL-Autosplitters</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -16114,13 +16129,14 @@
     <AutoSplitter>
         <Games>
             <Game>Indiana Jones and the Infernal Machine</Game>
+            <Game>Indy3D</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/LuccaMorosiniGioia/IndyAutoSplitter/main/IndyAutoSplit.asl</URL>
+            <URL>https://raw.githubusercontent.com/thekovic/ASL-Autosplitters/main/Indy3D.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>AutoStart and AutoSplit for Any% and All Treasures available (by LuccaGioia and the_kovic)</Description>
-        <Website>https://github.com/LuccaMorosiniGioia/IndyAutoSplitter</Website>
+        <Description>Start, Split, and IGT for Any% and All Treasures available (by LuccaGioia and the_kovic)</Description>
+        <Website>https://github.com/thekovic/ASL-Autosplitters</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -17343,11 +17359,11 @@
             <Game>Indiana Jones and the Emperors Tomb</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/thekovic/IJET-AutoSplit/main/IJET-AutoSplit.asl</URL>
+            <URL>https://raw.githubusercontent.com/thekovic/ASL-Autosplitters/main/IJET.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>AutoStart, AutoSplit, AutoReset available (by the_kovic)</Description>
-        <Website>https://github.com/thekovic/IJET-AutoSplit</Website>
+        <Description>Start, Split, and Reset available (by the_kovic)</Description>
+        <Website>https://github.com/thekovic/ASL-Autosplitters</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -17690,11 +17706,11 @@
             <Game>Doom 64 (2020)</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/thekovic/Doom64-AutoSplitter/main/Doom64-AutoSplitter.asl</URL>
+            <URL>https://raw.githubusercontent.com/thekovic/ASL-Autosplitters/main/DOOM64.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>AutoSplitter for Steam and GOG versions available (by the_kovic)</Description>
-        <Website>https://github.com/thekovic/Doom64-AutoSplitter</Website>
+        <Description>Start, Split, Reset, and IGT available (by the_kovic)</Description>
+        <Website>https://github.com/thekovic/ASL-Autosplitters</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -17887,7 +17903,7 @@
             <Game>Gothic 2 Gold</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/thekovic/GothicASL/main/gothic.asl</URL>
+            <URL>https://raw.githubusercontent.com/thekovic/ASL-Autosplitters/main/Gothic.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>LiveSplit connection for Gothic 1/2 Timer mod available</Description>
