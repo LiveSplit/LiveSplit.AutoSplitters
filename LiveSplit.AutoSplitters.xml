@@ -19213,4 +19213,14 @@
         <Type>Script</Type>
         <Description>Auto Start/Split/Reset and Load Removal Available (By LeonSReckon)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>DOOMBLADE</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/ori-sky/asl/main/doomblade.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto-starts, splits when the run is over, syncs to game time (by Ori Sky)</Description>
+    </AutoSplitter>
 </AutoSplitters>
