@@ -19260,4 +19260,14 @@
         <Type>Script</Type>
         <Description>Auto Start/Split/Reset and IGT track are available (by LeonSReckon)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>ManHunt 2</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/LeonSReckon/ManHunt-2-ASL/main/ManHunt%202.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Start/Split/Reset and Load Removal and IGT track are all Available (By LeonSReckon)</Description>
+    </AutoSplitter>
 </AutoSplitters>
