@@ -19250,4 +19250,14 @@
         <Type>Script</Type>
         <Description>Auto-starts, splits when the run is over, syncs to game time (by Ori Sky)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Th3 Plan</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/LeonSReckon/Th3-Plan-ASL/main/Th3%20Plan.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Start/Split/Reset and IGT track are available (by LeonSReckon)</Description>
+    </AutoSplitter>
 </AutoSplitters>
