@@ -19245,6 +19245,7 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/ori-sky/asl/main/doomblade.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Auto-starts, splits when the run is over, syncs to game time (by Ori Sky)</Description>
