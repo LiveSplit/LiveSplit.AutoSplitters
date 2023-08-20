@@ -4666,14 +4666,16 @@
     <AutoSplitter>
         <Games>
             <Game>Shrek 2</Game>
+            <Game>Shrek 2 PC</Game>
             <Game>Shrek 2 (PC)</Game>
+            <Game>Shrek 2: The Game</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Master-64/Shrek2-LiveSplit/master/Shrek2-LiveSplit/Components/Shrek2-LiveSplit.dll</URL>
+            <URL>https://raw.githubusercontent.com/Master-64/Shrek2-LiveSplit-ASL/main/Source/Shrek_2_PC.asl</URL>
         </URLs>
         <Type>Component</Type>
-        <Description>Auto Splitting &amp; Load Removal is available. (By KevinJPetersen, Master_64 &amp; Dalet)</Description>
-        <Website>https://github.com/Master-64/Shrek2-LiveSplit/blob/master/README.md</Website>
+        <Description>Autosplitting and Load Removal is available. (By Master_64)</Description>
+        <Website>https://github.com/Master-64/Shrek2-LiveSplit-ASL/blob/main/README.md</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
