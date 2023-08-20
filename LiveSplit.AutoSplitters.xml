@@ -4673,7 +4673,7 @@
         <URLs>
             <URL>https://raw.githubusercontent.com/Master-64/Shrek2-LiveSplit-ASL/main/Source/Shrek_2_PC.asl</URL>
         </URLs>
-        <Type>Component</Type>
+        <Type>Script</Type>
         <Description>Autosplitting and Load Removal is available. (By Master_64)</Description>
         <Website>https://github.com/Master-64/Shrek2-LiveSplit-ASL/blob/main/README.md</Website>
     </AutoSplitter>
