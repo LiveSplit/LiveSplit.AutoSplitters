@@ -2,6 +2,16 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Dorfromantik</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Raqhael/Dorfromantik-Autosplitter/main/LiveSplit.Dorfromantik.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Simple Autosplitter for Dorfromantik Point-Based Categories. It Starts on New Game and Stops at either 2,5,10 or 25k Points based on setting. NOTE: The first tile needs to make a point to start the timer. Made by endunry</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>World of Horror</Game>
         </Games>
         <URLs>
