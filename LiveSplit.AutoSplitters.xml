@@ -19293,4 +19293,14 @@
         <Type>Script</Type>
         <Description>Auto Start/Split/Reset and Load Removal and IGT track are all Available (By LeonSReckon)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Mondealy</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/nkrapivin/mondealy-asl/master/mondealy.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Official autosplitter, requires --livesplit launch parameter. Splits by chapters, has auto start, reset and gameTime</Description>
+    </AutoSplitter>
 </AutoSplitters>
