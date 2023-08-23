@@ -2,6 +2,26 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Mafia III</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/LiterallyMetaphorical/Livesplit.MafiaIII/main/MafiaIII.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart, Load Removal and AutoSplitter by Meta</Description>
+    </AutoSplitter>
+<AutoSplitter>
+        <Games>
+            <Game>En Garde!</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/LiterallyMetaphorical/Livesplit.EnGarde/main/EnGarde.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart, Load Removal and AutoSplitter by Meta</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Stacking</Game>
         </Games>
         <URLs>
