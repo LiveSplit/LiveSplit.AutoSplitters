@@ -2,6 +2,16 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Birdgut</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/shroomwastaken/BirdGutAutosplitter/master/BirdSplit2point0.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting available. Made by shroom and Zarza</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Stacking</Game>
         </Games>
         <URLs>
