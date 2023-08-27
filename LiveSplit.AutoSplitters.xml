@@ -2,6 +2,18 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Gedonia</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/c0y0tl/asl/main/gedonia/gedonia.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitting and Load Removal is available (By c0y0tl)</Description>
+        <Website>https://github.com/c0y0tl/asl/blob/main/gedonia/README.md</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Birdgut</Game>
         </Games>
         <URLs>
@@ -14930,11 +14942,11 @@
             <Game>Akiba's Trip: Undead &amp; Undressed</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/C0Y0TL/asl/main/Akiba's%20Trip%20Undead%20%26%20Undressed/atuu.asl</URL>
+            <URL>https://raw.githubusercontent.com/c0y0tl/asl/main/akibas_trip_undead_and_undressed/akibas_trip_undead_and_undressed.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto Splitter for Akiba's Trip: Undead &amp; Undressed (By C0Y0TL)</Description>
-        <Website>https://github.com/C0Y0TL/asl/blob/main/Akiba's%20Trip%20Undead%20%26%20Undressed/README.md</Website>
+        <Description>Auto Splitting is available (By c0y0tl)</Description>
+        <Website>https://github.com/c0y0tl/asl/blob/main/akibas_trip_undead_and_undressed/README.md</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
