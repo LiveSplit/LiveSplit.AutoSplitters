@@ -5090,22 +5090,22 @@
             <Game>Yakuza 0</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/drtchops/asl/master/yakuza0.asl</URL>
+            <URL>https://raw.githubusercontent.com/aposteriorist/PeachPit.LiveSplit/main/Yakuza0.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto Splitting and Load Removal is available. (By ToxicTT and DrTChops)</Description>
-        <Website>https://github.com/drtchops/asl/blob/master/README.md</Website>
+        <Description>Auto-start/split/reset and load removal for Steam, Microsoft Store, and GOG. (By ToxicTT, DrTChops, and PlayingLikeAss)</Description>
+        <Website>https://github.com/aposteriorist/PeachPit.LiveSplit</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>Yakuza Kiwami</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/drtchops/asl/master/yakuza_kiwami.asl</URL>
+            <URL>https://raw.githubusercontent.com/aposteriorist/PeachPit.LiveSplit/main/YakuzaKiwami.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto Splitting and Load Removal is available. (By ToxicTT and DrTChops)</Description>
-        <Website>https://github.com/drtchops/asl/blob/master/README.md</Website>
+        <Description>Auto-start/split/reset and load removal for Steam, Microsoft Store, and GOG. (By ToxicTT, DrTChops, and PlayingLikeAss)</Description>
+        <Website>https://github.com/aposteriorist/PeachPit.LiveSplit</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
