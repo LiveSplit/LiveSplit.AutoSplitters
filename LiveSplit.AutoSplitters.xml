@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
+     <AutoSplitter>
+        <Games>
+            <Game>SPRAWL</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/LiterallyMetaphorical/Livesplit.SPRAWL/main/SPRAWL.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting, Autostart, and Load Removal are available (By Micrologist and Meta)</Description>
+    </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>Gedonia</Game>
