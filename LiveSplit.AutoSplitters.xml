@@ -19362,9 +19362,9 @@
             <Game>Bomb Rush Cyberfunk</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Auddy07/ASL/master/BRC.asl</URL>
+            <URL>https://raw.githubusercontent.com/Loomeh/BRCAutosplitter/main/BRC.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto Splitting and Load Removal is available (By Auddy &amp; Loomeh)</Description>
+        <Description>Auto Splitting and Load Removal is available (By Auddy and Loomeh)</Description>
     </AutoSplitter>
 </AutoSplitters>
