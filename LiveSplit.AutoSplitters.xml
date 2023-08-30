@@ -19357,4 +19357,14 @@
         <Type>Script</Type>
         <Description>Official autosplitter, requires --livesplit launch parameter. Splits by chapters, has auto start, reset and gameTime</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Bomb Rush Cyberfunk</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Auddy07/ASL/master/BRC.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitting and Load Removal is available (By Auddy)</Description>
+    </AutoSplitter>
 </AutoSplitters>
