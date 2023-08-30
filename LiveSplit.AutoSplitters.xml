@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
+    <AutoSplitter>
+        <Games>
+            <Game>Shantae and the Pirate's Curse</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/BanjoViper/AutoSplitters/main/Shantae%20and%20the%20Pirate's%20Curse/Shantae%20and%20the%20Pirate's%20Curse%20AutoSplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart and autosplitting available for Steam and GOG versions. Customizable in settings. (By BanjoViper)</Description>
+        <Website>https://github.com/BanjoViper/AutoSplitters/blob/main/Shantae%20and%20the%20Pirate's%20Curse/README.md</Website>
+     </AutoSplitter>
      <AutoSplitter>
         <Games>
             <Game>SPRAWL</Game>
