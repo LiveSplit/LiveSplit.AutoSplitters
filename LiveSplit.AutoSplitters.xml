@@ -13952,7 +13952,9 @@
         <Game>Rain World: Downpour</Game>
     </Games>
     <URLs>
-        <URL>https://raw.githubusercontent.com/rekadoodle/Rain-World-Autosplitter/main/main.asl</URL>
+        <URL>https://raw.githubusercontent.com/rekadoodle/Rain-World-Autosplitter/main/rainworlddp.asl</URL>
+        <URL>https://raw.githubusercontent.com/rekadoodle/Rain-World-Autosplitter/main/rainworlddp.settings.xml</URL>
+        <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
     </URLs>
     <Type>Script</Type>
     <Description>WIP Autosplitter for Rain World 1.9 (Downpour) by rek</Description>
