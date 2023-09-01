@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
+     <AutoSplitter>
+        <Games>
+            <Game>Starfield</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Radioactiv03/starfield/main/starfield.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Removal is available. (Radioactiv)</Description>
+    </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>Shantae and the Pirate's Curse</Game>
@@ -4861,7 +4871,7 @@
             <URL>https://raw.githubusercontent.com/Radioactiv03/fallout-loadremovers/main/fallout3.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load Removal is available. (By Radioactiv)</Description>
+        <Description>Autosplitting and Load Removal is available. (By Radioactiv)</Description>
         <Website>https://github.com/Radioactiv03/fallout-loadremovers/blob/main/README.md</Website>
     </AutoSplitter>
     <AutoSplitter>
@@ -4876,7 +4886,7 @@
             <URL>https://raw.githubusercontent.com/Radioactiv03/fallout-loadremovers/main/falloutnv.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load Removal is available. (By Radioactiv)</Description>
+        <Description>>Autosplitting and Load Removal is available. (By Radioactiv)</Description>
         <Website>https://github.com/Radioactiv03/fallout-loadremovers/blob/main/README.md</Website>
     </AutoSplitter>
     <AutoSplitter>
