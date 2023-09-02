@@ -2,6 +2,18 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Skator Gator 3D</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Biksell/asl/main/Skator%20Gator%203D/SkatorGator3D.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting and IGT available. (By Biksel)</Description>
+        <Website>https://github.com/Biksell/asl/blob/main/Skator%20Gator%203D/README.md</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Shantae and the Pirate's Curse</Game>
         </Games>
         <URLs>
