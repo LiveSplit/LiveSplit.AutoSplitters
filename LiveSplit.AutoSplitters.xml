@@ -2,6 +2,18 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Sea of Stars</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/knutwalker/sea-of-stars-autosplitter/releases/download/latest/sea_of_stars_autosplitter.wasm</URL>
+        </URLs>
+        <Type>Script</Type>
+        <ScriptType>AutoSplittingRuntime</ScriptType>
+        <Description>Configurable Autostarter, Autosplitter, and Load Remover for Steam version. (by knutwalker)</Description>
+        <Website>https://github.com/knutwalker/sea-of-stars-autosplitter#readme</Website>
+     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Shantae and the Pirate's Curse</Game>
         </Games>
         <URLs>
