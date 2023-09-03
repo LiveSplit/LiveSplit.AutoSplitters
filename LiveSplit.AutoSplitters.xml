@@ -17882,12 +17882,13 @@
         <Games>
             <Game>Ty the Tasmanian Tiger</Game>
             <Game>Ty the Tasmanian Tiger Category Extensions</Game>
+            <Game>Mul-Ty-Player</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/rythin-sr/ASL-Scripts/master/TY.asl</URL>
+            <URL>https://github.com/xMcacutt/Ty1-Auto-Splitter/raw/main/TY.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autosplitting and Load Removal available (by rythin)</Description>
+        <Description>Ty the Tasmanian Tiger 1 Auto-Splitter and Load Remover (by xMcacutt and Rythin)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
