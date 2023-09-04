@@ -2,6 +2,16 @@
 <AutoSplitters>
      <AutoSplitter>
         <Games>
+            <Game>Papers, Please</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/ballaire/Autosplitter/main/papersplease.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Splits on day transitions and getting endings. Only tested for Steam version. (by HowToCantaloupe)</Description>
+    </AutoSplitter>
+     <AutoSplitter>
+        <Games>
             <Game>Starfield</Game>
         </Games>
         <URLs>
