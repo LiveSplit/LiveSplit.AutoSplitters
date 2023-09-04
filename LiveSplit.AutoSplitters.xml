@@ -19415,4 +19415,15 @@
         <Type>Script</Type>
         <Description>Auto Splitting and Load Removal is available (By Auddy and Loomeh)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Capybro</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/ru-mii/AutoSplitters/main/capybro.asl</URL>
+            <URL>https://raw.githubusercontent.com/just-ero/asl-help/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>quests auto splitting, remove all splits for Any%, made by rumii</Description>
+    </AutoSplitter>
 </AutoSplitters>
