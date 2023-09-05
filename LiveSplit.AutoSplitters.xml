@@ -639,6 +639,20 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Guild Wars: Prophecies</Game>
+            <Game>Guild Wars: Factions</Game>
+            <Game>Guild Wars: Nightfall</Game>
+            <Game>Guild Wars: Eye of the North</Game>
+            <Game>Guild Wars: All Campaigns</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/DubbleClick/Guild-Wars-Autosplitters/main/GwLoadingScreenStop.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto stop/resume during loading screens.</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Scars Above</Game>
         </Games>
         <URLs>
