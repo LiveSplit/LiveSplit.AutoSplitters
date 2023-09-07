@@ -19451,4 +19451,26 @@
         <Type>Script</Type>
         <Description>quests auto splitting, remove all splits for Any%, made by rumii</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Resident Evil: Dead Aim</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/TheDementedSalad/Resident-Evil-Dead-Aim-Autosplitter/main/Resident%20Evil%20Dead%20Aim%20PS2.asl</URL>
+            <URL>https://github.com/Jujstme/emu-help/raw/master/lib/emu-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>IGT and Area Splitter are Available (By TheDementedSalad)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Parasite Eve II</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/TheDementedSalad/Parasite-Eve-II-Autosplitter/main/Parasite%20Eve%20II.asl</URL>
+            <URL>https://github.com/Jujstme/emu-help/raw/master/lib/emu-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Door splitter and Item Splitter are available. (By TheDementedSalad)</Description>
+    </AutoSplitter>
 </AutoSplitters>
