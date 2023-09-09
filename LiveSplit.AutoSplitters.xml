@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
+    <AutoSplitter>
+        <Games>
+            <Game>Midnight Mercenaries</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/InYourHeart/Midnight-Mercenaries-AutoSplitter/main/autosplitterScript.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Start, splits and resets for full game and individual levels</Description>
+    </AutoSplitter>
      <AutoSplitter>
         <Games>
             <Game>Papers, Please</Game>
