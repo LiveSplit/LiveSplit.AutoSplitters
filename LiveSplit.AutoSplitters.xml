@@ -12024,6 +12024,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Blasphemous II</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/BrandenEK/BlasII.AutoSplitter/main/BlasII.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto splitter and load remover</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Earth Defense Force 5</Game>
         </Games>
         <URLs>
