@@ -639,6 +639,20 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Guild Wars: Prophecies</Game>
+            <Game>Guild Wars: Factions</Game>
+            <Game>Guild Wars: Nightfall</Game>
+            <Game>Guild Wars: Eye of the North</Game>
+            <Game>Guild Wars: All Campaigns</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/DubbleClick/Guild-Wars-Autosplitters/main/GwLoadingScreenStop.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto stop/resume during loading screens.</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Scars Above</Game>
         </Games>
         <URLs>
@@ -3837,7 +3851,7 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
-            <Game>Sonic Adventure (DX)</Game>
+            <Game>Sonic Adventure DX: Director's Cut</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/Sora-yx/autosplitters/master/Sonic%20Adventure%20DX-%20Director-s%20Cut/LiveSplit.SADX.asl</URL>
@@ -5506,21 +5520,6 @@
         <Type>Script</Type>
         <Description>Load Removal and Auto Start/Reset/Split are available. (By Tenit)</Description>
         <Website>https://github.com/TitaniumBlue1/Autosplitters/blob/master/README.md</Website>
-    </AutoSplitter>
-    <AutoSplitter>
-        <Games>
-            <Game>Sonic Adventure DX</Game>
-            <Game>SADX</Game>
-            <Game>Sonic Adventure DX: Director's Cut</Game>
-            <Game>Sonic Adventure DX: Directors Cut</Game>
-            <Game>Sonic Adventure DX Director's Cut</Game>
-            <Game>Sonic Adventure DX Directors Cut</Game>
-        </Games>
-        <URLs>
-            <URL>https://dl.dropboxusercontent.com/s/phb0per4f9zyecw/sadx.asl</URL>
-        </URLs>
-        <Type>Script</Type>
-        <Description>Auto Splitting (Beta-v1) is available. (By VeritasDL)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -12021,6 +12020,16 @@
         </URLs>
         <Type>Script</Type>
         <Description>Load removal is available. (by SerenaM)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Blasphemous II</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/BrandenEK/BlasII.AutoSplitter/main/BlasII.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto splitter and load remover</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -19446,5 +19455,27 @@
         </URLs>
         <Type>Script</Type>
         <Description>Supports by level or checkpoint splitting. Made by Roddy and Burndi.</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Resident Evil: Dead Aim</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/TheDementedSalad/Resident-Evil-Dead-Aim-Autosplitter/main/Resident%20Evil%20Dead%20Aim%20PS2.asl</URL>
+            <URL>https://github.com/Jujstme/emu-help/raw/master/lib/emu-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>IGT and Area Splitter are Available (By TheDementedSalad)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Parasite Eve II</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/TheDementedSalad/Parasite-Eve-II-Autosplitter/main/Parasite%20Eve%20II.asl</URL>
+            <URL>https://github.com/Jujstme/emu-help/raw/master/lib/emu-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Door splitter and Item Splitter are available. (By TheDementedSalad)</Description>
     </AutoSplitter>
 </AutoSplitters>
