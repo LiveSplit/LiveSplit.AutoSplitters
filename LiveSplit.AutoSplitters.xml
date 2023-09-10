@@ -3841,13 +3841,12 @@
     <AutoSplitter>
         <Games>
             <Game>Sonic Adventure DX: Director's Cut</Game>
+            <Game>Sonic Adventure DX: Director's Cut</Game>
             <Game>Sonic Adventure (DX)</Game>
             <Game>Sonic Adventure DX</Game>
             <Game>Sonic Adventure DX Director's Cut</Game>
             <Game>SADX</Game>
             <Game>Sonic Adventure (DX): Director's Cut</Game>
-            <Game>Sonic Adventure (DX): Category Extensions</Game>
-            <Game>Sonic Adventure DX: Category Extensions</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/Sora-yx/autosplitters/master/Sonic%20Adventure%20DX-%20Director-s%20Cut/LiveSplit.SADX.asl</URL>
@@ -3857,6 +3856,18 @@
         <Website>https://discord.gg/NUCatnN</Website>
     </AutoSplitter>
     <AutoSplitter>
+        <Games>
+            <Game>Sonic Adventure (DX) - Category Extensions</Game>
+            <Game>Sonic Adventure (DX): Category Extensions</Game>
+            <Game>Sonic Adventure DX: Category Extensions</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Sora-yx/autosplitters/master/Sonic%20Adventure%20DX-%20Director-s%20Cut/LiveSplit.SADXIGT.ExT.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description> Autosplitter and IGT for SADX Category Extensions (by Turtlechuck, IDGeek121, Prahaha and Sora)</Description>
+        <Website>https://discord.gg/NUCatnN</Website>
+    </AutoSplitter>
         <Games>
             <Game>Spark the Electric Jester 3</Game>
         </Games>
