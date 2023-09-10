@@ -19448,6 +19448,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Cool Bricks</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/RoddyDev/CoolBricks-Autosplitter/main/CoolBricks.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Supports by level or checkpoint splitting. Made by Roddy and Burndi.</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Resident Evil: Dead Aim</Game>
         </Games>
         <URLs>
