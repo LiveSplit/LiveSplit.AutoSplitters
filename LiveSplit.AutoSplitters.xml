@@ -19505,4 +19505,32 @@
         <Type>Script</Type>
         <Description>Door splitter and Item Splitter are available. (By TheDementedSalad)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>25 To Life</Game>
+            <Game>TTL</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/LeonSReckon/TTL-ASL/main/25%20To%20Life.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Start/Split/Reset and Load Remover are Available (By LeonSReckon)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Gears of War</Game>
+            <Game>Gears of War for Windows</Game>
+            <Game>Gears of War GFWL</Game>
+            <Game>Gears of War Game For Windows Live</Game>
+            <Game>Gears of War 2006</Game>
+            <Game>Gears of War (2006)</Game>
+            <Game>Gears of War 1</Game>
+            <Game>Gears of War: 1</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/LeonSReckon/Gears-of-War-1-ASL/main/Gears%20Of%20War%201.asl?token=GHSAT0AAAAAACHPAJJXB65VUE2NKIWVKFIMZIACYFA</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Start/Split/Reset and Load-Remover are available (by LeonSReckon) for version 1.03</Description>
+    </AutoSplitter>
 </AutoSplitters>
