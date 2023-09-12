@@ -2,6 +2,16 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Legend of Kay</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/MashSRL/Legend-of-Kay-AutoSplitter/master/Legend%20Of%20Kay%20AutoSplit.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Start, Split, Reset and Load Remover for all full game categories. (by MashSRL)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Midnight Mercenaries</Game>
         </Games>
         <URLs>
