@@ -19535,4 +19535,28 @@
         <Type>Script</Type>
         <Description>Auto Start/Split/Reset and Load-Remover are available (by LeonSReckon) for version 1.03</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Resident Evil: Survivor</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/TheDementedSalad/Resident-Evil-Survivor-Autosplitter/releases/latest/download/residentevilsurvivor.wasm</URL>
+        </URLs>
+        <Type>Script</Type>
+        <ScriptType>AutoSplittingRuntime</ScriptType>
+        <Description>IGT and RTA Autosplitter. Door splits, Item splits, Area splits (by TheDementedSalad)</Description>
+        <Website>https://github.com/TheDementedSalad/Resident-Evil-Survivor-Autosplitter#readme</Website>
+     </AutoSplitter>
+     <AutoSplitter>
+        <Games>
+            <Game>Countdown Vampires</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/TheDementedSalad/Countdown-Vampires-Autosplitter/releases/latest/download/countdownvampires.wasm</URL>
+        </URLs>
+        <Type>Script</Type>
+        <ScriptType>AutoSplittingRuntime</ScriptType>
+        <Description>IGT Autosplitter. Door splits and item splits (by TheDementedSalad)</Description>
+        <Website>https://github.com/TheDementedSalad/Countdown-Vampires-Autosplitter#readme</Website>
+     </AutoSplitter>
 </AutoSplitters>
