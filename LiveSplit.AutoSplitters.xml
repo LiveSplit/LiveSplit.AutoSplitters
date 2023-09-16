@@ -19534,4 +19534,16 @@
         <Type>Script</Type>
         <Description>Auto Start/Split/Reset and Load-Remover are available (by LeonSReckon) for version 1.03</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Psycho Crab</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/SabulineHorizon/Autosplitters/main/PsychoCrab.asl</URL>
+			<URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/split/reset (By SabulineHorizon)</Description>
+        <Website>https://github.com/SabulineHorizon/Autosplitters</Website>
+    </AutoSplitter>
 </AutoSplitters>
