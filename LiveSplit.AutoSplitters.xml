@@ -2,8 +2,8 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
-            <Game>SCP: %K</Game>
-            <Game>SCP %K</Game>
+            <Game>SCP: 5K</Game>
+            <Game>SCP 5K</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/mitchell-merry/autosplitters/main/SCP%205K/scp5k.asl</URL>
