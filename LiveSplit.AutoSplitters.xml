@@ -19572,4 +19572,16 @@
         <Description>IGT Autosplitter. Door splits and item splits (by TheDementedSalad)</Description>
         <Website>https://github.com/TheDementedSalad/Countdown-Vampires-Autosplitter#readme</Website>
      </AutoSplitter>
+     <AutoSplitter>
+        <Games>
+            <Game>Escape from Lavender Island</Game>
+            <Game>Lavender Island</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/TheDementedSalad/Escape-From-Lavender-Island-Autosplitter/main/Escape%20From%20Lavender%20Island.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/split/reset/loads (By TheDementedSalad and SabulineHorizon)</Description>
+        <Website>https://github.com/TheDementedSalad/Escape-From-Lavender-Island-Autosplitter</Website>
+    </AutoSplitter>
 </AutoSplitters>
