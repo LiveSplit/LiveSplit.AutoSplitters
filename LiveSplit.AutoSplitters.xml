@@ -15,6 +15,19 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>SCP: 5K</Game>
+            <Game>SCP 5K</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/mitchell-merry/autosplitters/main/SCP%205K/scp5k.asl</URL>
+            <URL>https://raw.githubusercontent.com/mitchell-merry/autosplitters/main/SCP%205K/SCP5K.Settings.xml</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting and load removal is available. (By diggity)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Legend of Kay</Game>
         </Games>
         <URLs>
@@ -3841,9 +3854,10 @@
             <Game>Sonic &amp; All-Stars Racing Transformed - Category Extensions</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Jujstme/LiveSplit.SonicASRT/master/Components/LiveSplit.SonicASRT.dll</URL>
+            <URL>https://github.com/SonicSpeedrunning/LiveSplit.SonicASRT/releases/download/latest/livesplit_sonic_asrt.wasm</URL>
         </URLs>
-        <Type>Component</Type>
+        <Type>Script</Type>
+        <ScriptType>AutoSplittingRuntime</ScriptType>
         <Description>Autosplitting and In-Game Timer are available. Supports all speedrun.com categories (by Jujstme)</Description>
         <Website>https://discord.gg/XRsRwRU</Website>
     </AutoSplitter>
@@ -19547,4 +19561,28 @@
         <Type>Script</Type>
         <Description>Auto Start/Split/Reset and Load-Remover are available (by LeonSReckon) for version 1.03</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Resident Evil: Survivor</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/TheDementedSalad/Resident-Evil-Survivor-Autosplitter/releases/latest/download/residentevilsurvivor.wasm</URL>
+        </URLs>
+        <Type>Script</Type>
+        <ScriptType>AutoSplittingRuntime</ScriptType>
+        <Description>IGT and RTA Autosplitter. Door splits, Item splits, Area splits (by TheDementedSalad)</Description>
+        <Website>https://github.com/TheDementedSalad/Resident-Evil-Survivor-Autosplitter#readme</Website>
+     </AutoSplitter>
+     <AutoSplitter>
+        <Games>
+            <Game>Countdown Vampires</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/TheDementedSalad/Countdown-Vampires-Autosplitter/releases/latest/download/countdownvampires.wasm</URL>
+        </URLs>
+        <Type>Script</Type>
+        <ScriptType>AutoSplittingRuntime</ScriptType>
+        <Description>IGT Autosplitter. Door splits and item splits (by TheDementedSalad)</Description>
+        <Website>https://github.com/TheDementedSalad/Countdown-Vampires-Autosplitter#readme</Website>
+     </AutoSplitter>
 </AutoSplitters>
