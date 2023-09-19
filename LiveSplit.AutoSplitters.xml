@@ -2947,7 +2947,7 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/Jujstme/Autosplitters/master/TimeSplitters%20-%20Future%20Perfect/LiveSplit.TimeSplittersFuturePerfect.asl</URL>
-            <URL>https://github.com/Jujstme/emu-help/raw/master/lib/emu-help</URL>
+            <URL>https://github.com/Jujstme/emu-help/raw/legacy/lib/emu-help</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Automatic game time calculator - supports both PS2 and GCN versions (by Jujstme)</Description>
@@ -9630,7 +9630,7 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/SonicSpeedrunning/LiveSplit.SonicTripleTrouble/main/LiveSplit.SonicTripleTrouble.asl</URL>
-            <URL>https://github.com/Jujstme/emu-help/raw/master/lib/emu-help</URL>
+            <URL>https://github.com/Jujstme/emu-help/raw/legacy/lib/emu-help</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Supports most Game Gear emulators (Retroarch included) - by Jujstme</Description>
@@ -13253,7 +13253,7 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/Jujstme/Autosplitters/master/Kula%20World/LiveSplit.KulaWorld.asl</URL>
-            <URL>https://github.com/Jujstme/emu-help/raw/master/lib/emu-help</URL>
+            <URL>https://github.com/Jujstme/emu-help/raw/legacy/lib/emu-help</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitter and in-game timer. Supports all major PS1 emulators (by Jujstme)</Description>
@@ -19517,7 +19517,7 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/TheDementedSalad/Resident-Evil-Dead-Aim-Autosplitter/main/Resident%20Evil%20Dead%20Aim%20PS2.asl</URL>
-            <URL>https://github.com/Jujstme/emu-help/raw/master/lib/emu-help</URL>
+            <URL>https://github.com/Jujstme/emu-help/raw/legacy/lib/emu-help</URL>
         </URLs>
         <Type>Script</Type>
         <Description>IGT and Area Splitter are Available (By TheDementedSalad)</Description>
@@ -19528,7 +19528,7 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/TheDementedSalad/Parasite-Eve-II-Autosplitter/main/Parasite%20Eve%20II.asl</URL>
-            <URL>https://github.com/Jujstme/emu-help/raw/master/lib/emu-help</URL>
+            <URL>https://github.com/Jujstme/emu-help/raw/legacy/lib/emu-help</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Door splitter and Item Splitter are available. (By TheDementedSalad)</Description>
