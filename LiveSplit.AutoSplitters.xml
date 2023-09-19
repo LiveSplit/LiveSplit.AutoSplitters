@@ -15632,6 +15632,18 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Spider-Man (2000)</Game>
+            <Game>Spider-Man (2000) Category Extensions</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/MrMonsh/Auto-Splitters/main/Spider-Man%20(2000)/Spider-Man_(2000)_Auto-Splitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Spider-Man (2000) Auto-Splitter and Load Remover (by MrMonsh)</Description>
+        <Website>https://github.com/MrMonsh/Auto-Splitters/tree/main/Spider-Man%20(2000)</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Minecraft: Java Edition</Game>
         </Games>
         <URLs>
