@@ -19609,4 +19609,24 @@
         <Description>Auto start/split/reset/loads (By TheDementedSalad and SabulineHorizon)</Description>
         <Website>https://github.com/TheDementedSalad/Escape-From-Lavender-Island-Autosplitter</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>TASOMACHI: Behind the Twilight</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/buanjautista/LiveSplit-ASL/main/Tasomachi-LoadRemover.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Removal available. Made by Juanba</Description>
+	</AutoSplitter>
+	<AutoSplitter>
+        <Games>
+            <Game>Evan's Remains</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/buanjautista/LiveSplit-ASL/main/EvansRemains-AutoSplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter, Start and setting for AutoReset available. Made by Juanba</Description>
+    </AutoSplitter>
 </AutoSplitters>
