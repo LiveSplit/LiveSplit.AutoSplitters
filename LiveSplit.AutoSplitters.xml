@@ -19641,4 +19641,15 @@
         <Type>Script</Type>
         <Description>Autosplitter, Start and setting for AutoReset available. Made by Juanba</Description>
     </AutoSplitter>
+    <AutoSplitter>
+      <Games>
+          <Game>Asterix &amp; Obelix - Bash Them All (Europe)</Game>
+      </Games>
+      <URLs>
+          <URL>https://github.com/Zophiss/autosplitters/raw/main/asterix-obelix-gba/autosplitter.asl</URL>
+          <URL>https://github.com/Jujstme/emu-help/raw/master/lib/emu-help-v2</URL>
+      </URLs>
+      <Type>Script</Type>
+      <Description>Autosplitting is available. (By Zoph and Lyliya)</Description>
+    </AutoSplitter>
 </AutoSplitters>
