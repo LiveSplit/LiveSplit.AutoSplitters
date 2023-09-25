@@ -16247,16 +16247,6 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
-            <Game>Pirates of the Caribbean: At World's End</Game>
-        </Games>
-        <URLs>
-            <URL>https://raw.githubusercontent.com/Monstruos/PotC-AWE-Autosplitter/main/SCRIPT.asl</URL>
-        </URLs>
-        <Type>Script</Type>
-        <Description>Autosplitter and Loadremover for Any% category by Monstruos. [CAUTION] Splitter triggers on "continue" story.</Description>
-    </AutoSplitter>
-    <AutoSplitter>
-        <Games>
             <Game>DEATHLOOP</Game>
         </Games>
         <URLs>
