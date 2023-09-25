@@ -16258,16 +16258,6 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
-            <Game>Pirates of the Caribbean: At World's End</Game>
-        </Games>
-        <URLs>
-            <URL>https://raw.githubusercontent.com/Monstruos/PotC-AWE-Autosplitter/main/SCRIPT.asl</URL>
-        </URLs>
-        <Type>Script</Type>
-        <Description>Autosplitter and Loadremover for Any% category by Monstruos. [CAUTION] Splitter triggers on "continue" story.</Description>
-    </AutoSplitter>
-    <AutoSplitter>
-        <Games>
             <Game>DEATHLOOP</Game>
         </Games>
         <URLs>
@@ -19662,6 +19652,19 @@
       </URLs>
       <Type>Script</Type>
       <Description>Autosplitting is available. (By Zoph and Lyliya)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Pirates of the Caribbean: At World's End</Game>
+            <Game>Pirates of the Caribbean At World's End</Game>
+            <Game>At World's End</Game>
+            <Game>POTC: At World's End</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/LeonSReckon/POTC-At-World-s-End-ASL/main/At%20World's%20End.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Start/Split/Reset and Load Remover are Available (By LeonSReckon) for the 2007 version</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
