@@ -15644,6 +15644,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Spider-Man 2: Enter Electro</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/MrMonsh/Auto-Splitters/main/Spider-Man%202%3A%20Enter%20Electro/Spider-Man_Enter_Electro_Auto-Splitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Spider-Man 2: Enter Electro Auto-Splitter and Load Remover (by MrMonsh)</Description>
+        <Website>https://github.com/MrMonsh/Auto-Splitters/tree/main/Spider-Man%202%3A%20Enter%20Electro</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Minecraft: Java Edition</Game>
         </Games>
         <URLs>
@@ -19654,5 +19665,16 @@
         </URLs>
         <Type>Script</Type>
         <Description>Auto Start/Split/Reset and Load Remover are Available (By LeonSReckon) for the 2007 version</Description>
+    </AutoSplitter>
+    <AutoSplitter<
+        <Games>
+            <Game>Thunder Ray</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/ru-mii/AutoSplitters/main/thunderray.asl</URL>
+            <URL>https://raw.githubusercontent.com/just-ero/asl-help/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>speedrun patch required, made by rumii</Description>
     </AutoSplitter>
 </AutoSplitters>
