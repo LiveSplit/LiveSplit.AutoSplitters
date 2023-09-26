@@ -19257,20 +19257,20 @@
 	    <Game>Transformers: War for Cybertron</Game>
 	</Games>
 	<URLs>
-	    <URL>https://raw.githubusercontent.com/WilllTreaty/TF-Autosplitters/main/Livesplit.TWFC.asl</URL>
+	    <URL>https://raw.githubusercontent.com/WilllTreaty/My-Autosplitters/main/Livesplit.TWFC.asl</URL>
 	</URLs>
 	<Type>Script</Type>
-	<Description>Autosplitter and Loadless timer made by WillTreaty and KC</Description>
+	<Description>Autosplitter and Loadless timer made by Failracer, KC and WillTreaty</Description>
     </AutoSplitter>
     <AutoSplitter>
 	<Games>
 	    <Game>Transformers: Fall of Cybertron</Game>
 	</Games>
 	<URLs>
-	    <URL>https://raw.githubusercontent.com/WilllTreaty/TF-Autosplitters/main/Livesplit.TFOC.asl</URL>
+	    <URL>https://raw.githubusercontent.com/WilllTreaty/My-Autosplitters/main/Livesplit.TFOC.asl</URL>
 	</URLs>
 	<Type>Script</Type>
-	<Description>Autosplitter and Loadless timer made by WillTreaty</Description>
+	<Description>Autosplitter and Loadless timer made by Breadn and WillTreaty</Description>
     </AutoSplitter>
 	<AutoSplitter>
         <Games>
@@ -19676,5 +19676,15 @@
         </URLs>
         <Type>Script</Type>
         <Description>speedrun patch required, made by rumii</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+	<Games>
+	    <Game>Warhammer 40,000: Space Marine</Game>
+	</Games>
+	<URLs>
+	    <URL>https://raw.githubusercontent.com/WilllTreaty/My-Autosplitters/main/Livesplit.WH40kSM.asl</URL>
+	</URLs>
+	<Type>Script</Type>
+	<Description>Autosplitter and Loadless timer made by Failracer and WillTreaty</Description>
     </AutoSplitter>
 </AutoSplitters>
