@@ -212,7 +212,7 @@
             <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autostart, Autosplit and Load Removal by Streetbackguy</Description> 
+        <Description>Autostart, Autosplit and Load Removal by Streetbackguy</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -224,7 +224,7 @@
         </URLs>
         <Website>https://www.speedrun.com/wlb</Website>
         <Type>Script</Type>
-        <Description>Autostart, split and reset for What Lies Between</Description> 
+        <Description>Autostart, split and reset for What Lies Between</Description>
    </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -235,7 +235,7 @@
             <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autostart, split and reset for The Masters Pupil Demo by Zeppelin</Description> 
+        <Description>Autostart, split and reset for The Masters Pupil Demo by Zeppelin</Description>
    </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -246,7 +246,7 @@
             <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autostart, split and reset for The Masters Pupil by Zeppelin</Description> 
+        <Description>Autostart, split and reset for The Masters Pupil by Zeppelin</Description>
    </AutoSplitter>
    <AutoSplitter>
         <Games>
@@ -267,7 +267,7 @@
             <URL>https://raw.githubusercontent.com/Syn34/Rift-Apart-Autosplitter/main/Riftsplitter.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Riftsplitter by Jasper and Sin (Splitting/Load Removal)</Description> 
+        <Description>Riftsplitter by Jasper and Sin (Splitting/Load Removal)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -277,7 +277,7 @@
             <URL>https://raw.githubusercontent.com/derric-young/Porkchop-s-Adventure-Autosplitter/main/porkchop1.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autosplitting Avalible with Toggleable Splits. by Derric</Description> 
+        <Description>Autosplitting Avalible with Toggleable Splits. by Derric</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -10427,12 +10427,12 @@
             <Game>The Messenger Category Extensions</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Voxelse/LiveSplit.TheMessenger/main/Components/LiveSplit.TheMessenger.dll</URL>
+            <URL>https://raw.githubusercontent.com/theStoRmsN/LiveSplit.TheMessenger/main/Components/LiveSplit.TheMessenger.dll</URL>
             <URL>https://raw.githubusercontent.com/Voxelse/LiveSplit.RuntimeText/main/Components/LiveSplit.RuntimeText.dll</URL>
         </URLs>
         <Type>Component</Type>
-        <Description>Auto Start/Split/Reset and Load Remover (by Voxelse)</Description>
-        <Website>https://github.com/Voxelse/LiveSplit.TheMessenger</Website>
+        <Description>Auto Start/Split/Reset and Load Remover. (By Voxelse and StoRmsN)</Description>
+        <Website>https://github.com/theStoRmsN/LiveSplit.TheMessenger</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
