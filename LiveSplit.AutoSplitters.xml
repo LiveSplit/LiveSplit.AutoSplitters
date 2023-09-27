@@ -19677,4 +19677,14 @@
         <Type>Script</Type>
         <Description>speedrun patch required, made by rumii</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Baldur's Gate 3</Game>
+        </Games>
+        <URLs>
+            <URL>https://https://raw.githubusercontent.com/ogam/asl/master/Baldurs_Gate_3.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Removal</Description>
+    </AutoSplitter>
 </AutoSplitters>
