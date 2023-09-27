@@ -19708,4 +19708,15 @@
         <Type>Script</Type>
         <Description>Load Removal</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>The Zachtronics Solitaire Collection</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/avi-0/LiveSplit.TheZachtronicsSolitaireCollection/master/LiveSplit.TheZachtronicsSolitaireCollection.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart, Splits after any solve, Resets if you redeal before first solve. Game Time pauses between a solve and a new deal. Can't detect first Shenzhen deal since game launch. (by avi)</Description>
+        <Website>https://github.com/avi-0/LiveSplit.TheZachtronicsSolitaireCollection/tree/master</Website>
+    </AutoSplitter>
 </AutoSplitters>
