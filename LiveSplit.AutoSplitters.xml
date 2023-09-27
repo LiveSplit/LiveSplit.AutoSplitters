@@ -19678,13 +19678,23 @@
         <Description>speedrun patch required, made by rumii</Description>
     </AutoSplitter>
     <AutoSplitter>
-	<Games>
-	    <Game>Warhammer 40,000: Space Marine</Game>
-	</Games>
-	<URLs>
-	    <URL>https://raw.githubusercontent.com/WilllTreaty/My-Autosplitters/main/Livesplit.WH40kSM.asl</URL>
-	</URLs>
-	<Type>Script</Type>
-	<Description>Autosplitter and Loadless timer made by Failracer and WillTreaty</Description>
+	      <Games>
+	        <Game>Warhammer 40,000: Space Marine</Game>
+	      </Games>
+	      <URLs>
+	        <URL>https://raw.githubusercontent.com/WilllTreaty/My-Autosplitters/main/Livesplit.WH40kSM.asl</URL>
+	      </URLs>
+	      <Type>Script</Type>
+        <Description>Autosplitter and Loadless timer made by Failracer and WillTreaty</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Baldur's Gate 3</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/ogam/asl/master/Baldurs_Gate_3.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Removal</Description>
     </AutoSplitter>
 </AutoSplitters>
