@@ -1,0 +1,28 @@
+name: Format XML File
+
+on:
+  pull_request:
+    types: [closed]
+    paths:
+      - 'LiveSplit.AutoSplitters.xml'
+
+jobs:
+  format:
+    if: github.event.pull_request.merged == true
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Format .xml file with yq
+      uses: mikefarah/yq@v4.35.2
+      with:
+        cmd: yq -i -ox -I4 '.' LiveSplit.AutoSplitters.xml
+
+    - name: Commit changes
+      uses: EndBug/add-and-commit@v9.1.3
+      with:
+        author_name: github-actions
+        author_email: 41898282+github-actions[bot]@users.noreply.github.com
+        message: Automatic formatting of XML
