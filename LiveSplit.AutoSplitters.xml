@@ -19719,4 +19719,15 @@
         <Description>Autostart, Split, Reset if you redeal before first solve. Game Time pauses between a solve and a new deal. (by avi)</Description>
         <Website>https://github.com/avi-0/LiveSplit.TheZachtronicsSolitaireCollection/tree/master</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>1nsane</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/gytispieze/1nsane-ASL/main/1nsane.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start, split, load removal</Description>
+        <Website>https://github.com/gytispieze/1nsane-ASL</Website>
+    </AutoSplitter>
 </AutoSplitters>
