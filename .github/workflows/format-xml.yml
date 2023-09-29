@@ -1,19 +1,16 @@
 name: Format XML File
 
 on:
-  pull_request:
-    types: [closed]
-    paths:
-      - 'LiveSplit.AutoSplitters.xml'
+  push:
+    branches:
+      - 'master'
 
 jobs:
   format:
-    if: github.event.pull_request.merged == true
-
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4
 
     - name: Format .xml file with yq
       uses: mikefarah/yq@v4.35.2
