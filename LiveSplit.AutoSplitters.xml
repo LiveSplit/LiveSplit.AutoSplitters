@@ -2,6 +2,17 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Soft Body</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Rabbiratelier/autosplitters/main/softbody-hardgame.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for Hard Game. It splits on entering the new level so technically it could work for other categories. </Description>
+        <Website>https://discord.gg/SQNgjVs</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Ghostrunner 2 (Demo)</Game>
             <Game>Ghostrunner 2 Demo</Game>
         </Games>
