@@ -16950,6 +16950,18 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Marble It Up! Ultra</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/thearst3rd/autosplitters/main/LiveSplit.MarbleItUpUltra.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/Components/UnityASL.bin</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Supports auto start, and splits on finishing and treasure box collection. (by thearst3rd, TalentedPlatinum, Ero)</Description>
+        <Website>https://github.com/TalentedPlatinum/AutoSplitters/blob/main/README.md</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Marble Blast Gold</Game>
         </Games>
         <URLs>
