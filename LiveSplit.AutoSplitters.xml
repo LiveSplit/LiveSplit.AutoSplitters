@@ -2,6 +2,18 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Boti: Byteland Overclocked</Game>
+            <Game>Boti Byteland</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/SpeedrunsSin/ASL/main/BotiByteland.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Removal and Autosplitter is available. (By SpeedrunsSin)</Description>
+        <Website>https://discord.gg/SQNgjVs</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Soft Body</Game>
         </Games>
         <URLs>
