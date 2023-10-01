@@ -14,6 +14,18 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Amazing Frog? Legacy</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/KunoDemetries/AutoSplitter/master/AmazingFrogLegacy.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/UnityASL.bin</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Remover (By Kuno Demetries)</Description>
+        <Website>https://www.speedrun.com/amazingfroglegacy</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Soft Body</Game>
         </Games>
         <URLs>
