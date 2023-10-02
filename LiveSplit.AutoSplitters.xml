@@ -13,6 +13,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Luna Abyss (Demo)</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/LiterallyMetaphorical/LunaAbyss/main/LunaAbyss.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Remover &amp; Autosplitter Written By Nikoheart &amp; Meta</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Boti: Byteland Overclocked</Game>
             <Game>Boti Byteland</Game>
         </Games>
