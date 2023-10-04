@@ -7227,26 +7227,6 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
-            <Game>Tony Hawk's Underground</Game>
-        </Games>
-        <URLs>
-            <URL>https://raw.githubusercontent.com/RisingFog/LiveSplit-AutoSplitters/master/THUG.asl</URL>
-        </URLs>
-        <Type>Script</Type>
-        <Description>Auto Splitting and Auto Start/Reset are available. (By Fog)</Description>
-    </AutoSplitter>
-    <AutoSplitter>
-        <Games>
-            <Game>Tony Hawk's Underground 2</Game>
-        </Games>
-        <URLs>
-            <URL>https://raw.githubusercontent.com/RisingFog/LiveSplit-AutoSplitters/master/THUG2.asl</URL>
-        </URLs>
-        <Type>Script</Type>
-        <Description>Auto Splitting and Auto Start/Reset are available. (By Fog)</Description>
-    </AutoSplitter>
-    <AutoSplitter>
-        <Games>
             <Game>Undead Rider Asylum</Game>
         </Games>
         <URLs>
@@ -7540,33 +7520,22 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
-            <Game>Tony Hawk's Pro Skater 3</Game>
-        </Games>
-        <URLs>
-            <URL>https://raw.githubusercontent.com/RisingFog/LiveSplit-AutoSplitters/master/THPS3.asl</URL>
-        </URLs>
-        <Type>Script</Type>
-        <Description>Auto Splitting, Load Removal, and Auto Start/Reset are available. (By Fog)</Description>
-    </AutoSplitter>
-    <AutoSplitter>
-        <Games>
-            <Game>Tony Hawk's Pro Skater 4</Game>
-        </Games>
-        <URLs>
-            <URL>https://raw.githubusercontent.com/RisingFog/LiveSplit-AutoSplitters/master/THPS4.asl</URL>
-        </URLs>
-        <Type>Script</Type>
-        <Description>Auto Splitting and Auto Start are available. (By Fog)</Description>
-    </AutoSplitter>
-    <AutoSplitter>
-        <Games>
             <Game>Tony Hawk's Pro Skater 2</Game>
+            <Game>Tony Hawk's Pro Skater 3</Game>
+            <Game>Tony Hawk's Pro Skater 4</Game>
+            <Game>Tony Hawk's Underground</Game>
+            <Game>Tony Hawk's Underground 2</Game>
+            <Game>Tony Hawk's American Wasteland</Game>
+            <Game>Tony Hawk's Pro Skater 1+2</Game>
+            <Game>Mat Hoffman's Pro BMX</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/RisingFog/LiveSplit-AutoSplitters/master/THPS2.asl</URL>
+            <URL>https://github.com/PARTYMANX/thps-autosplitter/releases/latest/download/thps_autosplitter.wasm</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto Splitting and Auto Start are available. (By Fog)</Description>
+        <ScriptType>AutoSplittingRuntime</ScriptType>
+        <Description>Autosplitting, Load Removal, and Auto Start/Reset are available. (By PARTY MAN X. Parts based on work by Fog)</Description>
+        <Website>https://github.com/PARTYMANX/thps-autosplitter</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
