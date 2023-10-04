@@ -2,6 +2,17 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Digimon Survive</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/LiveSplit.DigimonSurvive.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart and Load Remover by Streetbackguy</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Rez</Game>
         </Games>
         <URLs>
@@ -10,6 +21,16 @@
         <Type>Script</Type>
         <Description>Autosplitter + stats display for every category except Area X.</Description>
         <Website>https://www.speedrun.com/rez/guides</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Luna Abyss (Demo)</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/LiterallyMetaphorical/LunaAbyss/main/LunaAbyss.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Remover &amp; Autosplitter Written By Nikoheart &amp; Meta</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -6989,12 +7010,12 @@
             <Game>Manifold Garden</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/hatkirby/autosplitters/main/Manifold%20Garden.asl</URL>
+            <URL>https://code.fourisland.com/autosplitters/plain/Manifold%20Garden.asl</URL>
             <URL>https://github.com/just-ero/asl-help/raw/main/lib/LiveSplit.ASLHelper.bin</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Split, start, and reset available. (By hatkirby)</Description>
-        <Website>https://github.com/hatkirby/autosplitters</Website>
+        <Website>https://code.fourisland.com/autosplitters/about</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -18171,12 +18192,12 @@
             <Game>The Looker</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/hatkirby/autosplitters/main/TheLooker.asl</URL>
+            <URL>https://code.fourisland.com/autosplitters/plain/TheLooker.asl</URL>
             <URL>https://github.com/just-ero/asl-help/raw/main/lib/LiveSplit.ASLHelper.bin</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Split, start, and load removal available. (By hatkirby)</Description>
-        <Website>https://github.com/hatkirby/autosplitters</Website>
+        <Website>https://code.fourisland.com/autosplitters/about</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -18293,11 +18314,11 @@
             <Game>Taiji</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/hatkirby/autosplitters/main/Taiji.asl</URL>
+            <URL>https://code.fourisland.com/autosplitters/plain/Taiji.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Start, split, and load removal available. (By hatkirby)</Description>
-        <Website>https://github.com/hatkirby/autosplitters</Website>
+        <Website>https://code.fourisland.com/autosplitters/about</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -18746,11 +18767,11 @@
             <Game>Lingo Custom Maps</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/hatkirby/autosplitters/main/Lingo.asl</URL>
+            <URL>https://code.fourisland.com/autosplitters/plain/Lingo.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Start and split available. (By hatkirby)</Description>
-        <Website>https://github.com/hatkirby/autosplitters</Website>
+        <Website>https://code.fourisland.com/autosplitters/about</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -19555,7 +19576,7 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/TheDementedSalad/Resident-Evil-Dead-Aim-Autosplitter/main/Resident%20Evil%20Dead%20Aim%20PS2.asl</URL>
-            <URL>https://github.com/Jujstme/emu-help/raw/legacy/lib/emu-help</URL>
+            <URL>https://github.com/Jujstme/emu-help/raw/master/lib/emu-help-v2</URL>
         </URLs>
         <Type>Script</Type>
         <Description>IGT and Area Splitter are Available (By TheDementedSalad)</Description>
@@ -19765,5 +19786,38 @@
         <Type>Script</Type>
         <Description>Autosplitter and load remover for The Witcher (by BabaBouie)</Description>
         <Website>https://github.com/playBilli/The-Witcher-loadremover</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Gensokyo no Nazo</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/shadax1/autosplitters/main/gnazo%20-%20character%20get.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter (start, split, reset) for Gensokyo no Nazo</Description>
+        <Website>https://github.com/shadax1/autosplitters</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Rosenkreuzstilette</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/shadax1/autosplitters/main/rks.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter (start, split, reset) for Rosenkreuzstilette</Description>
+        <Website>https://github.com/shadax1/autosplitters</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Rosenkreuzstilette Freudenstachel</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/shadax1/autosplitters/main/rksf.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter (start, split, reset) for Rosenkreuzstilette Freudenstachel</Description>
+        <Website>https://github.com/shadax1/autosplitters</Website>
     </AutoSplitter>
 </AutoSplitters>
