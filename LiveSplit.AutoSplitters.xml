@@ -7010,12 +7010,12 @@
             <Game>Manifold Garden</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/hatkirby/autosplitters/main/Manifold%20Garden.asl</URL>
+            <URL>https://code.fourisland.com/autosplitters/plain/Manifold%20Garden.asl</URL>
             <URL>https://github.com/just-ero/asl-help/raw/main/lib/LiveSplit.ASLHelper.bin</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Split, start, and reset available. (By hatkirby)</Description>
-        <Website>https://github.com/hatkirby/autosplitters</Website>
+        <Website>https://code.fourisland.com/autosplitters/about</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -18224,12 +18224,12 @@
             <Game>The Looker</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/hatkirby/autosplitters/main/TheLooker.asl</URL>
+            <URL>https://code.fourisland.com/autosplitters/plain/TheLooker.asl</URL>
             <URL>https://github.com/just-ero/asl-help/raw/main/lib/LiveSplit.ASLHelper.bin</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Split, start, and load removal available. (By hatkirby)</Description>
-        <Website>https://github.com/hatkirby/autosplitters</Website>
+        <Website>https://code.fourisland.com/autosplitters/about</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -18346,11 +18346,11 @@
             <Game>Taiji</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/hatkirby/autosplitters/main/Taiji.asl</URL>
+            <URL>https://code.fourisland.com/autosplitters/plain/Taiji.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Start, split, and load removal available. (By hatkirby)</Description>
-        <Website>https://github.com/hatkirby/autosplitters</Website>
+        <Website>https://code.fourisland.com/autosplitters/about</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -18799,11 +18799,11 @@
             <Game>Lingo Custom Maps</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/hatkirby/autosplitters/main/Lingo.asl</URL>
+            <URL>https://code.fourisland.com/autosplitters/plain/Lingo.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Start and split available. (By hatkirby)</Description>
-        <Website>https://github.com/hatkirby/autosplitters</Website>
+        <Website>https://code.fourisland.com/autosplitters/about</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
