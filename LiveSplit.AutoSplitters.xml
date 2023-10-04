@@ -6932,7 +6932,8 @@
         <URLs>
             <URL>https://github.com/PARTYMANX/thps-autosplitter/releases/latest/download/thps_autosplitter.wasm</URL>
         </URLs>
-        <Type>AutoSplittingRuntime</Type>
+        <Type>Script</Type>
+        <ScriptType>AutoSplittingRuntime</ScriptType>
         <Description>Auto Splitting, Load Removal, and Auto Start/Reset are available. (By PARTY MAN X.  THPS4, THUG1, THUG2 based on work by Fog)</Description>
         <Website>https://github.com/PARTYMANX/thps-autosplitter</Website>
     </AutoSplitter>
