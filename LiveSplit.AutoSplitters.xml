@@ -10,6 +10,7 @@
         </URLs>
         <Type>Script</Type>
         <Description>Autostart and Load Remover by Streetbackguy</Description>
+    </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>Death Stranding</Game>
@@ -19,7 +20,6 @@
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitting and Load Removal by Mattmatt</Description>
-    </AutoSplitter>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
