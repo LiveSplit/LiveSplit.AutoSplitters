@@ -10,6 +10,14 @@
         </URLs>
         <Type>Script</Type>
         <Description>Autostart and Load Remover by Streetbackguy</Description>
+        <Games>
+            <Game>Death Stranding</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Mattmatt10111/asl-scripts/master/DeathStranding.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting and Load Removal by Mattmatt</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
