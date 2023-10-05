@@ -13,6 +13,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Death Stranding</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Mattmatt10111/asl-scripts/master/DeathStranding.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting and Load Removal by Mattmatt</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Rez</Game>
         </Games>
         <URLs>
