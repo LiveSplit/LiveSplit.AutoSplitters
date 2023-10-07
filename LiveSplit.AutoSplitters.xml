@@ -2,6 +2,21 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Command &amp; Conquer: Tiberian Sun</Game>
+            <Game>Command &amp; Conquer: Tiberian Sun - Firestorm</Game>
+            <Game>Command &amp; Conquer: Tiberian Sun Firestorm</Game>
+		    <Game>Tiberian Sun</Game>
+		    <Game>Tiberian Sun - Firestorm</Game>
+		    <Game>Tiberian Sun Firestorm</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Youk54/LiveSplit.TiberianSun/main/TiberianSun.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load removal, autosplit, and autostart. (By Youk)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Digimon Survive</Game>
         </Games>
         <URLs>
