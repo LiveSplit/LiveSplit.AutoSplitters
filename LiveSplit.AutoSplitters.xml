@@ -19857,4 +19857,16 @@
         <Type>Script</Type>
         <Description>start and load remover, made by rumii</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Lies of P</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/CactusDuper/Lies-of-P-Autosplitter/main/LiesofP.asl</URL>
+            <URL>https://raw.githubusercontent.com/CactusDuper/Lies-of-P-Autosplitter/main/LoP.Settings.xml</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Door Splitting available. Compare to IGT. (By CactusDuper &amp; TheDementedSalad)</Description>
+    </AutoSplitter>
 </AutoSplitters>
