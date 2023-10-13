@@ -19869,4 +19869,14 @@
         <Type>Script</Type>
         <Description>Door Splitting available. Compare to IGT. (By CactusDuper &amp; TheDementedSalad)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Diablo</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Kisimov4246/DiabloSplitter/main/Diablo%25Any%25AutoSplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Made by Sabulinehorizon and Kisimov.</Description>
+    </AutoSplitter>
 </AutoSplitters>
