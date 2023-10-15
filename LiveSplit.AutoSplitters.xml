@@ -2,6 +2,18 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Ding Dong Dead</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/mitchell-merry/autosplitters/main/Ding%20Dong%20Dead/dingdongdead.asl</URL>
+            <URL>https://raw.githubusercontent.com/mitchell-merry/autosplitters/main/Ding%20Dong%20Dead/DingDongDead.Settings.xml</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting and load removal is available. (By diggity)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Command &amp; Conquer: Tiberian Sun</Game>
             <Game>Command &amp; Conquer: Tiberian Sun - Firestorm</Game>
             <Game>Command &amp; Conquer: Tiberian Sun Firestorm</Game>
