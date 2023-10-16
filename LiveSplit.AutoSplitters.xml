@@ -8217,6 +8217,18 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Yooka-Laylee Toybox</Game>
+            <Game>Yooka Laylee Toybox</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/DerKO9/AutoSplitters/master/YookaLaylee/YookaLayleeToyBox.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>(PC) Auto-Start, Auto-Splits, and Reset (By DerKO)</Description>
+        <Website>https://www.speedrun.com/yltoybox</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Yooka-Laylee</Game>
             <Game>Yooka Laylee</Game>
             <Game>Yooka-Laylee Category Extensions</Game>
