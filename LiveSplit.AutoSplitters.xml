@@ -7600,12 +7600,12 @@
             <Game>Pac-Man World Re-Pac</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Jujstme/Autosplitters/master/Pac-Man%20World%20Re-Pac/LiveSplit.PacManWorldRePac.asl</URL>
-            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+            <URL>https://github.com/Jujstme/LiveSplit.PacmanWorldRePac/releases/download/latest/livesplit_pacman_re_pac.wasm</URL>
         </URLs>
         <Type>Script</Type>
+        <ScriptType>AutoSplittingRuntime</ScriptType>
         <Description>Autosplitter and load remover (by Jujstme)</Description>
-        <Website>https://github.com/Jujstme/Autosplitters/tree/master/Pac-Man%20World%20Re-Pac</Website>
+        <Website>https://github.com/Jujstme/LiveSplit.PacmanWorldRePac</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
