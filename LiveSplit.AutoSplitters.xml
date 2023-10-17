@@ -9563,6 +9563,18 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Sonic Superstars</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/SonicSpeedrunning/LiveSplit.SonicSuperstars/releases/download/latest/livesplit_sonic_superstars.wasm</URL>
+        </URLs>
+        <Type>Script</Type>
+        <ScriptType>AutoSplittingRuntime</ScriptType>
+        <Description>Autosplitter and load remover (by Jujstme)</Description>
+        <Website>https://github.com/SonicSpeedrunning/LiveSplit.SonicSuperstars</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Sonic CD (2011)</Game>
             <Game>Sonic CD 2011</Game>
             <Game>Sonic CD Restored</Game>
