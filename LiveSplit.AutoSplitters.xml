@@ -50,6 +50,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Under The Waves</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/KunoDemetries/AutoSplitter/master/UnderTheWaves.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter/Load Remover by KunoDemetries</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Rez</Game>
         </Games>
         <URLs>
