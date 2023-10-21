@@ -19938,6 +19938,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Assassin's Creed Mirage</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/TheDementedSalad/Assassin-s-Creed-Mirage-Autosplitter/main/Assassin's%20Creed%20Mirage.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Simple Load Remover. (By TheDementedSalad)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Diablo</Game>
         </Games>
         <URLs>
