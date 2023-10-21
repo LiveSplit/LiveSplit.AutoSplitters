@@ -12,6 +12,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Ghostrunner 2</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/KunoDemetries/AutoSplitter/master/Ghostrunner2.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Full Autosplitter by KunoDemetries, Meta</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Ding Dong Dead</Game>
         </Games>
         <URLs>
