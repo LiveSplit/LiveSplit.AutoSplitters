@@ -18294,6 +18294,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>OpenGOAL: Jak 2</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/open-goal/speedrunning/master/jak2/opengoal-jak2-autosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Starts, resets, splits.  Use with "Speedrunner Mode" enabled!</Description>
+        <Website>https://opengoal.dev/</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>KEEK</Game>
         </Games>
         <URLs>
