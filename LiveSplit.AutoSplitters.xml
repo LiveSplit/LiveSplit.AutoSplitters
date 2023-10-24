@@ -2,6 +2,17 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Cavern of Dreams</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Nikoheartttv/Autosplitters/main/Cavern%20of%20Dreams.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Start/End/Load Removal by Nikoheart</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Skull Island: Rise of Kong</Game>
         </Games>
         <URLs>
