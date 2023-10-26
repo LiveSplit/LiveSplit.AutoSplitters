@@ -1578,10 +1578,10 @@
             <Game>Marvel's Spider-Man: Miles Morales</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/LiterallyMetaphorical/Livesplit.Spider-ManMilesMorales/main/SpidermanMilesMoralesRemastered.asl</URL>
+            <URL>https://raw.githubusercontent.com/Mattmatt10111/asl-scripts/master/MilesMorales.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load Remover made by Meta</Description>
+        <Description>Load Removal and Auto Splitting by Mattmatt</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
