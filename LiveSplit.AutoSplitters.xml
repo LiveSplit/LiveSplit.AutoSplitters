@@ -19989,4 +19989,14 @@
         <Type>Script</Type>
         <Description>Made by Sabulinehorizon and Kisimov.</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Legacy of Kain: Soul Reaver</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/TheDementedSalad/LoK-Soul-Reaver-Autosplitter/main/LoKSR%20Area%20Splits.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>RTA Area And Boss Splitter (by TheDementedSalad)</Description>
+    </AutoSplitter>
 </AutoSplitters>
