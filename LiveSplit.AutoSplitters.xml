@@ -5370,11 +5370,11 @@
             <Game>Dishonored 2</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/HuthTV/asl/master/dishonored2.asl</URL>
+            <URL>https://raw.githubusercontent.com/soppelsad/asl/master/dishonored2.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load Removal and Auto Start is available. (By DrTChops, Som1Lse and HuthTV)</Description>
-        <Website>https://github.com/HuthTV/asl/blob/master/README.md</Website>
+        <Description>Load Removal and Auto Start is available. (By DrTChops, Som1Lse, HuthTV and Elvyndir)</Description>
+        <Website>https://github.com/soppelsad/asl/blob/master/README.md</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
