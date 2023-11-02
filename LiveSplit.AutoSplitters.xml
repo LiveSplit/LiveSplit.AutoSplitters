@@ -2,6 +2,17 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Inspector Gadget</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Thedragon005/InspectorGadget_AutoSplitter/main/InspectorGadget_AS.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Full Autosplitter by Thedragon005</Description>
+        <Website>https://www.speedrun.com/inspector_gadget</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Totally Accurate Battle Simulator</Game>
         </Games>
         <URLs>
