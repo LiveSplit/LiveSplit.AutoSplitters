@@ -18355,6 +18355,17 @@
         <Type>Script</Type>
         <Description>Starts, resets, splits.  Use with "Speedrunner Mode" enabled!</Description>
         <Website>https://opengoal.dev/</Website>
+    </AutoSplitter>    
+    <AutoSplitter>
+        <Games>
+            <Game>Jak and Daxter: Bugged!</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/OpenGOAL-Mods/OG-Bugged/main/opengoal-jak1-BUGGED-autosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Starts, resets, splits. Use with "Speedrunner Mode" enabled!</Description>
+        <Website>https://jakmods.dev/</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
