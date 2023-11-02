@@ -13,6 +13,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Totally Accurate Battle Simulator</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/LiveSplit.TotallyAccurateBattleSimulator.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Remover by Streetbackguy</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Peter Jackson's King Kong</Game>
         </Games>
         <URLs>
@@ -18355,6 +18366,17 @@
         <Type>Script</Type>
         <Description>Starts, resets, splits.  Use with "Speedrunner Mode" enabled!</Description>
         <Website>https://opengoal.dev/</Website>
+    </AutoSplitter>    
+    <AutoSplitter>
+        <Games>
+            <Game>Jak and Daxter: Bugged!</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/OpenGOAL-Mods/OG-Bugged/main/opengoal-jak1-BUGGED-autosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Starts, resets, splits. Use with "Speedrunner Mode" enabled!</Description>
+        <Website>https://jakmods.dev/</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
