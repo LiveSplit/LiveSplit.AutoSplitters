@@ -20043,4 +20043,14 @@
         <Type>Script</Type>
         <Description>RTA Area And Boss Splitter (by TheDementedSalad)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Damnation</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/LeonSReckon/Damnation-ASL/main/Damnation.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Start/Split/Reset and Load-Remover are available (by LeonSReckon)</Description>
+    </AutoSplitter>
 </AutoSplitters>
