@@ -14930,12 +14930,13 @@
     <AutoSplitter>
         <Games>
             <Game>LEGO Star Wars: The Complete Saga (PC/Console)</Game>
+            <Game>LEGO Star Wars: The Complete Saga Category Extensions</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/eroadhouse/TCSAutoSplitterLoadRemover/main/TCSAutosplitterLoadRemover.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto Splitting is available. (By Zac, P53, eroadhouse)</Description>
+        <Description>Auto Splitting and Load Removal is available. (By Zac, P53, eroadhouse)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
