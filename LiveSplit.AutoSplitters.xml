@@ -20053,4 +20053,15 @@
         <Type>Script</Type>
         <Description>Auto Start/Split/Reset and Load-Remover are available (by LeonSReckon)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Driv3r (Driver 3)</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Mythicey/LiveSplit.Driv3r/main/LiveSplit.Driv3r.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter (start, split, reset) are available (by Mythicy)</Description>
+        <Website>https://github.com/Mythicey/LiveSplit.Driv3r</Website>
+    </AutoSplitter>
 </AutoSplitters>
