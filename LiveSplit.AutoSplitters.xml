@@ -17837,6 +17837,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Tom Clancy's Splinter Cell: Pandora Tomorrow</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/DistProg/SCPTAutosplitter/main/SCPT_Autosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter available (by Distro)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Splinter Cell 3</Game>
             <Game>Splinter Cell: Chaos Theory</Game>
             <Game>Splinter Cell Chaos Theory</Game>
