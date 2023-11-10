@@ -1574,6 +1574,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Haydee</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/M4lfr1d/Haydee_Autosplitter/main/Haydee.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>A basic Haydee autosplitter with auto start/split/reset and pause on loads (By D00Mka)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Super Kiwi 64</Game>
         </Games>
         <URLs>
