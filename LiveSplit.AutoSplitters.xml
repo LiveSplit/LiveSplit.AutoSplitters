@@ -18408,6 +18408,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Jak The Chicken</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/main/opengoal-jak1-autosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Starts, resets, splits. Use with "Speedrunner Mode" enabled!</Description>
+        <Website>https://jakmods.dev/</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>KEEK</Game>
         </Games>
         <URLs>
