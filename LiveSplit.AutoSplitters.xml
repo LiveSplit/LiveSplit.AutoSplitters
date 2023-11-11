@@ -20102,4 +20102,15 @@
         <Description>Autosplitter (start, split, reset) are available (by Mythicy)</Description>
         <Website>https://github.com/Mythicey/LiveSplit.Driv3r</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Caesar III (Julius version)</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/Gheeksy/caesar-III-autosplitter/blob/master/caesar%20III%20Autosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter (start, split) for single level available (by Gheeks)</Description>
+        <Website>https://github.com/Gheeksy/caesar-III-autosplitter</Website>
+    </AutoSplitter>
 </AutoSplitters>
