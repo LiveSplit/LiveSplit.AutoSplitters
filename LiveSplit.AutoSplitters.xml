@@ -20107,7 +20107,7 @@
             <Game>Caesar III (Julius version)</Game>
         </Games>
         <URLs>
-            <URL>https://github.com/Gheeksy/caesar-III-autosplitter/blob/master/caesar%20III%20Autosplitter.asl</URL>
+            <URL>https://github.com/Gheeksy/caesar-III-autosplitter/raw/master/caesar%20III%20Autosplitter.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitter (start, split) for single level available (by Gheeks)</Description>
