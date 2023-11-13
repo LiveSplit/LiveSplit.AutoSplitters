@@ -7219,11 +7219,11 @@
             <Game>INSIDE</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/TehGelly/autosplitters/master/InsideAutosplitter.asl</URL>
+            <URL>https://raw.githubusercontent.com/PietHelzel/inside-autosplitter/main/INSIDE.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Start and split are available. (By Gelly)</Description>
-        <Website>https://github.com/Gelly/autosplitters</Website>
+        <Description>Start and split are available. (By Gelly and Penta)</Description>
+        <Website>https://github.com/PietHelzel/inside-autosplitter</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
