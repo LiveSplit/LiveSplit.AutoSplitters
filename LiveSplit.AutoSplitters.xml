@@ -140,7 +140,7 @@
             <URL>https://raw.githubusercontent.com/Rabbiratelier/autosplitters/main/rez-infinite.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autosplitter + stats display for every category except Area X.</Description>
+        <Description>Works for any category. stats display included.</Description>
         <Website>https://www.speedrun.com/rez/guides</Website>
     </AutoSplitter>
     <AutoSplitter>
