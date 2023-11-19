@@ -19245,6 +19245,8 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/TheDementedSalad/RE4Make-Autosplitter/main/Resident%20Evil%204%20Remake.asl</URL>
+            <URL>https://raw.githubusercontent.com/TheDementedSalad/RE4Make-Autosplitter/main/RE4make.Settings.xml</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Auto Splitting and In Game Time are available. (By TheDementedSalad)</Description>
