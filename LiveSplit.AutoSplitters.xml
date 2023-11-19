@@ -10995,10 +10995,10 @@
             <Game>Just Cause 3</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/CallumMcW/JC3-Autosplitter/master/JC3-Autosplitter.asl</URL>
+            <URL>https://raw.githubusercontent.com/SirRyu99/Just-Cause-3-autosplitter/main/JC3-AutosplitterRyu.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load Removal is available. (By CalMcW)</Description>
+        <Description>Autosplitting and Load Removal.(By Sir Ryu) More info https://github.com/SirRyu99/Just-Cause-3-autosplitter/blob/main/README.md</Description>
         <Website>https://www.speedrun.com/jc3</Website>
     </AutoSplitter>
     <AutoSplitter>
