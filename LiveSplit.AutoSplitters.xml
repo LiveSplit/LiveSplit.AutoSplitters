@@ -24,6 +24,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Cold Fear</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Mattmatt10111/asl-scripts/master/ColdFear.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Removal and Autosplitting by Mattmatt</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Peter Jackson's King Kong</Game>
         </Games>
         <URLs>
