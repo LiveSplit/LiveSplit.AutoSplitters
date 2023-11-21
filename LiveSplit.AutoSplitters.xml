@@ -20154,4 +20154,15 @@
         <Description>Autosplitter (start, split) for single level available (by Gheeks)</Description>
         <Website>https://github.com/Gheeksy/caesar-III-autosplitter</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Bzzzt</Game>
+        </Games>
+        <URLs>
+            <URL>https://gist.githubusercontent.com/wRadion/05c9d5e6ba9cd06f37f3408bd5c74d9c/raw/bzzzt-autosplitter.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter by wRadion</Description>
+    </AutoSplitter>
 </AutoSplitters>
