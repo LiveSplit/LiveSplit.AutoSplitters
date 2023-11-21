@@ -2,6 +2,17 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>BACK OF SPACE</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/maromalo/bos-auto-splitter/main/BOS.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start, split, and reset for BACK OF SPACE (by Maromalo)</Description>
+        <Website>https://github.com/maromalo/bos-auto-splitter/blob/main/README.md</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Inspector Gadget</Game>
         </Games>
         <URLs>
