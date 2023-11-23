@@ -10419,11 +10419,11 @@
             <Game>FNaF World Category Extensions</Game>
         </Games>
         <URLs>
-            <URL>https://gitlab.com/supramayro/fnaf-world-autosplitter/raw/master/FNaF_World.asl</URL>
+            <URL>https://raw.githubusercontent.com/AITYunivers/FNaFSpeedrunStuff/main/FNaF%20World/FNaF%20World%20Autosplitter.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load Removal and Auto Split, Start, and Reset are available. (by Supra)</Description>
-        <Website>https://gitlab.com/supramayro/fnaf-world-autosplitter</Website>
+        <Description>Updated Auto Splitter for FNaF World. Supports all versions. Exe must be named "FNaF_World.exe" like on Steam</Description>
+        <Website>https://github.com/AITYunivers/FNaFSpeedrunStuff</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
