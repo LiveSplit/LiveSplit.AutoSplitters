@@ -7841,6 +7841,7 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/TheDementedSalad/re7/master/RE7.asl</URL>
+            <URL>https://raw.githubusercontent.com/TheDementedSalad/re7/master/RE7.Settings.xml</URL>
             <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
