@@ -14,6 +14,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Like a Dragon Gaiden: The Man Who Erased His Name</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/LiveSplit.LADGaiden.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Remover and Autosplitter by Streetbackguy and PlayingLikeAss</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Animalistic</Game>
         </Games>
         <URLs>
