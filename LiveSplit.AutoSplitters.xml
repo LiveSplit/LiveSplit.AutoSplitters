@@ -2,6 +2,18 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>SuperTux</Game>
+            <Game>SuperTux Category Extensions</Game>
+        </Games>
+        <URLs>
+            <URL>https://gist.githubusercontent.com/Vankata453/5693900aab0e65097d1875f17e9d8b1e/raw/LiveSplit.SuperTux.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter; synchronizes LiveSplit game time to an RTA conversion of the global IGT time in LRT (IGT) mods.</Description>
+        <Website>https://www.speedrun.com/st</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Like a Dragon Gaiden: The Man Who Erased His Name</Game>
         </Games>
         <URLs>
