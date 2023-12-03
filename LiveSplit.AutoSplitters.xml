@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
+     <AutoSplitter>
+        <Games>
+            <Game>Esothe</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/LiterallyMetaphorical/LiveSplit.Esothe/main/Esothe.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Remover and Autosplitter by Meta</Description>
+        <Website>https://www.speedrun.com/Esothe</Website>
+    </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>SuperTux</Game>
