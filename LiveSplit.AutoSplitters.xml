@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
+        <AutoSplitter>
+        <Games>
+            <Game>Star Ocean Second Story R</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/GrandpaGhost/SO2R/main/star%20ocean%20load%20remover.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load remover by GrandpaGhost</Description>
+    </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>SuperTux</Game>
