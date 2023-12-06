@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
-        <AutoSplitter>
+     <AutoSplitter>
         <Games>
             <Game>Star Ocean The Second Story R</Game>
         </Games>
@@ -9,6 +9,17 @@
         </URLs>
         <Type>Script</Type>
         <Description>Load remover by GrandpaGhost</Description>
+     </AutoSplitter>
+     <AutoSplitter>
+        <Games>
+            <Game>Esothe</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/LiterallyMetaphorical/LiveSplit.Esothe/main/Esothe.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Remover and Autosplitter by Meta</Description>
+        <Website>https://www.speedrun.com/Esothe</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -20230,5 +20241,16 @@
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitter by wRadion</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Lethal Company</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/zach333/LethalCompanyAutosplitter/main/lethalcompany.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter by zach</Description>
     </AutoSplitter>
 </AutoSplitters>
