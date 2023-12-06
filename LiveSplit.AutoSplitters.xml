@@ -20232,4 +20232,15 @@
         <Type>Script</Type>
         <Description>Autosplitter by wRadion</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Lethal Company</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/zach333/LethalCompanyAutosplitter/main/lethalcompany.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter by zach</Description>
+    </AutoSplitter>
 </AutoSplitters>
