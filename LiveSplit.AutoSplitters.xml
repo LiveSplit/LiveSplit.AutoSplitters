@@ -171,6 +171,18 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>The Last Faith</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/mitchell-merry/autosplitters/main/The%20Last%20Faith/thelastfaith.asl</URL>
+            <URL>https://raw.githubusercontent.com/mitchell-merry/autosplitters/main/The%20Last%20Faith/TheLastFaith.Settings.xml</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting and load removal is available. (By diggity)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Ding Dong Dead</Game>
         </Games>
         <URLs>
