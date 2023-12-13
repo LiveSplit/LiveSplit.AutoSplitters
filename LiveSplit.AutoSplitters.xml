@@ -14351,7 +14351,7 @@
         <Description>Automatic start/split/reset and in-game time are available (by InsaneJetman)</Description>
         <Website>https://github.com/InsaneJetman/autosplitters/blob/master/README.md</Website>
     </AutoSplitter>
-   <AutoSplitter>
+    <AutoSplitter>
         <Games>
             <Game>Anno 1404</Game>
         </Games>
