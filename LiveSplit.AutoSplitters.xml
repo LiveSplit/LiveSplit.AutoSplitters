@@ -13,6 +13,16 @@
     </AutoSplitter>
      <AutoSplitter>
         <Games>
+            <Game>ABZÛ</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Mattmatt10111/asl-scripts/master/Abzu.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Removal and Autosplitting by Mattmatt</Description>
+     </AutoSplitter>
+     <AutoSplitter>
+        <Games>
             <Game>Star Ocean The Second Story R</Game>
         </Games>
         <URLs>
