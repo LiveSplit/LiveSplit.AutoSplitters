@@ -20308,4 +20308,14 @@
 	      <Type>Script</Type>
         <Description>Autosplitter and Loadless timer made by coyotl, Failracer and WillTreaty</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Berserk and the Band of the Hawk</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Mariomagistr/berserk_asl/main/berserk.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter by lonelyshogun</Description>
+    </AutoSplitter>
 </AutoSplitters>
