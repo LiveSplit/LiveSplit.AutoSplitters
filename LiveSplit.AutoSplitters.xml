@@ -20297,7 +20297,18 @@
         <Type>Script</Type>
         <Description>Autosplitter by zach</Description>
     </AutoSplitter>
-        <AutoSplitter>
+    <AutoSplitter>
+	      <Games>
+	        <Game>Colin McRae: Dirt</Game>
+            <Game>Dirt 1</Game>
+	      </Games>
+	      <URLs>
+	        <URL>https://raw.githubusercontent.com/WilllTreaty/My-Autosplitters/main/Livesplit.CMD1.asl</URL>
+	      </URLs>
+	      <Type>Script</Type>
+        <Description>Autosplitter and Loadless timer made by coyotl, Failracer and WillTreaty</Description>
+    </AutoSplitter>
+    <AutoSplitter>
         <Games>
             <Game>Berserk and the Band of the Hawk</Game>
         </Games>
