@@ -2,6 +2,16 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Avatar: Frontiers of Pandora</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/LiterallyMetaphorical/LiveSplit.AFOP/main/AvatarFrontiersOfPandora.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Remover by Binslev and Meta</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>The Walking Dead: Destinies</Game>
         </Games>
         <URLs>
