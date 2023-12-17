@@ -20340,4 +20340,14 @@
         <Type>Script</Type>
         <Description>Autosplitter by lonelyshogun</Description>
     </AutoSplitter>
+     <AutoSplitter>
+        <Games>
+            <Game>Freeways</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/AtomicCaleb/Freeways-Autosplitter/master/Caleb-Freeways-Autosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter by AtomicCaleb</Description>
+    </AutoSplitter>
 </AutoSplitters>
