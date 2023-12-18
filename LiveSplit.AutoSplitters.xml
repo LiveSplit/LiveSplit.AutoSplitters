@@ -2798,10 +2798,10 @@
             <Game>Need for Speed: Underground 2</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/tdog20/NFS-AutoSplitter/main/Livesplit.NFSUG2.asl</URL>
+            <URL>https://raw.githubusercontent.com/Jigsaw2/LiveSplit.Autosplitters/main/LiveSplit.NFSU2.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autosplitter and Loadless timer made by TDOG20</Description>
+        <Description>Autosplitter and Load Remover (By TDOG20 and Jigsaw)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
