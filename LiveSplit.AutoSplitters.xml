@@ -7032,6 +7032,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Undertale Yellow</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/NERS1111/Autosplitter.Projects/main/GameMaker.UndertaleYellow.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start, split and reset supported. (By NERS)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>HorrorTale: Chapter One</Game>
         </Games>
         <URLs>
