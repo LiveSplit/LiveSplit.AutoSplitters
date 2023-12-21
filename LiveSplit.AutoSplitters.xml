@@ -20340,7 +20340,7 @@
         <Type>Script</Type>
         <Description>Autosplitter by lonelyshogun</Description>
     </AutoSplitter>
-     <AutoSplitter>
+    <AutoSplitter>
         <Games>
             <Game>Freeways</Game>
         </Games>
@@ -20349,5 +20349,15 @@
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitter by AtomicCaleb</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Alucinod</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/sharpiemcsharp/alucinod-asl/main/Alucinod.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter by Sharpie McSharp</Description>
     </AutoSplitter>
 </AutoSplitters>
