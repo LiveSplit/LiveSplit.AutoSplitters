@@ -7038,7 +7038,18 @@
             <URL>https://raw.githubusercontent.com/NERS1111/Autosplitter.Projects/main/GameMaker.UndertaleYellow.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto start, split and reset supported. (By NERS)</Description>
+        <Description>Auto start, split and reset supported for the full game. (By NERS)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Undertale Yellow Demo</Game>
+            <Game>Undertale Yellow (Demo)</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/NERS1111/Autosplitter.Projects/main/GameMaker.UndertaleYellowDemo.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start, split and reset supported for the demo. (By NERS)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
