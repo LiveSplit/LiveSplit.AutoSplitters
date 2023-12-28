@@ -20381,4 +20381,14 @@
         <Type>Script</Type>
         <Description>Autosplitter by Sharpie McSharp</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>STARWHAL</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Ventuswill/STARWHAL-Autosplitter/main/Starwhal.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load remover and Autosplitter by Ri</Description>
+    </AutoSplitter>
 </AutoSplitters>
