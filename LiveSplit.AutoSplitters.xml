@@ -20388,4 +20388,15 @@
         <Type>Script</Type>
         <Description>Load remover and Autosplitter by Ri</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>TEVI</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/AzureHakua/TEVI-AutoSplitter/main/LiveSplit.TEVI.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto-Splitter for TEVI. Check our Discord or Speedrun.com page for more information.</Description>
+        <Website>https://discord.gg/e4SW6AaBuj</Website>
+    </AutoSplitter>
 </AutoSplitters>
