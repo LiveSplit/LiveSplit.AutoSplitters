@@ -20390,7 +20390,19 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
-            <Game>Cold War</Game>
+            <Game>TEVI</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/AzureHakua/TEVI-AutoSplitter/main/LiveSplit.TEVI.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto-Splitter for TEVI. Check our Discord or Speedrun.com page for more information.</Description>
+        <Website>https://discord.gg/e4SW6AaBuj</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+          <Game>Cold War</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/c0y0tl/asl/main/cold_war/cold_war.asl</URL>
