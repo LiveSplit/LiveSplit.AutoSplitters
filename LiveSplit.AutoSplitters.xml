@@ -20422,4 +20422,60 @@
         <Description>Autosplitter (start, split, reset) and IGT are available (by Kuhaku)</Description>
         <Website>https://github.com/Kuhaku9893/Autosplitters/tree/main/DonutDodo</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+          <Game>Marufusha</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Kuhaku9893/Autosplitters/main/Marufusha/marfusha.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter (start, split, reset) are available (by Kuhaku)</Description>
+        <Website>https://github.com/Kuhaku9893/Autosplitters/tree/main/Marufusha</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+          <Game>Racing Pitch</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Kuhaku9893/Autosplitters/main/RacingPitch/racingpitch.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter (start, split, reset) and IGT are available (by Kuhaku)</Description>
+        <Website>https://github.com/Kuhaku9893/Autosplitters/tree/main/RacingPitch</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+          <Game>Typoman</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Kuhaku9893/Autosplitters/main/Typoman/Typoman.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter (start, split, reset) are available (by Kuhaku)</Description>
+        <Website>https://github.com/Kuhaku9893/Autosplitters/tree/main/Typoman</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+          <Game>Underparty</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Kuhaku9893/Autosplitters/main/Underparty/underparty.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter (start, split, reset) are available (by Kuhaku)</Description>
+        <Website>https://github.com/Kuhaku9893/Autosplitters/tree/main/Underparty</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+          <Game>Witch's Rhythm Puzzle</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Kuhaku9893/Autosplitters/main/WitchsRhythmPuzzle/WitchsRhythmPuzzle.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter (start, split, reset) are available (by Kuhaku)</Description>
+        <Website>https://github.com/Kuhaku9893/Autosplitters/tree/main/WitchsRhythmPuzzle</Website>
+    </AutoSplitter>
 </AutoSplitters>
