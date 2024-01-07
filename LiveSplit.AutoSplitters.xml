@@ -14699,6 +14699,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Remnant II</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/ToyDragon/Remnant2Autosplitter/main/remnant2.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load remover for Remnant II.</Description>
+        <Website>https://discord.gg/hMfQ2MA</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Super Mario Bros.</Game>
         </Games>
         <URLs>
