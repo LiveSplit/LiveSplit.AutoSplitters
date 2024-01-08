@@ -5844,6 +5844,18 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Silent Hill</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/BoredOfSpeedruns/Silent-Hill-1-Autosplitter/main/Silent_Hill_1.asl</URL>
+            <URL>https://github.com/Jujstme/emu-help/raw/master/lib/emu-help-v2</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>IGT AutoSplitter for Silent Hill 1 on Duckstation and ePSXe (By BoredOfSpeedruns)</Description>
+        <Website>https://github.com/BoredOfSpeedruns/Silent-Hill-1-Autosplitter</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Silent Hill 2</Game>
             <Game>Silent Hill 2 - Directors Cut</Game>
             <Game>Silent Hill 2 (PC)</Game>
