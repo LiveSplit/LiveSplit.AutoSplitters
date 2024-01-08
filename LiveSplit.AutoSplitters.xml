@@ -20514,4 +20514,15 @@
         <Description>Autosplitter (start, split, reset) are available (by Kuhaku)</Description>
         <Website>https://github.com/Kuhaku9893/Autosplitters/tree/main/WitchsRhythmPuzzle</Website>
     </AutoSplitter>
+        <AutoSplitter>
+        <Games>
+          <Game>Obama</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/CodeNameMeteor/Autosplitters/main/Obama/ObamaAny.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitter for Obama (by CodeNameMeteor)</Description>
+        <Website>https://github.com/CodeNameMeteor/Autosplitters/blob/main/Obama/ObamaAny.asl</Website>
+    </AutoSplitter>
 </AutoSplitters>
