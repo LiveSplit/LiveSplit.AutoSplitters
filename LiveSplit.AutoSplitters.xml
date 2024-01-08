@@ -20460,14 +20460,14 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
-          <Game>Marufusha</Game>
+          <Game>Marfusha</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Kuhaku9893/Autosplitters/main/Marufusha/marfusha.asl</URL>
+            <URL>https://raw.githubusercontent.com/Kuhaku9893/Autosplitters/main/Marfusha/marfusha.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitter (start, split, reset) are available (by Kuhaku)</Description>
-        <Website>https://github.com/Kuhaku9893/Autosplitters/tree/main/Marufusha</Website>
+        <Website>https://github.com/Kuhaku9893/Autosplitters/tree/main/Marfusha</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -20493,7 +20493,7 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
-          <Game>Underparty</Game>
+          <Game>Under Party</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/Kuhaku9893/Autosplitters/main/Underparty/underparty.asl</URL>
