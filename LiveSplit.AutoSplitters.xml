@@ -20514,7 +20514,7 @@
         <Description>Autosplitter (start, split, reset) are available (by Kuhaku)</Description>
         <Website>https://github.com/Kuhaku9893/Autosplitters/tree/main/WitchsRhythmPuzzle</Website>
     </AutoSplitter>
-        <AutoSplitter>
+    <AutoSplitter>
         <Games>
           <Game>Obama</Game>
         </Games>
