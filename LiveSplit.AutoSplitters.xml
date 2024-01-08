@@ -5880,6 +5880,18 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Silent Hill: 0rigins</Game>
+            <Game>Silent Hill: Origins</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/BoredOfSpeedruns/Silent-Hill-0rigins-Autosplitter/main/Silent_Hill_0rigins.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>IGT AutoSplitter for Silent Hill 0rigins on PPSSPP (By BoredOfSpeedruns)</Description>
+        <Website>https://github.com/BoredOfSpeedruns/Silent-Hill-0rigins-Autosplitter</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Deus Ex: The Fall</Game>
             <Game>Deus Ex The Fall</Game>
         </Games>
