@@ -5870,12 +5870,13 @@
     <AutoSplitter>
         <Games>
             <Game>Silent Hill 3</Game>
+            <Game>Silent Hill 3 (PC)</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/SuiMachine/LiveSplit.ASLScripts/master/Silent%20Hill%203/LiveSplit.SH3_Classic.asl</URL>
+            <URL>https://raw.githubusercontent.com/BoredOfSpeedruns/SH3-mRTA-Autosplitter/main/Silent_Hill_3_mRTA.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Game Time display is available. (By SuicideMachine, based on idea by Shunpuk)</Description>
+        <Description>Modified RTA AutoSplitter. (By BoredOfSpeedruns, based on the script by Gatorjuick and OpaqueGlassJar)</Description>
         <Website>https://github.com/SuiMachine/LiveSplit.ASLScripts</Website>
     </AutoSplitter>
     <AutoSplitter>
