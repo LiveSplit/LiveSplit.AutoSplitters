@@ -10751,6 +10751,18 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Haven Park</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/LRFLEW/LiveSplit.HavenPark/main/HavenPark.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and Load Remover for the PC version of Haven Park</Description>
+        <Website>https://github.com/LRFLEW/LiveSplit.HavenPark</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>FEAR</Game>
             <Game>FEAR: First Encounter Assault Recon</Game>
             <Game>F.E.A.R.</Game>
