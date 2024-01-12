@@ -2,6 +2,21 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Prince of Persia: The Lost Crown</Game>
+            <Game>Prince of Persia The Lost Crown</Game>
+            <Game>POPTLC</Game>
+            <Game>The Lost Crown</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/LiterallyMetaphorical/LiveSplit.POPTLC/main/POPTLC.asl</URL>
+            <URL>https://raw.githubusercontent.com/LiterallyMetaphorical/LiveSplit.POPTLC/main/POPTLC.Settings.xml</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting and load removal is available. (By diggity and Meta)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Avatar: Frontiers of Pandora</Game>
         </Games>
         <URLs>
