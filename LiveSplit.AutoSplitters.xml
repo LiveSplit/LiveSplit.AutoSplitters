@@ -11513,11 +11513,11 @@
             <Game>Nancy Drew: Secrets Can Kill</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/toasterberry/Nancy-Drew-Autosplitters/main/Autosplitters/01.%20Secrets%20Can%20Kill.asl</URL>
+            <URL>https://raw.githubusercontent.com/evilclownattack/autosplitters/master/SCK.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto start/split/reset</Description>
-        <Website>https://github.com/toasterberry/Nancy-Drew-Autosplitters</Website>
+        <Description>Automatic start/split</Description>
+        <Website>https://www.speedrun.com/nancy_drew</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
