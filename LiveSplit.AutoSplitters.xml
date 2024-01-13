@@ -11513,11 +11513,11 @@
             <Game>Nancy Drew: Secrets Can Kill</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/evilclownattack/autosplitters/master/SCK.asl</URL>
+            <URL>https://raw.githubusercontent.com/toasterberry/Nancy-Drew-Autosplitters/main/Autosplitters/01.%20Secrets%20Can%20Kill.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Automatic start/split</Description>
-        <Website>https://www.speedrun.com/nancy_drew</Website>
+        <Description>Auto start/split/reset</Description>
+        <Website>https://github.com/toasterberry/Nancy-Drew-Autosplitters</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -11551,6 +11551,17 @@
         <Type>Script</Type>
         <Description>Automatic start/split</Description>
         <Website>https://github.com/kclimb/asl-scripts</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Nancy Drew: Ghost Dogs of Moon Lake</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/toasterberry/Nancy-Drew-Autosplitters/main/Autosplitters/07.%20Ghost%20Dogs%20of%20Moon%20Lake.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/split</Description>
+        <Website>https://github.com/toasterberry/Nancy-Drew-Autosplitters</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -11620,6 +11631,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Nancy Drew: The Creature of Kapu Cave</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/toasterberry/Nancy-Drew-Autosplitters/main/Autosplitters/15.%20The%20Creature%20of%20Kapu%20Cave.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/split</Description>
+        <Website>https://github.com/toasterberry/Nancy-Drew-Autosplitters</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Nancy Drew: The White Wolf of Icicle Creek</Game>
         </Games>
         <URLs>
@@ -11631,6 +11653,50 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Nancy Drew: Legend of the Crystal Skull</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/toasterberry/Nancy-Drew-Autosplitters/main/Autosplitters/17.%20Legend%20of%20the%20Crystal%20Skull.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/split</Description>
+        <Website>https://github.com/toasterberry/Nancy-Drew-Autosplitters</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Nancy Drew: The Phantom of Venice</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/toasterberry/Nancy-Drew-Autosplitters/main/Autosplitters/18.%20VEN.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/split/reset</Description>
+        <Website>https://github.com/toasterberry/Nancy-Drew-Autosplitters</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Nancy Drew: Ransom of the Seven Ships</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/toasterberry/Nancy-Drew-Autosplitters/main/Autosplitters/20.%20RAN.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/split/reset</Description>
+        <Website>https://github.com/toasterberry/Nancy-Drew-Autosplitters</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Nancy Drew: Trail of the Twister</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/toasterberry/Nancy-Drew-Autosplitters/main/Autosplitters/22.%20Trail%20of%20the%20Twister.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/split/reset</Description>
+        <Website>https://github.com/toasterberry/Nancy-Drew-Autosplitters</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Nancy Drew: Secrets Can Kill REMASTERED</Game>
         </Games>
         <URLs>
@@ -11639,6 +11705,94 @@
         <Type>Script</Type>
         <Description>Automatic start/split/reset</Description>
         <Website>https://www.speedrun.com/nancy_drew</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Nancy Drew: Shadow at the Water's Edge</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/toasterberry/Nancy-Drew-Autosplitters/main/Autosplitters/23.%20Shadow%20at%20the%20Water's%20Edge.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/split</Description>
+        <Website>https://github.com/toasterberry/Nancy-Drew-Autosplitters</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Nancy Drew: The Captive Curse</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/toasterberry/Nancy-Drew-Autosplitters/main/Autosplitters/24.%20The%20Captive%20Curse.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/split/reset</Description>
+        <Website>https://github.com/toasterberry/Nancy-Drew-Autosplitters</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Nancy Drew: Alibi in Ashes</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/toasterberry/Nancy-Drew-Autosplitters/main/Autosplitters/25.%20ASH.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/split/reset</Description>
+        <Website>https://github.com/toasterberry/Nancy-Drew-Autosplitters</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Nancy Drew: Tomb of the Lost Queen</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/toasterberry/Nancy-Drew-Autosplitters/main/Autosplitters/26.%20TMB.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/split/reset</Description>
+        <Website>https://github.com/toasterberry/Nancy-Drew-Autosplitters</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Nancy Drew: The Deadly Device</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/toasterberry/Nancy-Drew-Autosplitters/main/Autosplitters/27.%20DED.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/split/reset</Description>
+        <Website>https://github.com/toasterberry/Nancy-Drew-Autosplitters</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Nancy Drew: Ghost of Thornton Hall</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/toasterberry/Nancy-Drew-Autosplitters/main/Autosplitters/28.%20GTH.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/split/reset</Description>
+        <Website>https://github.com/toasterberry/Nancy-Drew-Autosplitters</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Nancy Drew: The Silent Spy</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/toasterberry/Nancy-Drew-Autosplitters/main/Autosplitters/29.%20SPY.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/split/reset</Description>
+        <Website>https://github.com/toasterberry/Nancy-Drew-Autosplitters</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Nancy Drew: The Shattered Medallion</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/toasterberry/Nancy-Drew-Autosplitters/main/Autosplitters/30.%20MED.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/split/reset</Description>
+        <Website>https://github.com/toasterberry/Nancy-Drew-Autosplitters</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
