@@ -2,6 +2,20 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Age of Mythology</Game>
+            <Game>Age of Mythology: The Titans</Game>
+            <Game>Age of Mythology: Extended Edition</Game>
+            <Game>Age of Mythology: Tale of the Dragon</Game>
+            <Game>AOM</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/jbadlato/aom-autosplitter/main/aom-autosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting by joeybadz</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Prince of Persia: The Lost Crown</Game>
             <Game>Prince of Persia The Lost Crown</Game>
             <Game>POPTLC</Game>
