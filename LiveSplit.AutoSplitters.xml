@@ -20721,4 +20721,15 @@
         <Description>Auto Splitter for Obama (by CodeNameMeteor)</Description>
         <Website>https://github.com/CodeNameMeteor/Autosplitters/blob/main/Obama/ObamaAny.asl</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>A Game, Creating twin towers with balancing</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Felicien2B/TwintowerASL/main/twintower.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for Twintower (Windows) (By Felicien2B and Jean20B)</Description>
+        <Website>https://www.speedrun.com/twintower</Website>
+    </AutoSplitter>
 </AutoSplitters>
