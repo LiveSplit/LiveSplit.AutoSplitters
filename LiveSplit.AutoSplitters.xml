@@ -2,6 +2,16 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Ride to Hell: Retribution</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/LiveSplit.RideToHellRetribution.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart and Load Remover by Streetbackguy</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Age of Mythology</Game>
             <Game>Age of Mythology: The Titans</Game>
             <Game>Age of Mythology: Extended Edition</Game>
