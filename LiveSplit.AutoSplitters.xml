@@ -20742,4 +20742,15 @@
         <Description>Autosplitter for Twintower (Windows) (By Felicien2B and Jean20B)</Description>
         <Website>https://www.speedrun.com/twintower</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Simple Fish Adventure</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/tor1pp/AutoSplitterASLs/main/SimpleFishAdventure/SimpleFishAdventure.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter by tor1pp</Description>
+        <Website>https://www.speedrun.com/simple_fish_adventure</Website>
+    </AutoSplitter>
 </AutoSplitters>
