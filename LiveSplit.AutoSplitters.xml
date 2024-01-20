@@ -1627,6 +1627,7 @@
     <AutoSplitter>
         <Games>
             <Game>Madagascar</Game>
+            <Game>Madagascar Category Extensions</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/triguii/asl-scripts/main/Madagascar.asl</URL>
