@@ -20734,6 +20734,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Assassin's Creed Syndicate</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/TpRedNinja/Assassins-Creed-Syndicate/main/ACS.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitter for Assassins Creed Syndicate Jack the ripper DLC (by TpRedNinja)</Description>
+        <Website>https://github.com/TpRedNinja/Assassins-Creed-Syndicate/blob/main/ACS.asl</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>A Game, Creating twin towers with balancing</Game>
         </Games>
         <URLs>
