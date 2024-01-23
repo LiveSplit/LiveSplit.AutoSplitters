@@ -20765,4 +20765,14 @@
         <Description>Autosplitter by tor1pp</Description>
         <Website>https://www.speedrun.com/simple_fish_adventure</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Endling Extinction Is Forever</Game>
+        </Games>
+        <URLs>   
+            <URL>https://github.com/JPdev-Github/Livesplit.Endling.Asl/raw/main/Livesplit.Endling.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart, Autosplitter and Load Remover by jp_dev</Description>
+    </AutoSplitter>
 </AutoSplitters>
