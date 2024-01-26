@@ -15299,11 +15299,11 @@
             <Game>New Super Lucky's Tale Category Extensions</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Voxelse/LiveSplit.NewSuperLuckysTale/main/Components/LiveSplit.NewSuperLuckysTale.dll</URL>
+            <URL>https://github.com/ShootMe/LiveSplit.NewSuperLuckysTale/raw/main/Components/LiveSplit.NewSuperLuckysTale.dll</URL>
         </URLs>
         <Type>Component</Type>
-        <Description>Auto Start/Split and Load Remover (by Voxelse)</Description>
-        <Website>https://github.com/Voxelse/LiveSplit.NewSuperLuckysTale</Website>
+        <Description>Auto Start/Split, Load Remover and FPS Display (by Voxelse/DevilSquirrel)</Description>
+        <Website>https://github.com/ShootMe/LiveSplit.NewSuperLuckysTale</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
