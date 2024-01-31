@@ -20775,7 +20775,18 @@
         <Type>Script</Type>
         <Description>Autostart, Autosplitter and Load Remover by jp_dev</Description>
     </AutoSplitter>
-        <AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Colin McRae: Dirt 2</Game>
+            <Game>Dirt 2</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/WilllTreaty/My-Autosplitters/main/Livesplit.CMD2.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and Loadless timer made by WillTreaty</Description>
+    </AutoSplitter>
+    <AutoSplitter>
         <Games>
             <Game>LEGO Star Wars: The Force Awakens</Game>
         </Games>
