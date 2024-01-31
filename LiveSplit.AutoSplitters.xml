@@ -20786,4 +20786,14 @@
         <Type>Script</Type>
         <Description>Autosplitter and Loadless timer made by WillTreaty</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>LEGO Star Wars: The Force Awakens</Game>
+        </Games>
+        <URLs>   
+            <URL>https://raw.githubusercontent.com/Siedemnastek/Autosplitter/main/TFA.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and Load Removal Available (By Siedemnastek)</Description>
+    </AutoSplitter>
 </AutoSplitters>
