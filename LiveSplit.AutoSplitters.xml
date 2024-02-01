@@ -12997,6 +12997,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Star Wars Jedi: Survivor</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/jonetiz/JediSurvivor-Autosplitter/main/jedi_survivor.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load removal is available by Xero</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Remothered: Broken Porcelain</Game>
         </Games>
         <URLs>
