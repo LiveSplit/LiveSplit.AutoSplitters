@@ -18403,10 +18403,10 @@
             <Game>LEGO Star Wars: The Skywalker Saga</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/melodyfast/LEGO-Autosplitters/main/TSS-LoadRemover.asl</URL>
+            <URL>https://raw.githubusercontent.com/Biksell/asl/main/TSS/tss.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load Removal is available. (By Elle.)</Description>
+        <Description>Load Removal is available. (By Elle, nairam, Biksel)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
