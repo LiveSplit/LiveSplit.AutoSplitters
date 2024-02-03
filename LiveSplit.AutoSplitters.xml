@@ -8136,6 +8136,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Momodora: Moonlit Farewell</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/glcoder/mmf-asl/main/MomodoraMoonlitFarewell.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and load remover for Momodora: Moonlit Farewell (by glcoder and DreamFox)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Minoria</Game>
         </Games>
         <URLs>
