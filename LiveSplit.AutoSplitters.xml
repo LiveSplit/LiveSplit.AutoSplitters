@@ -20806,4 +20806,14 @@
         <Type>Script</Type>
         <Description>Autosplitter and Load Removal Available (By Siedemnastek)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Horizon Zero Dawn</Game>
+        </Games>
+        <URLs>   
+            <URL>https://raw.githubusercontent.com/Oekn5w/horizon-load-remover/master/autosplitter/hzd-autosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Remover for Horizon Zero Dawn by ISO2768mK and DorianSnowball. Memory location found by Canine.</Description>
+    </AutoSplitter>
 </AutoSplitters>
