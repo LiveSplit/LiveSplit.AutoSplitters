@@ -8136,6 +8136,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Momodora: Moonlit Farewell</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/glcoder/mmf-asl/main/MomodoraMoonlitFarewell.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and load remover for Momodora: Moonlit Farewell (by glcoder and DreamFox)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Minoria</Game>
         </Games>
         <URLs>
@@ -15309,11 +15320,11 @@
             <Game>New Super Lucky's Tale Category Extensions</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Voxelse/LiveSplit.NewSuperLuckysTale/main/Components/LiveSplit.NewSuperLuckysTale.dll</URL>
+            <URL>https://github.com/ShootMe/LiveSplit.NewSuperLuckysTale/raw/main/Components/LiveSplit.NewSuperLuckysTale.dll</URL>
         </URLs>
         <Type>Component</Type>
-        <Description>Auto Start/Split and Load Remover (by Voxelse)</Description>
-        <Website>https://github.com/Voxelse/LiveSplit.NewSuperLuckysTale</Website>
+        <Description>Auto Start/Split, Load Remover and FPS Display (by Voxelse/DevilSquirrel)</Description>
+        <Website>https://github.com/ShootMe/LiveSplit.NewSuperLuckysTale</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -20815,5 +20826,16 @@
         </URLs>
         <Type>Script</Type>
         <Description>Load Remover for Horizon Zero Dawn by ISO2768mK and DorianSnowball. Memory location found by Canine.</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Peaks of Yore</Game>
+        </Games>
+        <URLs>   
+            <URL>https://raw.githubusercontent.com/Xearo1/Autosplitter-and-Load-remover/main/PeaksOfYore.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and Load Removal Available (By Xearo)</Description>
     </AutoSplitter>
 </AutoSplitters>
