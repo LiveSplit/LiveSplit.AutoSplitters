@@ -20838,4 +20838,16 @@
         <Type>Script</Type>
         <Description>Autosplitter and Load Removal Available (By Xearo)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Poppy Playtime: Chapter 3</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/TheDementedSalad/Poppy-Playtime-Ch3-Autosplitter/main/Poppy%20Playtime%20Ch3.asl</URL>
+            <URL>https://raw.githubusercontent.com/TheDementedSalad/Poppy-Playtime-Ch3-Autosplitter/main/PPCH3.Settings.xml</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitting and Load Removal available. Compare to IGT. (By TheDementedSalad)</Description>
+    </AutoSplitter>
 </AutoSplitters>
