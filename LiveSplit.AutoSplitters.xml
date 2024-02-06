@@ -4776,11 +4776,8 @@
             <Game>Source Engine</Game>
             <Game>Dark Messiah of Might and Magic</Game>
             <Game>E.Y.E: Divine Cybermancy</Game>
-            <Game>Half-Life 2</Game>
-            <Game>Half-Life 2 Category Extensions</Game>
             <Game>Half-Life 2: Episode One</Game>
             <Game>Half-Life 2: Episode Two</Game>
-            <Game>Half-Life 2: Ghosting Mod</Game>
             <Game>Blamod Reborn</Game>
             <Game>FakeFactory's Cinematic Mod</Game>
         </Games>
@@ -7033,6 +7030,9 @@
             <Game>Portal: Prelude</Game>
             <Game>Portal Category Extensions</Game>
             <Game>Portal Mods</Game>
+            <Game>Half-Life 2</Game>
+            <Game>Half-Life 2 Category Extensions</Game>
+            <Game>Half-Life 2: Ghosting Mod</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/thisis2838/SourceSplit/master/update/Components/LiveSplit.SourceSplit.dll</URL>
