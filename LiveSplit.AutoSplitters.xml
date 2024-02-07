@@ -17557,8 +17557,9 @@
             <Game>A Short Hike</Game>
         </Games>
         <URLs>
-            <URL>https://github.com/ldmnt/ash-autosplitter/raw/master/ASH_Autosplitter.asl</URL>
-            <URL>https://github.com/just-ero/asl-help/raw/main/lib/UnityASL.bin</URL>
+            <URL>https://github.com/ldmnt/ash-autosplitter/raw/master/AShortHike.asl</URL>
+            <URL>https://github.com/ldmnt/ash-autosplitter/raw/master/AShortHike.Settings.xml</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Starts, resets, splits (check settings), syncs to IGT. Click 'Website' to look up locations. (by Ero and Hamb)</Description>
