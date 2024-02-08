@@ -20852,4 +20852,15 @@
         <Type>Script</Type>
         <Description>Auto Splitting and Load Removal available. Compare to IGT. (By TheDementedSalad)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Budget Cuts 2: Mission Insolvency</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/WillTRM/Autosplitters/main/budgetcuts2.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Starts on Conductor, splits on level change, removes loads. (By WillTRM)</Description>
+    </AutoSplitter>
 </AutoSplitters>
