@@ -43,12 +43,13 @@
         <Games>
             <Game>Avatar: Frontiers of Pandora</Game>
         </Games>
-
         <URLs>
             <URL>https://raw.githubusercontent.com/LiterallyMetaphorical/LiveSplit.AFOP/main/AvatarFrontiersOfPandora.asl</URL>
+            <URL>https://raw.githubusercontent.com/LiterallyMetaphorical/LiveSplit.AFOP/main/AvatarFrontiersOfPandora.Settings.xml</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load Remover by Binslev and Meta</Description>
+        <Description>Load Remover and Autosplitter by Binslev and Meta</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
