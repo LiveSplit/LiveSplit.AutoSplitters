@@ -11466,6 +11466,20 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Far Cry Primal</Game>
+            <Game>FCP</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Binslev/FCPLR/main/FCPrimal.asl</URL>
+            <URL>https://raw.githubusercontent.com/Binslev/FCPLR/main/FCPrimal.Settings.xml</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Remover & Autosplitter is available (By Vlad2D)</Description>
+        <Website>https://discord.gg/HRHy7pbqUh</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Far Cry 5</Game>
             <Game>FC5</Game>
         </Games>
