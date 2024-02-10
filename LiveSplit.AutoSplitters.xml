@@ -8362,6 +8362,8 @@
     <AutoSplitter>
         <Games>
             <Game>Trackmania</Game>
+            <Game>Trackmania (2020)</Game>
+            <Game>Trackmania Category Extensions</Game>
             <Game>Trackmania Club Campaigns</Game>
         </Games>
         <URLs>
@@ -8434,9 +8436,10 @@
     <AutoSplitter>
         <Games>
             <Game>TrackMania Turbo</Game>
+            <Game>TrackMania Turbo VR Experience</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Voyager006/Autosplitters/master/TrackmaniaTurbo/TrackmaniaTurbo.asl</URL>
+            <URL>https://raw.githubusercontent.com/Rastats/TMTurbo/main/TMTurboAutosplitter.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>In-game time + auto start/reset/split options are available. (By Voyager006 and donadigo)</Description>
