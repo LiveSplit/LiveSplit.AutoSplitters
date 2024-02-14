@@ -4858,6 +4858,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>KeyWe</Game>
+        </Games>
+        <URLs>
+            <URL>https://gist.githubusercontent.com/Alecat/084ba4995b5cfa86021d2ce841717ba5/raw</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Starts, resets automatically. Syncs to and sums up in-game time. Click 'Website' for additional resources.</Description>
+        <Website>https://ale.chenonetta.com/keywe</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Dishonored Category Extensions</Game>
             <Game>Dishonored</Game>
             <Game>Dishonored (PC)</Game>
