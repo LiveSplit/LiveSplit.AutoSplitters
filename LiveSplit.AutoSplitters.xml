@@ -4852,7 +4852,8 @@
             <URL>https://gist.githubusercontent.com/Alecat/084ba4995b5cfa86021d2ce841717ba5/raw</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autosplitter that tallies IGT level times for full-game runs. Additional resources available at https://ale.chenonetta.com/keywe/</Description>
+        <Description>Starts, resets automatically. Syncs to and sums up in-game time. Click 'Website' for additional resources.</Description>
+        <Website>https://ale.chenonetta.com/keywe</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
