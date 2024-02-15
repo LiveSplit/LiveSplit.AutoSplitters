@@ -16481,7 +16481,7 @@
             <Game>Prince of Persia Arabian Nights</Game>
         </Games>
         <URLs>
-            <URL>https://github.com/PoPRuns/PoP.AutoSplitters/blob/main/pop_an.asl</URL>
+            <URL>https://raw.githubusercontent.com/PoPRuns/PoP.AutoSplitters/main/pop_an.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Automatic start and split (by rythin and toca)</Description>
