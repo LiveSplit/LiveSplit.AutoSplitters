@@ -12,6 +12,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Quest for Glory V: Dragon Fire</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/Rainault/qfg-autosplitter/raw/main/qfg5.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart and autosplitter by Rainault</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Loddlenaut</Game>
         </Games>
         <URLs>
@@ -8813,10 +8823,10 @@
             <Game>POP: The Forgotten Sands</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/samabam/Sands-of-Time-Autosplitter/master/TFSsplitter.asl</URL>
+            <URL>https://raw.githubusercontent.com/PoPRuns/PoP.AutoSplitters/main/pop_tfs.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autostart/reset/split by Samabam and Load removal (by SuicideMachine)</Description>
+        <Description>Automatic start, split, reset and load-removal (by Samabam and SuicideMachine)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -10870,10 +10880,10 @@
             <Game>POP: Sands of Time</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/samabam/Sands-of-Time-Autosplitter/master/POPSandsOfTimeAnyZipless_v3.4.asl</URL>
+            <URL>https://raw.githubusercontent.com/PoPRuns/PoP.AutoSplitters/main/pop_sot.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto Splitting (with sub/category detection) is available. (By Samabam and Ynscription)</Description>
+        <Description>Automatic start, split and reset (by Samabam and Ynscription)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -10955,10 +10965,10 @@
             <Game>Prince of Persia Two Thrones</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/samabam/Sands-of-Time-Autosplitter/master/POPTwoThrones.ASL</URL>
+            <URL>https://raw.githubusercontent.com/PoPRuns/PoP.AutoSplitters/main/pop_t2t.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto Splitting (with sub/category detection) is available. (By Samabam)</Description>
+        <Description>Automatic start, split and reset (by Samabam)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -12169,12 +12179,13 @@
     <AutoSplitter>
         <Games>
             <Game>Prince of Persia 2008</Game>
+            <Game>Prince of Persia (2008)</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/samabam/Sands-of-Time-Autosplitter/master/PoP2k8.asl</URL>
+            <URL>https://raw.githubusercontent.com/PoPRuns/PoP.AutoSplitters/main/pop_2008.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Any% Autosplit, Autostart, Autoreset</Description>
+        <Description>Automatic start, split and reset (by Samabam)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -12254,10 +12265,10 @@
             <Game>Prince of Persia 3D</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/samabam/Sands-of-Time-Autosplitter/master/pop3d.asl</URL>
+            <URL>https://raw.githubusercontent.com/PoPRuns/PoP.AutoSplitters/main/pop_3d.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load/Crash Removal</Description>
+        <Description>Automatic start, split, reset and load-removal (by Samabam)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -13583,10 +13594,10 @@
             <Game>Multi-Prince of Persia-Runs</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/samabam/Multi-PoP-Autosplitter/master/MultiPoPSandsTrilogy.asl</URL>
+            <URL>https://raw.githubusercontent.com/PoPRuns/PoP.AutoSplitters/main/multipop.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autosplitter and IGT/Load-remover for the 7 major categories. (by Samabam, Smathlax, GMP, et al.)</Description>
+        <Description>Automatic start, split and load-removal/IGT (by Samabam, Smathlax, GMP, et al.)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -13786,10 +13797,10 @@
             <Game>Prince of Persia: The Fallen King</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/samabam/Multi-PoP-Autosplitter/master/TFK_Final.asl</URL>
+            <URL>https://raw.githubusercontent.com/PoPRuns/PoP.AutoSplitters/main/pop_tfk.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autosplitter and in-game timer are available (By NoTeefy, GMP and Smathlax)</Description>
+        <Description>Automatic start, split and IGT for emulator runs on DeSmuME 0.9.9 (by NoTeefy, GMP and Smathlax)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -14926,10 +14937,10 @@
             <Game>Prince of Persia 2</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/samabam/Sands-of-Time-Autosplitter/master/pop2.asl</URL>
+            <URL>https://raw.githubusercontent.com/PoPRuns/PoP.AutoSplitters/main/pop2.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autospliter for Prince of Persia 2IR on DOSBox 0.74-3 (In-game timer)</Description>
+        <Description>Automatic start, split, reset and IGT for the IR version on DOSBox 0.74-3 (by Samabam and WinterThunder)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -16490,10 +16501,10 @@
             <Game>Prince of Persia Arabian Nights</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/samabam/Sands-of-Time-Autosplitter/master/pop_an.asl</URL>
+            <URL>https://raw.githubusercontent.com/PoPRuns/PoP.AutoSplitters/main/pop_an.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autosplitter (by Rythin and Tocaloni1)</Description>
+        <Description>Automatic start and split (by rythin and toca)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -17123,12 +17134,13 @@
     <AutoSplitter>
         <Games>
             <Game>Prince of Persia (Apple ][)</Game>
+            <Game>Prince of Persia (Apple II)</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/GMPranav/ASLs/main/PrinceOfPersiaApple%5D%5B.asl</URL>
+            <URL>https://raw.githubusercontent.com/PoPRuns/PoP.AutoSplitters/main/pop1_apple.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autosplitter and IGT for the Apple ][ version of Prince of Persia on AppleWin 1.30.3</Description>
+        <Description>Automatic start, split, reset and IGT for the Apple ][ version of Prince of Persia on AppleWin 1.30.3 (by GMP)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
