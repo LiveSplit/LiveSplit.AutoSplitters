@@ -20823,7 +20823,7 @@
             <URL>https://raw.githubusercontent.com/TpRedNinja/Assassins-Creed-Syndicate/main/ACS.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto Splitter for Assassins Creed Syndicate Jack the ripper DLC (by TpRedNinja)</Description>
+        <Description>Auto Splitter for Assassins Creed Syndicate(by TpRedNinja)</Description>
         <Website>https://github.com/TpRedNinja/Assassins-Creed-Syndicate/blob/main/ACS.asl</Website>
     </AutoSplitter>
     <AutoSplitter>
@@ -20922,5 +20922,16 @@
         </URLs>
         <Type>Script</Type>
         <Description>Starts on Conductor, splits on level change, removes loads. (By WillTRM)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Assassin's Creed III Remastered</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/TpRedNinja/Assassins-Creed-Liberation.asl/main/ACL.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitter for Assassins Creed Liberation Remastered(by TpRedNinja)</Description>
+        <Website>https://github.com/TpRedNinja/Assassins-Creed-Syndicate/blob/main/ACS.asl</Website>
     </AutoSplitter>
 </AutoSplitters>
