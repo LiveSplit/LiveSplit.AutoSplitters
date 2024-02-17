@@ -12,6 +12,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>BlazBlue Entropy Effect</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/KunoDemetries/AutoSplitter/master/BlazblueEntropyEffect.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Remover by Kuno Demetries</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Quest for Glory V: Dragon Fire</Game>
         </Games>
         <URLs>
