@@ -14719,10 +14719,12 @@
             <Game>My Friend Pedro</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/partoftheworlD/MyFriendPedro_autosplitter/master/steam/MyFriendPedro.asl</URL>
+            <URL>https://github.com/just-ero/LiveSplit.MyFriendPedro/raw/main/MyFriendPedro.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Removes load times, autosplits</Description>
+        <Description>Resets automatically. Start and split settings are available. Syncs to in-game time. (by partoftheworlD, ero)</Description>
+        <Website>https://github.com/just-ero/LiveSplit.MyFriendPedro</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
