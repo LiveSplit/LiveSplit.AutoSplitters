@@ -20949,4 +20949,15 @@
         <Description>Auto Splitter for Assassins Creed Liberation Remastered(by TpRedNinja)</Description>
         <Website>https://github.com/TpRedNinja/Assassins-Creed-Syndicate/blob/main/ACS.asl</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>SUSHI SOUL UNIVERSE</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/2RU10SHI6/sushiU_autosplitter/main/Sushi_U.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitter and Load Remover for All sushi lovers (by 2RU10SHI6 / suika_lunch)</Description>
+        <Website>https://www.speedrun.com/SUSHI_SOUL_UNIVERSE</Website>
+    </AutoSplitter>
 </AutoSplitters>
