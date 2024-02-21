@@ -2,6 +2,16 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>The Evil Within (LRT)</Game>
+        </Games>
+        <URLs>
+            <URL https://raw.githubusercontent.com/LiterallyMetaphorical/LiveSplit.TheEvilWithin/main/TheEvilWithinLRT.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and LRT Timer by MattMatt, Mysterion_06_, and Meta</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Like a Dragon: Infinite Wealth</Game>
         </Games>
         <URLs>
