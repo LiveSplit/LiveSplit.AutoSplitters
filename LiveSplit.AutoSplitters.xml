@@ -20970,4 +20970,14 @@
         <Description>Auto Splitter and Load Remover for All sushi lovers (by 2RU10SHI6 / suika_lunch)</Description>
         <Website>https://www.speedrun.com/SUSHI_SOUL_UNIVERSE</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Manhunt</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/uspeek/manhunt_autosplitter/main/Manhunt.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Split, start and reset (by lesenqa and Kennert007)</Description>
+    </AutoSplitter>
 </AutoSplitters>
