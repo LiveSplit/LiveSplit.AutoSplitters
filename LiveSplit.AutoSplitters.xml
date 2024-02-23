@@ -14466,11 +14466,10 @@
             <Game>Prince of Persia (Mods)</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/WinterThunderSpeedrun/Autosplitters/master/PrinceOfPersia1.4.asl</URL>
+            <URL>https://raw.githubusercontent.com/PoPRuns/PoP.AutoSplitters/main/pop1.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Website>https://github.com/WinterThunderSpeedrun/Autosplitters</Website>
-        <Description>Autospliter for Prince of Persia 1.4 on DOSBox 0.74-3 (In-game timer)</Description>
+        <Description>Automatic start, split, reset and IGT for version 1.4 on DOSBox 0.74-3 (by WinterThunder)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
