@@ -14469,7 +14469,7 @@
             <URL>https://raw.githubusercontent.com/PoPRuns/PoP.AutoSplitters/main/pop1.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autospliter for Prince of Persia 1.4 on DOSBox 0.74-3 (In-game timer)</Description>
+        <Description>Automatic start, split, reset and IGT for version 1.4 on DOSBox 0.74-3 (by WinterThunder)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
