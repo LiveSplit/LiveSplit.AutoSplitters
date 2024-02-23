@@ -10961,11 +10961,10 @@
             <Game>Prince of Persia Warrior Within</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Cred1Tor/Autosplitters/master/POPWarriorWithin_Pog.ASL</URL>
+            <URL>https://raw.githubusercontent.com/PoPRuns/PoP.AutoSplitters/main/pop_ww.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto splitting, auto starting, auto resetting are available. (By Creditor)</Description>
-        <Website>https://github.com/Cred1Tor/Autosplitters</Website>
+        <Description>Automatic start, split and reset (by Creditor)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -17164,7 +17163,18 @@
             <URL>https://raw.githubusercontent.com/PoPRuns/PoP.AutoSplitters/main/pop1_apple.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Automatic start, split, reset and IGT for the Apple ][ version of Prince of Persia on AppleWin 1.30.3 (by GMP)</Description>
+        <Description>Automatic start, split, reset and IGT for the Apple ][ version on AppleWin 1.30.3 (by GMP)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Prince of Persia (SNES)</Game>
+            <Game>Prince of Persia SNES</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/PoPRuns/PoP.AutoSplitters/main/pop1_snes.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Automatic start, split and reset for the SNES version on snes9x 1.60 (by Dávid Nagy, Shauing and GMP)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
