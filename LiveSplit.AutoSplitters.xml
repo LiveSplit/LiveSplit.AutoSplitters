@@ -20989,4 +20989,14 @@
         <Type>Script</Type>
         <Description>Split, start and reset (by lesenqa and Kennert007)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Etherlords II</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Stally18/EtherlordsII-ASL/main/etherlords2.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplit, autostart, IGT and Glitched category support (by Stally)</Description>
+    </AutoSplitter>
 </AutoSplitters>
