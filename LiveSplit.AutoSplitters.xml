@@ -2,6 +2,16 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Sulka</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/isopotermiastico/Sulka-Auto-Splitter/main/sulka_autosplitter_v1.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter by Isopotermiastico</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>The Evil Within (LRT)</Game>
         </Games>
         <URLs>
