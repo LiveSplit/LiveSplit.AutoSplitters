@@ -12,10 +12,10 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
-            <Game>Mad Max (2015)</Game>
+            <Game>Mad Max</Game>
         </Games>
         <URLs>
-            <URL>https://github.com/plyd823/MadMaxAutosplitter</URL>
+            <URL>https://github.com/plyd823/MadMaxAutosplitter/raw/main/MadMaxAutosplitter.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitter by Plyd</Description>
