@@ -3866,6 +3866,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>LEGO Harry Potter: The Battle for Hogwarts</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/knuutti/bfh-autosplitter/main/BfH.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitter (by Knuutti)</Description>
+        <Website>https://www.speedrun.com/lhpbfh</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Die Hard: Nakatomi Plaza</Game>
         </Games>
         <URLs>
