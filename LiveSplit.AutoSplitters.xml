@@ -21052,4 +21052,14 @@
         <Type>Script</Type>
         <Description>Autosplit, autostart, IGT and Glitched category support (by Stally)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Tekken 8</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/TheDementedSalad/Tekken-8-Autosplitter/main/Tekken%208.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Tekken 8 Autosplitter. Supports Main/Character Story Splits and Load Remover (by TheDementedSalad)</Description>
+    </AutoSplitter>
 </AutoSplitters>
