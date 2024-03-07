@@ -21062,4 +21062,14 @@
         <Type>Script</Type>
         <Description>Tekken 8 Autosplitter. Supports Main/Character Story Splits and Load Remover (by TheDementedSalad)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>LEGO Jurassic World</Game>
+        </Games>
+        <URLs>   
+            <URL>https://raw.githubusercontent.com/Siedemnastek/Autosplitter/main/LJW.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and Load Removal Available (By Siedemnastek)</Description>
+    </AutoSplitter>
 </AutoSplitters>
