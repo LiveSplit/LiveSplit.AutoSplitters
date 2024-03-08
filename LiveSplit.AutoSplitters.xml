@@ -21082,4 +21082,15 @@
         <Type>Script</Type>
         <Description>Autosplitter (By rumii)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Alice in Wonderland</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Alice-2010/alice2010-asl/master/alice2010_console.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and Load Removal (By DeathHound6)</Description>
+        <Website>https://www.speedrun.com/alice2010</Website>
+    </AutoSplitter>
 </AutoSplitters>
