@@ -21082,7 +21082,7 @@
         <Type>Script</Type>
         <Description>Autosplitter (By rumii)</Description>
     </AutoSplitter>
-    <AutoSpitter>
+    <AutoSplitter>
         <Games>
             <Game>Alice in Wonderland</Game>
         </Games>
@@ -21091,5 +21091,5 @@
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitter and Load Removal (By DeathHound6)</Description>
-    </AutoSpitter>
+    </AutoSplitter>
 </AutoSplitters>
