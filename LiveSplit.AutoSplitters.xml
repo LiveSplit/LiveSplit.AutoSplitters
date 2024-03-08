@@ -21072,4 +21072,14 @@
         <Type>Script</Type>
         <Description>Autosplitter and Load Removal Available (By Siedemnastek)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>A Difficult Game About Climbing</Game>
+        </Games>
+        <URLs>   
+            <URL>https://raw.githubusercontent.com/ru-mii/AutoSplitters/main/adifficultgameaboutclimbing.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter (By rumii)</Description>
+    </AutoSplitter>
 </AutoSplitters>
