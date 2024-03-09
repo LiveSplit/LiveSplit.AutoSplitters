@@ -11597,10 +11597,12 @@
             <Game>FC4</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/AlexYeahNot/asl-scripts/master/FC4.asl</URL>
+            <URL>https://raw.githubusercontent.com/Binslev/FC4LR/main/FC4.asl</URL>
+            <URL>https://raw.githubusercontent.com/Binslev/FC4LR/main/FC4.Settings.xml</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>LoadRemover (v1.4.0) is available (by AlexYeahNot)</Description>
+        <Description>Load Remover and Autosplitter is available (By Binslev)</Description>
         <Website>https://discord.gg/D7vJsC</Website>
     </AutoSplitter>
     <AutoSplitter>
