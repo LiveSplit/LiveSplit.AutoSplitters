@@ -2,6 +2,26 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>NecroVisioN: Lost Company</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/shmumbler/ASLs/main/NecrovisionLC.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Remover by shmumbler</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>NecroVisioN</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/shmumbler/ASLs/main/Necrovision.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Remover by shmumbler</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Penny's Big Breakaway</Game>
         </Games>
         <URLs>
