@@ -21100,7 +21100,7 @@
             <URL>https://raw.githubusercontent.com/ru-mii/AutoSplitters/main/adifficultgameaboutclimbing.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autosplitter (By rumii)</Description>
+        <Description>Autosplitter with Start, Reset and configurable Splits (by rumii)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
