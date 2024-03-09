@@ -2,6 +2,17 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>METANIA</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/LiveSplit.Metania.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting and Load Removal by Streetbackguy and wxyz</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>NecroVisioN: Lost Company</Game>
         </Games>
         <URLs>
