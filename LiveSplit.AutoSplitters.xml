@@ -3791,7 +3791,7 @@
             <Game>Duck Life 1</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Caarda/dl1/main/dl1autosplitterv1.6.asl</URL>
+            <URL>https://raw.githubusercontent.com/Caarda/autosplitters/main/dl1.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitter for Duck Life 1 (By Caarda) - Only works on flash player v32.0.0.114</Description>
@@ -3802,7 +3802,7 @@
             <Game>Duck Life 2</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Caarda/dl2/main/dl2autosplitterv1.0.asl</URL>
+            <URL>https://raw.githubusercontent.com/Caarda/autosplitters/main/dl2.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitter for Duck Life 2 (By Caarda) - Only works on flash player v32.0.0.114</Description>
@@ -3813,7 +3813,7 @@
             <Game>Learn to Fly 2</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Caarda/l2f2/main/l2f2autosplitterv1.2.asl</URL>
+            <URL>https://raw.githubusercontent.com/Caarda/autosplitters/main/l2f2.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitter for Learn to Fly 2 (By Caarda) - Only works on flash player v32.0.0.114</Description>
