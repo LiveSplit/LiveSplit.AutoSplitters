@@ -7268,6 +7268,18 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>TS!Underswap</Game>
+            <Game>TS!Underswap Demo</Game>
+            <Game>TS!Underswap (Demo)</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/NERS1111/Autosplitter.Projects/main/GameMaker.TSUnderswapDemo.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start, split and reset supported for the demo. (By NERS)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>HorrorTale: Chapter One</Game>
         </Games>
         <URLs>
