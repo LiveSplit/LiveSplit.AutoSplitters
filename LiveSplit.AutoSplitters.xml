@@ -21176,7 +21176,7 @@
             <URL>https://raw.githubusercontent.com/TombRunners/autosplitters/master/TR123/Components/TR123.dll</URL>
         </URLs>
         <Type>Component</Type>
-        <Description>Automatic Start, Split, and optional reset with IGT and RTA w/o Loads support for FG, IL, and deathruns. By Midge and apel.</Description>
+        <Description>Automatic Start, Split, and optional Reset. IGT and RTA w/o Loads. FG, IL, and deathruns. By Midge and apel.</Description>
         <Website>https://github.com/TombRunners/Autosplitters</Website>
     </AutoSplitter>
 </AutoSplitters>
