@@ -21130,13 +21130,47 @@
         <Games>
             <Game>Tomb Raider I-III Remastered Starring Lara Croft</Game>
             <Game>Tomb Raider 1-3 Remastered Starring Lara Croft</Game>
+            <Game>TR 1-3 Remastered Starring Lara Croft</Game>
             <Game>Tomb Raider I-III Remastered</Game>
             <Game>Tomb Raider 1-3 Remastered</Game>
+            <Game>TR 1-3 Remastered</Game>
             <Game>Tomb Raider Remastered I-III</Game>
             <Game>Tomb Raider Remastered 1-3</Game>
             <Game>TRR I-III</Game>
             <Game>TRR 123</Game>
             <Game>TR123</Game>
+            <Game>TR123R</Game>
+            <Game>Tomb Raider I Remastered</Game>
+            <Game>Tomb Raider 1 Remastered</Game>
+            <Game>TR1 Remastered</Game>
+            <Game>TR1R</Game>
+            <Game>Tomb Raider: Unfinished Business Remastered</Game>
+            <Game>Tomb Raider Unfinished Business Remastered</Game>
+            <Game>TR:UB Remastered</Game>
+            <Game>TRUB Remastered</Game>
+            <Game>TRUBR</Game>
+            <Game>Tomb Raider II Remastered</Game>
+            <Game>Tomb Raider 2 Remastered</Game>
+            <Game>TR2 Remastered</Game>
+            <Game>TR2R</Game>
+            <Game>Tomb Raider II Gold Remastered</Game>
+            <Game>Tomb Raider 2 Gold Remastered</Game>
+            <Game>Tomb Raider II: Golden Mask Remastered</Game>
+            <Game>Tomb Raider 2: Golden Mask Remastered</Game>
+            <Game>TRII Gold Remastered</Game>
+            <Game>TR2 Gold Remastered</Game>
+            <Game>TRII: Golden Mask Remastered</Game>
+            <Game>TR2: Golden Mask Remastered</Game>
+            <Game>Tomb Raider III Remastered</Game>
+            <Game>Tomb Raider 3 Remastered</Game>
+            <Game>TR3 Remastered</Game>
+            <Game>TR3R</Game>
+            <Game>Tomb Raider: The Lost Artifact Remastered</Game>
+            <Game>Tomb Raider The Lost Artifact Remastered</Game>
+            <Game>TR: The Lost Artifact Remastered</Game>
+            <Game>TR The Lost Artifact Remastered</Game>
+            <Game>TR:TLA Remastered</Game>
+            <Game>TLA Remastered</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/TombRunners/autosplitters/master/TR123/Components/TR123.dll</URL>
