@@ -21126,4 +21126,23 @@
         <Description>Autosplitter and Load Removal (By DeathHound6)</Description>
         <Website>https://www.speedrun.com/alice2010</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Tomb Raider I-III Remastered Starring Lara Croft</Game>
+            <Game>Tomb Raider 1-3 Remastered Starring Lara Croft</Game>
+            <Game>Tomb Raider I-III Remastered</Game>
+            <Game>Tomb Raider 1-3 Remastered</Game>
+            <Game>Tomb Raider Remastered I-III</Game>
+            <Game>Tomb Raider Remastered 1-3</Game>
+            <Game>TRR I-III</Game>
+            <Game>TRR 123</Game>
+            <Game>TR123</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/TombRunners/autosplitters/master/TR123/Components/TR123.dll</URL>
+        </URLs>
+        <Type>Component</Type>
+        <Description>Automatic Start, Split, and optional reset with IGT and RTA w/o Loads support for FG, IL, and deathruns. By Midge and apel.</Description>
+        <Website>https://github.com/TombRunners/Autosplitters</Website>
+    </AutoSplitter>
 </AutoSplitters>
