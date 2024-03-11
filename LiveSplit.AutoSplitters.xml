@@ -21202,4 +21202,14 @@
         <Description>Automatic Start, Split, and optional Reset. IGT and RTA w/o Loads. FG, IL, and deathruns. By Midge and apel.</Description>
         <Website>https://github.com/TombRunners/Autosplitters</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Pacific Drive</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/ItsTrigger/LiveSplit-Auto-Splitters/master/LiveSplit.PacificDrive.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto-splitting and load time removal is available. (By Trigger)</Description>
+    </AutoSplitter>
 </AutoSplitters>
