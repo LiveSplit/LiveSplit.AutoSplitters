@@ -16448,10 +16448,10 @@
             <Game>LEGO DC Super-Villains</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/melodyfast/LEGO-Autosplitters/main/DCSV-Autosplitter%2BLoadRemover.asl</URL>
+            <URL>https://raw.githubusercontent.com/Siedemnastek/Autosplitter/main/DCSV.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autosplitting and Load Removal is available. (By Elle.)</Description>
+        <Description>Autosplitting and Load Removal is available. (By Elle and Siedemnastek)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -21211,5 +21211,45 @@
         </URLs>
         <Type>Script</Type>
         <Description>Auto-splitting and load time removal is available. (By Trigger)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>LEGO Marvel Super Heroes</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Siedemnastek/Autosplitter/main/LMSH_Load3.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Removal is available. (By Siedemnastek)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>The LEGO NINJAGO Movie Video Game</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Siedemnastek/Autosplitter/main/Ninjago.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Removal is available. (By LoS)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>LEGO The Incredibles</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Siedemnastek/Autosplitter/main/LTI_Load.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Removal is available. (By Siedemnastek)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>LEGO Marvel Super Heroes 2</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Siedemnastek/Autosplitter/main/LMSH2Load.ASL</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Removal is available. (By Siedemnastek)</Description>
     </AutoSplitter>
 </AutoSplitters>
