@@ -10335,6 +10335,18 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Moonlight Pulse</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Coltaho/Autosplitters/master/MoonlightPulse/moonlightpulse_autosplit.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for Moonlight Pulse (By Coltaho)</Description>
+        <Website>https://github.com/Coltaho/Autosplitters/blob/master/MoonlightPulse/README.md</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Chrono Cross</Game>
         </Games>
         <URLs>
