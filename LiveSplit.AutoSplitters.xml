@@ -2,6 +2,17 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Twisted Metal: Small Brawl</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Nikoheartttv/Autosplitters/main/Twisted%20Metal%20-%20Small%20Brawl/TwistedMetalSmallBrawl.asl</URL>
+            <URL>https://github.com/Jujstme/emu-help/raw/master/lib/emu-help-v2</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting (Start/Split) by Nikoheart</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Twisted Metal 4</Game>
         </Games>
         <URLs>
