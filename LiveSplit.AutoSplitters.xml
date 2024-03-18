@@ -5119,12 +5119,16 @@
             <Game>Resident Evil / biohazard HD REMASTER</Game>
             <Game>REmaster</Game>
             <Game>REHD</Game>
+            <Game>RE1make</Game>
+            <Game>Resident Evil HD Remaster (Steam)</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/fatalis/ASL/master/REmaster.asl</URL>
+            <URL>https://raw.githubusercontent.com/TheDementedSalad/RE1make-Autosplitter/main/Resident%20Evil%201%20Remake.asl</URL>
+            <URL>https://raw.githubusercontent.com/TheDementedSalad/RE1make-Autosplitter/main/RE1make.Settings.xml</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Automatic Timer Start and Game Time is available. (By Fatalis)</Description>
+        <Description>Auto Splitting and Load Removal available. Compare to IGT. (By CursedToast &amp; Skhowl &amp; TheDementedSalad)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
