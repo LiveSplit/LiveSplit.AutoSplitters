@@ -19076,7 +19076,7 @@
             <Game>Gothic 2 Gold</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/thekovic/ASL-Autosplitters/main/Gothic.asl</URL>
+            <URL>https://raw.githubusercontent.com/Nuget94/ASL-Autosplitters/main/gothic2.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>LiveSplit connection for Gothic 1/2 Timer mod available</Description>
