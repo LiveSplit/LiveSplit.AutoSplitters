@@ -19803,12 +19803,14 @@
     <AutoSplitter>
         <Games>
             <Game>Pizza Tower</Game>
+            <Game>Pizza Tower Category Extensions</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/JavierMarcosFer/autosplitters/main/PizzaTowerAny%25.asl</URL>
+            <URL>https://github.com/cccarl/pizza-tower-autosplitter/releases/download/latest/pizza_tower_autosplitter.wasm</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Start, split and reset available (by XBC30EP450 and SunglassesEmoji)</Description>
+        <ScriptType>AutoSplittingRuntime</ScriptType>
+        <Description>Autosplitter with Game Time available (by SunglassesEmoji)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
