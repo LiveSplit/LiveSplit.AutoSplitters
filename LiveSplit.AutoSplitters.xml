@@ -18908,9 +18908,11 @@
     <AutoSplitter>
         <Games>
             <Game>Smol Ame</Game>
+            <Game>Smol Ame Category Extension</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/szczoo17/autosplitters/main/Smol%20Ame/smol_ame.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitter is available (by BloodyRedditor and Skoczek)</Description>
