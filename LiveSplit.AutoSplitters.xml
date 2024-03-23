@@ -21338,4 +21338,15 @@
         <Type>Script</Type>
         <Description>Load Removal is available. (By Siedemnastek)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Ys VIII: Lacrimosa of Dana</Game>
+        </Games>
+        <URLs>
+            <URL>https://gist.githubusercontent.com/JaddoSRL/6fd149ce6beb624ebf403423aecbfc7f/raw/Ys%25208%2520Load%2520Remover.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Remover for Ys VIII (by Jaddo)</Description>
+        <Website>https://gist.github.com/JaddoSRL/6fd149ce6beb624ebf403423aecbfc7f</Website>
+    </AutoSplitter>
 </AutoSplitters>
