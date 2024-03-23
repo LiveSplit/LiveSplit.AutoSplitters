@@ -13486,10 +13486,10 @@
             <Game>ShadowFlare</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/BurrowBird/Splitters/master/SF_Auto_Splitter.asl</URL>
+            <URL>https://raw.githubusercontent.com/BurrowBird/Splitters/master/SF_Auto_Splitter_v7%202024-03-23.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto-splitting and start is available. (by BurrowBird)</Description>
+        <Description>Auto-splitting, auto-start and load time removal are available. (by BurrowBird)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
