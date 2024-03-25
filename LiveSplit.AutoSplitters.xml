@@ -21351,4 +21351,14 @@
         <Description>Load Remover for Ys VIII (by Jaddo)</Description>
         <Website>https://gist.github.com/JaddoSRL/6fd149ce6beb624ebf403423aecbfc7f</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Elephantasy</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/pikachupower3/Elephantasy-Autosplitter/main/Elephantasy.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitter for Elephantasy (by peekadutch)</Description>
+    </AutoSplitter>
 </AutoSplitters>
