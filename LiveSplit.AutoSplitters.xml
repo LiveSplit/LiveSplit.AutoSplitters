@@ -5,8 +5,8 @@
             <Game>Alone in the Dark (2024)</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Nikoheartttv/Autosplitters/main/Alone%20in%20the%20Dark/AITD_2024.asl</URL>
-            <URL>https://raw.githubusercontent.com/Nikoheartttv/Autosplitters/main/Alone%20in%20the%20Dark/AITD_2024.Settings.xml</URL>
+            <URL>https://raw.githubusercontent.com/Nikoheartttv/Autosplitters/main/Alone%20in%20the%20Dark%20(2024)/AITD_2024.asl</URL>
+            <URL>https://raw.githubusercontent.com/Nikoheartttv/Autosplitters/main/Alone%20in%20the%20Dark%20(2024)/AITD_2024.Settings.xml</URL>
             <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
