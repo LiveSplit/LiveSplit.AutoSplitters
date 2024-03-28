@@ -2,6 +2,17 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Raw Metal</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/ArtyomBibikov/RawMetalASL/main/RawMetal.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting and Load Removal for Raw Metal by JAG (with settings)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Dead Rising: Chop Till You Drop</Game>
         </Games>
         <URLs>
