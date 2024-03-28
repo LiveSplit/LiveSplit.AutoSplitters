@@ -2,6 +2,18 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Alone in the Dark (2024)</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Nikoheartttv/Autosplitters/main/Alone%20in%20the%20Dark%20(2024)/AITD_2024.asl</URL>
+            <URL>https://raw.githubusercontent.com/Nikoheartttv/Autosplitters/main/Alone%20in%20the%20Dark%20(2024)/AITD_2024.Settings.xml</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter/Load Removal by Nikoheart and TheDementedSalad</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Dead Rising: Chop Till You Drop</Game>
         </Games>
         <URLs>
@@ -21350,6 +21362,16 @@
         <Type>Script</Type>
         <Description>Load Remover for Ys VIII (by Jaddo)</Description>
         <Website>https://gist.github.com/JaddoSRL/6fd149ce6beb624ebf403423aecbfc7f</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Elephantasy</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/pikachupower3/Elephantasy-Autosplitter/main/Elephantasy.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitter for Elephantasy (by peekadutch)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
