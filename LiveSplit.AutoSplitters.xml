@@ -12,6 +12,7 @@
         <Description>Autosplitting and Load Removal for Raw Metal by JAG (with settings)</Description>
     </AutoSplitter>
     <AutoSplitter>
+        <Games>
             <Game>Alone in the Dark (2024)</Game>
         </Games>
         <URLs>
