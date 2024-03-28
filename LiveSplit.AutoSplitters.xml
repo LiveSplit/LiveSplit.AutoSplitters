@@ -21373,4 +21373,14 @@
         <Type>Script</Type>
         <Description>Auto Splitter for Elephantasy (by peekadutch)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Dragon's Dogma 2</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/dmrzl/dragons-dogma-2/main/dd2.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting and Load Removal is available. (By dmrzl)</Description>
+    </AutoSplitter>
 </AutoSplitters>
