@@ -13,6 +13,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Buffy the Vampire Slayer: Chaos Bleeds</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/KunoDemetries/AutoSplitter/master/BuffyTheVampireSlayer.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter/LRT (By KunoDemetries)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Alone in the Dark (2024)</Game>
         </Games>
         <URLs>
