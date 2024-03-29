@@ -21404,4 +21404,16 @@
         <Type>Script</Type>
         <Description>Autosplitting and Load Removal is available. (By dmrzl)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Destroy All Humans! 2 - Reprobed</Game>
+            <Game>DAH2R</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/CptBrian/Autosplitters/master/DAH2R.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>(PC) DAH2R Load Remover (By CptBrian)</Description>
+        <Website>https://www.speedrun.com/dah2r</Website>
+    </AutoSplitter>
 </AutoSplitters>
