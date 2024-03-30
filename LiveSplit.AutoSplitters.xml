@@ -2,6 +2,16 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>South Park: Snow Day&#33;</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/LiveSplit.SouthParkSnowDay.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Remover by Streetbackguy</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Raw Metal</Game>
         </Games>
         <URLs>
