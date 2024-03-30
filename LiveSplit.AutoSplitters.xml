@@ -19030,10 +19030,11 @@
             <Game>Hell Pie</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/ShadowthePast/HellPieLoadRemover/main/hellpieloadremover.asl</URL>
+            <URL>https://raw.githubusercontent.com/CptBrian/Autosplitters/master/HellPie.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load remover for Hell Pie by ShadowthePast</Description>
+        <Description>Hell Pie Load remover by ShadowthePast and CptBrian</Description>
+        <Website>https://www.speedrun.com/hell_pie</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
