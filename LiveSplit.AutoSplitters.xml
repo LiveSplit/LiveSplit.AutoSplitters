@@ -21257,6 +21257,7 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/TheDementedSalad/Tekken-8-Autosplitter/main/Tekken%208.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Tekken 8 Autosplitter. Supports Main/Character Story Splits and Load Remover (by TheDementedSalad)</Description>
