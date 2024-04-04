@@ -2,6 +2,18 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Pepper Grinder</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Biksell/asl/main/Pepper%20Grinder/PepperGrinder.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting and IGT available (by Biksel)</Description>
+        <Website>https://github.com/Biksell/asl/blob/main/Pepper%20Grinder/README.md</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>South Park: Snow Day&#33;</Game>
         </Games>
         <URLs>
