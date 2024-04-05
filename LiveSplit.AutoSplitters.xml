@@ -20583,7 +20583,7 @@
             <Game>Capybro</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/ru-mii/AutoSplitters/main/capybro.asl</URL>
+            <URL>https://raw.githubusercontent.com/ru-mii/AutoSplitters/main/AutoSplitters/Games/Capybro/script.asl</URL>
             <URL>https://raw.githubusercontent.com/just-ero/asl-help/main/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
@@ -20746,7 +20746,7 @@
             <Game>Thunder Ray</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/ru-mii/AutoSplitters/main/thunderray.asl</URL>
+            <URL>https://raw.githubusercontent.com/ru-mii/AutoSplitters/main/AutoSplitters/Games/Thunder%20Ray/script.asl</URL>
             <URL>https://raw.githubusercontent.com/just-ero/asl-help/main/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
@@ -20854,7 +20854,7 @@
             <Game>Dolphin Spirit: Ocean Mission</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/ru-mii/AutoSplitters/main/dolphinspiritoceanmission.asl</URL>
+            <URL>https://raw.githubusercontent.com/ru-mii/AutoSplitters/main/AutoSplitters/Games/Dolphin%20Spirit%20Ocean%20Mission/script.asl</URL>
             <URL>https://raw.githubusercontent.com/just-ero/asl-help/main/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
@@ -21295,7 +21295,7 @@
             <Game>A Difficult Game About Climbing</Game>
         </Games>
         <URLs>   
-            <URL>https://raw.githubusercontent.com/ru-mii/AutoSplitters/main/adifficultgameaboutclimbing.asl</URL>
+            <URL>https://raw.githubusercontent.com/ru-mii/AutoSplitters/main/AutoSplitters/Games/A%20Difficult%20Game%20About%20Climbing/script.asl</URL>
             <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
