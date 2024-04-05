@@ -2,6 +2,20 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Fast and Furious Crossroads</Game>
+            <Game>Fast and Furious: Crossroads</Game>
+            <Game>Fast &amp; Furious Crossroads</Game>
+            <Game>Fast &amp; Furious: Crossroads</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/SuiMachine/LiveSplit.ASLScripts/master/FF_Crossroads/FF_Crossroads.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load removal is available. (by SuicideMachine)</Description>
+        <Website>https://github.com/SuiMachine/LiveSplit.ASLScripts/</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Pepper Grinder</Game>
         </Games>
         <URLs>
