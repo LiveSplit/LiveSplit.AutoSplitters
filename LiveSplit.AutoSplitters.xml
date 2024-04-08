@@ -2,6 +2,17 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>LEGO Star Wars II: The Original Trilogy (Console)</Game>
+            <Game>LEGO Star Wars II: The Original Trilogy</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Biksell/asl/main/LEGO%20Star%20Wars%20II/LSW2.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load removal is available. (by Biksel)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Fast and Furious Crossroads</Game>
             <Game>Fast and Furious: Crossroads</Game>
             <Game>Fast &amp; Furious Crossroads</Game>
