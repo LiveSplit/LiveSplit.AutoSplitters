@@ -2,6 +2,16 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Content Warning</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Vaqquixx8/autosplitters/main/ContentWarning.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Removal, Autosplit and Start</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>MySims</Game>
         </Games>
         <URLs>
