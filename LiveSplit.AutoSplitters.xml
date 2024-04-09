@@ -2,6 +2,16 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>MySims</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/LiveSplit.MySims.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Removal by streetbackguy</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>LEGO Star Wars II: The Original Trilogy (Console)</Game>
             <Game>LEGO Star Wars II: The Original Trilogy</Game>
         </Games>
@@ -1856,7 +1866,7 @@
             <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/LiveSplit.SWTFU.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load Removal by streetbackguy</Description>
+        <Description>Autostart, Autosplitter and Load Removal by streetbackguy</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
