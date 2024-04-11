@@ -21504,4 +21504,15 @@
         <Description>(PC) DAH2R Load Remover (By CptBrian)</Description>
         <Website>https://www.speedrun.com/dah2r</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Minishoot' Adventures</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/pr0te/MinishootAdventuresLoadRemover/main/Minishoot.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load removal by pr0te</Description>
+        <Website>https://www.speedrun.com/Minishoot</Website>
+    </AutoSplitter>
 </AutoSplitters>
