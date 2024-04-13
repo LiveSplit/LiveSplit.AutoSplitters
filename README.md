@@ -1,5 +1,7 @@
 # Auto Splitters
 
+[![Build Status](https://github.com/LiveSplit/LiveSplit.AutoSplitters/workflows/CI/badge.svg)](https://github.com/LiveSplit/LiveSplit.AutoSplitters/actions)
+
 <!-- TOC depth:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 - [Features of an Auto Splitter](#features-of-an-auto-splitter)
