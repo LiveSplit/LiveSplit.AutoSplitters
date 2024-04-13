@@ -2,6 +2,16 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Dragon's Dogma: Dark Arisen</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/LiveSplit.DragonsDogmaDarkArisen.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Removal, Autosplitter and Autostart by Streetbackguy</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Content Warning</Game>
         </Games>
         <URLs>
