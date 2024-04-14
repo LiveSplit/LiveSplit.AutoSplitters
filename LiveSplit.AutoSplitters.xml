@@ -21525,4 +21525,15 @@
         <Description>Load removal by pr0te</Description>
         <Website>https://www.speedrun.com/Minishoot</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Vagrant Story (US-NTSC)</Game>
+        </Games>
+        <URLs>
+            <URL>https://gist.githubusercontent.com/tomasz-rozanski/b7b7f82e6b58661a73975d718ef43338/raw/VargantStory-US-NTSC-emuhelp.asl</URL>
+            <URL>https://github.com/Jujstme/emu-help/raw/master/lib/emu-help-v2</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Automatic Start, Split and Reset by Rosto</Description>
+    </AutoSplitter>
 </AutoSplitters>
