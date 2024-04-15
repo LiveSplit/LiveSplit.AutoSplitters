@@ -21536,4 +21536,16 @@
         <Type>Script</Type>
         <Description>Automatic Start, Split and Reset by Rosto</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Bears In Space</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/TheDementedSalad/Bears-In-Space-Autosplitter/main/BearsInSpace.asl</URL>
+            <URL>https://raw.githubusercontent.com/TheDementedSalad/Bears-In-Space-Autosplitter/main/BiS.Settings.xml</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitting and Load Removal available. Compare to IGT. (By TheDementedSalad)</Description>
+    </AutoSplitter>
 </AutoSplitters>
