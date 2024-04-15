@@ -5083,6 +5083,7 @@
     <AutoSplitter>
         <Games>
             <Game>Rayman 2: The Great Escape</Game>
+			<Game>Rayman 2: The Great Escape Category Extensions</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/RibShark/Rayman2AutoSplitter/master/LiveSplit.Rayman2.asl</URL>
