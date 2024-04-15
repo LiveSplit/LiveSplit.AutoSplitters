@@ -21528,10 +21528,10 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
-            <Game>Vagrant Story (US-NTSC)</Game>
+            <Game>Vagrant Story</Game>
         </Games>
         <URLs>
-            <URL>https://gist.githubusercontent.com/tomasz-rozanski/b7b7f82e6b58661a73975d718ef43338/raw/VargantStory-US-NTSC-emuhelp.asl</URL>
+            <URL>https://raw.githubusercontent.com/tomasz-rozanski/vagrant-story-autosplitter/main/VagrantStory.asl</URL>
             <URL>https://github.com/Jujstme/emu-help/raw/master/lib/emu-help-v2</URL>
         </URLs>
         <Type>Script</Type>
