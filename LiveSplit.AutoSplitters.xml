@@ -14636,7 +14636,7 @@
             <URL>https://raw.githubusercontent.com/ItsMaximum/autosplitters/master/gd.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Removes Geometry Dash load times and automatically splits upon 100% completion of a level. (By ItsMaximum)</Description>
+        <Description>Removes Geometry Dash load times and automatically splits upon 100% completion of a level. (By Maximum)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -14646,7 +14646,7 @@
             <URL>https://raw.githubusercontent.com/ItsMaximum/autosplitters/master/run2.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Automatically starts timer upon first character movement and splits after level completion. (By ItsMaximum)</Description>
+        <Description>Automatically starts timer upon first character movement and splits after level completion. (By Maximum)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -15034,7 +15034,7 @@
             <URL>https://raw.githubusercontent.com/SquareMan/LiveSplit.BfBBRehydrated/master/LiveSplit.BfBBRehydrated/Components/LiveSplit.BfBBRehydrated.dll</URL>
         </URLs>
         <Type>Component</Type>
-        <Description>Configurable Autosplitting Is Available (By TheCoolSquare, Micrologist, and ItsMaximum)</Description>
+        <Description>Configurable Autosplitting Is Available (By TheCoolSquare, Micrologist, and Maximum)</Description>
         <Website>https://github.com/SquareMan/LiveSplit.BfBBRehydrated</Website>
     </AutoSplitter>
     <AutoSplitter>
@@ -15259,6 +15259,16 @@
     <AutoSplitter>
         <Games>
             <Game>Red Ball</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/ItsMaximum/autosplitters/master/rb1improved.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Perfectly splits upon completing each level. Click "Website" to download the right game version. (By Maximum)</Description>
+        <Website>https://drive.google.com/file/d/12X0J05rZ6gRnPgybDJuz56xGGnxjaOev/view?usp=sharing</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Red Ball 2</Game>
             <Game>Red Ball 3</Game>
             <Game>Red Ball 4 Vol.1</Game>
@@ -15273,7 +15283,7 @@
             <URL>https://raw.githubusercontent.com/ItsMaximum/autosplitters/master/RedBallGames.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Splits, starts, and resets. Click "Website" for the right game version and the README. (By ItsMaximum, Ero)</Description>
+        <Description>Splits, starts, and resets. Click "Website" for the right game version and the README. (By Maximum, Ero)</Description>
         <Website>https://drive.google.com/file/d/1dvM7VoIdnX9sEo7OB6J7ybNcZG_ZrCpp/view?usp=sharing</Website>
     </AutoSplitter>
     <AutoSplitter>
