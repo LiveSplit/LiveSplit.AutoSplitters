@@ -21580,4 +21580,14 @@
         <Type>Script</Type>
         <Description>Auto Splitting and Load Removal available. Compare to IGT. (By TheDementedSalad)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Vic de Vitaminevreter</Game>
+        </Games>
+        <URLs>   
+            <URL>https://raw.githubusercontent.com/ru-mii/AutoSplitters/main/AutoSplitters/Games/Vic%20De%20Vitaminevreter/VicDeVitaminevreter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter with Start, Reset and configurable Splits (by rumii)</Description>
+    </AutoSplitter>
 </AutoSplitters>
