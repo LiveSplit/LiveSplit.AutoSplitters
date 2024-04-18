@@ -21590,4 +21590,14 @@
         <Type>Script</Type>
         <Description>Autosplitter with Start, Reset and configurable Splits (by rumii)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Scrap Mechanic</Game>
+        </Games>
+        <URLs>   
+            <URL>https://raw.githubusercontent.com/ElliotGH/autosplitters/main/scrap-mechanic.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load remover and Auto starter made by ElliotGH</Description>
+    </AutoSplitter>
 </AutoSplitters>
