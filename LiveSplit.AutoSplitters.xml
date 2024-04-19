@@ -21600,4 +21600,16 @@
         <Type>Script</Type>
         <Description>Load remover and Auto starter made by ElliotGH</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>BIOMORPH</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Jarlyk/BIOMORPH-Autosplitter/main/BIOMORPH.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitter for BIOMORPH (by Jarlyk)</Description>
+        <Website>https://www.speedrun.com/biomorph</Website>
+    </AutoSplitter>    
 </AutoSplitters>
