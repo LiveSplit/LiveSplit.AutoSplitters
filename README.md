@@ -155,7 +155,7 @@ You can use as many offsets `OFFSET` as you want. They need to be integer litera
 
 The State Variables described through the State Descriptor are available through two State objects: `current` and `old`. The `current` object contains the current state of the game with all the up-to-date variables, while the `old` object contains the state of the variables at the last execution of the ASL Script in LiveSplit. These objects are useful for checking for state changes. For example, you could check if the last level of a game was a certain value and is now a certain other value, which might mean that a split needs to happen.
 
-LiveSplit's internal state is also available through the object `timer`. This is an object of the type [`LiveSplitState`](https://github.com/LiveSplit/LiveSplit/blob/master/LiveSplit/LiveSplit.Core/Model/LiveSplitState.cs) and can be used to interact with LiveSplit in ways that are not directly available through ASL.
+LiveSplit's internal state is also available through the object `timer`. This is an object of the type [`LiveSplitState`](https://github.com/LiveSplit/LiveSplit/blob/master/src/LiveSplit.Core/Model/LiveSplitState.cs) and can be used to interact with LiveSplit in ways that are not directly available through ASL.
 
 ### Actions
 
