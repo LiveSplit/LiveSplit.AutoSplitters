@@ -5160,10 +5160,11 @@
             <Game>Portal: After Hours</Game>
         </Games>
         <URLs>
-            <URL>https://s.portal2.sr/asl</URL>
+            <URL>https://github.com/p2sr/sar-auto-splitter/releases/download/latest/sar_auto_splitter.wasm</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Game Time and Auto Splitting are available. (By NeKz and mlugg)</Description>
+        <ScriptType>AutoSplittingRuntime</ScriptType>
+        <Description>AutoSplittingRuntime game time/autosplitter by NeKz</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
