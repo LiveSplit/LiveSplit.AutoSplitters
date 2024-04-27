@@ -21612,5 +21612,16 @@
         <Type>Script</Type>
         <Description>Auto Splitter for BIOMORPH (by Jarlyk)</Description>
         <Website>https://www.speedrun.com/biomorph</Website>
-    </AutoSplitter>    
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Teslagrad 2</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Lusther/Teslagrad2_Autosplitter/main/teslagrad2.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitter for Teslagrad 2 (by Lusther)</Description>
+        <Website>https://github.com/Lusther/Teslagrad2_Autosplitter</Website>
+    </AutoSplitter>   
 </AutoSplitters>
