@@ -21623,5 +21623,16 @@
         <Type>Script</Type>
         <Description>Auto Splitter for Teslagrad 2 (by Lusther)</Description>
         <Website>https://github.com/Lusther/Teslagrad2_Autosplitter</Website>
-    </AutoSplitter>   
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>BADKARMA</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/WafuRuns/ASLScripts/master/LiveSplit.BADKARMA.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto-splitting (by Wafu)</Description>
+        <Website>https://github.com/KawaiiWafu/ASLScripts</Website>
+    </AutoSplitter> 
 </AutoSplitters>
