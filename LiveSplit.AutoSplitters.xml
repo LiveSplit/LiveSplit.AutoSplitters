@@ -8452,11 +8452,13 @@
             <Game>REmake 2</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/VideoGameRoulette/re2-remake-autosplitter/master/re2.asl</URL>
+            <URL>https://raw.githubusercontent.com/TheDementedSalad/re2-remake-autosplitter/master/re2.asl</URL>
+            <URL>https://raw.githubusercontent.com/TheDementedSalad/re2-remake-autosplitter/master/RE2make.Settings.xml</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto Splitting and Load Removal available. Compare against Game Time. (By CursedToast and VideoGameRoulette)</Description>
-        <Website>https://github.com/VideoGameRoulette/re2-remake-autosplitter/blob/master/README.md</Website>
+        <Description>Auto Splitting and IGT available. Compare against Game Time. (By CursedToast &amp; VideoGameRoulette &amp; TheDementedSalad)</Description>
+        <Website>https://github.com/TheDementedSalad/re2-remake-autosplitter/blob/master/README.md</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -20143,6 +20145,10 @@
     <AutoSplitter>
         <Games>
             <Game>Resident Evil 4 (2023)</Game>
+            <Game>Resident Evil 4 Remake</Game>
+            <Game>RE4Make</Game>
+            <Game>RE4 Remake</Game>
+            <Game>Resident Evil 4 Category Extensions (2023)</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/TheDementedSalad/RE4Make-Autosplitter/main/Resident%20Evil%204%20Remake.asl</URL>
