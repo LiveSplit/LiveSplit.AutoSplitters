@@ -21645,5 +21645,25 @@
         <Type>Script</Type>
         <Description>Auto-splitting (by Wafu)</Description>
         <Website>https://github.com/KawaiiWafu/ASLScripts</Website>
-    </AutoSplitter> 
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>LEGO Marvel's Avengers</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Siedemnastek/Autosplitter/main/LMA.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Removal is available. (By Siedemnastek)</Description>
+    </AutoSplitter>
+        <AutoSplitter>
+        <Games>
+            <Game>The LEGO Movie Videogame</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Siedemnastek/Autosplitter/main/LM1.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Removal is available. (By Siedemnastek)</Description>
+    </AutoSplitter>
 </AutoSplitters>
