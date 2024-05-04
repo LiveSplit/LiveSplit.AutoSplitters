@@ -2,6 +2,17 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Indika</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Nikoheartttv/Autosplitters/main/Indika/Indika.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter/Load Removal by Nikoheart</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Bad Way</Game>
         </Games>
         <URLs>
