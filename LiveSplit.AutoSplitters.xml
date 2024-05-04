@@ -21671,4 +21671,16 @@
         <Type>Script</Type>
         <Description>Load Removal is available. (By Siedemnastek)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Another Crab's Treasure</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Jarlyk/ACT.AutoSplitter/main/AnotherCrabsTreasure.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto splitter with load removal (by Jarlyk)</Description>
+        <Website>https://www.speedrun.com/Another_Crabs_Treasure</Website>
+    </AutoSplitter>
 </AutoSplitters>
