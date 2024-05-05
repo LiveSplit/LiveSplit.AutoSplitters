@@ -8203,6 +8203,7 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/hwangbro/ASLScripts/master/LiveSplit.PkmnTCG/LiveSplit.PkmnTCG.asl</URL>
+            <URL>https://github.com/Jujstme/emu-help/raw/master/lib/emu-help-v2</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Auto Splitting and Auto Start/Reset are available on GSR. (By Hwangbro)</Description>
@@ -8218,11 +8219,12 @@
             <Game>Pokemon Red/Blue</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Spiraster/ASLScripts/master/LiveSplit.PkmnRed/LiveSplit.PkmnRed.asl</URL>
+            <URL>https://raw.githubusercontent.com/hwangbro/ASLScripts/master/LiveSplit.PkmnRed/LiveSplit.PkmnRed.asl</URL>
+            <URL>https://github.com/Jujstme/emu-help/raw/master/lib/emu-help-v2</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto Splitting and Auto Start/Reset are available on GSR. (By Spiraster)</Description>
-        <Website>https://github.com/Spiraster/ASLScripts/tree/master/LiveSplit.PkmnRed</Website>
+        <Description>Auto Splitting and Auto Start/Reset are available on GSR. (By Spiraster/Hwangbro)</Description>
+        <Website>https://github.com/hwangbro/ASLScripts/tree/master/LiveSplit.PkmnRed</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -8235,6 +8237,7 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/hwangbro/ASLScripts/master/LiveSplit.PkmnRed/LiveSplit.PkmnRedCustomStarter.asl</URL>
+            <URL>https://github.com/Jujstme/emu-help/raw/master/lib/emu-help-v2</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Auto Splitting and Auto Start/Reset are available on GSR. (By Hwangbro)</Description>
@@ -8249,6 +8252,7 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/hwangbro/ASLScripts/master/LiveSplit.PkmnRed%2B%2B/LiveSplit.PkmnRed%2B%2B.asl</URL>
+            <URL>https://github.com/Jujstme/emu-help/raw/master/lib/emu-help-v2</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Auto Splitting and Auto Start/Reset are available on GSR. (By Hwangbro)</Description>
@@ -8261,6 +8265,7 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/hwangbro/ASLScripts/master/LiveSplit.PkmnYellow/LiveSplit.PkmnYellow.asl</URL>
+            <URL>https://github.com/Jujstme/emu-help/raw/master/lib/emu-help-v2</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Auto Splitting and Auto Start/Reset are available on GSR. (By Hwangbro)</Description>
@@ -8277,6 +8282,7 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/hwangbro/ASLScripts/master/LiveSplit.PkmnGold/LiveSplit.PkmnGold.asl</URL>
+            <URL>https://github.com/Jujstme/emu-help/raw/master/lib/emu-help-v2</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Auto Splitting is available on GSR. (By Hwangbro)</Description>
@@ -8289,10 +8295,24 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/hwangbro/ASLScripts/master/LiveSplit.PkmnCrystal/LiveSplit.PkmnCrystal.asl</URL>
+            <URL>https://github.com/Jujstme/emu-help/raw/master/lib/emu-help-v2</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Auto Splitting is available on GSR. (By Hwangbro)</Description>
         <Website>https://github.com/hwangbro/ASLScripts/tree/master/LiveSplit.PkmnCrystal</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Pokémon LeafGreen</Game>
+            <Game>Pokemon LeafGreen</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/hwangbro/ASLScripts/master/LiveSplit.PkmnFRLG/LiveSplit.LeafGreen.asl</URL>
+            <URL>https://github.com/Jujstme/emu-help/raw/master/lib/emu-help-v2</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitting is available on GSR/mGBA. (By Hwangbro)</Description>
+        <Website>https://github.com/hwangbro/ASLScripts/tree/master/LiveSplit.PkmnFRLG</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -16651,12 +16671,14 @@
     <AutoSplitter>
         <Games>
             <Game>Pokémon Emerald</Game>
+            <Game>Pokemon Emerald</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/NextLevelMemes/Master/master/PokemonEmerald.asl</URL>
+            <URL>https://raw.githubusercontent.com/hwangbro/ASLScripts/master/LiveSplit.PkmnEmerald/LiveSplit.Emerald.asl</URL>
+            <URL>https://github.com/Jujstme/emu-help/raw/master/lib/emu-help-v2</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autosplitter by NextLevelMemes</Description>
+        <Description>Auto Splitting is available on GSR/mGBA. (By Hwangbro)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
