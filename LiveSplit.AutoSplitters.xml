@@ -17403,17 +17403,6 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
-            <Game>Diablo II: Resurrected</Game>
-        </Games>
-        <URLs>
-            <URL>https://raw.githubusercontent.com/WafuRuns/ASLScripts/master/LiveSplit.Diablo2Resurrected.asl</URL>
-        </URLs>
-        <Type>Script</Type>
-        <Description>Load removal (by Wafu)</Description>
-        <Website>https://github.com/WafuRuns/ASLScripts</Website>
-    </AutoSplitter>
-    <AutoSplitter>
-        <Games>
             <Game>Ace Combat 7</Game>
             <Game>Ace Combat 7: Skies Unknown</Game>
         </Games>
