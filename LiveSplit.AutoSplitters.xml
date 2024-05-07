@@ -18122,6 +18122,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>ULTRAKILL - Category Extensions</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/Mysterion06/Ultrakill/raw/main/ULTRAKILL.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Starts, splits, resets automatically. Syncs to in-game time. (by Ero, 10_days_till_xmas)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Untitled Goose Game</Game>
             <Game>Untitled Goose Game Category Extensions</Game>
         </Games>
