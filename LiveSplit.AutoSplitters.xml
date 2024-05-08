@@ -2,6 +2,17 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Muddy Heights 2</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/opDavi1/asl/main/MuddyHeights2.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting available (by opDavi1)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Swords and Sandals 1: Gladiator</Game>
         </Games>
         <URLs>
