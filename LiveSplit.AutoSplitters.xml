@@ -21717,4 +21717,15 @@
         <Description>Auto splitter with load removal (by Jarlyk)</Description>
         <Website>https://www.speedrun.com/Another_Crabs_Treasure</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Shipwrecked 64</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/ru-mii/AutoSplitters/main/AutoSplitters/Games/Shipwrecked%2064/Shipwrecked64.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter with Start, Reset and configurable Splits (by rumii)</Description>
+        <Website>https://www.speedrun.com/Shipwrecked_64</Website>
+    </AutoSplitter>
 </AutoSplitters>
