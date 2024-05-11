@@ -21729,4 +21729,14 @@
         <Description>Autosplitter with Start, Reset and configurable Splits (by rumii)</Description>
         <Website>https://www.speedrun.com/Shipwrecked_64</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Dr Robotnik's Ring Racers</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/troy236/DRRR-AutoSplitter/main/autosplitter_ringracers.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting available (by troy236)</Description>
+    </AutoSplitter>
 </AutoSplitters>
