@@ -2,6 +2,17 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Sker Ritual</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/mitchell-merry/autosplitters/main/Sker%20Ritual/skerritual.asl</URL>
+            <URL>https://github.com/mitchell-merry/asl-help/blob/issue-13-bandaid/lib/asl-help-sker-ritual-patch</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/split is available. (By diggity)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Muddy Heights 2</Game>
         </Games>
         <URLs>
