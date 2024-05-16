@@ -4077,6 +4077,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Duck Life 9: The Flock</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Caarda/autosplitters/main/dl9.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Removal for Duck Life 9: The Flock (By Caarda)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Learn to Fly 2</Game>
         </Games>
         <URLs>
