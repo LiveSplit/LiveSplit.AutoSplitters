@@ -12424,6 +12424,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Worms W.M.D</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/WormsSpeedrunning/LiveSplit.WormsWMD/main/LiveSplit.WormsWMD.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitting and Auto Start are available for all Any% categories</Description>
+        <Website>https://github.com/WormsSpeedrunning/LiveSplit.WormsWMD</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Tomb Raider: Legend</Game>
         </Games>
         <URLs>
