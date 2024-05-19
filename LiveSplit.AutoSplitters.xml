@@ -21773,4 +21773,15 @@
         <Type>Script</Type>
         <Description>Autosplitting available (by troy236)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>LEGO Island 2: The Brickster's Revenge (PC)</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/PpetterL/LiveSplit.AutoSplitters/main/LI2AutoSplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter with optional Start and optional Reset (by PpetterL)</Description>
+        <Website>https://www.speedrun.com/PpetterL</Website>
+    </AutoSplitter>
 </AutoSplitters>
