@@ -1510,6 +1510,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Little Kitty, Big City</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/Jujstme/LiveSplit.LittleKittyBigCity/releases/download/latest/livesplit_little_kitty.wasm</URL>
+        </URLs>
+        <Type>Script</Type>
+        <ScriptType>AutoSplittingRuntime</ScriptType>
+        <Description>Auto splitter and load remover (by Jujstme)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>MEATGRINDER</Game>
         </Games>
         <URLs>
