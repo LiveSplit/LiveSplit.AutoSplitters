@@ -2758,6 +2758,20 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>My Little Pony: A Zephyr Heights Mystery</Game>
+            <Game>My Little Pony: AZHM</Game>
+            <Game>MLP: AZHM</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Ebunix/mlp-amba-autosplits/main/MLP_AZHM_Autosplit.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Supports auto start and split on each load, as well as load time removal (By Ebunix)</Description>
+        <Website>https://github.com/Ebunix/mlp-amba-autosplits</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Prodeus</Game>
         </Games>
         <URLs>
