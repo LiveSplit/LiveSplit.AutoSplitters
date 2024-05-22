@@ -5225,7 +5225,7 @@
             <Game>FakeFactory's Cinematic Mod</Game>
         </Games>
         <URLs>
-            <URL>http://fatalis.pw/livesplit/update/Components/LiveSplit.SourceSplit.dll</URL>
+            <URL>https://github.com/fatalis/SourceSplit/releases/latest/download/LiveSplit.SourceSplit.dll</URL>
         </URLs>
         <Type>Component</Type>
         <Description>Game Time and Auto Splitting are available. (By Fatalis)</Description>
@@ -5317,7 +5317,7 @@
             <Game>LCGoL</Game>
         </Games>
         <URLs>
-            <URL>http://fatalis.pw/livesplit/update/Components/LiveSplit.GoLSplit.dll</URL>
+            <URL>https://github.com/fatalis/LiveSplit.LaraCroftGoL/releases/latest/download/LiveSplit.GoLSplit.dll</URL>
         </URLs>
         <Type>Component</Type>
         <Description>Load Removal and Auto Splitting are available. (By Fatalis)</Description>
@@ -5331,8 +5331,8 @@
             <Game>Halo PC</Game>
         </Games>
         <URLs>
-            <URL>http://fatalis.pw/livesplit/update/Components/LiveSplit.HaloSplit.dll</URL>
-            <URL>http://fatalis.pw/livesplit/update/Components/LiveSplit.HaloSplit.UI.dll</URL>
+            <URL>https://github.com/fatalis/HaloSplit/releases/latest/download/LiveSplit.HaloSplit.dll</URL>
+            <URL>https://github.com/fatalis/HaloSplit/releases/latest/download/LiveSplit.HaloSplit.UI.dll</URL>
         </URLs>
         <Type>Component</Type>
         <Description>Auto Splitting is available. (By Fatalis)</Description>
@@ -5345,9 +5345,9 @@
             <Game>Mirror's Edge (PC)</Game>
         </Games>
         <URLs>
-            <URL>http://fatalis.pw/livesplit/update/Components/LiveSplit.MirrorsEdgeNoLoads.dll</URL>
-            <URL>http://fatalis.pw/livesplit/update/Components/menl_hooks.dll</URL>
-            <URL>http://fatalis.pw/livesplit/update/Components/menl_findloadlibrary.exe</URL>
+            <URL>https://github.com/fatalis/LiveSplit.MirrorsEdge/releases/latest/download/LiveSplit.MirrorsEdgeNoLoads.dll</URL>
+            <URL>https://github.com/fatalis/LiveSplit.MirrorsEdge/releases/latest/download/menl_hooks.dll</URL>
+            <URL>https://github.com/fatalis/LiveSplit.MirrorsEdge/releases/latest/download/menl_findloadlibrary.exe</URL>
         </URLs>
         <Type>Component</Type>
         <Description>Load Removal is available. (By Fatalis)</Description>
