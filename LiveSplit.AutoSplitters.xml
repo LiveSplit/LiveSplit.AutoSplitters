@@ -2,6 +2,26 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>TetherGeist</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/dreary-dugong/tethergeist_utils/main/autosplitters/TG-Dev_herbspercent_splitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>TetherGeist Autosplitter for Herbs% category by dreary_dugong aka dreary-dugong</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>TetherGeist</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/dreary-dugong/tethergeist_utils/main/autosplitters/TG-Dev_anypercent_splitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>TetherGeist Autosplitter for Any% category by dreary_dugong aka dreary-dugong</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Mullet Mad Jack</Game>
         </Games>
         <URLs>
