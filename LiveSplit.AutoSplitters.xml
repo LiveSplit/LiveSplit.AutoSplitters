@@ -2,6 +2,17 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Senua’s Saga: Hellblade II</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/CactusDuper/HB2-Autosplitter/main/HB2.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>IGT Checkpoint/Chapter splits + autostart/reset by CactusDuper</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Mullet Mad Jack</Game>
         </Games>
         <URLs>
