@@ -21876,4 +21876,16 @@
         <Description>Autosplitter with optional Start and optional Reset (by PpetterL)</Description>
         <Website>https://www.speedrun.com/PpetterL</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Baby Sniper In Vietnam</Game>
+        </Games>
+        <URLs>   
+            <URL>https://raw.githubusercontent.com/ru-mii/AutoSplitters/main/AutoSplitters/Games/Baby%20Sniper%20In%20Vietnam/BabySniperInVietnam.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter with Start, Reset and configurable Splits (by rumii)</Description>
+        <Website>https://www.speedrun.com/Baby_Sniper_In_Vietnam</Website>
+    </AutoSplitter>
 </AutoSplitters>
