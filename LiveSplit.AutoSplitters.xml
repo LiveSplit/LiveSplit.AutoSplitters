@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
+     <AutoSplitter>
+        <Games>
+            <Game>Escape From School</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Zeuba-Speedruns/AutoSplitters/main/Escape%20From%20School/EscapeFromSchool.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/split/reset by Vocatis, Rouzard, bobbywan-kenoby.</Description>
+        <Website>https://github.com/Zeuba-Speedruns/AutoSplitters/blob/main/Escape%20From%20School/README.md</Website>
+    </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>Senua’s Saga: Hellblade II</Game>
