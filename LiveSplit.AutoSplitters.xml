@@ -21899,4 +21899,15 @@
         <Description>Autosplitter with Start, Reset and configurable Splits (by rumii)</Description>
         <Website>https://www.speedrun.com/Baby_Sniper_In_Vietnam</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Angry Birds</Game>
+        </Games>
+        <URLs>   
+            <URL>https://raw.githubusercontent.com/Biksell/asl/main/Angry%20Birds/ab_classic.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting available (by Biksel)</Description>
+        <Website>https://github.com/Biksell/asl/blob/main/Angry%20Birds/README.md</Website>
+    </AutoSplitter>
 </AutoSplitters>
