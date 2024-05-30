@@ -21911,4 +21911,15 @@
         <Description>Autosplitting available (by Biksel)</Description>
         <Website>https://github.com/Biksell/asl/blob/main/Angry%20Birds/README.md</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Awesome Tanks</Game>
+        </Games>
+        <URLs>   
+            <URL>https://raw.githubusercontent.com/Biksell/asl/main/Awesome%20Tanks/AwesomeTanks.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting available (by Biksel)</Description>
+        <Website>https://github.com/Biksell/asl/blob/main/Awesome%20Tanks/README.md</Website>
+    </AutoSplitter>
 </AutoSplitters>
