@@ -21871,9 +21871,10 @@
             <Game>Dr Robotnik's Ring Racers</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/troy236/DRRR-AutoSplitter/main/autosplitter_ringracers.asl</URL>
+            <URL>https://github.com/troy236/DRRR-AutoSplitter/raw/main/ringracers.wasm</URL>
         </URLs>
         <Type>Script</Type>
+        <ScriptType>AutoSplittingRuntime</ScriptType>
         <Description>Autosplitting available (by troy236)</Description>
     </AutoSplitter>
     <AutoSplitter>
