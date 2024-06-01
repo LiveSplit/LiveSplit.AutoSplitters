@@ -21913,13 +21913,13 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
-            <Game>Awesome Tanks</Game>
+            <Game>Marble Mania</Game>
         </Games>
         <URLs>   
-            <URL>https://raw.githubusercontent.com/Biksell/asl/main/Awesome%20Tanks/AwesomeTanks.asl</URL>
+            <URL>https://github.com/cyanbeast01/Marble-Mania/blob/main/Marble-Mania-livesplliter(buggy).asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autosplitting available (by Biksel)</Description>
-        <Website>https://github.com/Biksell/asl/blob/main/Awesome%20Tanks/README.md</Website>
+        <Description>Autosplitting for Marble Mania (buggy)</Description>
+        <Website>https://github.com/cyanbeast01/Marble-Mania/blob/main/Marble-Mania-livesplliter(buggy).asl</Website>
     </AutoSplitter>
 </AutoSplitters>
