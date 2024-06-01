@@ -21923,4 +21923,15 @@
         <Description>Autosplitting available (by Biksel)</Description>
         <Website>https://github.com/Biksell/asl/blob/main/Awesome%20Tanks/README.md</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Indigo Park: Chapter 1</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/DxtrPog/IndigoParkAutoSplitter/main/IPAutosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for Indigo Park: Chapter 1 (By DxtrPog)</Description>
+        <Website>https://github.com/DxtrPog/IndigoParkAutoSplitter/blob/main/README.md</Website>
+    </AutoSplitter>
 </AutoSplitters>
