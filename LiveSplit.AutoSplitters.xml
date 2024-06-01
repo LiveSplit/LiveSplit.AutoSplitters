@@ -21848,11 +21848,12 @@
             <Game>Another Crab's Treasure</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Jarlyk/ACT.AutoSplitter/main/AnotherCrabsTreasure.asl</URL>
+            <URL>https://raw.githubusercontent.com/TheDementedSalad/Another-Crab-s-Treasure-Autosplitter/main/Another%20Crabs%20Treasure.asl</URL>
+            <URL>https://raw.githubusercontent.com/TheDementedSalad/Another-Crab-s-Treasure-Autosplitter/main/ACT.Settings.xml</URL>
             <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto splitter with load removal (by Jarlyk)</Description>
+        <Description>Auto splitter with load removal (by Jarlyk &amp; Ero &amp; TheDementedSalad)</Description>
         <Website>https://www.speedrun.com/Another_Crabs_Treasure</Website>
     </AutoSplitter>
     <AutoSplitter>
