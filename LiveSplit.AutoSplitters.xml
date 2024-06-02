@@ -13,6 +13,17 @@
     </AutoSplitter>
      <AutoSplitter>
         <Games>
+            <Game>Rakugaki / RKGK</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Nikoheartttv/Autosplitters/main/RKGK/RKGK.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart, Load Remover and Autosplitter by Nikoheart</Description>
+     </AutoSplitter>
+     <AutoSplitter>
+        <Games>
             <Game>Escape From School</Game>
         </Games>
         <URLs>
