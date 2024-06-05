@@ -8894,13 +8894,14 @@
     <AutoSplitter>
         <Games>
             <Game>Max Payne</Game>
+            <Game>Max Payne 1</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/zoton2/LiveSplit.Scripts/master/Release/LiveSplit.MaxPayne.asl</URL>
+            <URL>https://raw.githubusercontent.com/thekovic/ASL-Autosplitters/main/MaxPayne1.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load Removal is available. (By zoton2)</Description>
-        <Website>https://github.com/zoton2/LiveSplit.Scripts</Website>
+        <Description>Load Removal and Auto Splitting is available. (By Endurance)</Description>
+        <Website>https://github.com/thekovic/LiveSplit.AutoSplitters</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
