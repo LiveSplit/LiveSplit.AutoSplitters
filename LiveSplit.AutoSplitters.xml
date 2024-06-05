@@ -21980,4 +21980,16 @@
         <Description>Autosplitter for Indigo Park: Chapter 1 (By DxtrPog)</Description>
         <Website>https://github.com/DxtrPog/IndigoParkAutoSplitter/blob/main/README.md</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Altf42</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/TheDementedSalad/ALTF42-Autosplitter/main/AltF42.asl</URL>
+            <URL>https://raw.githubusercontent.com/TheDementedSalad/ALTF42-Autosplitter/main/ALTF42.Settings.xml</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto splitter with load removal (by TheDementedSalad &amp; Rumii)</Description>
+    </AutoSplitter>
 </AutoSplitters>
