@@ -2,6 +2,18 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Chants of Sennaar</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/dwang733/chants-of-sennaar-autosplitter/main/chantsofsennaar.asl</URL>
+            <URL>https://raw.githubusercontent.com/dwang733/chants-of-sennaar-autosplitter/main/chantsofsennaar.Settings.xml</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/split/reset by CertifiedPyro, Thedoczek</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Autopsy Simulator</Game>
         </Games>
         <URLs>
