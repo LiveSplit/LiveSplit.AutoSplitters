@@ -2,6 +2,18 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Nine Sols</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/buanjautista/LiveSplit-ASL/main/NineSols-LoadRemover.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Start/Reset and Load Remover (by Juanba)</Description>
+       <Website>https://www.speedrun.com/nine_sols</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Chants of Sennaar</Game>
         </Games>
         <URLs>
