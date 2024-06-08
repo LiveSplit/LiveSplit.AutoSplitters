@@ -14,6 +14,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Dismantled</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/mitchell-merry/livesplit-zdoom/releases/download/latest/dismantled.wasm</URL>
+        </URLs>
+        <Type>Script</Type>
+        <ScriptType>AutoSplittingRuntime</ScriptType>
+        <Description>Autosplitting and load removal is available. (By diggity)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Chants of Sennaar</Game>
         </Games>
         <URLs>
