@@ -20534,6 +20534,18 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Eiyuden Chronicle: Hundred Heroes</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/Eein/eiyuden-chronicle-autosplitter-wasm/releases/latest/download/eiyuden_chronicle_autosplitter_wasm.wasm</URL>
+        </URLs>
+        <Type>Script</Type>
+        <ScriptType>AutoSplittingRuntime</ScriptType>
+        <Description>Load Removal (by SuperFamicom)</Description>
+        <Website>https://github.com/Eein/eiyuden-chronicle-autosplitter-wasm</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Live A Live (2022)</Game>
         </Games>
         <URLs>
