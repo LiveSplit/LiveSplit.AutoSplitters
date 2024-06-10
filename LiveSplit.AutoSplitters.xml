@@ -22064,4 +22064,17 @@
         <Type>Script</Type>
         <Description>Auto splitter with load removal (by TheDementedSalad &amp; Rumii)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>The Big Catch</Game>
+            <Game>The Big Catch: Tacklebox</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Biksell/asl/main/The%20Big%20Catch/TheBigCatch.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting available (by Biksel)</Description>
+        <Website>https://github.com/Biksell/asl/blob/main/The%20Big%20Catch/README.md</Website>
+    </AutoSplitter>
 </AutoSplitters>
