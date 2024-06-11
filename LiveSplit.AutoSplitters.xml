@@ -2,6 +2,18 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>BloodRayne</Game>
+            <Game>BloodRayne: Terminal Cut</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Degaussed/Livesplit-ASL-scripts/master/bloodrayne.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting and load removal is available. (By Heki & ToxicTT)</Description>
+        <Website>https://www.speedrun.com/bloodrayne</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Snap the Sentinel</Game>
             <Game>Snap the Sentinel (Demo)</Game>
         </Games>
