@@ -22077,4 +22077,17 @@
         <Description>Autosplitting available (by Biksel)</Description>
         <Website>https://github.com/Biksell/asl/blob/main/The%20Big%20Catch/README.md</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Bō: Path of the Teal Lotus</Game>
+            <Game>Bo: Path of the Teal Lotus</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Biksell/asl/main/Bo%20Path%20of%20the%20Teal%20Lotus/BoPotL.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>IGT and Autosplitting available (by Biksel)</Description>
+        <Website>https://github.com/Biksell/asl/blob/main/Bo%20Path%20of%20the%20Teal%20Lotus/README.md</Website>
+    </AutoSplitter>
 </AutoSplitters>
