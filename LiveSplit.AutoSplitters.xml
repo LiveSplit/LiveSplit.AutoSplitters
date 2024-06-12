@@ -22102,4 +22102,15 @@
         <Description>IGT and Autosplitting available (by Biksel)</Description>
         <Website>https://github.com/Biksell/asl/blob/main/Bo%20Path%20of%20the%20Teal%20Lotus/README.md</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>The Dungeon</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Lakuna/TheDungeonAutoSplitter/master/The%20Dungeon.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>An auto splitter for The Dungeon ("pedit5") (by Lakuna)</Description>
+        <Website>https://github.com/Lakuna/TheDungeonAutoSplitter</Website>
+    </AutoSplitter>
 </AutoSplitters>
