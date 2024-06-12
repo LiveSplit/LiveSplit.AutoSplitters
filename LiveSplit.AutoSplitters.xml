@@ -6,7 +6,7 @@
             <Game>Snap the Sentinel (Demo)</Game>
         </Games>
         <URLs>
-            <URL>https://github.com/mitchell-merry/livesplit-zdoom/releases/download/latest/snap_the_sentinel.wasm</URL>
+            <URL>https://github.com/mitchell-merry/livesplit-zdoom/releases/latest/download/snap_the_sentinel.wasm</URL>
         </URLs>
         <Type>Script</Type>
         <ScriptType>AutoSplittingRuntime</ScriptType>
@@ -29,7 +29,7 @@
             <Game>Dismantled</Game>
         </Games>
         <URLs>
-            <URL>https://github.com/mitchell-merry/livesplit-zdoom/releases/download/latest/dismantled.wasm</URL>
+            <URL>https://github.com/mitchell-merry/livesplit-zdoom/releases/latest/download/dismantled.wasm</URL>
         </URLs>
         <Type>Script</Type>
         <ScriptType>AutoSplittingRuntime</ScriptType>
@@ -3201,7 +3201,7 @@
             <Game>Selaco</Game>
         </Games>
         <URLs>
-            <URL>https://github.com/mitchell-merry/livesplit-zdoom/releases/download/latest/selaco.wasm</URL>
+            <URL>https://github.com/mitchell-merry/livesplit-zdoom/releases/latest/download/selaco.wasm</URL>
         </URLs>
         <Type>Script</Type>
         <ScriptType>AutoSplittingRuntime</ScriptType>
