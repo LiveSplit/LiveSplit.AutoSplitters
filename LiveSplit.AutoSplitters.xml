@@ -22124,4 +22124,17 @@
         <Description>Splodey Autosplitter by roddy</Description>
         <Website>https://github.com/RoddyDev/Splodey-AutoSplitter</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Sworn Demo</Game>
+            <Game>Sworn</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Biksell/asl/main/SWORN/SWORN.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>IGT and Autosplitting available (by Biksel)</Description>
+        <Website>https://github.com/Biksell/asl/blob/main/SWORN/README.md</Website>
+    </AutoSplitter>
 </AutoSplitters>
