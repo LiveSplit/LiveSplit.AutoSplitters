@@ -22113,4 +22113,15 @@
         <Description>An auto splitter for The Dungeon ("pedit5") (by Lakuna)</Description>
         <Website>https://github.com/Lakuna/TheDungeonAutoSplitter</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Splodey</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/RoddyDev/Splodey-AutoSplitter/main/Splodey.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Splodey Autosplitter by roddy</Description>
+        <Website>https://github.com/RoddyDev/Splodey-AutoSplitter</Website>
+    </AutoSplitter>
 </AutoSplitters>
