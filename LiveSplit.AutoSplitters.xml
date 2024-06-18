@@ -16008,6 +16008,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Hades 2</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Hades-Speedrunning/Livesplit-Autosplitters/main/hades2.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and Reset (SystematicSkid/cgull)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Spelunky 2</Game>
         </Games>
         <URLs>
