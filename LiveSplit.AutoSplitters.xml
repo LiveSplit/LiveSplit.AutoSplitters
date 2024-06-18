@@ -16972,13 +16972,20 @@
     <AutoSplitter>
         <Games>
             <Game>Pokémon Ruby/Sapphire</Game>
+            <Game>Pokemon Ruby/Sapphire</Game>
             <Game>Pokémon Ruby/Sapphire Category Extensions</Game>
+            <Game>Pokemon Ruby/Sapphire Category Extensions</Game>
+            <Game>Pokemon Sapphire</Game>
+            <Game>Pokemon Ruby</Game>
+            <Game>Pokémon Sapphire</Game>
+            <Game>Pokémon Ruby</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/NextLevelMemes/Master/master/PokemonRubySapphire.asl</URL>
+            <URL>https://raw.githubusercontent.com/hwangbro/ASLScripts/master/LiveSplit.PkmnRubySapphire/LiveSplit.RubySapphire.asl</URL>
+            <URL>https://github.com/Jujstme/emu-help/raw/master/lib/emu-help-v2</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autosplitter by NextLevelMemes</Description>
+        <Description>Auto Splitting is available on GSR/mGBA. (By Hwangbro)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
