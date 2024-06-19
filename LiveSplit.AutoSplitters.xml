@@ -22161,4 +22161,16 @@
         <Description>IGT and Autosplitting available (by Biksel)</Description>
         <Website>https://github.com/Biksell/asl/blob/main/SWORN/README.md</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Still Wakes the Deep</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/TheDementedSalad/Still-Wakes-the-Deep-Autosplitter/main/StillWakesTheDeep.asl</URL>
+            <URL>https://raw.githubusercontent.com/TheDementedSalad/Still-Wakes-the-Deep-Autosplitter/main/SWtD.Settings.xml</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitting and Load Removal available. Compare to IGT. (By TheDementedSalad &amp; Nikoheart)</Description>
+    </AutoSplitter>
 </AutoSplitters>
