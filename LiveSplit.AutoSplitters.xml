@@ -22175,4 +22175,15 @@
         <Type>Script</Type>
         <Description>Auto Splitting and Load Removal available. Compare to IGT. (By TheDementedSalad &amp; Nikoheart)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Lively Chair Simulator</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Niko-Salocin/LivelyChairSimulator-AutoSplit/main/LCS%20autosplit.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto splitter by Niko Salocin</Description>
+    </AutoSplitter>
 </AutoSplitters>
