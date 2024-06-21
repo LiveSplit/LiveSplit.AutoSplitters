@@ -22177,6 +22177,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Chained Together</Game>
+        </Games>
+        <URLs>
+            <URL>https://gist.githubusercontent.com/wRadion/6a015c7373e54c6dcd48f978a3ab6378/raw/chained_together_autosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter by wRadion &amp; xiaoxiao921</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Lively Chair Simulator</Game>
         </Games>
         <URLs>
@@ -22185,5 +22195,5 @@
         </URLs>
         <Type>Script</Type>
         <Description>Auto splitter by Niko Salocin</Description>
-    </AutoSplitter>
+     </AutoSplitter>
 </AutoSplitters>
