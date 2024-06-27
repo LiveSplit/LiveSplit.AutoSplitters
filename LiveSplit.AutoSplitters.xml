@@ -22203,4 +22203,14 @@
         <Type>Script</Type>
         <Description>Auto splitter by Niko Salocin</Description>
      </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>POD: Planet of Death</Game>
+        </Games>
+        <URLs>
+            <URL>https://gitlab.com/Syroot/Pod/LiveSplit/-/raw/main/pod.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto splitter for Championships using the In-Game Timer</Description>
+    </AutoSplitter>
 </AutoSplitters>
