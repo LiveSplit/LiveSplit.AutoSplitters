@@ -3801,6 +3801,18 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Furious Fish</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/CryZe/furious-fish-auto-splitter/releases/download/latest/furious_fish_auto_splitter.wasm</URL>
+        </URLs>
+        <Type>Script</Type>
+        <ScriptType>AutoSplittingRuntime</ScriptType>
+        <Description>Auto Splitting and Game Time are available (by CryZe)</Description>
+        <Website>https://github.com/CryZe/furious-fish-auto-splitter</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Facility 47</Game>
         </Games>
         <URLs>
