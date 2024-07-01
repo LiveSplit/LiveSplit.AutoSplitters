@@ -22247,4 +22247,14 @@
         <Type>Script</Type>
         <Description>IGT and Autosplitter available for MG2 across all PS2 discs (By TheDementedSalad)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Platform 8</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/luciferofastora/exit-platform-8-autosplit/main/Platform%208.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart, -stop and -reset for Platform 8 (By Lucifer Of Astora)</Description>
+    </AutoSplitter>
 </AutoSplitters>
