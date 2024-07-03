@@ -16301,11 +16301,11 @@
             <Game>The Lion King (SNES)</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/kannadan/autosplitter/master/autosplit_lion_king_snes.asl</URL>
+            <URL>https://raw.githubusercontent.com/SBDWolf/ASL-Autosplitters/main/TheLionKingSNES/autosplit_lion_king_snes.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto start and split for snes9x v1.60 and higan v110(by kannadan)</Description>
-        <Website>https://www.speedrun.com/lionkingsnes</Website>
+        <Description>Autosplitting available for some versions of snes9x, bsnes, and higan (by SBDWolf and kannadan)</Description>
+        <Website>https://github.com/SBDWolf/ASL-Autosplitters/tree/main/TheLionKingSNES</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
