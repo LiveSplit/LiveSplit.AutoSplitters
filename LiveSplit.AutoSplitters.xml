@@ -13819,6 +13819,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Alien Shooter</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Mysterion06/AlienShooterSplitter/main/AlienShooterASL.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter by Mysterion352</Description>
+        <Website>https://github.com/Mysterion06/AlienShooterSplitter/blob/main/README.md</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>GTA2</Game>
             <Game>GTA 2</Game>
             <Game>Grand Theft Auto 2</Game>
