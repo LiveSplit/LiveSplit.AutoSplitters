@@ -18603,7 +18603,7 @@
         </Games>
         <URLs>
             <URL>https://github.com/just-ero/asl/raw/main/Gunfire%20Reborn/GunfireReborn.asl</URL>
-            <URL>https://github.com/just-ero/asl-help/raw/main/lib/UnityASL.bin</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Starts, resets automatically. Splits available in the settings. Pauses when dying. (by Ero)</Description>
