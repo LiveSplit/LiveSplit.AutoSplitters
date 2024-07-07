@@ -22259,4 +22259,15 @@
         <Type>Script</Type>
         <Description>Autostart, -stop and -reset for Platform 8 (By Lucifer Of Astora)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Kingdom Hearts II Final Mix Randomizer</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/aliosgaming/KH2FM_Load_Remover-FOR-RANDOMIZER/main/LiveSplit.KH2Randomizer.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>PC and Steam Support - Load Remover for KH2FM Randomizer Runs ONLY</Description>
+        <Website>https://github.com/aliosgaming/KH2FM_Load_Remover-FOR-RANDOMIZER/blob/main/LiveSplit.KH2Randomizer.asl</Website>
+    </AutoSplitter>
 </AutoSplitters>
