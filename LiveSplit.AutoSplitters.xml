@@ -2,6 +2,16 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Blade II</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Mattmatt10111/asl-scripts/master/BladeIIEMU.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Start & Autosplitting by Mattmatt</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Fallen Aces</Game>
         </Games>
         <URLs>
