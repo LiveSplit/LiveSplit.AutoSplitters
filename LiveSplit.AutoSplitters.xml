@@ -6,6 +6,7 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/Mattmatt10111/asl-scripts/master/BladeIIEMU.asl</URL>
+            <URL>https://github.com/Jujstme/emu-help/raw/master/lib/emu-help-v2</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Auto Start & Autosplitting by Mattmatt</Description>
