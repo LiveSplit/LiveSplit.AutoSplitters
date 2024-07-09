@@ -18639,11 +18639,11 @@
             <Game>Hello Neighbor</Game>
         </Games>
         <URLs>
-            <URL>https://github.com/just-ero/asl/raw/main/Hello%20Neighbor/HelloNeighbor.asl</URL>
+            <URL>https://raw.githubusercontent.com/MenzoFr/asl/Hello-Neighbor/Hn%201-1-6%20Lag%20Abuse.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Starts automatically. Removes loads. (by Ero)</Description>
-        <Website>https://github.com/just-ero/asl/tree/main/Hello%20Neighbor</Website>
+        <Description>Auto Start, Auto Reset, Auto Split and Load Remover (By Menzo)</Description>
+        <Website>https://github.com/MenzoFr/asl/blob/Hello-Neighbor</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
