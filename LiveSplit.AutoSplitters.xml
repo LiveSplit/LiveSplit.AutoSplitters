@@ -7902,6 +7902,8 @@
     <AutoSplitter>
         <Games>
             <Game>Braid</Game>
+            <Game>Braid, Anniversary Edition</Game>
+            <Game>Braid: Anniversary Edition</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/jbzdarkid/Autosplitters/master/LiveSplit.Braid.asl</URL>
