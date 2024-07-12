@@ -16686,13 +16686,16 @@
     <AutoSplitter>
         <Games>
             <Game>Outer Wilds</Game>
+            <Game>Outer Wilds Category Extensions</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/sseneca42/Outer-Wilds-Autosplitter/main/OW_Autosplitter.asl</URL>
+            <URL>https://raw.githubusercontent.com/78epo/Autosplitters/main/Outer%20Wilds/OW_Autosplitter.asl</URL>
+            <URL>https://raw.githubusercontent.com/78epo/Autosplitters/main/Outer%20Wilds/data.owsave</URL>
+            <URL>https://raw.githubusercontent.com/78epo/Autosplitters/main/Outer%20Wilds/OW_Shiplog.csv</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Load Remover and AutoSplitter (by Nepo)</Description>
-        <Website>https://github.com/sseneca42/Outer-Wilds-Autosplitter/blob/main/README.md</Website>
+        <Website>https://github.com/78epo/Autosplitters/tree/main/Outer%20Wilds</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -17343,11 +17346,11 @@
             <Game>Sunblaze</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/sseneca42/Autosplitters/main/Sunblaze/Sunblaze_Autosplitter.asl</URL>
+            <URL>https://raw.githubusercontent.com/78epo/Autosplitters/main/Sunblaze/Sunblaze_Autosplitter.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>AutoSplitter (by Nepo)</Description>
-        <Website>https://github.com/sseneca42/Autosplitters/tree/main/Sunblaze</Website>
+        <Website>https://github.com/78epo/Autosplitters/tree/main/Sunblaze</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -18147,11 +18150,11 @@
             <Game>Cave Crawler</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/sseneca42/Autosplitters/main/Cave%20Crawler/CaveCrawler_Autosplitter.asl</URL>
+            <URL>https://raw.githubusercontent.com/78epo/Autosplitters/main/Cave%20Crawler/CaveCrawler_Autosplitter.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>AutoSplitter (by Nepo)</Description>
-        <Website>https://github.com/sseneca42/Autosplitters/tree/main/Cave%20Crawler</Website>
+        <Website>https://github.com/78epo/Autosplitters/tree/main/Cave%20Crawler</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
