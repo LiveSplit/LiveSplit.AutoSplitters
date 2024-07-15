@@ -18554,6 +18554,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>DESPOSIS</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/just-ero/asl/raw/main/DESPOSIS/DESPOSIS.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Starts, resets automatically. Splits per level and when the game is completed. Removes loads. (by Ero)</Description>
+        <Website>https://github.com/just-ero/asl/tree/main/DESPOSIS</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Devil Daggers</Game>
         </Games>
         <URLs>
