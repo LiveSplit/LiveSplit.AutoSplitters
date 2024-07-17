@@ -22310,4 +22310,16 @@
         <Description>PC and Steam Support - Load Remover for KH2FM Randomizer Runs ONLY</Description>
         <Website>https://github.com/aliosgaming/KH2FM_Load_Remover-FOR-RANDOMIZER/blob/main/LiveSplit.KH2Randomizer.asl</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Barnyard</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/InfiniteC0re/LiveSplit.BarnyardSplits/releases/latest/download/LiveSplit.BarnyardSplits.dll</URL>
+        </URLs>
+        <Type>Component</Type>
+        <Description>Game Time and Automatic Start/Split are available. Requires BYSpeedrunHelper. (By InfiniteC0re)</Description>
+        <Website>https://github.com/InfiniteC0re/LiveSplit.BarnyardSplits</Website>
+        <ShowInLayoutEditor />
+    </AutoSplitter>
 </AutoSplitters>
