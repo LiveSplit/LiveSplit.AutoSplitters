@@ -22315,7 +22315,7 @@
             <Game>Barnyard</Game>
         </Games>
         <URLs>
-            <URL>https://github.com/InfiniteC0re/LiveSplit.BarnyardSplits/releases/latest/download/LiveSplit.BarnyardSplits.dll</URL>
+            <URL>http://storage.opentoshi.net/BarnyardSplits/LiveSplit.BarnyardSplits.dll</URL>
         </URLs>
         <Type>Component</Type>
         <Description>Game Time and Automatic Start/Split are available. Requires BYSpeedrunHelper. (By InfiniteC0re)</Description>
