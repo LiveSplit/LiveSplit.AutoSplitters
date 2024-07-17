@@ -307,9 +307,10 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/Biksell/asl/main/LEGO%20Star%20Wars%20II/LSW2.asl</URL>
+            <URL>https://github.com/Jujstme/emu-help/raw/master/lib/emu-help-v2</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load removal is available. (by Biksel)</Description>
+        <Description>Autosplitting and load removal available. (by Biksel)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
