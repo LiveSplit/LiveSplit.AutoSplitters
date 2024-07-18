@@ -5539,12 +5539,11 @@
             <Game>Halo PC</Game>
         </Games>
         <URLs>
-            <URL>https://github.com/fatalis/HaloSplit/releases/latest/download/LiveSplit.HaloSplit.dll</URL>
-            <URL>https://github.com/fatalis/HaloSplit/releases/latest/download/LiveSplit.HaloSplit.UI.dll</URL>
+            <URL>https://raw.githubusercontent.com/Cambidd/halopc-autosplitter/main/h1pc-autosplitter.asl</URL>
         </URLs>
-        <Type>Component</Type>
-        <Description>Auto Splitting is available. (By Fatalis)</Description>
-        <Website>https://github.com/fatalis/halosplit/blob/master/README.md</Website>
+        <Type>Script</Type>
+        <Description>Autosplitting for Halo: CE (2003 PC version, By Cambid)</Description>
+        <Website>https://github.com/Cambidd/halopc-autosplitter</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
