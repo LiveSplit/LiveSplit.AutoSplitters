@@ -1696,7 +1696,7 @@
             <Game>Amanda The Adventurer</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/NERS1111/Autosplitter.Projects/main/Unity.AmandaTheAdventurerFULLGAME.asl</URL>
+            <URL>https://raw.githubusercontent.com/ners_xd/Autosplitter.Projects/main/Unity.AmandaTheAdventurerFULLGAME.asl</URL>
             <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
@@ -1957,7 +1957,7 @@
             <Game>Boson X</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/NERS1111/Autosplitter.Projects/main/Lotech.BosonX.asl</URL>
+            <URL>https://raw.githubusercontent.com/ners_xd/Autosplitter.Projects/main/Lotech.BosonX.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Auto start and split supported. (By NERS)</Description>
@@ -7780,7 +7780,7 @@
             <Game>Undertale Yellow</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/NERS1111/Autosplitter.Projects/main/GameMaker.UndertaleYellow.asl</URL>
+            <URL>https://raw.githubusercontent.com/ners_xd/Autosplitter.Projects/main/GameMaker.UndertaleYellow.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Auto start, split and reset supported for the full game. (By NERS)</Description>
@@ -7791,7 +7791,7 @@
             <Game>Undertale Yellow (Demo)</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/NERS1111/Autosplitter.Projects/main/GameMaker.UndertaleYellowDemo.asl</URL>
+            <URL>https://raw.githubusercontent.com/ners_xd/Autosplitter.Projects/main/GameMaker.UndertaleYellowDemo.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Auto start, split and reset supported for the demo. (By NERS)</Description>
@@ -7803,7 +7803,7 @@
             <Game>TS!Underswap (Demo)</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/NERS1111/Autosplitter.Projects/main/GameMaker.TSUnderswapDemo.asl</URL>
+            <URL>https://raw.githubusercontent.com/ners_xd/Autosplitter.Projects/main/GameMaker.TSUnderswapDemo.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Auto start, split and reset supported for the demo. (By NERS)</Description>
