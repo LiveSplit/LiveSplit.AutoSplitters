@@ -22344,4 +22344,15 @@
         <Website>https://github.com/InfiniteC0re/LiveSplit.BarnyardSplits</Website>
         <ShowInLayoutEditor />
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Anger Foot (Steam)</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/dmrzl/anger_foot/main/LiveSplit.AngerFoot.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>AutoStart, Autosplitter and Load Remover by dmrzl</Description>
+    </AutoSplitter>
 </AutoSplitters>
