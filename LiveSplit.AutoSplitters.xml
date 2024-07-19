@@ -19041,6 +19041,18 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>4D Golf</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/thearst3rd/4dgolf-asr/releases/download/latest/asr_4dgolf.wasm</URL>
+        </URLs>
+        <Type>Script</Type>
+        <ScriptType>AutoSplittingRuntime</ScriptType>
+        <Description>Configurable auto start, split, reset, and load removal (by thearst3rd, DerKO)</Description>
+        <Website>https://codeberg.org/thearst3rd/4dgolf-asr</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Have a Nice Death</Game>
         </Games>
         <URLs>
