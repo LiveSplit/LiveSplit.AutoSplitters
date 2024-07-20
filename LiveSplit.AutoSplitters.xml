@@ -4600,11 +4600,11 @@
             <Game>The Hobbit</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/GabrielVonSchneider/Livesplit-Autosplitters/master/hobbit-1.3.asl</URL>
+            <URL>https://github.com/Shockster218/Hobbit-PC-Autosplitter/raw/main/Hobbit%20PC%20All-in-One%20Autosplitter.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autosplitter by MD_Pi for version 1.3</Description>
-        <Website>https://github.com/GabrielVonSchneider/Livesplit-Autosplitters</Website>
+        <Description>Autosplitter by MD_Pi and Shockster for version 1.3</Description>
+        <Website>https://github.com/Shockster218/Hobbit-PC-Autosplitter</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
