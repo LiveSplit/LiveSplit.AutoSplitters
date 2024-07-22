@@ -11553,10 +11553,10 @@
             <Game>F.E.A.R.: First Encounter Assault Recon</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/rythin-sr/ASL-Scripts/master/FEAR.asl</URL>
+            <URL>https://raw.githubusercontent.com/StunninglyWrong/asl-fear1/main/fear1.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load Removal and Autosplitting are available (by rythin)</Description>
+        <Description>Auto Start/Split and Load Removal</Description>
         <Website>https://discordapp.com/invite/HvhUuHw</Website>
     </AutoSplitter>
     <AutoSplitter>
