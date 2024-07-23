@@ -13856,6 +13856,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Sanabi</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Mysterion06/SanabiSplitter/main/SANABISplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>IGT with Level splits by Mysterion352</Description>
+        <Website>https://github.com/Mysterion06/SanabiSplitter/blob/main/README.md</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>GTA2</Game>
             <Game>GTA 2</Game>
             <Game>Grand Theft Auto 2</Game>
