@@ -2,6 +2,17 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Playback Loop</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/JaioCG/autosplitters/master/Playback%20Loop/playbackloop.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter by Jaio</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Light Crusader</Game>
         </Games>
         <URLs>
