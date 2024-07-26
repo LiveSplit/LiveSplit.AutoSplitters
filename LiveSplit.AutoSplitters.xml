@@ -22377,4 +22377,24 @@
         <Type>Script</Type>
         <Description>AutoStart, Autosplitter and Load Remover by dmrzl</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Need for Speed: Shift</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Balathruin/Autosplitters/main/Shift_102.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Remover and Autosplitter for NFS Shift 1.02 by Balathruin and WillTreaty</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Shift 2: Unleashed</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Balathruin/Autosplitters/main/Shift2_102.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Remover and Autosplitter for Shift 2: Unleashed 1.02 by Balathruin and WillTreaty</Description>
+    </AutoSplitter>
 </AutoSplitters>
