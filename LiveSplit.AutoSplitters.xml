@@ -22397,4 +22397,14 @@
         <Type>Script</Type>
         <Description>Load Remover and Autosplitter for Shift 2: Unleashed 1.02 by Balathruin and WillTreaty</Description>
     </AutoSplitter>
+        <AutoSplitter>
+        <Games>
+            <Game>LEGO City Undercover</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Siedemnastek/Autosplitter/main/lcuLoad.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Removal is available.</Description>
+    </AutoSplitter>
 </AutoSplitters>
