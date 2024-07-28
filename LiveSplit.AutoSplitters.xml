@@ -22226,12 +22226,12 @@
             <Game>Bo: Path of the Teal Lotus</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Biksell/asl/main/Bo%20Path%20of%20the%20Teal%20Lotus/BoPotL.asl</URL>
-            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+            <URL>https://github.com/DevinR528/bo_autosplitter/releases/download/latest/bo_teal_lotus.wasm</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>IGT and Autosplitting available (by Biksel)</Description>
-        <Website>https://github.com/Biksell/asl/blob/main/Bo%20Path%20of%20the%20Teal%20Lotus/README.md</Website>
+        <ScriptType>AutoSplittingRuntime</ScriptType>
+        <Description>IGT and Autosplitting for Bo</Description>
+        <Website>https://github.com/DevinR528/bo_autosplitter/issues</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
