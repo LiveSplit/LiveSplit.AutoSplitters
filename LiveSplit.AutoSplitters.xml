@@ -22407,4 +22407,14 @@
         <Type>Script</Type>
         <Description>Load Removal is available. (By MarvelousBilly)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Diluvian Ultra</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/aut0mat1clol/DiluvianUltraASL/main/deluvianASL.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Removal and Auto Splitter is available. (By aut0mat1clol)</Description>
+    </AutoSplitter>
 </AutoSplitters>
