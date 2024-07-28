@@ -22417,4 +22417,14 @@
         <Type>Script</Type>
         <Description>Load Removal and Auto Splitter is available. (By aut0mat1clol)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>SCHiM</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/vojtechblazek/SCHiM-Autosplitter/main/SCHiMASL.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>SCHiM Auto Splitter by vojtechblazek</Description>
+    </AutoSplitter>
 </AutoSplitters>
