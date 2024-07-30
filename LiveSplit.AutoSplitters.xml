@@ -17114,6 +17114,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Beyblade: Let it Rip!</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/MrMonsh/Auto-Splitters/main/Beyblade%3A%20Let%20It%20Rip/Beyblade_LetItRip_Auto-Splitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Beyblade: Let it Rip! Auto-Splitter and Load Remover (by MrMonsh)</Description>
+        <Website>https://github.com/MrMonsh/Auto-Splitters/tree/main/Beyblade%3A%20Let%20It%20Rip</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Pepsiman</Game>
         </Games>
         <URLs>
