@@ -22438,4 +22438,14 @@
         <Type>Script</Type>
         <Description>SCHiM Auto Splitter by vojtechblazek</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Divinity: Original Sin Enhanced Edition</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/fstxz/dos-asl/master/dos.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Remover</Description>
+    </AutoSplitter>
 </AutoSplitters>
