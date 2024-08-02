@@ -22449,4 +22449,15 @@
         <Type>Script</Type>
         <Description>Load Remover</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Final Fantasy VIII</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/bodcap/ff8-auto-splitter/main/FF8Autosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto-splitter and CSR break pause (by naputimu, kaivel, jester1610, ElliotOrnitier)</Description>
+        <Website>https://github.com/bodcap/ff8-auto-splitter</Website>
+    </AutoSplitter>
 </AutoSplitters>
