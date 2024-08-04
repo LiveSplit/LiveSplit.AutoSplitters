@@ -15607,6 +15607,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Conscript</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/kapdap/conscript-autosplitter/master/conscript.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Start and Auto Splitting at chapter end. (By Kapdap)</Description>
+        <Website>https://github.com/kapdap/conscript-autosplitter</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>RITE</Game>
         </Games>
         <URLs>
