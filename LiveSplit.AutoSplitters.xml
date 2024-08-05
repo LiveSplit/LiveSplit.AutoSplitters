@@ -5985,6 +5985,7 @@
     <AutoSplitter>
         <Games>
             <Game>Fallout 4</Game>
+            <Game>Fallout 4 Category Extensions</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/Dalet/livesplit-asl/master/Fallout4/LiveSplit.Fallout4.asl</URL>
@@ -6046,6 +6047,7 @@
     <AutoSplitter>
         <Games>
             <Game>Fallout 3</Game>
+            <Game>Fallout 3 Category Extensions</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/Radioactiv03/fallout-loadremovers/main/fallout3.asl</URL>
@@ -6061,6 +6063,7 @@
             <Game>Fallout: NV</Game>
             <Game>Fallout NV</Game>
             <Game>FONV</Game>
+            <Game>Fallout: New Vegas Category Extensions</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/Radioactiv03/fallout-loadremovers/main/falloutnv.asl</URL>
