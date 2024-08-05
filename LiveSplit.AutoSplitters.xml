@@ -19712,6 +19712,7 @@
     <AutoSplitter>
         <Games>
             <Game>OpenGOAL: Jak 1</Game>
+            <Game>OpenGOAL: Jak 1 Category Extension</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/open-goal/speedrunning/master/jak1/opengoal-jak1-autosplitter.asl</URL>
