@@ -6224,11 +6224,10 @@
             <Game>Wolfenstein</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Jujstme/Autosplitters/master/Wolfenstein/LiveSplit.Wolfenstein.asl</URL>
+            <URL>https://raw.githubusercontent.com/Gemr007/Wolfenstein-2009-Advanced-Load-Remover-Autosplitter/main/Wolf2009splitter.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load Remover (By Jujstme)</Description>
-        <Website>https://github.com/Jujstme/Autosplitters/tree/master/Wolfenstein</Website>
+        <Description>Autosplitter and Load Remover by M_E_T_A_L_I_S_T___S_P_1_D</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
