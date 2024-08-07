@@ -8299,6 +8299,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>COCOON</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/TehGelly/autosplitters/master/cocoon.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitting is available. (By Gelly)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Aporia: Beyond The Valley</Game>
         </Games>
         <URLs>
