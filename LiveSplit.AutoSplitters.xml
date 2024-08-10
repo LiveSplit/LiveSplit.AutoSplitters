@@ -22484,4 +22484,15 @@
         <Description>Auto-splitter and CSR break pause (by naputimu, kaivel, jester1610, ElliotOrnitier)</Description>
         <Website>https://github.com/bodcap/ff8-auto-splitter</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Bejeweled Twist</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/HyperNervie/Bejeweled-Autosplitters/main/BejeweledTwist.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto splitter for Bejeweled Twist</Description>
+        <Website>https://github.com/HyperNervie/Bejeweled-Autosplitters</Website>
+    </AutoSplitter>
 </AutoSplitters>
