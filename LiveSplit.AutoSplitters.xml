@@ -22550,4 +22550,15 @@
         <Description>Auto splitter for Bejeweled Twist</Description>
         <Website>https://github.com/HyperNervie/Bejeweled-Autosplitters</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Tetris with Cardcaptor Sakura Eternal Heart</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/ElliotOrnitier/Livesplit-Autosplitters/main/TetriswithCardCaptorSakura.asl</URL>
+            <URL>https://github.com/Jujstme/emu-help/raw/master/lib/emu-help-v2</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart and Autosplitter by ElliotOrnitier</Description>
+    </AutoSplitter>    
 </AutoSplitters>
