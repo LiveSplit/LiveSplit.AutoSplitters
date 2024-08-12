@@ -22560,5 +22560,15 @@
         </URLs>
         <Type>Script</Type>
         <Description>Autostart and Autosplitter by ElliotOrnitier</Description>
-    </AutoSplitter>    
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Tron 2.0</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/StunninglyWrong/asl-tron2.0/main/tron2.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Start/Split and Load Removal</Description>
+    </AutoSplitter>
 </AutoSplitters>
