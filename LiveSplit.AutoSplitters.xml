@@ -22571,4 +22571,15 @@
         <Type>Script</Type>
         <Description>Auto Start/Split and Load Removal</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Animal Well</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Dregu/LiveSplit-AnimalWell/main/LiveSplit-AnimalWell.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/split/reset and IGT (by Dregu)</Description>
+        <Website>https://github.com/Dregu/LiveSplit-AnimalWell</Website>
+    </AutoSplitter>
 </AutoSplitters>
