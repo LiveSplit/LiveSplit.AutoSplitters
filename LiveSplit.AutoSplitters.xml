@@ -2,6 +2,18 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Neon Boost</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/c0y0tl/asl/main/neonboost/neonboost.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitting (except for the final level) is available (By c0y0tl)</Description>
+        <Website>https://github.com/c0y0tl/asl/blob/main/neonboost/README.md</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>We Were Here</Game>
         </Games>
         <URLs>
