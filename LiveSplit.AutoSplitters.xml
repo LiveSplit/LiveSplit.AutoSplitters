@@ -22629,4 +22629,15 @@
         <Description>Autostart/Autosplit and Loadremover is availiable (by Vlad2D)</Description>
         <Website>https://github.com/StenIsMe/Livesplit.Detroit-Become-Human</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Leap Year</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Gyoshi/LeapYear-AutoSplitter/main/Leap%20Year.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/split and in-game timer (by Gyoshi)</Description>
+        <Website>https://github.com/Gyoshi/LeapYear-AutoSplitter</Website>
+    </AutoSplitter>
 </AutoSplitters>
