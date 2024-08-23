@@ -22640,4 +22640,14 @@
         <Description>Auto start/split and in-game timer (by Gyoshi)</Description>
         <Website>https://github.com/Gyoshi/LeapYear-AutoSplitter</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>God of War II</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Dobridp/GoW2ASL/main/GoW2.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>IGT for RPCS3 (by Dobrido).</Description>
+    </AutoSplitter>
 </AutoSplitters>
