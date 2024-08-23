@@ -9120,11 +9120,10 @@
             <Game>Max Payne 1</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/thekovic/ASL-Autosplitters/main/MaxPayne1.asl</URL>
+            <URL>https://raw.githubusercontent.com/EnduranceGaming/Autosplitter-for-MP1/main/MaxPayne1.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load Removal and Auto Splitting is available. (By Endurance)</Description>
-        <Website>https://github.com/thekovic/LiveSplit.AutoSplitters</Website>
+        <Description>Load removal and auto start/split/reset are available. (By Endurance)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
