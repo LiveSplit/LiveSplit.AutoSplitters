@@ -20331,7 +20331,7 @@
             <URL>https://raw.githubusercontent.com/Dobridp/GoW2018ASL/main/GodOfWar.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autosplitter and Load Remover (by Dobrido). Splits on every task.</Description>
+        <Description>Autosplitter and Load Remover (by Dobrido and TpRedNinja).</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
