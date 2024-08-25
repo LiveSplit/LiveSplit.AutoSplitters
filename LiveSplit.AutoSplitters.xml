@@ -17766,6 +17766,18 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Wéko The Mask Gatherer</Game>
+            <Game>Weko The Mask Gatherer</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Leemyy/LiveSplit.WekoMaskGatherer/main/Components/LiveSplit.WekoMaskGatherer.dll</URL>
+        </URLs>
+        <Type>Component</Type>
+        <Description>Auto Start/Split/Reset and Load Remover (by Leemyy)</Description>
+        <Website>https://github.com/Leemyy/LiveSplit.WekoMaskGatherer</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Sniper: Path of Vengeance</Game>
         </Games>
         <URLs>
