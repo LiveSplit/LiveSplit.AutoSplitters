@@ -22610,6 +22610,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Bejeweled 3</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/HyperNervie/Bejeweled-Autosplitters/main/Bejeweled3.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto splitter for Bejeweled 3</Description>
+        <Website>https://github.com/HyperNervie/Bejeweled-Autosplitters</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Tetris with Cardcaptor Sakura Eternal Heart</Game>
         </Games>
         <URLs>
