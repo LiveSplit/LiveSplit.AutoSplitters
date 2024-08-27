@@ -22628,6 +22628,7 @@
         </URLs>
         <Type>Script</Type>
         <Description>Auto Start/Split and Load Removal</Description>
+        <Website>https://discord.gg/mudmjwj</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -22671,5 +22672,16 @@
         </URLs>
         <Type>Script</Type>
         <Description>IGT for RPCS3 (by Dobrido).</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Medal of Honor: Allied Assault</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/StunninglyWrong/asl-mohaa/main/mohaa.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Start/Split and Load Removal</Description>
+        <Website>https://discord.gg/GxrxNpJ7db</Website>
     </AutoSplitter>
 </AutoSplitters>
