@@ -2,6 +2,17 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Hypnagogia: Boundless Dreams</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Kirobsi/BoundlessDreamsAutosplitter/main/Hypnagogia%20Autosplitter.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting (no final split) and Load Remover by Kirobsi</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Ghostland Yard</Game>
         </Games>
         <URLs>
