@@ -15412,6 +15412,11 @@
     <AutoSplitter>
         <Games>
             <Game>Halo: The Master Chief Collection</Game>
+            <Game>Halo The Master Chief Collection</Game>
+            <Game>Halo: Master Chief Collection</Game>
+            <Game>Halo Master Chief Collection</Game>
+            <Game>Halo: MCC</Game>
+            <Game>Halo MCC</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/Burnt-o/MCC_autosplitter/master/MCC_autosplitter.asl</URL>
