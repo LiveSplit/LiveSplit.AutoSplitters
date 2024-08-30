@@ -16911,7 +16911,7 @@
             <URL>https://raw.githubusercontent.com/Micrologist/LiveSplit.Venineth/main/venineth.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autosplitting and Load Removal (by Micrologist#2351)</Description>
+        <Description>Autosplitting and Load Removal (by Micrologist)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -16931,7 +16931,7 @@
             <URL>https://raw.githubusercontent.com/Micrologist/LiveSplit.Maquette/main/maquette.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autosplitting and Load Removal (by Micrologist#2351)</Description>
+        <Description>Autosplitting and Load Removal (by Micrologist)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -17351,7 +17351,7 @@
             <URL>https://raw.githubusercontent.com/Micrologist/LiveSplit.FragmentsOfEuclid/main/euclid.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autosplitter by Micrologist#2351</Description>
+        <Description>Autosplitter by Micrologist</Description>
         <Website>https://github.com/Micrologist/LiveSplit.FragmentsOfEuclid</Website>
     </AutoSplitter>
     <AutoSplitter>
@@ -17910,7 +17910,7 @@
             <URL>https://raw.githubusercontent.com/Jujstme/Livesplit.Deathloop/local/Components/LiveSplit.Deathloop.dll</URL>
         </URLs>
         <Type>Component</Type>
-        <Description>Auto Splitting and Load Removal available. (By Micrologist#2351 and Jujstme)</Description>
+        <Description>Auto Splitting and Load Removal available. (By Micrologist and Jujstme)</Description>
         <Website>https://github.com/Jujstme/LiveSplit.Deathloop</Website>
     </AutoSplitter>
     <AutoSplitter>
@@ -18166,7 +18166,7 @@
             <URL>https://raw.githubusercontent.com/Micrologist/LiveSplit.SolarAsh/main/solarash.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto Splitting and Load Removal (by Micrologist#2351)</Description>
+        <Description>Auto Splitting and Load Removal (by Micrologist)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
