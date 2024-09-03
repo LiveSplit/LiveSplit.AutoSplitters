@@ -22723,4 +22723,15 @@
         <Type>Script</Type>
         <Description>Autosplitting (no final split) and Load Remover (By TheDementedSalad &amp; Cactus)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Fall Guys</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Biksell/asl/main/FallGuys/FallGuys.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting available (by Biksel)</Description>
+        <Website>https://github.com/Biksell/asl/blob/main/FallGuys/README.md</Website>
+    </AutoSplitter>
 </AutoSplitters>
