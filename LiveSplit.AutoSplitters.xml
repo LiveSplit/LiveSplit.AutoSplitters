@@ -7841,10 +7841,11 @@
             <Game>Doom (2016)</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/drtchops/asl/master/doom2016.asl</URL>
+            <URL>https://raw.githubusercontent.com/SabulineHorizon/Autosplitters/main/Doom2016.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto Splitting and Load Removal are available. (By DrTChops, TheFuncannon, loitho, sychotixx and Instagibz)</Description>
+        <Description>Auto Splitting and Load Removal are available. (By DrTChops, TheFuncannon, loitho, sychotixx, Instagibz, heny, Meta, SabulineHorizon, and more)</Description>
+        <Website>https://github.com/SabulineHorizon/Autosplitters</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
