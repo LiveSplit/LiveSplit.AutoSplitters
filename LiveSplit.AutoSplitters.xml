@@ -22734,4 +22734,14 @@
         <Description>Autosplitting available (by Biksel)</Description>
         <Website>https://github.com/Biksell/asl/blob/main/FallGuys/README.md</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Samorost</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/vojtechblazek/Samorost1-Autosplitter/main/ASL_Samorost1.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitter by vojtechblazek</Description>
+    </AutoSplitter>
 </AutoSplitters>
