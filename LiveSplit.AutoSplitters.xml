@@ -22744,4 +22744,39 @@
         <Type>Script</Type>
         <Description>Auto Splitter by vojtechblazek</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>I Wanna Escape Into My Mind</Game>
+            <Game>IWEIMM</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Gaphodil/autosplitters/main/iweimm-autosplitter/IWEIMM.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter with auto-reset (By Gaphodil)</Description>
+        <Website>https://github.com/Gaphodil/autosplitters/tree/main/iweimm-autosplitter</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>SHOOT: Taming the ruins</Game>
+            <Game>SHOOT</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Gaphodil/autosplitters/main/shoot-autosplitter/SHOOT.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter, auto-reset, death count, and game time (By Gaphodil)</Description>
+        <Website>https://github.com/Gaphodil/autosplitters/tree/main/shoot-autosplitter</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>I Wanna Figure</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Gaphodil/autosplitters/main/figure-autosplitter/Figure.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter, auto-reset, death count, and game time (By Gaphodil)</Description>
+        <Website>https://github.com/Gaphodil/autosplitters/tree/main/figure-autosplitter</Website>
+    </AutoSplitter>
 </AutoSplitters>
