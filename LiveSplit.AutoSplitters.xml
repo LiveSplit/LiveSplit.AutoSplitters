@@ -15737,6 +15737,18 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Die Hard Trilogy</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/kapdap/die-hard-trilogy-ps1-autosplitter/main/die-hard-trilogy-ps1.asl</URL>
+            <URL>https://github.com/Jujstme/emu-help/raw/master/lib/emu-help-v2</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Start and level based Auto Splitting for emulated PS1 releases. (By Kapdap)</Description>
+        <Website>https://github.com/kapdap/die-hard-trilogy-ps1-autosplitter</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>RITE</Game>
         </Games>
         <URLs>
