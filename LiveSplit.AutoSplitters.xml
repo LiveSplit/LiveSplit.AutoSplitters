@@ -2,6 +2,16 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Gori: Cuddly Carnage</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/0kia/LiveSplit_AS/main/GoriAutoSplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autsplitter by okiabetter</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Ghostland Yard</Game>
         </Games>
         <URLs>
