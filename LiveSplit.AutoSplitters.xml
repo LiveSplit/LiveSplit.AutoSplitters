@@ -2912,6 +2912,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Kingdom Hearts III</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Denhonator/KHPCSpeedrunTools/main/LoadRemovers/KH3.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>!! PC ONLY !! AutoSplitter and Load Remover by Denhonator</Description>
+        <Website>https://github.com/Denhonator/KHPCSpeedrunTools/blob/main/LoadRemovers/KH3.asl</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Mr. Driller: Drill Land</Game>
         </Games>
         <URLs>
