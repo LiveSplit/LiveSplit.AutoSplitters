@@ -13,6 +13,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>The Casting of Frank Stone</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Mattmatt10111/asl-scripts/master/FrankStone.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart and Autosplit by Mattmatt</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Gori: Cuddly Carnage</Game>
         </Games>
         <URLs>
