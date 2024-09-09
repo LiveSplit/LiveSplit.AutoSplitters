@@ -22837,4 +22837,15 @@
         <Description>Autosplitter, auto-reset, death count, and game time (By Gaphodil)</Description>
         <Website>https://github.com/Gaphodil/autosplitters/tree/main/figure-autosplitter</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Time Ramesside (A New Reckoning)</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/HandsomeStrife/speedrun-splits-and-autospltters/main/Time%20Rameside/autosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and Load Remover (By HandsomeStrife)</Description>
+        <Website>https://github.com/HandsomeStrife/speedrun-splits-and-autospltters/blob/main/Time%20Rameside/</Website>
+    </AutoSplitter>
 </AutoSplitters>
