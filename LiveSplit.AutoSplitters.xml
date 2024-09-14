@@ -18553,6 +18553,7 @@
         <Type>Component</Type>
         <Description>SoulSplitter: timer and autosplitter for various soulsgames</Description>
         <Website>https://github.com/FrankvdStam/SoulSplitter</Website>
+        <ShowInLayoutEditor />
     </AutoSplitter>
     <AutoSplitter>
         <Games>
