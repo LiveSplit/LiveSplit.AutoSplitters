@@ -22872,4 +22872,15 @@
         <Description>Autosplitter and Load Remover (by SBDWolf)</Description>
         <Website>https://github.com/SBDWolf/ASL-Autosplitters/tree/main/Gimmick2</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Squirrel with a Gun</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/SabulineHorizon/Autosplitters/main/SquirrelWithAGun</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/split/reset (By SabulineHorizon)</Description>
+        <Website>https://github.com/SabulineHorizon/Autosplitters</Website>
+    </AutoSplitter>
 </AutoSplitters>
