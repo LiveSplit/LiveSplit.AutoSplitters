@@ -22849,4 +22849,15 @@
         <Description>Autosplitter and Load Remover (By HandsomeStrife)</Description>
         <Website>https://github.com/HandsomeStrife/speedrun-splits-and-autospltters/blob/main/Time%20Rameside/</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Gimmick! 2</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/SBDWolf/ASL-Autosplitters/main/Gimmick2/Gimmick2.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and Load Remover (by SBDWolf)</Description>
+        <Website>https://github.com/SBDWolf/ASL-Autosplitters/tree/main/Gimmick2</Website>
+    </AutoSplitter>
 </AutoSplitters>
