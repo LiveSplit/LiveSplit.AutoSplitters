@@ -22886,4 +22886,14 @@
         <Description>Auto start/split/reset (By SabulineHorizon)</Description>
         <Website>https://github.com/SabulineHorizon/Autosplitters</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Divinity: Original Sin 2</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/ogam/asl/master/dos2.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Remover</Description>
+    </AutoSplitter>
 </AutoSplitters>
