@@ -22896,4 +22896,16 @@
         <Type>Script</Type>
         <Description>Load Remover</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Climber Girl</Game>
+            <Game>Vera Jones: La Légende Des Sept Reliques</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/HandsomeStrife/speedrun-splits-and-autospltters/blob/main/Vera%20Jones/splitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and Load Remover (By HandsomeStrife)</Description>
+        <Website>https://github.com/HandsomeStrife/speedrun-splits-and-autospltters/tree/main/Vera%20Jones</Website>
+    </AutoSplitter>
 </AutoSplitters>
