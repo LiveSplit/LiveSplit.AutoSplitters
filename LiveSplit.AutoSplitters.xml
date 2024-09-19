@@ -22908,4 +22908,14 @@
         <Description>Autosplitter and Load Remover (By HandsomeStrife)</Description>
         <Website>https://github.com/HandsomeStrife/speedrun-splits-and-autospltters/tree/main/Vera%20Jones</Website>
     </AutoSplitter>
+     <AutoSplitter>
+        <Games>
+            <Game>God of War Ragnarök</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Dobridp/GoWRagnarokASL/refs/heads/main/GoWR.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and IGT (by Dobrido and TpRedNinja).</Description>
+    </AutoSplitter>
 </AutoSplitters>
