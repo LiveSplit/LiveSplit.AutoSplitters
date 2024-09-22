@@ -21909,7 +21909,7 @@
         <Games>
             <Game>Endling Extinction Is Forever</Game>
         </Games>
-        <URLs>   
+        <URLs>
             <URL>https://github.com/JPdev-Github/Livesplit.Endling.Asl/raw/main/Livesplit.Endling.asl</URL>
         </URLs>
         <Type>Script</Type>
@@ -21930,7 +21930,7 @@
         <Games>
             <Game>LEGO Star Wars: The Force Awakens</Game>
         </Games>
-        <URLs>   
+        <URLs>
             <URL>https://raw.githubusercontent.com/Siedemnastek/Autosplitter/main/TFA.asl</URL>
         </URLs>
         <Type>Script</Type>
@@ -21940,7 +21940,7 @@
         <Games>
             <Game>Horizon Zero Dawn</Game>
         </Games>
-        <URLs>   
+        <URLs>
             <URL>https://raw.githubusercontent.com/HorizonSpeedrun/horizon-load-remover/master/autosplitter/hzd-autosplitter.asl</URL>
         </URLs>
         <Type>Script</Type>
@@ -21950,7 +21950,7 @@
         <Games>
             <Game>Horizon Forbidden West</Game>
         </Games>
-        <URLs>   
+        <URLs>
             <URL>https://raw.githubusercontent.com/HorizonSpeedrun/horizon-load-remover/master/autosplitter/hfw-autosplitter.asl</URL>
         </URLs>
         <Type>Script</Type>
@@ -21960,7 +21960,7 @@
         <Games>
             <Game>Peaks of Yore</Game>
         </Games>
-        <URLs>   
+        <URLs>
             <URL>https://raw.githubusercontent.com/Xearo1/Autosplitter-and-Load-remover/main/PeaksOfYore.asl</URL>
             <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
         </URLs>
@@ -22047,7 +22047,7 @@
         <Games>
             <Game>LEGO Jurassic World</Game>
         </Games>
-        <URLs>   
+        <URLs>
             <URL>https://raw.githubusercontent.com/Siedemnastek/Autosplitter/main/LJW.asl</URL>
         </URLs>
         <Type>Script</Type>
@@ -22057,7 +22057,7 @@
         <Games>
             <Game>A Difficult Game About Climbing</Game>
         </Games>
-        <URLs>   
+        <URLs>
             <URL>https://raw.githubusercontent.com/ru-mii/AutoSplitters/main/AutoSplitters/Games/A%20Difficult%20Game%20About%20Climbing/ADifficultGameAboutClimbing.asl</URL>
             <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
         </URLs>
@@ -22259,7 +22259,7 @@
         <Games>
             <Game>Vic de Vitaminevreter</Game>
         </Games>
-        <URLs>   
+        <URLs>
             <URL>https://raw.githubusercontent.com/ru-mii/AutoSplitters/main/AutoSplitters/Games/Vic%20De%20Vitaminevreter/VicDeVitaminevreter.asl</URL>
         </URLs>
         <Type>Script</Type>
@@ -22269,7 +22269,7 @@
         <Games>
             <Game>Scrap Mechanic</Game>
         </Games>
-        <URLs>   
+        <URLs>
             <URL>https://raw.githubusercontent.com/ElliotGH/autosplitters/main/scrap-mechanic.asl</URL>
         </URLs>
         <Type>Script</Type>
@@ -22379,7 +22379,7 @@
         <Games>
             <Game>Baby Sniper In Vietnam</Game>
         </Games>
-        <URLs>   
+        <URLs>
             <URL>https://raw.githubusercontent.com/ru-mii/AutoSplitters/main/AutoSplitters/Games/Baby%20Sniper%20In%20Vietnam/BabySniperInVietnam.asl</URL>
             <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
         </URLs>
@@ -22391,7 +22391,7 @@
         <Games>
             <Game>Angry Birds</Game>
         </Games>
-        <URLs>   
+        <URLs>
             <URL>https://raw.githubusercontent.com/Biksell/asl/main/Angry%20Birds/ab_classic.asl</URL>
         </URLs>
         <Type>Script</Type>
@@ -22402,7 +22402,7 @@
         <Games>
             <Game>Awesome Tanks</Game>
         </Games>
-        <URLs>   
+        <URLs>
             <URL>https://raw.githubusercontent.com/Biksell/asl/main/Awesome%20Tanks/AwesomeTanks.asl</URL>
         </URLs>
         <Type>Script</Type>
@@ -22917,6 +22917,18 @@
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitter and IGT (by Dobrido and TpRedNinja).</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>I wanna stop the simulation</Game>
+            <Game>IWSTS</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Gaphodil/autosplitters/refs/heads/main/iwstsim-autosplitter/IWSTSim.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter, death count, and game time, with options. (by Gaphodil).</Description>
+        <Website>https://github.com/Gaphodil/autosplitters/tree/main/iwstsim-autosplitter</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
