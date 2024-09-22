@@ -22918,4 +22918,16 @@
         <Type>Script</Type>
         <Description>Autosplitter and IGT (by Dobrido and TpRedNinja).</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>I wanna stop the simulation</Game>
+            <Game>IWSTS</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Gaphodil/autosplitters/refs/heads/main/iwstsim-autosplitter/IWSTSim.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter, death count, and game time, with options. (by Gaphodil).</Description>
+        <Website>https://github.com/Gaphodil/autosplitters/tree/main/iwstsim-autosplitter</Website>
+    </AutoSplitter>
 </AutoSplitters>
