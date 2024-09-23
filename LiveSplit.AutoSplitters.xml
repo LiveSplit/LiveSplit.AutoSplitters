@@ -22954,4 +22954,14 @@
         <Type>Script</Type>
         <Description>Auto Splitting and Load Removal available. Compare to IGT. (By TheDementedSalad)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Shovel Knight Pocket Dungeon</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/machinespray/SKPD-AutoSplitter/refs/heads/main/Script/pd_script.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter (by machinespray)</Description>
+    </AutoSplitter>
 </AutoSplitters>
