@@ -2,6 +2,29 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Battles of Prince of Persia</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/PoPRuns/PoP.AutoSplitters/main/bopop.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>IGT for emulator runs on DeSmuME 0.9.9 (by NoTeefy, GMP and Smathlax)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Prince of Persia: The Forgotten Sands (DS)</Game>
+            <Game>Prince of Persia: The Forgotten Sands DS</Game>
+            <Game>Prince of Persia The Forgotten Sands (DS)</Game>
+            <Game>Prince of Persia The Forgotten Sands DS</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/PoPRuns/PoP.AutoSplitters/main/pop_tfs_ds.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>IGT for emulator runs on DeSmuME 0.9.9 (by NoTeefy, GMP and Smathlax)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Sniper Elite</Game>
         </Games>
         <URLs>
