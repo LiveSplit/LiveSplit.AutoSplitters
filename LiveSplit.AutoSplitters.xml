@@ -23029,4 +23029,5 @@
         <!-- Type of auto splitter (Script/Component). -->
         <Type>Script</Type>
         <Description>Autosplitter & Loadremover for the PC version. Created by IzzyHope58</Description>
-    </AutoSplitter>
+     </AutoSplitter>
+</AutoSplitters>
