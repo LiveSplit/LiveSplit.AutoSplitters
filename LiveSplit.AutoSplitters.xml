@@ -11034,7 +11034,7 @@
             <Game>Sonic Forever</Game>
         </Games>
         <URLs>
-            <URL>https://github.com/SonicSpeedrunning/LiveSplit.Sonic1Forever_wasm/releases/download/release/livesplit_sonic1forever.wasm</URL>
+            <URL>https://github.com/SonicSpeedrunning/LiveSplit.Sonic1Forever_wasm/releases/download/latest/livesplit_sonic1forever.wasm</URL>
         </URLs>
         <Type>Script</Type>
         <ScriptType>AutoSplittingRuntime</ScriptType>
