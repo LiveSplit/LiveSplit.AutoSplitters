@@ -23048,4 +23048,15 @@
         <Type>Script</Type>
         <Description>Autosplitter and load remover</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Citroën C4 Robot</Game>
+            <Game>C4 Robot</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/WilllTreaty/My-Autosplitters/main/Livesplit.C4Robot.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter made by WillTreaty</Description>
+    </AutoSplitter>
 </AutoSplitters>
