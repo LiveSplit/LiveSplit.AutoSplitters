@@ -2,6 +2,17 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>007: Quantum of Solace</Game>
+            <Game>Quantum of Solace</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Degaussed/Livesplit-ASL-scripts/refs/heads/master/QuantumOfSolace.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting and load removal is available (PC)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Mouthwashing</Game>
         </Games>
         <URLs>
