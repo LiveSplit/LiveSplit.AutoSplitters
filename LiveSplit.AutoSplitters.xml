@@ -23073,4 +23073,16 @@
         <Type>Script</Type>
         <Description>Autosplitter made by WillTreaty</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Core Keeper</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Sh00g7/CoreKeeperAutosplitter/main/CoreKeeper.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart and Autosplit (By Sh00g7)</Description>
+        <Website>https://github.com/Sh00g7/CoreKeeperAutosplitter</Website>
+    </AutoSplitter>
 </AutoSplitters>
