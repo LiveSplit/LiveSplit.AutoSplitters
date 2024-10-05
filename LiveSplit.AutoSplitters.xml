@@ -10351,11 +10351,11 @@
             <Game>Dead Space (2008)</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Mattmatt10111/asl-scripts/master/deadspace.asl</URL>
+            <URL>https://raw.githubusercontent.com/SuiMachine/LiveSplit.ASLScripts/master/Dead-Space-1/Dead-Space-1.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load Removal is available (by Mattmatt)</Description>
-        <Website>https://discord.com/invite/BP8TrJ6</Website>
+        <Description>Auto Start and Split by chapter are available (by SuiMachine & Ladamalina)</Description>
+        <Website>https://discord.gg/UxEHpQue</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
