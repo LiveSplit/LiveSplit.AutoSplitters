@@ -19135,6 +19135,18 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>PICO PARK 2</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/just-ero/asl/raw/refs/heads/main/Pico%20Park%202/PicoPark2.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/e4275cfcf05548bb4deb928020785e5f94af8464/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Starts automatically. Split and reset points available in the settings. (by ero)</Description>
+        <Website>https://github.com/just-ero/asl/tree/main/Pico%20Park%202</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Post Void</Game>
         </Games>
         <URLs>
