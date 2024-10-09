@@ -23108,4 +23108,18 @@
         <Type>Script</Type>
         <Description>AutoSplitter made by AnsoWizard</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Silent Hill 2 Remake</Game>
+            <Game>Silent Hill 2 (2024)</Game>
+            <Game>SH2R</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/TheDementedSalad/SH2R-Autosplitter/refs/heads/main/SH2R.asl</URL>
+            <URL>https://raw.githubusercontent.com/TheDementedSalad/SH2R-Autosplitter/refs/heads/main/SH2R.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitting and Load Removal available. Compare to IGT. (By TheDementedSalad)</Description>
+    </AutoSplitter>
 </AutoSplitters>
