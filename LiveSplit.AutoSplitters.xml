@@ -23108,4 +23108,16 @@
         <Type>Script</Type>
         <Description>AutoSplitter made by AnsoWizard</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>SpongeBob SquarePants: The Patrick Star Game</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/GordoLeal/autosplitters/refs/heads/main/ThePatrickGame.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostarter and Autosplitter made by GordoLeal</Description>
+        <Website>https://github.com/GordoLeal/autosplitters</Website>
+    </AutoSplitter>
 </AutoSplitters>
+
