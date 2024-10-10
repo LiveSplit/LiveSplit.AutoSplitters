@@ -19268,6 +19268,19 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>SpongeBob SquarePants: The Patrick Star Game</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/just-ero/asl/raw/refs/heads/main/SpongeBob%20SquarePants%20%E2%80%93%20The%20Patrick%20Star%20Game/SpongeBobSquarePants_ThePatrickStarGame.asl</URL>
+            <URL>https://github.com/just-ero/asl/raw/refs/heads/main/SpongeBob%20SquarePants%20%E2%80%93%20The%20Patrick%20Star%20Game/SpongeBobSquarePants_ThePatrickStarGame.Settings.xml</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/8adba2e5692cb94dd630a7bf5c0f772b58c1b938/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Starts automatically with an offset. Splits are available in the settings. (by ero)</Description>
+        <Website>https://github.com/just-ero/asl/tree/main/SpongeBob%20SquarePants%20%E2%80%93%20The%20Patrick%20Star%20Game</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Strobophagia</Game>
             <Game>Strobophagia | Rave Horror</Game>
         </Games>
@@ -23131,17 +23144,5 @@
         </URLs>
         <Type>Script</Type>
         <Description>Auto Splitting and Load Removal available. Compare to IGT. (By TheDementedSalad)</Description>
-    </AutoSplitter>
-    <AutoSplitter>
-        <Games>
-            <Game>SpongeBob SquarePants: The Patrick Star Game</Game>
-        </Games>
-        <URLs>
-            <URL>https://raw.githubusercontent.com/GordoLeal/autosplitters/refs/heads/main/ThePatrickGame.asl</URL>
-            <URL>https://github.com/just-ero/asl-help/raw/8adba2e5692cb94dd630a7bf5c0f772b58c1b938/lib/asl-help</URL>
-        </URLs>
-        <Type>Script</Type>
-        <Description>Autostarter and Autosplitter made by GordoLeal</Description>
-        <Website>https://github.com/GordoLeal/autosplitters</Website>
     </AutoSplitter>
 </AutoSplitters>
