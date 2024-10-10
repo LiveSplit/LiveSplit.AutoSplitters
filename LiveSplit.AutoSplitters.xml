@@ -13,6 +13,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Until Dawn (2024)</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Mattmatt10111/asl-scripts/refs/heads/master/UntilDawn.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart and Autosplit by Mattmatt</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Mouthwashing</Game>
         </Games>
         <URLs>
