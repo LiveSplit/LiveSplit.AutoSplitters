@@ -23145,4 +23145,15 @@
         <Type>Script</Type>
         <Description>Auto Splitting and Load Removal available. Compare to IGT. (By TheDementedSalad)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Something Rush</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Biksell/asl/refs/heads/main/Something%20Rush/SomethingRush.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting available (by Biksel)</Description>
+    </AutoSplitter>
 </AutoSplitters>
