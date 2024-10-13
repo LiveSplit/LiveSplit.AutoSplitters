@@ -23156,4 +23156,14 @@
         <Type>Script</Type>
         <Description>Autosplitting available (by Biksel)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Minimalism</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Jean20B/autosplitters/main/minimalism/minimalism.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter with start, split at each level and reset in the main menu (by Jean20B)</Description>
+    </AutoSplitter>
 </AutoSplitters>
