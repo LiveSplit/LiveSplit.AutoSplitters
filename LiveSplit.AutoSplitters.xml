@@ -23179,4 +23179,14 @@
         <Type>Script</Type>
         <Description>Autosplitter with start, split at each level and reset in the main menu (by Jean20B)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Super Clown: Lost Diamonds</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/HandsomeStrife/speedrun-splits-and-autospltters/refs/heads/main/Super%20Clown%20Lost%20Diamonds/autosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter</Description>
+    </AutoSplitter>
 </AutoSplitters>
