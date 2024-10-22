@@ -23189,8 +23189,8 @@
         <Type>Script</Type>
         <Description>Autosplitter</Description>
     </AutoSplitter>
-</AutoSplitters>
-<Games>
+    <AutoSplitter>
+        <Games>
     <Game> Disney Epic Mickey: Rebrushed</Game>
     <URLs>
         <URL> https://raw.githubusercontent.com/that-one-guy-alive/Epic-Mickey-Load-Remover/refs/heads/main/rebrushedremover.asl</URL>
