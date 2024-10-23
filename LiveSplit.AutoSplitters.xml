@@ -23189,4 +23189,14 @@
         <Type>Script</Type>
         <Description>Autosplitter</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+        <Game>Disney Epic Mickey: Rebrushed</Game>
+    </Games>
+    <URLs>
+        <URL>https://raw.githubusercontent.com/that-one-guy-alive/Epic-Mickey-Load-Remover/refs/heads/main/rebrushedremover.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>Load Removal Made Possible By NolifeVV</Description>
+    </AutoSplitter>
 </AutoSplitters>
