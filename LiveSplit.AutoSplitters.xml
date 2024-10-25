@@ -11159,6 +11159,18 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Sonic Generations (2024)</Game>
+            <Game>Shadow Generations</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/SonicSpeedrunning/LiveSplit.SonicXShadowGenerations/master/Components/LiveSplit.SonicXShadowGenerations.dll</URL>
+        </URLs>
+        <Type>Component</Type>
+        <Description>Autosplitter and load remover with configurable splitting conditions (by Jujstme)</Description>
+        <Website>https://github.com/SonicSpeedrunning/LiveSplit.SonicXShadowGenerations</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Sonic Generations</Game>
         </Games>
         <URLs>
