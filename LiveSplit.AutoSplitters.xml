@@ -13,6 +13,18 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>We Were Here Too</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Zeuba-Speedruns/AutoSplitters/main/We%20Were%20Here%20Too/WeWereHereToo.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/split/reset by Vocatis, Rouzard.</Description>
+        <Website>https://github.com/Zeuba-Speedruns/AutoSplitters/blob/main/We%20Were%20Here%20Too/README.md</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Neva</Game>
         </Games>
         <URLs>
@@ -22797,7 +22809,7 @@
             <URL>https://raw.githubusercontent.com/vojtechblazek/SCHiM-Autosplitter/main/SCHiMASL.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>SCHiM Auto Splitter by vojtechblazek</Description>
+        <Description>SCHiM Auto Splitter and Load removal by vojtechblazek</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -23209,5 +23221,27 @@
     </URLs>
     <Type>Script</Type>
     <Description>Load Removal Made Possible By NolifeVV</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Paperball</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Lyliya/autosplitter/refs/heads/main/Paperball/paperball.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Start/Split and Load removal (By Lyliya)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Supermarket Together</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/vojtechblazek/SupermarketTogether-Autosplitter/refs/heads/main/ASL_SupermarketTogether.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitter (start, end) by vojtechblazek</Description>
     </AutoSplitter>
 </AutoSplitters>
