@@ -23026,7 +23026,6 @@
         <URLs>
             <URL>https://raw.githubusercontent.com/izzyhope58/ASL-Scripts/refs/heads/main/TheIncredibles.asl</URL>
         </URLs>
-        <!-- Type of auto splitter (Script/Component). -->
         <Type>Script</Type>
         <Description>Autosplitter and Loadremover for the PC version. Created by IzzyHope58</Description>
     </AutoSplitter>
