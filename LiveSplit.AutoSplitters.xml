@@ -22031,6 +22031,18 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+          <Game>IRUKA NI UROKO GA NAI WAKE</Game>
+          <Game>Dolphins Have No Scales</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/Kuhaku9893/Autosplitters/raw/refs/heads/main/DolphinsHaveNoScales/DolphinsHaveNoScales.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter (start, split, reset) are available (by Kuhaku)</Description>
+        <Website>https://github.com/Kuhaku9893/Autosplitters/tree/main/DolphinsHaveNoScales</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
           <Game>Obama</Game>
         </Games>
         <URLs>
