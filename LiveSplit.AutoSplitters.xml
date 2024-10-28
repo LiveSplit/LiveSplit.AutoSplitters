@@ -10692,10 +10692,10 @@
             <Game>Croc 2</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/hdc0/LiveSplit-asl/master/LiveSplit.Croc_2.asl</URL>
+            <URL>https://raw.githubusercontent.com/Thermospore/LiveSplit-asl/refs/heads/master/LiveSplit.Croc_2.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto starting, splitting and load removal are available. (By hdc0)</Description>
+        <Description>Auto start/split & load removal are available. (By hdc0 + Thermospore)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
