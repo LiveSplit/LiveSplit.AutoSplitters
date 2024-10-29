@@ -10695,7 +10695,7 @@
             <URL>https://raw.githubusercontent.com/Thermospore/LiveSplit-asl/refs/heads/master/LiveSplit.Croc_2.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto start/split & load removal are available. (By hdc0 + Thermospore)</Description>
+        <Description>Auto start/split &amp; load removal are available. (By hdc0 + Thermospore)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
