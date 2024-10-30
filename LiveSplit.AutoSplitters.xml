@@ -852,7 +852,7 @@
             <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autosplitting and load removal is available. (By diggity and Meta)</Description>
+        <Description>Autosplitting and load removal is available. (By diggity and GMP)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -9822,7 +9822,7 @@
             <URL>https://raw.githubusercontent.com/PoPRuns/PoP.AutoSplitters/main/pop_tfs.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Automatic start, split, reset and load-removal (by Samabam and SuicideMachine)</Description>
+        <Description>Automatic start, split, reset and load-removal (by Samabam and GMP)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -11904,7 +11904,7 @@
             <URL>https://raw.githubusercontent.com/PoPRuns/PoP.AutoSplitters/main/pop_sot.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Automatic start, split and reset (by Samabam and Ynscription)</Description>
+        <Description>Automatic start, split and reset (by Samabam and GMP)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -11964,7 +11964,7 @@
             <URL>https://raw.githubusercontent.com/PoPRuns/PoP.AutoSplitters/main/pop_ww.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Automatic start, split and reset (by Creditor)</Description>
+        <Description>Automatic start, split and reset (by Creditor and GMP)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -11990,7 +11990,7 @@
             <URL>https://raw.githubusercontent.com/PoPRuns/PoP.AutoSplitters/main/pop_t2t.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Automatic start, split and reset (by Samabam)</Description>
+        <Description>Automatic start, split and reset (by Samabam and GMP)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -13220,7 +13220,7 @@
             <URL>https://raw.githubusercontent.com/PoPRuns/PoP.AutoSplitters/main/pop_2008.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Automatic start, split and reset (by Samabam)</Description>
+        <Description>Automatic start, split and reset (by Samabam and GMP)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -14654,9 +14654,12 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/PoPRuns/PoP.AutoSplitters/main/multipop.asl</URL>
+            <URL>https://raw.githubusercontent.com/PoPRuns/PoP.AutoSplitters/main/pop_sot.asl</URL>
+            <URL>https://raw.githubusercontent.com/PoPRuns/PoP.AutoSplitters/main/pop_ww.asl</URL>
+            <URL>https://raw.githubusercontent.com/PoPRuns/PoP.AutoSplitters/main/pop_t2t.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Automatic start, split and load-removal/IGT (by Samabam, Smathlax, GMP, et al.)</Description>
+        <Description>Automatic start, split and load-removal/IGT (by GMP)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
