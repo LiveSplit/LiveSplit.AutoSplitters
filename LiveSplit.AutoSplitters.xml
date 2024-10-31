@@ -14654,12 +14654,9 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/PoPRuns/PoP.AutoSplitters/main/multipop.asl</URL>
-            <URL>https://raw.githubusercontent.com/PoPRuns/PoP.AutoSplitters/main/pop_sot.asl</URL>
-            <URL>https://raw.githubusercontent.com/PoPRuns/PoP.AutoSplitters/main/pop_ww.asl</URL>
-            <URL>https://raw.githubusercontent.com/PoPRuns/PoP.AutoSplitters/main/pop_t2t.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Automatic start, split and load-removal/IGT (by GMP)</Description>
+        <Description>Automatic start, split and load-removal/IGT (by Samabam, Creditor and GMP)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
