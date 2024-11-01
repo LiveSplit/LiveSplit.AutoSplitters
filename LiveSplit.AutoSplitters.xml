@@ -22171,6 +22171,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Horizon Zero Dawn Remastered</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/HorizonSpeedrun/horizon-load-remover/master/autosplitter/hzdr-autosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Remover for Horizon Zero Dawn Remastered by ISO2768mK and DorianSnowball.</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Horizon Forbidden West</Game>
         </Games>
         <URLs>
