@@ -46,6 +46,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Red Dead Redemption: Undead Nightmare</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Mattmatt10111/asl-scripts/refs/heads/master/RDRUndeadNightmare.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart and Load Removal by Mattmatt</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Red Dead Redemption</Game>
         </Games>
         <URLs>
