@@ -2,6 +2,18 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Dragon Age: The Veilguard</Game>
+            <Game>Dragon Age The Veilguard</Game>
+            <Game>Dragon Age Veilguard</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Lemuura/Livesplit-Autosplitters/main/DragonAgeVeilguard.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Removal/Autosplitter is available. (By Lemuura)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>I Am Your Beast</Game>
         </Games>
         <URLs>
