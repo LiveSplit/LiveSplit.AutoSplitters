@@ -12,6 +12,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>A Way Out</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Mattmatt10111/asl-scripts/refs/heads/master/AWayOut.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting and Load Removal by Mattmatt</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Dragon Age: The Veilguard</Game>
             <Game>Dragon Age The Veilguard</Game>
             <Game>Dragon Age Veilguard</Game>
