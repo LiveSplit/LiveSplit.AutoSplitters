@@ -23394,4 +23394,14 @@
         <Type>Script</Type>
         <Description>Auto Start/Split (By Lyliya)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>The Adventures of Tintin: The Secret of the Unicorn</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/vojtechblazek/Autosplitter-TintinSecretOfTheUnicorn/refs/heads/main/ASL_TintinSecretOfTheUnicorn.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitter by vojtechblazek</Description>
+    </AutoSplitter>
 </AutoSplitters>
