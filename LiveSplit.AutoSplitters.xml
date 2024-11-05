@@ -2,6 +2,16 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Tibia</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/MELOrkg/TibiaASL/main/Tibia.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter based on the screenshot folder</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Elisa Dragon Hunter</Game>
         </Games>
         <URLs>
