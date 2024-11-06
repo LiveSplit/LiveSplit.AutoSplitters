@@ -23064,11 +23064,11 @@
             <Game>Hypnagogia: Boundless Dreams</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Kirobsi/BoundlessDreamsAutosplitter/main/Hypnagogia%20Autosplitter.asl</URL>
+            <URL>https://raw.githubusercontent.com/Kirobsi/BoundlessDreamsAutosplitter/main/HypnagogiaBDSplitter.asl</URL>
             <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autosplitting (no final split) and Load Remover by Kirobsi</Description>
+        <Description>Autosplitting, resetting and Load Remover by Kirobsi</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
