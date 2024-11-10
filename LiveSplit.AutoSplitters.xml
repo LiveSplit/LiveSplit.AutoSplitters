@@ -13,6 +13,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Little Screamies</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Vaqquixx8/autosplitters/refs/heads/main/LittleScreamies.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Start, Split, and Load Removal</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Tibia</Game>
         </Games>
         <URLs>
@@ -19160,11 +19171,11 @@
             <Game>Hello Neighbor</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/MenzoFr/asl/Hello-Neighbor/Autosplitter/Lag%20abuse%20autosplitter.asl</URL>
+            <URL>https://raw.githubusercontent.com/MenzoFr/asl/refs/heads/Autosplitters/Autosplitters/Hello%20Neighbor%201/Multiver%20LA%20Autosplitter.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Auto Start, Auto Reset, Auto Split and Load Remover (By Menzo)</Description>
-        <Website>https://github.com/MenzoFr/asl/tree/Hello-Neighbor/Autosplitter</Website>
+        <Website>https://github.com/MenzoFr/asl/tree/Autosplitters/Autosplitters/Hello%20Neighbor%201</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
