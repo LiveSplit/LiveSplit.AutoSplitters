@@ -2,6 +2,26 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Romancing Saga 2 Revenge of the Seven</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Denhonator/Load-Removers-and-Mods/refs/heads/main/Romancing%20SaGa%202%20RotS/RS2RotS.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Removal on PC by Denhonator</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Final Fantasy XVI</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Denhonator/Load-Removers-and-Mods/refs/heads/main/FF16/FF16.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Removal on PC by Denhonator</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Kane &amp; Lynch: Dead Men</Game>
         </Games>
         <URLs>
