@@ -23436,4 +23436,16 @@
         <Type>Script</Type>
         <Description>Auto Splitter by vojtechblazek</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Last Crown Warriors</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/MichaelK-UnderscoreUnderscore/MichaelK-Autosplitters/main/Last%20Crown%20Warriors.asl</URL>
+            <URL>https://github.com/Jujstme/emu-help/raw/master/lib/emu-help-v2</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitting and Auto Start/Reset are available on Gambatte Speedrun.</Description>
+        <Website>https://github.com/MichaelK-UnderscoreUnderscore/MichaelK-Autosplitters/tree/main</Website>
+    </AutoSplitter>
 </AutoSplitters>
