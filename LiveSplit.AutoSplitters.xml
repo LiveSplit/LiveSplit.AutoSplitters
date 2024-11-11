@@ -22,6 +22,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Kane &amp; Lynch: Dead Men</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/LiveSplit.KaneAndLynchDeadMen.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart, Load Removal and Autosplit by Streetbackguy</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Amanda the Adventurer 2</Game>
         </Games>
         <URLs>
@@ -1889,7 +1899,7 @@
             <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/Livesplit.BionicCommando.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autostart and Load Remover by Streetbackguy</Description>
+        <Description>Autostart, Autosplitter and Load Remover by Koutyy and Streetbackguy</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
