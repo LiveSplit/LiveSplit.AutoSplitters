@@ -2,6 +2,16 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Deadpool</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/LiveSplit.Deadpool.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart, Autoreset and Load Remover by Streetbackguy</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Romancing Saga 2 Revenge of the Seven</Game>
         </Games>
         <URLs>
