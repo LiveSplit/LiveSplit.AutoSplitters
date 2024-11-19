@@ -23549,4 +23549,15 @@
         <Description>Auto Splitting and Auto Start/Reset are available on Gambatte Speedrun.</Description>
         <Website>https://github.com/MichaelK-UnderscoreUnderscore/MichaelK-Autosplitters/tree/main</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Blade Kitten</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/MichaelK-UnderscoreUnderscore/MichaelK-Autosplitters/main/Blade%20Kitten.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitting, Auto Start and Load Removal for Blade Kitten.</Description>
+        <Website>https://github.com/MichaelK-UnderscoreUnderscore/MichaelK-Autosplitters/tree/main</Website>
+    </AutoSplitter>
 </AutoSplitters>
