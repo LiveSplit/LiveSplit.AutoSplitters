@@ -3732,6 +3732,7 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/KunoDemetries/AutoSplitter/master/PoppyPlaytimeChapter2.asl</URL>
+            <URL>https://raw.githubusercontent.com/KunoDemetries/AutoSplitter/refs/heads/master/PPCH2.Settings.xml</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitter (by KunoDemetries)</Description>
