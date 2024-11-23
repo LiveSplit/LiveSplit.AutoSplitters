@@ -22339,17 +22339,17 @@
             <Game>Horizon Zero Dawn</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/HorizonSpeedrun/horizon-load-remover/master/autosplitter/hzd-autosplitter.asl</URL>
+            <URL>https://raw.githubusercontent.com/HorizonSpeedrun/HorizonAutosplitters/main/HZD/hzd-autosplitter.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load Remover for Horizon Zero Dawn by ISO2768mK and DorianSnowball. Memory location found by Canine.</Description>
+        <Description>Load Remover and Autosplitter for Horizon Zero Dawn by ISO2768mK, Canine and DorianSnowball.</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>Horizon Zero Dawn Remastered</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/HorizonSpeedrun/horizon-load-remover/master/autosplitter/hzdr-autosplitter.asl</URL>
+            <URL>https://raw.githubusercontent.com/HorizonSpeedrun/HorizonAutosplitters/main/HZD/hzdr-autosplitter.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Load Remover for Horizon Zero Dawn Remastered by ISO2768mK and DorianSnowball.</Description>
@@ -22359,10 +22359,20 @@
             <Game>Horizon Forbidden West</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/HorizonSpeedrun/horizon-load-remover/master/autosplitter/hfw-autosplitter.asl</URL>
+            <URL>https://raw.githubusercontent.com/HorizonSpeedrun/HorizonAutosplitters/main/HFW/hfw-autosplitter.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Load Remover for Horizon Forbidden West by ISO2768mK and DorianSnowball.</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>LEGO Horizon Adventures</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/HorizonSpeedrun/HorizonAutosplitters/main/LHA/lha-autosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Remover and Autosplitter for LEGO Horizon Adventures by Driver.</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
