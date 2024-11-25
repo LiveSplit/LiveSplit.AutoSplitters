@@ -2,6 +2,26 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Championsheep Rally</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Degaussed/Livesplit-ASL-scripts/refs/heads/master/ChampionsheepRally.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplit and Laod Removal</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Honored</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Degaussed/Livesplit-ASL-scripts/refs/heads/master/DisIsHonored.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplit and Laod Removal</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Sorry We're Closed</Game>
             <Game>Sorry Were Closed</Game>
         </Games>
