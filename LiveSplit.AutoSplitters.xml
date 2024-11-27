@@ -5973,6 +5973,7 @@
             <Game>Mind Escape</Game>
             <Game>Portal: Unity Reboot</Game>
             <Game>Portal: After Hours</Game>
+            <Game>INFRA</Game>
         </Games>
         <URLs>
             <URL>https://github.com/p2sr/sar-auto-splitter/releases/download/latest/sar_auto_splitter.wasm</URL>
@@ -10771,16 +10772,6 @@
         </URLs>
         <Type>Script</Type>
         <Description>Load Removal is available. (By ItsJabo)</Description>
-    </AutoSplitter>
-    <AutoSplitter>
-        <Games>
-            <Game>INFRA</Game>
-        </Games>
-        <URLs>
-            <URL>https://gist.githubusercontent.com/gurka/75e1c454ac0853aa29b5856ff83b9d9e/raw/56520b0233da712ef50b5c4f8e5fe2b80db315c7/infra.asl</URL>
-        </URLs>
-        <Type>Script</Type>
-        <Description>Load Removal is available. (By Big_Jim)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
