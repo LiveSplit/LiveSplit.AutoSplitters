@@ -2,6 +2,16 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Backrooms: Escape Together</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/theframeburglar/BET-autosplitter/refs/heads/main/backrooms_escapetogether.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplit and Load Removal</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Children of the Sun</Game>
         </Games>
         <URLs>
