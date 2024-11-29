@@ -23615,4 +23615,16 @@
         <Description>Auto Splitting, Auto Start and Load Removal for Blade Kitten.</Description>
         <Website>https://github.com/MichaelK-UnderscoreUnderscore/MichaelK-Autosplitters/tree/main</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>New Super Mario Bros. Versus</Game>
+            <Game>New Super Mario Bros. Versus Category Extensions</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Biksell/asl/refs/heads/main/NSMBVS/NSMBVS.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting available (by Biksel)</Description>
+    </AutoSplitter>
 </AutoSplitters>
