@@ -23640,6 +23640,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Tilt frog</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/ru-mii/AutoSplitters/refs/heads/main/AutoSplitters/Games/Tilt%20frog/Tiltfrog.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>made by rumii</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Escape PS2 Hagrid</Game>
         </Games>
         <URLs>
