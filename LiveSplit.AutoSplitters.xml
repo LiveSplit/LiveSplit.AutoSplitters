@@ -23649,4 +23649,15 @@
         <Type>Script</Type>
         <Description>made by rumii</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Escape PS2 Hagrid</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/kwazrr/asl/refs/heads/main/ps2hagrid_Split_Load.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting and loadremoval available (by kwazrr)</Description>
+    </AutoSplitter>
 </AutoSplitters>
