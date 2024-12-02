@@ -23692,4 +23692,14 @@
         <Type>Script</Type>
         <Description>Autosplitting available (by Biksel)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>S.T.A.L.K.E.R. 2: Heart of Chornobyl</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/KusochekShaurmi/HeartOfChornobyl_LoadRemover/refs/heads/main/loadremoverHeartOfChornobyl.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load remover available (by KusochekShaurmi)</Description>
+    </AutoSplitter>
 </AutoSplitters>
