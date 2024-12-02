@@ -1,4 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<AutoSplitter>
+        <Games>
+            <Game>Echo Point Nova</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/steamer10TTV/Autosplitters/refs/heads/main/EchoPointNovaFullGame.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Full game auto splitter by steamer10</Description>
+    </AutoSplitter>
 <AutoSplitters>
     <AutoSplitter>
         <Games>
