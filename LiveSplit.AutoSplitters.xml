@@ -23681,4 +23681,15 @@
         <Type>Script</Type>
         <Description>Autosplitting and loadremoval available (by kwazrr)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>New Super Mario Bros. Versus: vic's Custom Match-inator</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Biksell/asl/refs/heads/main/vcmi/vcmi.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/7cd7f36aab142860c0a6a9f9a855bb44d7264b04/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting available (by Biksel)</Description>
+    </AutoSplitter>
 </AutoSplitters>
