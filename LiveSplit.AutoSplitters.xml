@@ -23723,4 +23723,15 @@
         <Type>Script</Type>
         <Description>Autosplitter - game must be running</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Ninja Ming Demo</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/DemoJameson/NinjaMing.AutoSplitter/refs/heads/master/NinjaMing.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for Ninja Ming Demo (By DemoJameson)</Description>
+        <Website>https://github.com/DemoJameson/NinjaMing.AutoSplitter</Website>
+    </AutoSplitter>
 </AutoSplitters>
