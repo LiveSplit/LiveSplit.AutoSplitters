@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<AutoSplitter>
+<AutoSplitters>
+    <AutoSplitter>
         <Games>
             <Game>Echo Point Nova</Game>
         </Games>
@@ -9,7 +10,6 @@
         <Type>Script</Type>
         <Description>Full game auto splitter by steamer10</Description>
     </AutoSplitter>
-<AutoSplitters>
     <AutoSplitter>
         <Games>
             <Game>Butcher's Creek</Game>
