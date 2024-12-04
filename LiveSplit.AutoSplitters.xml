@@ -2,6 +2,16 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Echo Point Nova</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/steamer10TTV/Autosplitters/refs/heads/main/EchoPointNovaFullGame.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Full game auto splitter by steamer10</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Butcher's Creek</Game>
         </Games>
         <URLs>
@@ -1976,7 +1986,6 @@
     <AutoSplitter>
         <Games>
             <Game>Echo Point Nova (Demo)</Game>
-            <Game>Echo Point Nova</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/mitchell-merry/autosplitters/main/Echo%20Point%20Nova/echopointnovademo.asl</URL>
