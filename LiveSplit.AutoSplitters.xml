@@ -23754,4 +23754,15 @@
         <Description>Autosplitter for Ninja Ming Demo (By DemoJameson)</Description>
         <Website>https://github.com/DemoJameson/NinjaMing.AutoSplitter</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Loonyland: Halloween Hill</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/AutomaticFrenzy/ASL-Autosplitter-projects/refs/heads/main/loonylandgeneric.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for Loonyland: Halloween Hill (By AutomaticFrenzy)</Description>
+        <Website>https://github.com/AutomaticFrenzy/ASL-Autosplitter-projects</Website>
+    </AutoSplitter>
 </AutoSplitters>
