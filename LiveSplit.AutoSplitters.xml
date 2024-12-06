@@ -9,7 +9,17 @@
         </URLs>
         <Type>Script</Type>
         <Description> Autosplitting And Load Remover Made by "Arkhamfan69, TpRedNinja, Kunodemetries"</Description>
+    </AutoSplitter>
     <AutoSplitter>
+        <Games>
+            <Game>REDACTED</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/LiterallyMetaphorical/LiveSplit.REDACTED/refs/heads/main/REDACTED.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter by Meta and Looney</Description>
+    </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>The Citadel</Game>
