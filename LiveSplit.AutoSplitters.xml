@@ -3,13 +3,24 @@
     <AutoSplitter>
         <Games>
             <Game>Marvel's Guardians of the Galaxy</Game>
-</Games>
+        </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/Arkhamfan69/My-Splitters-Load-Removers/refs/heads/main/Autosplitters/Gotg%20Splitter.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description> Autosplitting And Load Remover Made by "Arkhamfan69, TpRedNinja, Kunodemetries"</Description>
-<AutoSplitters>
+    <AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>The Citadel</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/LiveSplit.TheCitadel.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart, Autosplit and Load Remover by Streetbackguy</Description>
+    </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>Chroma Zero</Game>
