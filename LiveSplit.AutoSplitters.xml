@@ -2,6 +2,16 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>REDACTED</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/LiterallyMetaphorical/LiveSplit.REDACTED/refs/heads/main/REDACTED.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter by Meta and Looney</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Chroma Zero</Game>
         </Games>
         <URLs>
