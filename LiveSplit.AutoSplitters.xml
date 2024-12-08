@@ -19995,6 +19995,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Little Big Adventure Twinsen's Quest</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/amanekko/little-big-adventure-twinsens-quest-ASL/refs/heads/main/Little%20Big%20Adventure%20Twinsen's%20Quest.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/split/reset for LBA Twinsen's Quest.</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>PogoChamp</Game>
         </Games>
         <URLs>
