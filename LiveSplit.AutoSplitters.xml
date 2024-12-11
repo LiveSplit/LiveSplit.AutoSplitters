@@ -23828,4 +23828,14 @@
         <Type>Script</Type>
         <Description>Autosplitting and load removal available (by Biksel)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Enigma of Fear</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/lioth35/Lioth/refs/heads/main/EnigmaOfFear.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load removal (by Lioth)</Description>
+    </AutoSplitter>
 </AutoSplitters>
