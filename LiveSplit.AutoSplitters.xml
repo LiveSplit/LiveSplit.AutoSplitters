@@ -23849,4 +23849,21 @@
         <Type>Script</Type>
         <Description>Load removal (by Lioth)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Legacy of Kain: Soul Reaver 1 &amp; 2 Remastered</Game>
+            <Game>Legacy of Kain: Soul Reaver Remastered</Game>
+            <Game>Legacy of Kain: Soul Reaver 2 Remastered</Game>
+            <Game>Soul Reaver Remastered</Game>
+            <Game>Soul Reaver 2 Remastered</Game>
+            <Game>LoKSRR</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/TheDementedSalad/LoKSRR-Autosplitter/refs/heads/main/LoKSRR.asl</URL>
+            <URL>https://raw.githubusercontent.com/TheDementedSalad/LoKSRR-Autosplitter/refs/heads/main/LoKSRR.Settings.xml</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitting and Load Removal available. Compare to IGT. (By TheDementedSalad)</Description>
+    </AutoSplitter>
 </AutoSplitters>
