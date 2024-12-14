@@ -76,6 +76,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Indiana Jones and the Great Circle</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Mattmatt10111/asl-scripts/refs/heads/master/IJTheGreatCircle.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting and Load Removal by Mattmatt</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>The Thing: Remastered</Game>
         </Games>
         <URLs>
