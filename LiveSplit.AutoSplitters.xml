@@ -23876,4 +23876,14 @@
         <Type>Script</Type>
         <Description>Auto Splitting and Load Removal available. Compare to IGT. (By TheDementedSalad)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Mortal Kombat Trilogy</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/piratesephiroth/MortalKombatTrilogyPC-ASL/refs/heads/main/MortalKombatTrilogy-PC.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for Mortal Kombat Trilogy (GOG and DOSBox)</Description>
+    </AutoSplitter>
 </AutoSplitters>
