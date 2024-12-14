@@ -2016,6 +2016,8 @@
     <AutoSplitter>
         <Games>
             <Game>Hitman 3 Freelancer</Game>
+            <Game>Hitman WoA Freelancer</Game>
+            <Game>Hitman WoA: Freelancer</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/mitchell-merry/autosplitters/main/Hitman%203/hitman3.asl</URL>
