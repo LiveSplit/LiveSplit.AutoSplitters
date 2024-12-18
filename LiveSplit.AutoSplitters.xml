@@ -23901,4 +23901,14 @@
         <Type>Script</Type>
         <Description>Autosplitter for Mortal Kombat Trilogy (GOG and DOSBox)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Pongo</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/cyberianwilderness/Pongo-Autosplitter/refs/heads/main/pongo-autosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for Pongo (by l1ndblum)</Description>
+    </AutoSplitter>
 </AutoSplitters>
