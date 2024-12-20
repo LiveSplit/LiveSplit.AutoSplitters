@@ -23904,6 +23904,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Pongo</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/cyberianwilderness/Pongo-Autosplitter/refs/heads/main/pongo-autosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for Pongo (by l1ndblum)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Christmas Hell</Game>
         </Games>
         <URLs>
