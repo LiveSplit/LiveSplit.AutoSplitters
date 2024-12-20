@@ -23835,7 +23835,8 @@
             <Game>Ninja Ming Demo</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/DemoJameson/NinjaMing.AutoSplitter/refs/heads/master/NinjaMing.asl</URL>
+            <URL>https://raw.githubusercontent.com/DemoJameson/NinjaMing.AutoSplitter/refs/heads/master/NinjaMingDemo.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/8adba2e5692cb94dd630a7bf5c0f772b58c1b938/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitter for Ninja Ming Demo (By DemoJameson)</Description>
@@ -23910,5 +23911,16 @@
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitter for Pongo (by l1ndblum)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Christmas Hell</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/HandsomeStrife/speedrun-splits-and-autospltters/refs/heads/main/Christmas%20Hell/autosplitter.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and load remover</Description>
     </AutoSplitter>
 </AutoSplitters>
