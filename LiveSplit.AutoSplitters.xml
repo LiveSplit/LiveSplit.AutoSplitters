@@ -2,6 +2,16 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Oshiiro</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Degaussed/Livesplit-ASL-scripts/refs/heads/master/Oshiiro.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart, autosplit and load removal by Heki</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Fallout 4 (Next Gen)</Game>
         </Games>
         <URLs>
