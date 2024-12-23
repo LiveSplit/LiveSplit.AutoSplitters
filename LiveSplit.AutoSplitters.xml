@@ -23944,4 +23944,14 @@
         <Type>Script</Type>
         <Description>Autosplitter and load remover</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Need for Speed: Hot Pursuit 2</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/C0rr4do/Autosplitters/refs/heads/main/Need%20for%20Speed%20Hot%20Pursuit%202/Need_for_Speed_Hot_Pursuit_2.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Automatic Timer Start, Automatic Splits and Load Time Removal by C0rr4do</Description>
+    </AutoSplitter>
 </AutoSplitters>
