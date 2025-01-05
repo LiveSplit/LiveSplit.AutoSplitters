@@ -19271,7 +19271,7 @@
         </URLs>
         <Type>Script</Type>
         <ScriptType>AutoSplittingRuntime</ScriptType>
-        <Description>Supports auto start/split and IGT in RTA Speedrun mode on PlatinumQuest 2.10.0 and newer. (by thearst3rd)</Description>
+        <Description>Supports auto start, split, and IGT in RTA Speedrun mode on PlatinumQuest &gt;= 2.10.0. (by thearst3rd)</Description>
         <Website>https://codeberg.org/thearst3rd/platinumquest-asr</Website>
     </AutoSplitter>
     <AutoSplitter>
