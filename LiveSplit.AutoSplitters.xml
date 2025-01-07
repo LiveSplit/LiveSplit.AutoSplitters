@@ -5186,11 +5186,11 @@
             <Game>Drop Alive (Timeattack)</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/nukeurself/livesplit_drop_alive_autospliter/master/drop_alive.asl</URL>
+            <URL>https://raw.githubusercontent.com/ArkSumCode/livesplit_drop_alive_autospliter/master/drop_alive.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitter for the steam game drop alive. Gamemode "Timeattack"</Description>
-        <Website>http://nukeurself.de/</Website>
+        <Website>https://github.com/ArkSumCode/livesplit_drop_alive_autospliter</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
