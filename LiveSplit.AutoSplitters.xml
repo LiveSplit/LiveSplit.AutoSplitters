@@ -19262,6 +19262,20 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>PlatinumQuest</Game>
+            <Game>Marble Blast Platinum</Game>
+            <Game>Marble Blast Ultra (Platinum Edition)</Game>
+        </Games>
+        <URLs>
+            <URL>https://codeberg.org/thearst3rd/platinumquest-asr/releases/download/Latest/platinumquest_asr.wasm</URL>
+        </URLs>
+        <Type>Script</Type>
+        <ScriptType>AutoSplittingRuntime</ScriptType>
+        <Description>Supports auto start, split, and IGT in RTA Speedrun mode on PlatinumQuest &gt;= 2.10.0. (by thearst3rd)</Description>
+        <Website>https://codeberg.org/thearst3rd/platinumquest-asr</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Receiver 2</Game>
         </Games>
         <URLs>
