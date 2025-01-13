@@ -24025,4 +24025,14 @@
         <Type>Script</Type>
         <Description>Autosplitter</Description>
     </AutoSplitter>
+         <AutoSplitter>
+        <Games>
+            <Game>Crazy Ball Adventures</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/cyberianwilderness/CrazyBallAdventures-Autosplitter/refs/heads/main/crazyballadventures.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for Crazy Ball Adventures (by l1ndblum)</Description>
+    </AutoSplitter>
 </AutoSplitters>
