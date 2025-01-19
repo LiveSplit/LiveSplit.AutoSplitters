@@ -24046,4 +24046,15 @@
         <Type>Script</Type>
         <Description>Autosplitter for Crazy Ball Adventures (by l1ndblum)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>ANTONBLAST</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/cccarl/antonblast-autosplitter/releases/download/latest/antonblast_autosplitter.wasm</URL>
+        </URLs>
+        <Type>Script</Type>
+        <ScriptType>AutoSplittingRuntime</ScriptType>
+        <Description>Autosplitter available (by SunglassesEmoji)</Description>
+    </AutoSplitter>
 </AutoSplitters>
