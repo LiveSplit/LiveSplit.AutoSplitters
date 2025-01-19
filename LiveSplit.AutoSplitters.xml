@@ -2,6 +2,17 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Skate Horse</Game>
+        </Games>
+        <URLs>
+            <URL>https://gist.githubusercontent.com/nlesne/0fc6a8ccbbf1434d58446cc6afd9e6f6/raw/107637dd5684df61b36714bdae13ea6c9aadef29/skate_horse.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/8adba2e5692cb94dd630a7bf5c0f772b58c1b938/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart, AutoSplit and IGT</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>No One Can Stop Mr. Domino!</Game>
         </Games>
         <URLs>
