@@ -24057,4 +24057,14 @@
         <ScriptType>AutoSplittingRuntime</ScriptType>
         <Description>Autosplitter available (by SunglassesEmoji)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Brotato</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/RobTheFiveNine/brotato-autosplitter/refs/heads/main/brotato.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Automatic timer start and automatic splits by RobTheFiveNine</Description>
+    </AutoSplitter>
 </AutoSplitters>
