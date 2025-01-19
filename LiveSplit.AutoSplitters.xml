@@ -19305,26 +19305,15 @@
     <AutoSplitter>
         <Games>
             <Game>Marble It Up!</Game>
-        </Games>
-        <URLs>
-            <URL>https://github.com/TalentedPlatinum/AutoSplitters/raw/main/MarbleItUp.asl</URL>
-            <URL>https://github.com/just-ero/asl-help/raw/main/lib/UnityASL.bin</URL>
-        </URLs>
-        <Type>Script</Type>
-        <Description>Starts the timer automatically on Learning To Roll. Splits available in the settings. (by TalentedPlatinum, ero)</Description>
-        <Website>https://github.com/TalentedPlatinum/AutoSplitters/blob/main/README.md</Website>
-    </AutoSplitter>
-    <AutoSplitter>
-        <Games>
             <Game>Marble It Up! Ultra</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/thearst3rd/autosplitters/main/LiveSplit.MarbleItUpUltra.asl</URL>
-            <URL>https://github.com/just-ero/asl-help/raw/main/Components/UnityASL.bin</URL>
+            <URL>https://github.com/TalentedPlatinum/AutoSplitters/raw/main/MarbleItUp+Ultra.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Supports auto start, and splits on finishing and treasure box collection. (by thearst3rd, TalentedPlatinum, ero)</Description>
-        <Website>https://github.com/TalentedPlatinum/AutoSplitters/blob/main/README.md</Website>
+        <Description>Start and split settings available. (by ero, TalentedPlatinum, thearst3rd)</Description>
+        <Website>https://github.com/TalentedPlatinum/AutoSplitters</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
