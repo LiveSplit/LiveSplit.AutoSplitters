@@ -24062,7 +24062,7 @@
             <Game>Brotato</Game>
         </Games>
         <URLs>
-            <URL>https://github.com/RobTheFiveNine/brotato-autosplitter/releases/download/v1.0.0/brotato.asl</URL>
+            <URL>https://raw.githubusercontent.com/RobTheFiveNine/brotato-autosplitter/refs/heads/main/brotato.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Automatic timer start and automatic splits by RobTheFiveNine</Description>
