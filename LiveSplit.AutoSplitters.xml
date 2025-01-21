@@ -13227,6 +13227,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Nancy Drew: The Haunting of Castle Malloy</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/toasterberry/Nancy-Drew-Autosplitters/main/Autosplitters/19.%20HAU.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/split/reset</Description>
+        <Website>https://github.com/toasterberry/Nancy-Drew-Autosplitters</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Nancy Drew: Ransom of the Seven Ships</Game>
         </Games>
         <URLs>
@@ -13341,6 +13352,28 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/toasterberry/Nancy-Drew-Autosplitters/main/Autosplitters/30.%20MED.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/split/reset</Description>
+        <Website>https://github.com/toasterberry/Nancy-Drew-Autosplitters</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Nancy Drew: Labyrinth of Lies</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/toasterberry/Nancy-Drew-Autosplitters/main/Autosplitters/31.%20LIE.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/split/reset</Description>
+        <Website>https://github.com/toasterberry/Nancy-Drew-Autosplitters</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Nancy Drew: Sea of Darkness</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/toasterberry/Nancy-Drew-Autosplitters/main/Autosplitters/32.%20SEA.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Auto start/split/reset</Description>
