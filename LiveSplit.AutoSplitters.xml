@@ -16480,9 +16480,6 @@
     <AutoSplitter>
         <Games>
             <Game>Red Ball 5</Game>
-            <Game>Red and Blue Balls</Game>
-            <Game>Red and Blue Balls 2</Game>
-            <Game>Red and Blue Balls 3</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/ItsMaximum/autosplitters/master/RedBallGames.asl</URL>
@@ -16499,6 +16496,9 @@
             <Game>Red Ball 4 Vol.1</Game>
             <Game>Red Ball 4 Vol.2</Game>
             <Game>Red Ball 4 Vol.3</Game>
+            <Game>Red and Blue Balls</Game>
+            <Game>Red and Blue Balls 2</Game>
+            <Game>Red and Blue Balls 3</Game>
             <Game>Multiple Red Ball Games</Game>
             <Game>Red Ball Category Extensions</Game>
         </Games>
@@ -16507,7 +16507,7 @@
         </URLs>
         <Type>Script</Type>
         <Description>Perfectly splits upon completing each level. Click "Website" to download the games. (By Maximum)</Description>
-        <Website>https://drive.google.com/file/d/1dvM7VoIdnX9sEo7OB6J7ybNcZG_ZrCpp/view?usp=sharing</Website>
+        <Website>https://drive.google.com/file/d/1P-pBVhjmqKvxZfHVrzmfbATM9F9k-sox/view?usp=sharing</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
