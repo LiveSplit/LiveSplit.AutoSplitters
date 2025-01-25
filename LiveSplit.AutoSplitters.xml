@@ -24169,8 +24169,7 @@
         <Type>Script</Type>
         <Description>Autosplitting and Game Time sync for Sugary Spire</Description>
     </AutoSplitter>
-    </AutoSplitter>
-        <AutoSplitter>
+    <AutoSplitter>
         <Games>
             <Game>Money Movers</Game>
         </Games>
