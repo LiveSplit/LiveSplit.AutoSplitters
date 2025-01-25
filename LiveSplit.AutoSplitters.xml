@@ -24169,4 +24169,14 @@
         <Type>Script</Type>
         <Description>Autosplitting and Game Time sync for Sugary Spire</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Money Movers</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Biksell/asl/refs/heads/main/Money%20Movers/moneymovers1.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting available for Flashpoint-version (by Biksel)</Description>
+    </AutoSplitter>
 </AutoSplitters>
