@@ -24155,4 +24155,14 @@
         <Type>Script</Type>
         <Description>Auto Splitting and Load Removal available. Compare to IGT. (By TheDementedSalad)</Description>
     </AutoSplitter>
+        <AutoSplitter>
+        <Games>
+            <Game>Sugary Spire: Exhibition Night</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/avievie/ASL-Dump/refs/heads/main/SugarySpireExhibitionNight.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting and Game Time sync for Sugary Spire</Description>
+    </AutoSplitter>
 </AutoSplitters>
