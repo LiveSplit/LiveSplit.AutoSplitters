@@ -9541,8 +9541,12 @@
             <Game>Biohazard 7</Game>
             <Game>RESIDENT EVIL 7 biohazard / BIOHAZARD 7 resident evil</Game>
             <Game>Resident Evil 7: Biohazard</Game>
+            <Game>Resident Evil 7: Biohazard Category Extensions</Game>
             <Game>RE7</Game>
             <Game>RE7: Biohazard</Game>
+            <Game>RE7: Not a Hero</Game>
+            <Game>RE7: End of Zoe</Game>
+            <Game>RE7: Banned Footage DLC</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/TheDementedSalad/re7/master/RE7.asl</URL>
