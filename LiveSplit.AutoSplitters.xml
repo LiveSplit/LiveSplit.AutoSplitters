@@ -24179,4 +24179,14 @@
         <Type>Script</Type>
         <Description>Autosplitting available for Flashpoint-version (by Biksel)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>LEGO Minifigures: Viking Flames</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Biksell/asl/refs/heads/main/LEGO%20Flash/vikingflames.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting available for Flashpoint-version (by Biksel)</Description>
+    </AutoSplitter>
 </AutoSplitters>
