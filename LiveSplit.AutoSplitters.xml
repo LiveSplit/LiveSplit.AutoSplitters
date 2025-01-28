@@ -24200,4 +24200,15 @@
         <Type>Script</Type>
         <Description>Autosplitting available for Flashpoint-version (by Biksel)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Ys X: Nordics</Game>
+        </Games>
+        <URLs>
+            <URL>https://gist.githubusercontent.com/JaddoSRL/5ed6987408a2cd773b95b07b84329a58/raw/Ys%2520X%2520Load%2520Remover.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Remover for Ys X: Nordics (by Jaddo)</Description>
+        <Website>https://gist.github.com/JaddoSRL/5ed6987408a2cd773b95b07b84329a58</Website>
+    </AutoSplitter>
 </AutoSplitters>
