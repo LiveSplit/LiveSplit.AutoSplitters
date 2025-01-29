@@ -18360,6 +18360,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>ENDER MAGNOLIA: Bloom in the Mist</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Trexounay/EnderMagnolia.AutoSplitter/main/EnderMagnoliaAutoSplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Start/Reset, Load Remover and Auto Splitting (by Trex)</Description>
+        <Website>https://discord.gg/wWQUzB36dx</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Phantom Abyss</Game>
         </Games>
         <URLs>
