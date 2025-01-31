@@ -24246,4 +24246,14 @@
         <Type>Script</Type>
         <Description>Autosplitter and Load Remover</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Were.Wolf</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/BrianSchinelli/WereWolfAutoSplitter/refs/heads/main/WereWolf.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Automatic start/split by Aleph_tv</Description>
+    </AutoSplitter>
 </AutoSplitters>
