@@ -24257,4 +24257,15 @@
         <Type>Script</Type>
         <Description>Automatic start/split by Aleph_tv</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>LEGO Pirates of the Caribbean: The Video Game</Game>
+            <Game>LEGO Pirates of the Caribbean: The Video Game Category Extensions</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Biksell/asl/refs/heads/main/LEGO%20Pirates/potc.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting and load removal available</Description>
+    </AutoSplitter>
 </AutoSplitters>
