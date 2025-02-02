@@ -2,6 +2,18 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Poppy Playtime: Chapter 4</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Lox-r/Autosplitters/refs/heads/main/Poppy%20Playtime%20Chapter%204/PoppyPlaytimeCh4.asl</URL>
+            <URL>https://raw.githubusercontent.com/Lox-r/Autosplitters/refs/heads/main/Poppy%20Playtime%20Chapter%204/PPCH4.Settings.xml</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and Load Remover Available (By TheDementedSalad &amp; Lox)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>SKALD: Against the Black Priory</Game>
         </Games>
         <URLs>
