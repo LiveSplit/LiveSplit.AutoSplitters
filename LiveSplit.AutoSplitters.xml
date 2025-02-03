@@ -2,6 +2,18 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>James Bond 007: Blood Stone</Game>
+            <Game>James Bond: Blood Stone</Game>
+            <Game>007: Blood Stone</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Degaussed/Livesplit-ASL-scripts/refs/heads/master/Blood_Stone.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Split, Load Removal and Unlimited Sprint by Heki and Danza. (PC)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Poppy Playtime: Chapter 4</Game>
         </Games>
         <URLs>
