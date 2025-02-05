@@ -2,6 +2,16 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>LEGO Harry Potter: Years 1-4</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/FlamingLazer/asl/refs/heads/main/lhp1_4.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting and load removal available.</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>James Bond 007: Blood Stone</Game>
             <Game>James Bond: Blood Stone</Game>
             <Game>007: Blood Stone</Game>
