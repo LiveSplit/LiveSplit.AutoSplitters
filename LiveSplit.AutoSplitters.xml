@@ -24304,4 +24304,15 @@
         <Type>Script</Type>
         <Description>Autosplitting and load removal available</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Bloodthief</Game>
+            <Game>Bloodthief Demo</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Micrologist/LiveSplit.Bloodthief/refs/heads/main/BloodthiefDemo.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Game Time and Auto Splitting available</Description>
+    </AutoSplitter>
 </AutoSplitters>
