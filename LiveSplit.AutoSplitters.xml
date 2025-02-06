@@ -24315,4 +24315,14 @@
         <Type>Script</Type>
         <Description>Game Time and Auto Splitting available</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Driving Is Hard</Game>
+        </Games>
+        <URLs>
+            <URL>https://gist.githubusercontent.com/wRadion/aaf5f744b664b619b5c121e9fb760ccb/raw/driving_is_hard-autosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter available (by wRadion)</Description>
+    </AutoSplitter>
 </AutoSplitters>
