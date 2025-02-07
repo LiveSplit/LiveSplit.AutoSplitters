@@ -11742,6 +11742,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Brave Escape</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Coltaho/Autosplitters/master/BraveEscape/BraveEscapeautosplit.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for Brave Escape (By Coltaho)</Description>
+        <Website>https://github.com/Coltaho/Autosplitters/blob/master/BraveEscape/README.md</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Moonlight Pulse</Game>
         </Games>
         <URLs>
