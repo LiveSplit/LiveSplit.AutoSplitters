@@ -23518,10 +23518,10 @@
             <Game>SCHiM</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/vojtechblazek/SCHiM-Autosplitter/main/SCHiMASL.asl</URL>
+            <URL>https://raw.githubusercontent.com/vojtechblazek/Autosplitters/main/ASL_SCHiM.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>SCHiM Auto Splitter and Load removal by vojtechblazek</Description>
+        <Description>SCHiM Auto Splitter and LRT by blazie</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -23681,10 +23681,10 @@
             <Game>Samorost</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/vojtechblazek/Samorost1-Autosplitter/main/ASL_Samorost1.asl</URL>
+            <URL>https://raw.githubusercontent.com/vojtechblazek/Autosplitters/main/ASL_Samorost1.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto Splitter by vojtechblazek</Description>
+        <Description>Auto Splitter by blazie</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -23970,11 +23970,11 @@
             <Game>Supermarket Together</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/vojtechblazek/SupermarketTogether-Autosplitter/refs/heads/main/ASL_SupermarketTogether.asl</URL>
+            <URL>https://raw.githubusercontent.com/vojtechblazek/Autosplitters/main/ASL_SupermarketTogether.asl</URL>
             <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto Splitter (start, end) by vojtechblazek</Description>
+        <Description>Auto Splitter by blazie (Start, end)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -23992,10 +23992,10 @@
             <Game>The Adventures of Tintin: The Secret of the Unicorn</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/vojtechblazek/Autosplitter-TintinSecretOfTheUnicorn/refs/heads/main/ASL_TintinSecretOfTheUnicorn.asl</URL>
+            <URL>https://raw.githubusercontent.com/vojtechblazek/Autosplitters/main/ASL_TintinSecretOfTheUnicorn.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto Splitter by vojtechblazek</Description>
+        <Description>Auto Splitter by blazie</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
