@@ -2,6 +2,18 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Thunderbirds</Game>
+            <Game>Thunderbirds (PS2)</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/LiveSplit.Thunderbirds.asl</URL>
+            <URL>https://github.com/Jujstme/emu-help/raw/master/lib/emu-help-v3</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart and Autosplitting by Streetbackguy</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>LEGO Harry Potter: Years 1-4</Game>
         </Games>
         <URLs>
