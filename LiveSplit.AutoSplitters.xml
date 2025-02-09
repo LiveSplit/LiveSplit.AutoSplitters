@@ -2,6 +2,16 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Alien Hominid HD</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Boolerex/Alien-Hominid-HD-Auto-splitter/refs/heads/main/Alien%20hominid%20autosplit.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter by Boolerex</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Thunderbirds</Game>
             <Game>Thunderbirds (PS2)</Game>
         </Games>
