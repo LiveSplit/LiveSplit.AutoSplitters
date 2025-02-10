@@ -24380,4 +24380,14 @@
         <Type>Script</Type>
         <Description>Autosplitter available (by wRadion)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Sacre Bleu</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/badBlackShark/ASL-Scripts/refs/heads/master/LiveSplit.SacreBleu.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Automatic splitting, load removing, and combat time adjustments available (by badBlackShark)</Description>
+    </AutoSplitter>
 </AutoSplitters>
