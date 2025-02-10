@@ -2,6 +2,16 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>LEGO Island</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Ramen2X/isle.asl/refs/heads/master/isle.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter by Ramen2X</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Alien Hominid HD</Game>
         </Games>
         <URLs>
