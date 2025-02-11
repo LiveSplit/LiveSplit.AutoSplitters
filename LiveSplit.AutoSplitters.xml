@@ -5896,6 +5896,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Project Wingman</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Hilimii/ProjectWingman_Autosplitter/refs/heads/main/PW_Autosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for Project Wingman Campaign and ILs. (By NitrogenCynic and Hilimii)</Description>
+        <Website>https://github.com/Hilimii/ProjectWingman_Autosplitter</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Call of Duty 4: Modern Warfare</Game>
             <Game>Call of Duty 4: Speedrun Mod</Game>
         </Games>
