@@ -24403,4 +24403,14 @@
         <Type>Script</Type>
         <Description>Autosplitter</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Get Tilted! :)</Game>
+        </Games>
+        <URLs>
+            <URL>https://gist.githubusercontent.com/wRadion/5a0d04974044e881f63c3fbfd2f7a2e1/raw/gettilted_autosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter available (by wRadion)</Description>
+    </AutoSplitter>
 </AutoSplitters>
