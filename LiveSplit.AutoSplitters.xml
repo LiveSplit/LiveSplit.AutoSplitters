@@ -24469,4 +24469,17 @@
         <Type>Script</Type>
         <Description>Autosplitter and Load Remover</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>ChromaGun 2 Demo</Game>
+            <Game>ChromaGun 2: Dye Hard</Game>
+            <Game>ChromaGun 2: Dye Hard Demo</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Biksell/asl/refs/heads/main/ChromaGun2/chromagun2.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting and IGT available (by Biksel)</Description>
+    </AutoSplitter>
 </AutoSplitters>
