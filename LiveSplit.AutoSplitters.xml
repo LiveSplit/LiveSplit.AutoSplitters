@@ -17120,7 +17120,19 @@
             <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autosplitter for Squirm with full support for Any%, 100%, and Surprise Party (by Reicha7)</Description>
+        <Description>Autosplitter for Squirm with full support for Any%, 100%, DLC, and Surprise Party (by Reicha7)</Description>
+        <Website>https://github.com/archieyates/Autosplitters</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Loop-Loop DX</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/archieyates/Autosplitters/master/Loop-Loop%20DX/LoopLoop.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for Loop-Loop DX with support for Adventure Mode (by Reicha7)</Description>
         <Website>https://github.com/archieyates/Autosplitters</Website>
     </AutoSplitter>
     <AutoSplitter>
