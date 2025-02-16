@@ -24497,4 +24497,14 @@
         <Type>Script</Type>
         <Description>Auto Splitting and Load Removal available. Compare to IGT. (By TheDementedSalad)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>The Legend of Heroes: Trails through Daybreak</Game>
+        </Games>
+        <URLs>
+            <URL>https://gist.githubusercontent.com/JaddoSRL/0ace5ac068c190659d8770308ca486b5/raw/Daybreak%25201%2520Load%2520remover.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Remover for V1.3.5 (by Jaddo)</Description>
+    </AutoSplitter>
 </AutoSplitters>
