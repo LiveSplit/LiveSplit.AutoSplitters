@@ -24497,4 +24497,14 @@
         <Type>Script</Type>
         <Description>Auto Splitting and Load Removal available. Compare to IGT. (By TheDementedSalad)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Sifu</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/gunlinux/LiveSplit.Sifu/main/LiveSplit.Sifu.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitting and Load Removal (By gunlinux)</Description>
+    </AutoSplitter>
 </AutoSplitters>
