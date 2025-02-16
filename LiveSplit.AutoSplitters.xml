@@ -14565,18 +14565,21 @@
     <AutoSplitter>
         <Games>
             <Game>Resident Evil 4</Game>
+            <Game>Resident Evil 4 (2005)</Game>
             <Game>Resident Evil 4 (Steam)</Game>
-            <Game>Resident Evil 4 Ultimate HD</Game>
+            <Game>Resident Evil 4 Ultimate HD Edition</Game>
             <Game>RE4</Game>
             <Game>Biohazard 4</Game>
             <Game>Bio4</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Mysterion06/Re4Splitter/main/RE4Splitter.asl</URL>
+            <URL>https://raw.githubusercontent.com/yuushiGit/RE4OG_AutoSplitter/main/RE4Splitter.asl</URL>
+            <URL>https://raw.githubusercontent.com/yuushiGit/RE4OG_AutoSplitter/main/RE4Splitter.Settings.xml</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto Splitting and Load Removal are available. (By Wipefinger, Mysterion352, Yuushi)</Description>
-        <Website>https://github.com/Mysterion06/Re4Splitter/blob/main/README.md</Website>
+        <Description>Autosplitter and Load Remover by Yuushi and Sawken.</Description>
+        <Website>https://github.com/yuushiGit/RE4OG_AutoSplitter/blob/main/README.md</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
