@@ -24529,4 +24529,24 @@
         <Type>Script</Type>
         <Description>Load Remover for V1.3.5 (by Jaddo)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>LEGO Batman 3: Beyond Gotham</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Siedemnastek/Autosplitter/main/LB3.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Removal is available. (By Siedemnastek)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>LEGO The Lord of the Rings</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Siedemnastek/Autosplitter/main/LOTR.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting and Load Removal is available. (By Siedemnastek)</Description>
+    </AutoSplitter>
 </AutoSplitters>
