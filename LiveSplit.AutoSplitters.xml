@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
+     <AutoSplitter>
+        <Games>
+            <Game>Twisted Tower Demo</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/LiterallyMetaphorical/Livesplit.TwistedTower/refs/heads/main/TwistedTower.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>ASL by Meta with load remover, autostart, and autosplit</Description>
+    </AutoSplitter>
+ <AutoSplitter>
+        <Games>
+            <Game>Last Half of Darkness</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/LiterallyMetaphorical/Livesplit.LastHalfofDarkness/refs/heads/main/LastHalfOfDarkness.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>ASL by Meta with load remover, autostart, and autosplit</Description>
+    </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>Final Fantasy VII Rebirth</Game>
