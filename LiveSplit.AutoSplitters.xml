@@ -6,6 +6,7 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/LiterallyMetaphorical/Livesplit.TwistedTower/refs/heads/main/TwistedTower.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/LiveSplit.ASLHelper.bin</URL>
         </URLs>
         <Type>Script</Type>
         <Description>ASL by Meta with load remover, autostart, and autosplit</Description>
