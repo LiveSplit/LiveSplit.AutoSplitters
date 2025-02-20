@@ -1196,6 +1196,7 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/KunoDemetries/AutoSplitter/master/BuffyTheVampireSlayer.asl</URL>
+            <URL>https://github.com/Jujstme/emu-help/raw/master/lib/emu-help-v2</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitter/LRT (By KunoDemetries)</Description>
