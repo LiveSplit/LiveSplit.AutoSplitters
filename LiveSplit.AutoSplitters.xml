@@ -24592,4 +24592,14 @@
         <Type>Script</Type>
         <Description>Autosplitting and Load Removal is available. (By Siedemnastek)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Hell of an Office</Game>
+        </Games>
+        <URLs>
+            <URL>https://gist.githubusercontent.com/wRadion/b44f84cdd0233eb5e2e6ef024aa1b6e4/raw/hell-of-an-office_autosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and Load Remover available (by wRadion)</Description>
+    </AutoSplitter>
 </AutoSplitters>
