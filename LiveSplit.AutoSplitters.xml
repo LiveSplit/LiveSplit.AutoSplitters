@@ -1,16 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
-    <AutoSplitter>
-        <Games>
-            <Game>Promise Mascot Agency Demo</Game>
-        </Games>
-        <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/LiveSplit.PromiseMascotAgencyDemo.asl</URL>
-            <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
-        </URLs>
-        <Type>Script</Type>
-        <Description>Load Remover, Autostart and Autoreset by Streetbackguy</Description>
-    </AutoSplitter>
      <AutoSplitter>
         <Games>
             <Game>Twisted Tower Demo</Game>
@@ -24581,5 +24570,15 @@
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitting and Load Removal is available. (By Siedemnastek)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Hell of an Office</Game>
+        </Games>
+        <URLs>
+            <URL>https://gist.githubusercontent.com/wRadion/b44f84cdd0233eb5e2e6ef024aa1b6e4/raw/hell-of-an-office_autosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and Load Remover available (by wRadion)</Description>
     </AutoSplitter>
 </AutoSplitters>
