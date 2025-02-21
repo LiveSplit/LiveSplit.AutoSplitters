@@ -34,6 +34,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Kingdom Come: Deliverance II</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Denhonator/Load-Removers-and-Mods/refs/heads/main/KCD2/KCD2.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Loadremover by denho</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Final Fantasy VII Rebirth</Game>
         </Games>
         <URLs>
