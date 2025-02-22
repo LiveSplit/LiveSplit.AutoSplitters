@@ -24626,4 +24626,14 @@
         <Type>Script</Type>
         <Description>Autosplitter and Load Remover available (by wRadion)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Avowed</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Micrologist/LiveSplit.Avowed/refs/heads/master/Avowed.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Removal (by Micrologist)</Description>
+    </AutoSplitter>
 </AutoSplitters>
