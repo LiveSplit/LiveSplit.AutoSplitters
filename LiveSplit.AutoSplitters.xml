@@ -1340,7 +1340,7 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/ciirno/Livesplit-Autosplitters/refs/heads/main/Army%20Men%20Air%20Attack/ArmyMenAA.asl</URL>
-            <URL>https://github.com/Jujstme/emu-help/raw/master/lib/emu-help-v3</URL>
+            <URL>https://github.com/Jujstme/emu-help/raw/master/lib/emu-help-v2</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitting (Start/Split) by Ciirno, Special thanks to Nikoheart for helping me</Description>
