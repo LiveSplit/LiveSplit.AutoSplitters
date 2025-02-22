@@ -2,6 +2,17 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Army Men Air Attack</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/ciirno/Livesplit-Autosplitters/refs/heads/main/Army%20Men%20Air%20Attack/ArmyMenAA.asl</URL>
+            <URL>https://github.com/Jujstme/emu-help/raw/master/lib/emu-help-v2</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart and Autosplit by Ciirno (Huge Thanks to Nikoheart!)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Shotgun Cop Man Demo</Game>
             <Game>Shotgun Cop Man</Game>
         </Games>
