@@ -24659,4 +24659,14 @@
         <Type>Script</Type>
         <Description>Load Removal (by Micrologist)</Description>
     </AutoSplitter>
+        <AutoSplitter>
+        <Games>
+            <Game>Multiple Arkham Games</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/ShikenNuggets/Autosplitters/refs/heads/master/MultiArkham.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and Pausing Game Time Between Runs is available (by ShikenNuggets)</Description>
+    </AutoSplitter>
 </AutoSplitters>
