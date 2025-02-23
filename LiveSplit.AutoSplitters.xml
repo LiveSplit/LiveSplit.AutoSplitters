@@ -19746,6 +19746,18 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Battle Shapers</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/just-ero/asl/raw/main/Battle%20Shapers/BattleShapers.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/8adba2e5692cb94dd630a7bf5c0f772b58c1b938/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Starts, resets automatically. Splits when a run is completed. Syncs to in-game time. (by ero)</Description>
+        <Website>https://github.com/just-ero/asl/tree/main/Battle%20Shapers</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>DESPOSIS</Game>
         </Games>
         <URLs>
