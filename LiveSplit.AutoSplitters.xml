@@ -2,6 +2,17 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>KiPulKai : la légende des 3 masques</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/BChevillon/kipulkai2_autosplitter/refs/heads/main/kipulkai_lld3m.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplit by Univers-KiPulKai</Description>
+        <Website>https://www.univers-kipukai.fr</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Army Men Air Attack</Game>
         </Games>
         <URLs>
