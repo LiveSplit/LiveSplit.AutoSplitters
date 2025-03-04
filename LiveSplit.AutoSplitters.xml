@@ -14296,6 +14296,7 @@
         </URLs>
         <Type>Component</Type>
         <Description>Automatic start, split, reset, and IGT for FG, IL, and deathruns. (by Midge, rtrger, Lowosos, RiiFT)</Description>
+        <Website>https://github.com/TombRunners/Autosplitters</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -17593,6 +17594,7 @@
         </URLs>
         <Type>Component</Type>
         <Description>Automatic start, split, reset, and IGT for FG, IL, and deathruns. (by apel, Danza, Midge, rr-, rtrger)</Description>
+        <Website>https://github.com/TombRunners/Autosplitters</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -20381,6 +20383,7 @@
         </URLs>
         <Type>Component</Type>
         <Description>Automatic start, split, reset, and IGT for FG, IL, and deathruns. (by Midge and apel)</Description>
+        <Website>https://github.com/TombRunners/Autosplitters</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -23196,7 +23199,55 @@
             <URL>https://raw.githubusercontent.com/TombRunners/autosplitters/master/TR123/Components/TR123.dll</URL>
         </URLs>
         <Type>Component</Type>
-        <Description>Automatic Start, Split, and optional Reset. IGT and RTA w/o Loads. FG, IL, and deathruns. By Midge and apel.</Description>
+        <Description>Start, Split, and optional Reset. IGT and RTA w/o Loads. FG, IL / Area%, and deathruns. By Midge and apel.</Description>
+        <Website>https://github.com/TombRunners/Autosplitters</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Tomb Raider IV-VI Remastered</Game>
+            <Game>Tomb Raider 4-6</Game>
+            <Game>TR 4-6 Remastered</Game>
+            <Game>Tomb Raider Remastered IV-VI</Game>
+            <Game>Tomb Raider Remastered 4-6</Game>
+            <Game>TRR IV-VI</Game>
+            <Game>TRR 456</Game>
+            <Game>TR456</Game>
+            <Game>TR456R</Game>
+            <Game>Tomb Raider IV Remastered</Game>
+            <Game>Tomb Raider IV: The Last Revelation Remastered</Game>
+            <Game>Tomb Raider 4 Remastered</Game>
+            <Game>Tomb Raider 4: The Last Revelation Remastered</Game>
+            <Game>TR4 Remastered</Game>
+            <Game>TR4R</Game>
+            <Game>The Times Exclusive Remastered</Game>
+            <Game>Tomb Raider: The Times Exclusive Remastered</Game>
+            <Game>Tomb Raider The Times Exclusive Remastered</Game>
+            <Game>TR:TTE Remastered</Game>
+            <Game>TTE Remastered</Game>
+            <Game>TTER</Game>
+            <Game>Tomb Raider: Chronicles Remastered</Game>
+            <Game>Tomb Raider Chronicles Remastered</Game>
+            <Game>Tomb Raider V Remastered</Game>
+            <Game>Tomb Raider 5 Remastered</Game>
+            <Game>TR5 Remastered</Game>
+            <Game>TRC Remastered</Game>
+            <Game>TR5R</Game>
+            <Game>TRCR</Game>
+            <Game>Tomb Raider VI Remastered</Game>
+            <Game>Tomb Raider 6 Remastered</Game>
+            <Game>TR6 Remastered</Game>
+            <Game>TR6R</Game>
+            <Game>Tomb Raider: Angel of Darkness Remastered</Game>
+            <Game>Tomb Raider: The Angel of Darkness Remastered</Game>
+            <Game>Angel of Darkness Remastered</Game>
+            <Game>AoD Remastered</Game>
+            <Game>AoDR</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/TombRunners/autosplitters/master/TR456/Components/TR456.dll</URL>
+        </URLs>
+        <Type>Component</Type>
+        <Description>Start, Split, and optional Reset. IGT and RTA w/o Loads. FG, IL / Area%, and deathruns. By Midge.</Description>
         <Website>https://github.com/TombRunners/Autosplitters</Website>
     </AutoSplitter>
     <AutoSplitter>
