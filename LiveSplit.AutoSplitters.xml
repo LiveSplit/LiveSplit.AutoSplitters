@@ -18812,11 +18812,11 @@
             <Game>RollerCoaster Tycoon 2</Game>
         </Games>
         <URLs>
-            <URL>https://git.sr.ht/~jkcclemens/openrct2-autosplitter/blob/main/OpenRCT2.asl</URL>
+            <URL>https://raw.githubusercontent.com/anna-is-cute/openrct2-autosplitter/main/OpenRCT2.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>AutoSplitter for OpenRCT2 categories</Description>
-        <Website>https://git.sr.ht/~jkcclemens/openrct2-autosplitter</Website>
+        <Website>https://github.com/anna-is-cute/openrct2-autosplitter</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
