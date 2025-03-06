@@ -24800,4 +24800,14 @@
         <Type>Script</Type>
         <Description>Autosplitting vailable. (By TheDementedSalad)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Maldita Castilla</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/jocelyndubois/Maldita-Castilla-Autosplitter/refs/heads/main/MalditaCastilla.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Any% autosplitter (By Djodjino)</Description>
+    </AutoSplitter>
 </AutoSplitters>
