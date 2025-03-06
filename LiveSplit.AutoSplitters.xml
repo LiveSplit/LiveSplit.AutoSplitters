@@ -177,12 +177,13 @@
     <AutoSplitter>
         <Games>
             <Game>LEGO Harry Potter: Years 1-4</Game>
+            <Game>LEGO Harry Potter Category Extensions</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/FlamingLazer/asl/refs/heads/main/lhp1_4.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autosplitting and load removal available.</Description>
+        <Description>Autosplitting and load removal available for 1-4.</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
