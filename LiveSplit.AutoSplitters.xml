@@ -24813,6 +24813,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Maldita Castilla</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/jocelyndubois/Maldita-Castilla-Autosplitter/refs/heads/main/MalditaCastilla.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Any% autosplitter (By Djodjino)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Monster Hunter Wilds</Game>
         </Games>
         <URLs>
