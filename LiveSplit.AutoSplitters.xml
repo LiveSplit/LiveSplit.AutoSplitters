@@ -24801,7 +24801,7 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
-            <Game>Monster Hunter Wilds</Game>
+            <Game>Monster Hunter Rise</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/TheDementedSalad/Monster-Hunter-Rise-Autosplitter/refs/heads/main/Monster%20Hunter%20Rise.asl</URL>
@@ -24810,5 +24810,17 @@
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitting vailable. (By TheDementedSalad)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Monster Hunter Wilds</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/TheDementedSalad/Monster-Hunter-Wilds-Autosplitter/refs/heads/main/Monster%20Hunter%20Wilds.asl</URL>
+            <URL>https://raw.githubusercontent.com/TheDementedSalad/Monster-Hunter-Wilds-Autosplitter/refs/heads/main/MHWilds.Settings.xml</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting  and Load Removal available. (By TheDementedSalad)</Description>
     </AutoSplitter>
 </AutoSplitters>
