@@ -8305,6 +8305,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Alan Wake's American Nightmare</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/LiveSplit.AlanWakesAmericanNightmare.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitting and Load Removal by Streetbackguy</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Resident Evil Zero</Game>
             <Game>Resident Evil 0</Game>
             <Game>RE0</Game>
