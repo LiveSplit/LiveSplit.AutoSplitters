@@ -19874,6 +19874,18 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Enter the Gungeon</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/just-ero/asl/raw/main/Enter%20the%20Gungeon/EnterTheGungeon.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/3fd78056f83ee2657ee6e1edfe4a2be0af26332a/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Starts and resets automatically. Splits available in the settings. Syncs to in-game time. (by ero)</Description>
+        <Website>https://github.com/just-ero/asl/tree/main/Enter%20the%20Gungeon</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>The Final Station</Game>
         </Games>
         <URLs>
