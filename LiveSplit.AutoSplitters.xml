@@ -24866,4 +24866,16 @@
         <Type>Script</Type>
         <Description>Autosplitting  and Load Removal available. (By TheDementedSalad)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Final Fantasy Adventure</Game>
+            <Game>FFA</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Michy1212/Autosplitter-FFA/refs/heads/main/Autosplit%20FFA.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for Final Fantasy Adventure/Seiken Densetsu: Final Fantasy Gaiden (By Michy1212 and verified by prieR57)</Description>
+        <Website>https://github.com/Michy1212/Autosplitter-FFA/blob/main/README.md</Website>
+    </AutoSplitter>
 </AutoSplitters>
