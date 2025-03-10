@@ -24879,4 +24879,14 @@
         <Description>Autosplitter for Final Fantasy Adventure/Seiken Densetsu: Final Fantasy Gaiden (By Michy1212 and verified by prieR57)</Description>
         <Website>https://github.com/Michy1212/Autosplitter-FFA/blob/main/README.md</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Tenerezza</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/delcake/Autosplitters/refs/heads/main/Tenerezza/Tenerezza.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart, Autosplit and Autoreset available. (By delcake)</Description>
+    </AutoSplitter>
 </AutoSplitters>
