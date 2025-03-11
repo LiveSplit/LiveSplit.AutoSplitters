@@ -24876,8 +24876,19 @@
             <URL>https://raw.githubusercontent.com/Michy1212/Autosplitter-FFA/refs/heads/main/Autosplit%20FFA.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autosplitter for Final Fantasy Adventure/Seiken Densetsu: Final Fantasy Gaiden (By Michy1212 and verified by prieR57)</Description>
+        <Description>Autosplitter for Final Fantasy Adventure/Seiken Densetsu: FF Gaiden (By Michy1212 and verified by prieR57)</Description>
         <Website>https://github.com/Michy1212/Autosplitter-FFA/blob/main/README.md</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Stardrop</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Arkhamfan69/My-Splitters-Load-Removers/refs/heads/main/Autosplitters/Stardrop.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart And Reset Are Available (By Arkhamfan69)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
