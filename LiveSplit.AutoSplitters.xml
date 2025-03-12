@@ -24081,6 +24081,7 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/Dobridp/GoWRagnarokASL/refs/heads/main/GoWR.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitter and IGT (by Dobrido and TpRedNinja).</Description>
