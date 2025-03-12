@@ -2673,6 +2673,18 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Sonic Unleashed Recompiled</Game>
+            <Game>Unleashed Recompiled</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/SonicSpeedrunning/LiveSplit.UnleashedRecompiled/releases/download/latest/livesplit_unleashedrecompiled.wasm</URL>
+        </URLs>
+        <Type>Script</Type>
+        <ScriptType>AutoSplittingRuntime</ScriptType>
+        <Description>Load remover and optional in-game timer (by Jujstme)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>MEATGRINDER</Game>
         </Games>
         <URLs>
