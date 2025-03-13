@@ -24925,4 +24925,15 @@
         <Type>Script</Type>
         <Description>Autostart, Autosplit and Autoreset available. (By delcake)</Description>
     </AutoSplitter>
+ <AutoSplitter>
+        <Games>
+            <Game>The First Tree</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Arkhamfan69/My-Splitters-Load-Removers/refs/heads/main/Autosplitters/First%20Tree%20ASL.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting, Autostarting, Autoresetting are all available (By Arkhamfan69)</Description>
+    </AutoSplitter>
 </AutoSplitters>
