@@ -24936,4 +24936,15 @@
         <Type>Script</Type>
         <Description>Autosplitting, Autostarting, Autoresetting are all available (By Arkhamfan69)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Lingo 2</Game>
+        </Games>
+        <URLs>
+            <URL>https://code.fourisland.com/autosplitters/plain/Lingo%202.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Start, split, and load removal available. (By hatkirby)</Description>
+        <Website>https://code.fourisland.com/autosplitters/about</Website>
+    </AutoSplitter>
 </AutoSplitters>
