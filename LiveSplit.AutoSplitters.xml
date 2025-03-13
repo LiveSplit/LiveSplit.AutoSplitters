@@ -9466,6 +9466,18 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Aragami 2</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/TpRedNinja/Aragami-2-Autosplitter/refs/heads/main/Aragami%202.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting and Load Removal is available. (By TpRedNinja)</Description>
+        <Website>https://github.com/TpRedNinja/Aragami-2-Autosplitter/blob/main/Aragami%202.asl</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>The Binding of Isaac: Rebirth</Game>
         </Games>
         <URLs>
