@@ -6663,6 +6663,18 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Doom (Kex Port)</Game>
+            <Game>Doom + Doom II</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/neesi/autosplitters/main/Doom_Doom_II_Kex/DoomKex.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start, split, reset.</Description>
+        <Website>https://github.com/neesi/autosplitters/tree/main/Doom_Doom_II_Kex</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>LOVE</Game>
         </Games>
         <URLs>
