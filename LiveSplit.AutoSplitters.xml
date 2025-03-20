@@ -38,10 +38,10 @@
             <Game>Split Fiction</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Mattmatt10111/asl-scripts/refs/heads/master/SplitFiction.asl</URL>
+            <URL>https://raw.githubusercontent.com/Lemuura/Split-Fiction-Autosplitter/refs/heads/main/SplitFiction.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autosplitting and Load Removal by Mattmatt</Description>
+        <Description>Autosplitter by Lemuura</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
