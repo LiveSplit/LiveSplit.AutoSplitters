@@ -2,6 +2,16 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Glowfish</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Gravitorix/glowfish-autosplitter/refs/heads/main/Glowfish.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart and Autosplitter by Gravitorix</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Everhood 2</Game>
         </Games>
         <URLs>
