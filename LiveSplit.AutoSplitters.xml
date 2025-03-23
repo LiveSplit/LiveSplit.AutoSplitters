@@ -25025,4 +25025,14 @@
         <Description>Autostart &amp; autosplit (by rumii)</Description>
         <Website>https://www.speedrun.com/Eclipsium</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>The Punisher (2005)</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/gunlinux/LiveSplit.Punisher/refs/heads/master/LiveSplit.Punisher.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitting. (By gunlinux)</Description>
+    </AutoSplitter>
 </AutoSplitters>
