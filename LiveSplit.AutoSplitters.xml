@@ -25035,4 +25035,15 @@
         <Type>Script</Type>
         <Description>Auto Splitting. (By gunlinux)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>TECNO: The Base</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Dzoiver/TECNO-Autosplitter/refs/heads/main/tecno.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/split (By Seifer and C0yotl)</Description>
+        <Website>https://github.com/Dzoiver/TECNO-Autosplitter</Website>
+    </AutoSplitter>
 </AutoSplitters>
