@@ -13919,6 +13919,23 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>HP3</Game>
+            <Game>HP III</Game>
+            <Game>HP3PC</Game>
+            <Game>Harry Potter 3</Game>
+            <Game>Harry Potter III</Game>
+            <Game>Harry Potter and the Prisoner of Azkaban</Game>
+            <Game>Harry Potter and the Prisoner of Azkaban (PC)</Game>
+            <Game>Harry Potter PC 1-3 Trifecta</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/LiveSplit.HarryPotterandthePrisonerofAzkaban.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting, Autostart and Load Removal by Streetbackguy</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Harry Potter and the Half Blood Prince</Game>
         </Games>
         <URLs>
