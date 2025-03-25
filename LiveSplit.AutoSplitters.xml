@@ -25056,4 +25056,14 @@
         <Description>Auto start/split (By Seifer and C0yotl)</Description>
         <Website>https://github.com/Dzoiver/TECNO-Autosplitter</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Bearly Delivered</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/HandsomeStrife/speedrun-splits-and-autospltters/refs/heads/main/Bearly%20Delivered/autospiltter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and load remover</Description>
+    </AutoSplitter>
 </AutoSplitters>
