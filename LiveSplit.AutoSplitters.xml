@@ -2,6 +2,16 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Tales of Kenzera: Zau</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Droppel/ZauAS/refs/heads/main/ZauSplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter by Droppel</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Glowfish</Game>
         </Games>
         <URLs>
