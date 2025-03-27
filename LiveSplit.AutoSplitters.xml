@@ -23077,7 +23077,98 @@
         </URLs>
         <Type>Script</Type>
         <Description>AutoSplitter and LoadRemover for Assassins Creed Syndicate (by TpRedNinja)</Description>
-        <Website>https://github.com/TpRedNinja/Assassins-Creed-Autosplitters-and-loadremovers/blob/main/ACS.asl</Website>
+        <Website>https://github.com/TpRedNinja/Assassins-Creed-Autosplitters-and-loadremovers</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Assassin's Creed IV: Black Flag</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/TpRedNinja/Assassins-Creed-Autosplitters-and-loadremovers/refs/heads/main/AC4BFSP.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>AutoSplitter and LoadRemover for Assassins Creed 4 BlackFlag (by TpRedNinja)</Description>
+        <Website>https://github.com/TpRedNinja/Assassins-Creed-Autosplitters-and-loadremovers</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Assassin's Creed: Brotherhood</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/TpRedNinja/Assassins-Creed-Autosplitters-and-loadremovers/refs/heads/main/ACB.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>AutoSplitter & Loadremover for Assassins Creed: Brotherhood (by TpRedNinja)</Description>
+        <Website>https://github.com/TpRedNinja/Assassins-Creed-Autosplitters-and-loadremovers</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Assassin's Creed: Revelations</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/TpRedNinja/Assassins-Creed-Autosplitters-and-loadremovers/refs/heads/main/ACR.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>AutoSplitter & Loadremover for Assassins Creed: Revelations (by TpRedNinja)</Description>
+        <Website>https://github.com/TpRedNinja/Assassins-Creed-Autosplitters-and-loadremovers</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Assassin's Creed: Unity</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/TpRedNinja/Assassins-Creed-Autosplitters-and-loadremovers/refs/heads/main/ACU.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>AutoSplitter & Loadremover for Assassins Creed: Unity (by AkiloGames)</Description>
+        <Website>https://github.com/TpRedNinja/Assassins-Creed-Autosplitters-and-loadremovers</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Assassin's Creed Liberation HD </Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/TpRedNinja/Assassins-Creed-Autosplitters-and-loadremovers/refs/heads/main/ACL.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>AutoSplitter & Loadremover for Assassins Creed Liberation HD (by TpRedNinja)</Description>
+        <Website>https://github.com/TpRedNinja/Assassins-Creed-Autosplitters-and-loadremovers</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Assassin's Creed Chronicles: China</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/TpRedNinja/Assassins-Creed-Autosplitters-and-loadremovers/refs/heads/main/ACCChina.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>AutoSplitter for Assassins Creed Chronicles: China (by TpRedNinja)</Description>
+        <Website>https://github.com/TpRedNinja/Assassins-Creed-Autosplitters-and-loadremovers</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Assassin's Creed Chronicles: India</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/TpRedNinja/Assassins-Creed-Autosplitters-and-loadremovers/refs/heads/main/ACCIndia.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>AutoSplitter for Assassins Creed Chronicles: India (by TpRedNinja)</Description>
+        <Website>https://github.com/TpRedNinja/Assassins-Creed-Autosplitters-and-loadremovers</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Assassin's Creed Chronicles: Russia</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/TpRedNinja/Assassins-Creed-Autosplitters-and-loadremovers/refs/heads/main/ACCRussia.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>AutoSplitter for Assassins Creed Chronicles: Russia (by TpRedNinja)</Description>
+        <Website>https://github.com/TpRedNinja/Assassins-Creed-Autosplitters-and-loadremovers</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -23215,7 +23306,7 @@
         </URLs>
         <Type>Script</Type>
         <Description>Auto Splitter for Assassins Creed III and Liberation Remastered (by TpRedNinja)</Description>
-        <Website>https://github.com/TpRedNinja/Assassins-Creed-Autosplitters-and-loadremovers/blob/main/AC3ACL.asl</Website>
+        <Website>https://github.com/TpRedNinja/Assassins-Creed-Autosplitters-and-loadremovers</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
