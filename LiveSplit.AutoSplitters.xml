@@ -25165,4 +25165,14 @@
         <Type>Script</Type>
         <Description>Autostarting By Arkhamfan69</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Voidwrought</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Lucooooo/Voidwrought-Autosplitter/refs/heads/main/VoidwroughtAutosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and Load remover</Description>
+    </AutoSplitter>
 </AutoSplitters>
