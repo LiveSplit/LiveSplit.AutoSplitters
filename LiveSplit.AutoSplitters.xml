@@ -25065,4 +25065,17 @@
         <Type>Script</Type>
         <Description>Autosplitter and load remover</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Coffee At Night</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/ru-mii/AutoSplitters/refs/heads/main/AutoSplitters/Games/Coffee%20At%20Night/CoffeeAtNight.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/a0f6c48f6813edb569a75152e6aba3dd4bc3ebe9/lib/asl-help</URL>
+            <URL>https://github.com/ru-mii/uhara/raw/refs/heads/main/bin/uhara3</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart &amp; autosplit (by rumii)</Description>
+        <Website>https://www.speedrun.com/CFAN</Website>
+    </AutoSplitter>
 </AutoSplitters>
