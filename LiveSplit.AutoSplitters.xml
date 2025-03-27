@@ -23081,6 +23081,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Assassin's Creed III Remastered</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/TpRedNinja/Assassins-Creed-Autosplitters-and-loadremovers/main/AC3ACL.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitter and loadremover for Assassins Creed III and Liberation Remastered (by TpRedNinja)</Description>
+        <Website>https://github.com/TpRedNinja/Assassins-Creed-Autosplitters-and-loadremovers</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Assassin's Creed IV: Black Flag</Game>
         </Games>
         <URLs>
@@ -23294,17 +23305,6 @@
         </URLs>
         <Type>Script</Type>
         <Description>Starts on Conductor, splits on level change, removes loads. (By WillTRM)</Description>
-    </AutoSplitter>
-    <AutoSplitter>
-        <Games>
-            <Game>Assassin's Creed III Remastered</Game>
-        </Games>
-        <URLs>
-            <URL>https://raw.githubusercontent.com/TpRedNinja/Assassins-Creed-Autosplitters-and-loadremovers/main/AC3ACL.asl</URL>
-        </URLs>
-        <Type>Script</Type>
-        <Description>Auto Splitter for Assassins Creed III and Liberation Remastered (by TpRedNinja)</Description>
-        <Website>https://github.com/TpRedNinja/Assassins-Creed-Autosplitters-and-loadremovers</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
