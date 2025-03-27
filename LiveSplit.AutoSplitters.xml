@@ -2,6 +2,16 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>SaGa: Emerald Beyond</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Denhonator/Load-Removers-and-Mods/refs/heads/main/SaGaEB/SaGaEB.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Loadless timer by denho</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Tales of Kenzera: Zau</Game>
         </Games>
         <URLs>
