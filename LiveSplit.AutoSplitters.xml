@@ -2,6 +2,16 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Subnautica</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Sprinter31/Subnautica_Autosplitter/refs/heads/main/Subnautica_Autosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart, Autosplit, Autoreset and Portal Load Time Removal by Sprinter31</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>KARMA: The Dark World</Game>
             <Game>KARMA The Dark World</Game>
         </Games>
