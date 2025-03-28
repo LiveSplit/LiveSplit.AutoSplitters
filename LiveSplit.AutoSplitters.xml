@@ -23203,6 +23203,28 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Assassin's Creed Chronicles: India</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/TpRedNinja/Assassins-Creed-Autosplitters-and-loadremovers/refs/heads/main/ACCIndia.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>AutoSplitter for Assassins Creed Chronicles: India (by TpRedNinja)</Description>
+        <Website>https://github.com/TpRedNinja/Assassins-Creed-Autosplitters-and-loadremovers</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Assassin's Creed Chronicles: Russia</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/TpRedNinja/Assassins-Creed-Autosplitters-and-loadremovers/refs/heads/main/ACCRussia.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>AutoSplitter for Assassins Creed Chronicles: Russia (by TpRedNinja)</Description>
+        <Website>https://github.com/TpRedNinja/Assassins-Creed-Autosplitters-and-loadremovers</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>A Game, Creating twin towers with balancing</Game>
         </Games>
         <URLs>
