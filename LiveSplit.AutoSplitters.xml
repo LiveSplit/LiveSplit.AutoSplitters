@@ -908,10 +908,11 @@
             <Game>Sniper Elite</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/KunoDemetries/AutoSplitter/refs/heads/master/SniperElite.asl</URL>
+            <URL>https://github.com/KunoDemetries/AutoSplitter/releases/download/se1_1.0/se1_auto_splitter.wasm</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autosplitter/Load Remover (By Kuno, xZeko, Skajdrovski)</Description>
+        <Description>Auto Splitter/Load Remover (By Skajdrovski, xZeKo, KunoDemetires)</Description>
+        <Website>https://www.speedrun.com/sniper_elite</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -5893,10 +5894,10 @@
             <Game>Sniper Elite V2</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/KunoDemetries/AutoSplitter/master/SniperElite2.asl</URL>
+            <URL>https://github.com/KunoDemetries/AutoSplitter/releases/download/release/sev2_auto_splitter.wasm</URL>
         </URLs>
         <Type>Script</Type>
-        <Description> Autosplitter (No Load Remover) (by Kuno Demetries)</Description>
+        <Description>Auto Splitter/Load Remover (by Skajdrovski, KunoDemetires)</Description>
         <Website>https://www.speedrun.com/sev2</Website>
     </AutoSplitter>
     <AutoSplitter>
