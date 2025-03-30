@@ -18823,10 +18823,10 @@
             <Game>Subnautica</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Meeperty/SubnauticaAutosplitter/main/SubnauticaCombined.asl</URL>
+            <URL>https://raw.githubusercontent.com/Sprinter31/Subnautica_Autosplitter/refs/heads/main/Subnautica_Autosplitter.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Subnautica Autosplit (by Meeperty)</Description>
+        <Description>Subnautica Autosplitter and Portal Load Time Removal by Sprinter31</Description>
         <Website>https://discord.gg/ZnvrDZDpc4</Website>
     </AutoSplitter>
     <AutoSplitter>
