@@ -25260,4 +25260,15 @@
         <Description>Auto start/split/reset</Description>
         <Website>https://github.com/stephanebruckert/LiveSplit.BrainDrain</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Golden Axe</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/cyberianwilderness/Golden-Axe-AutoSplitter/refs/heads/main/GA-ASL.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for Arcade, Beginner and Duel modes, check the website for options/configuration (by l1ndblum)</Description>    
+        <Website>https://github.com/cyberianwilderness/Golden-Axe-AutoSplitter</Website>        
+    </AutoSplitter>
 </AutoSplitters>
