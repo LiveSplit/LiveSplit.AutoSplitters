@@ -25248,4 +25248,16 @@
         <Description>Autosplitter by rumii</Description>
         <Website>https://www.speedrun.com/dreambbq</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Brain Drain</Game>
+            <Game>BRAINPC</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/stephanebruckert/LiveSplit.BrainDrain/refs/heads/main/LiveSplit.BrainDrain.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/split/reset</Description>
+        <Website>https://github.com/stephanebruckert/LiveSplit.BrainDrain</Website>
+    </AutoSplitter>
 </AutoSplitters>
