@@ -21178,6 +21178,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Jak and Daxter: The Forgotten Lands</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Kuitar5/the-forgotten-lands/main/custom_assets/tfl-autosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Starts, resets, splits. Use with "Speedrunner Mode" enabled!</Description>
+        <Website>https://jakmods.dev/</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>KEEK</Game>
         </Games>
         <URLs>
