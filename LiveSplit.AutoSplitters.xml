@@ -19705,9 +19705,14 @@
             <URL>https://raw.githubusercontent.com/FrankvdStam/SoulSplitter/main/Components/SoulSplitter.dll</URL>
             <URL>https://raw.githubusercontent.com/FrankvdStam/SoulSplitter/main/Components/MaterialDesignColors.dll</URL>
             <URL>https://raw.githubusercontent.com/FrankvdStam/SoulSplitter/main/Components/MaterialDesignThemes.Wpf.dll</URL>
-            <URL>https://raw.githubusercontent.com/FrankvdStam/SoulSplitter/main/Components/MaterialDesignThemes.Wpf.xml</URL>
+            <URL>https://raw.githubusercontent.com/FrankvdStam/SoulSplitter/main/Components/Microsoft.Xaml.Behaviors.dll</URL>
             <URL>https://raw.githubusercontent.com/FrankvdStam/SoulSplitter/main/Components/SoulMemory.dll</URL>
-            <URL>https://raw.githubusercontent.com/FrankvdStam/SoulSplitter/main/Components/soulinjectee.dll</URL>
+            <URL>https://raw.githubusercontent.com/FrankvdStam/SoulSplitter/main/Components/soulmods_x86.dll</URL>
+            <URL>https://raw.githubusercontent.com/FrankvdStam/SoulSplitter/main/Components/soulmods_x64.dll</URL>
+            <URL>https://raw.githubusercontent.com/FrankvdStam/SoulSplitter/main/Components/soulmemory_rs_x86.dll</URL>
+            <URL>https://raw.githubusercontent.com/FrankvdStam/SoulSplitter/main/Components/soulmemory_rs_x64.dll</URL>
+            <URL>https://raw.githubusercontent.com/FrankvdStam/SoulSplitter/main/Components/launcher_x86.exe</URL>
+            <URL>https://raw.githubusercontent.com/FrankvdStam/SoulSplitter/main/Components/launcher_x64.exe</URL>
         </URLs>
         <Type>Component</Type>
         <Description>SoulSplitter: timer and autosplitter for various soulsgames</Description>
