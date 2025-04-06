@@ -25295,6 +25295,18 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Rats!</Game>
+            <Game>RATS</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/stephanebruckert/LiveSplit.Rats/refs/heads/main/LiveSplit.Rats.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/split/reset</Description>
+        <Website>https://github.com/stephanebruckert/LiveSplit.Rats</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>South of Midnight</Game>
         </Games>
         <URLs>
