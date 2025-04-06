@@ -25305,4 +25305,15 @@
         <Description>Autosplitter by rumii</Description>
         <Website>https://www.speedrun.com/South_of_Midnight</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Blood Typers</Game>
+        </Games>
+        <URLs>
+            <URL>https://gist.githubusercontent.com/wRadion/8d95d4b5a61caf63c423597d54295f2f/raw/blood-typers_autosplitter.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and Load Remover available (by wRadion)</Description>
+    </AutoSplitter>
 </AutoSplitters>
