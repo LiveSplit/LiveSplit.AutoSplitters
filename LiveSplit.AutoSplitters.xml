@@ -25404,4 +25404,15 @@
         <Description>Autosplitter for Jarlson (by FOPAWESOME, rumii)</Description>
         <Website>https://www.speedrun.com/jarlson/leaderboards</Website>☻
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Jump King Custom Maps</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/JeFi-314/JumpKing-AutoSplitterWS/main/Components/LiveSplit.JumpKingWS.dll</URL>
+        </URLs>
+        <Type>Component</Type>
+        <Description>Auto-Splitter available (by JeFi). Please make sure to read the Website first.</Description>
+        <Website>https://github.com/JeFi-314/JumpKing-AutoSplitterWS</Website>
+    </AutoSplitter>
 </AutoSplitters>
