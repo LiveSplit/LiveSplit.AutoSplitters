@@ -7645,11 +7645,11 @@
             <Game>Hitman Absolution</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/SuiMachine/LiveSplit.HitmanAbsolution/Master/Components/LiveSplit.HMA.dll</URL>
+            <URL>https://raw.githubusercontent.com/sqice019/LiveSplit.HitmanAbsolution/refs/heads/gog-update/Components/LiveSplit.HMA.dll</URL>
         </URLs>
         <Type>Component</Type>
         <Description>Auto Splitting and Load Removal are available. (By SuicideMachine)</Description>
-        <Website>https://github.com/SuiMachine/LiveSplit.HitmanAbsolution/blob/Master/README.md</Website>
+        <Website>https://github.com/sqice019/LiveSplit.HitmanAbsolution/blob/gog-update/README.md</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
