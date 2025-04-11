@@ -25425,4 +25425,17 @@
         <Description>Auto-Splitter available (by JeFi). Please make sure to read the Website first.</Description>
         <Website>https://github.com/JeFi-314/JumpKing-AutoSplitterWS</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Sniper Killer (2024)</Game>
+            <Game>Sniper Killer (Full Game)</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/TheDementedSalad/Sniper-Killer-Autosplitter/refs/heads/main/Sniper%20Killer.asl</URL>
+            <URL>https://raw.githubusercontent.com/TheDementedSalad/Sniper-Killer-Autosplitter/refs/heads/main/SniperKiller.Settings.xml</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Remover and level splits available (FOR FULL GAME). (By TheDementedSalad)</Description>
+    </AutoSplitter>
 </AutoSplitters>
