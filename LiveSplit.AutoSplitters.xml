@@ -25450,4 +25450,17 @@
         <Description>Autosplitter by Sialalala</Description>
         <Website>https://www.speedrun.com/glace</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Awaria</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/ru-mii/AutoSplitters/refs/heads/main/AutoSplitters/Games/Awaria/Awaria.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/a0f6c48f6813edb569a75152e6aba3dd4bc3ebe9/lib/asl-help</URL>
+            <URL>https://github.com/ru-mii/uhara/raw/refs/heads/main/bin/uhara5</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter by rumii</Description>
+        <Website>https://www.speedrun.com/Awaria</Website>
+    </AutoSplitter>
 </AutoSplitters>
