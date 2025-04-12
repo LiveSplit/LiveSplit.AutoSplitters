@@ -25439,4 +25439,15 @@
         <Type>Script</Type>
         <Description>Load Remover and level splits available (FOR FULL GAME). (By TheDementedSalad)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Glace Classic</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/bartekk2908/asl_scripts/refs/heads/main/glace.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter by Sialalala</Description>
+        <Website>https://www.speedrun.com/glace</Website>
+    </AutoSplitter>
 </AutoSplitters>
