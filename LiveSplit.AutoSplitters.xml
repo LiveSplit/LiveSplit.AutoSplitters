@@ -9128,6 +9128,19 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>The Talos Principle: Reawakened</Game>
+            <Game>The Talos Principle Reawakened</Game>
+            <Game>Talos Principle Reawakened</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/apple1417/Autosplitters/master/talos_1r.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Website>https://github.com/apple1417/Autosplitters</Website>
+        <Description>Auto Splitting, Auto Start and Load Removal are available. (By apple1417)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>The Witness</Game>
             <Game>Witness</Game>
             <Game>The Witness Category Extensions</Game>
