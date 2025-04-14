@@ -25501,4 +25501,14 @@
         <Description>Autosplitter by rumii</Description>
         <Website>https://www.speedrun.com/Megabonk</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>BRAZILIAN DRUG DEALER 3</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/aut0mat1clol/Livesplit.BDD3/refs/heads/main/bdd3.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and Loadremover is available (by aut0mat1clol)</Description>
+    </AutoSplitter>
 </AutoSplitters>
