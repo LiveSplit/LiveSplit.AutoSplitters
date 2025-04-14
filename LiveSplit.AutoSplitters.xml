@@ -24621,23 +24621,23 @@
             <Game>Last Crown Warriors</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/MichaelK-UnderscoreUnderscore/MichaelK-Autosplitters/main/Last%20Crown%20Warriors.asl</URL>
+            <URL>https://raw.githubusercontent.com/Mian-K/Mian-Autosplitters/main/Last%20Crown%20Warriors.asl</URL>
             <URL>https://github.com/Jujstme/emu-help/raw/master/lib/emu-help-v2</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Auto Splitting and Auto Start/Reset are available on Gambatte Speedrun.</Description>
-        <Website>https://github.com/MichaelK-UnderscoreUnderscore/MichaelK-Autosplitters/tree/main</Website>
+        <Website>https://github.com/Mian-K/Mian-Autosplitters/tree/main</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>Blade Kitten</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/MichaelK-UnderscoreUnderscore/MichaelK-Autosplitters/main/Blade%20Kitten.asl</URL>
+            <URL>https://raw.githubusercontent.com/Mian-K/Mian-Autosplitters/main/Blade%20Kitten.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Auto Splitting, Auto Start and Load Removal for Blade Kitten.</Description>
-        <Website>https://github.com/MichaelK-UnderscoreUnderscore/MichaelK-Autosplitters/tree/main</Website>
+        <Website>https://github.com/Mian-K/Mian-Autosplitters/tree/main</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
