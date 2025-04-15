@@ -7983,9 +7983,10 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/PrototypeAlpha/BS1-ASL/master/Bioshock.asl</URL>
+            <URL>https://github.com/ru-mii/bioshock-lib/raw/refs/heads/main/bin/bioshock-lib</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load Removal and Auto Start/Split are available. (By Glurmo, TheShalty, and PrototypeAlpha)</Description>
+        <Description>Load Removal and Auto Start/Split/Reset are available. (By Glurmo, TheShalty, and PrototypeAlpha)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
