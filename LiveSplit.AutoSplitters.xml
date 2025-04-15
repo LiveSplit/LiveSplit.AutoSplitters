@@ -18914,6 +18914,7 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/Sprinter31/Subnautica_Autosplitter/refs/heads/main/Subnautica_Autosplitter.asl</URL>
+            <URL>https://github.com/Sprinter31/Subnautica_Autosplitter/raw/refs/heads/main/SubnauticaShipExplosionInfo.dll</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Subnautica Autosplitter and Portal Load Time Removal by Sprinter31</Description>
