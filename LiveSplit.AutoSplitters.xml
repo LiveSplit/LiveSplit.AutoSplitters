@@ -13,6 +13,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>The Last of Us Part II Remastered</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Mattmatt10111/asl-scripts/refs/heads/master/TLOUP2.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting and Load Removal by Mattmatt (PC)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Batman: The Telltale Series</Game>
         </Games>
         <URLs>
