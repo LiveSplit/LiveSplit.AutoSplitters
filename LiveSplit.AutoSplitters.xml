@@ -9,7 +9,7 @@
         </URLs>
         <Type>Script</Type>
         <Description>Auto-Start, Auto-Split, Auto-Reset, and Load Removal by KinkajouLegend</Description>
-    </Autosplitter>
+    </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>The Smurfs 2 - The Prisoner of the Green Stone</Game>
@@ -19,7 +19,7 @@
         </URLs>
         <Type>Script</Type>
         <Description>Auto-Start, Auto-Split, Auto-Reset, and Load Removal by KinkajouLegend</Description>
-    </Autosplitter>
+    </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>Bionic Bay</Game>
