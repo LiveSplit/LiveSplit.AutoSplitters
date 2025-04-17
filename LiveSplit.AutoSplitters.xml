@@ -2,6 +2,26 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Call of the Sea</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/TenseKinkajou6/Kinka-Autosplitters-n-Load-Removers/refs/heads/main/CallOfTheSea.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto-Start, Auto-Split, Auto-Reset, and Load Removal by KinkajouLegend</Description>
+    </Autosplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>The Smurfs 2 - The Prisoner of the Green Stone</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/TenseKinkajou6/Kinka-Autosplitters-n-Load-Removers/refs/heads/main/Smurf2.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto-Start, Auto-Split, Auto-Reset, and Load Removal by KinkajouLegend</Description>
+    </Autosplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Bionic Bay</Game>
         </Games>
         <URLs>
