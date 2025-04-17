@@ -11674,6 +11674,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Croc: Legend of the Gobbos (2025)</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Paulmall97/CrocRemasterAutosplitter/refs/heads/main/CrocLOTGRemaster.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Start, Split and Load Removal By Paulmall</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Croc 2</Game>
         </Games>
         <URLs>
