@@ -16948,11 +16948,11 @@
             <Game>Midtown Madness 2</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Niloqui/Random_stuff/master/LiveSplit.MM2.asl</URL>
+            <URL>https://raw.githubusercontent.com/Niloqui/Autosplitters/refs/heads/main/Midtown%20Madness%202/LiveSplit.MM2.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitting and load time removal (by Niloquì)</Description>
-        <Website>https://github.com/Niloqui/Random_stuff</Website>
+        <Website>https://github.com/Niloqui/Autosplitters</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
