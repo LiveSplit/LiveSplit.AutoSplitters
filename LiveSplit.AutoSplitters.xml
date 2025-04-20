@@ -25566,4 +25566,15 @@
         <Type>Script</Type>
         <Description>Autosplitter and Loadremover is available (by aut0mat1clol)</Description>
     </AutoSplitter>
+     <AutoSplitter>
+        <Games>
+            <Game>Basics In Intermediate Filmmaking</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/derric-young/LSAutosplitters/refs/heads/main/benistesting.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/a0f6c48f6813edb569a75152e6aba3dd4bc3ebe9/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Start, Split and Load Removing by derric-young</Description>
+    </AutoSplitter>
 </AutoSplitters>
