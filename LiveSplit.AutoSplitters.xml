@@ -25577,4 +25577,14 @@
         <Type>Script</Type>
         <Description>Start, Split and Load Removing by derric-young</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Herald Of Havoc</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/aut0mat1clol/AutoSplitters/refs/heads/main/HeraldOfHavoc.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and Loadremover is available (by aut0mat1clol)</Description>
+    </AutoSplitter>
 </AutoSplitters>
