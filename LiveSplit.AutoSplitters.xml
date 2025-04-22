@@ -25588,4 +25588,14 @@
         <Type>Script</Type>
         <Description>Autosplitter and Loadremover is available (by aut0mat1clol)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>The House of the Dead III</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/SP-Spyran/Auto-Splitters/refs/heads/main/HOTD3_autosplit.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Start, Split and Load Removing by Spyran</Description>
+    </AutoSplitter>
 </AutoSplitters>
