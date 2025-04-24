@@ -7913,6 +7913,19 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>The Elder Scrolls IV: Oblivion Remastered</Game>
+            <Game>Oblivion Remastered</Game>
+            <Game>TESIV Remastered</Game>
+            <Game>The Elder Scrolls 4: Oblivion Remastered</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/FromDarkHell/Livesplit.LoadRemovers/master/Oblivion%20Remaster/Oblivion-Remaster.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Removal is available for patch 1.0 (Steam Only) (By FromDarkHell)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Rayman Legends</Game>
         </Games>
         <URLs>
