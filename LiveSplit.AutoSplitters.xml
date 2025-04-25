@@ -2,6 +2,18 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Biodacity: The Mansion</Game>
+            <Game>Biodacity</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Arkhamfan69/My-Splitters-Load-Removers/refs/heads/main/Autosplitters/BioMansion.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto-Starting &amp; Auto-Splitting Made By Arkhamfan69</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Disney Epic Mickey 2: The Power of Two</Game>
         </Games>
         <URLs>
@@ -25443,8 +25455,8 @@
             <URL>https://raw.githubusercontent.com/cyberianwilderness/Golden-Axe-AutoSplitter/refs/heads/main/GA-ASL.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autosplitter for Arcade, Beginner and Duel modes, check the website for options/configuration (by l1ndblum)</Description>    
-        <Website>https://github.com/cyberianwilderness/Golden-Axe-AutoSplitter</Website>        
+        <Description>Autosplitter for Arcade, Beginner and Duel modes, check the website for options/configuration (by l1ndblum)</Description>
+        <Website>https://github.com/cyberianwilderness/Golden-Axe-AutoSplitter</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
