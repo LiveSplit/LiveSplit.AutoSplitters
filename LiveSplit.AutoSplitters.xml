@@ -12,7 +12,16 @@
         <Type>Script</Type>
         <Description>Auto-Starting &amp; Auto-Splitting Made By Arkhamfan69</Description>
     </AutoSplitter>
-<AutoSplitters>
+    <AutoSplitter>
+        <Games>
+            <Game>Disney Epic Mickey 2: The Power of Two</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Arkhamfan69/My-Splitters-Load-Removers/refs/heads/main/Autosplitters/Mickey2Splitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto-Starting &amp; Load Removal Made By Arkhamfan69</Description>
+    </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>Call of the Sea</Game>
