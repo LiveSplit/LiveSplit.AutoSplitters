@@ -3416,10 +3416,10 @@
             <Game>Madagascar Category Extensions</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/triguii/asl-scripts/main/Madagascar.asl</URL>
+            <URL>https://raw.githubusercontent.com/Lox-r/Autosplitters/refs/heads/main/Madagascar/Madagascar.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load Remover and automatic start for Madagascar (PC) (by Triguii)</Description>
+        <Description>Load Remover, automatic start and Automatic End for Madagascar (PC) By Lox(Original by Triguii)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
