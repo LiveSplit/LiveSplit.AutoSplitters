@@ -25645,4 +25645,16 @@
         <Description>Yume 2kki AllEffectsED% Autosplitter. Made by 川音リオ@KawaneRio and TwilightKiddy. Special thanks to Ero❤</Description>
         <Website>https://github.com/KawaneRio/Yume2kki_AutoSplitter</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Code of Honor 2: Conspiracy Island</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/Skajdrowski/coh2-auto-splitter/releases/download/latest/coh2_auto_splitter.wasm</URL>
+        </URLs>
+        <Type>Script</Type>
+        <ScriptType>AutoSplittingRuntime</ScriptType>
+        <Description>Auto Splitter/Load Remover (By Skajdrovski)</Description>
+        <Website>https://www.speedrun.com/coh2ci</Website>
+    </AutoSplitter>
 </AutoSplitters>
