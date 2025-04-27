@@ -25657,4 +25657,16 @@
         <Description>Auto Splitter/Load Remover (By Skajdrovski)</Description>
         <Website>https://www.speedrun.com/coh2ci</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Apotheon</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/rekitrelt/LiveSplit-AutoSplitters/refs/heads/main/Apotheon.asl</URL>
+            <URL>https://raw.githubusercontent.com/rekitrelt/LiveSplit-AutoSplitters/refs/heads/main/Apotheon.Settings.xml</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/refs/heads/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto-Starting &amp; Auto-Splitting on objectives Made By rekitrelt</Description>
+    </AutoSplitter>
 </AutoSplitters>
