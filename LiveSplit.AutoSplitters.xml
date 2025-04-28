@@ -2,6 +2,16 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Creepy Tale</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Shaniquaniminiquani/Creepy-Tale.asl/refs/heads/main/Creepy%20Tale%20AutoSplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>AutoStart/Split/End intended for the latest steam version of the game. (By JayC_)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Biodacity: The Mansion</Game>
             <Game>Biodacity</Game>
         </Games>
