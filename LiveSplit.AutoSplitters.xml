@@ -23282,6 +23282,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Ryse: Son Of Rome</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/TpRedNinja/Ryse-son-of-Rome-Autosplitter/refs/heads/main/Ryse.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>AutoSplitter for Ryse: Son Of Rome (by TpRedNinja)</Description>
+        <Website>https://github.com/TpRedNinja/Ryse-son-of-Rome-Autosplitter/blob/main/Ryse.asl</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Assassin's Creed Syndicate</Game>
         </Games>
         <URLs>
