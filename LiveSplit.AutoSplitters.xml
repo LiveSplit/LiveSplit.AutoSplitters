@@ -2,6 +2,16 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Creepy Tale</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Shaniquaniminiquani/Creepy-Tale.asl/refs/heads/main/Creepy%20Tale%20AutoSplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>AutoStart/Split/End intended for the latest steam version of the game. (By JayC_)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Biodacity: The Mansion</Game>
             <Game>Biodacity</Game>
         </Games>
@@ -23289,6 +23299,17 @@
         <Type>Script</Type>
         <Description>Auto Splitter for Obama (by CodeNameMeteor)</Description>
         <Website>https://github.com/CodeNameMeteor/Autosplitters/blob/main/Obama/ObamaAny.asl</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Ryse: Son Of Rome</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/TpRedNinja/Ryse-son-of-Rome-Autosplitter/refs/heads/main/Ryse.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>AutoSplitter for Ryse: Son Of Rome (by TpRedNinja)</Description>
+        <Website>https://github.com/TpRedNinja/Ryse-son-of-Rome-Autosplitter/blob/main/Ryse.asl</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
