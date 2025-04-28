@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
+        <AutoSplitter>
+        <Games>
+            <Game>Dead Rising 2: Case Zero</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Pokisal/CZ-Autosplitter/refs/heads/main/Component/CZAutosplitterComponent.dll</URL>
+        </URLs>
+        <Type>Component</Type>
+        <Description>Autosplitter and Load Remover (REQUIRES MODDED 360). (By Pokisal)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Dead Rising 2: Case West</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Pokisal/CW-Autosplitter/refs/heads/main/Component/CWAutosplitterComponent.dll</URL>
+        </URLs>
+        <Type>Component</Type>
+        <Description>Autosplitter and Load Remover for Xbox 360 (REQUIRES MODDED 360). (By Pokisal)</Description>
+    </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>Creepy Tale</Game>
