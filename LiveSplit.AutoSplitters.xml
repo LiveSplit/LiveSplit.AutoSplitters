@@ -25720,4 +25720,14 @@
         <Type>Script</Type>
         <Description>Auto-Starting &amp; Auto-Splitting on objectives Made By rekitrelt</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Riven (2024)</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/iamJaffra/ASLs/refs/heads/main/RivenRemake.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Removal, Autostart and Autosplits (by Jaffra)</Description>
+    </AutoSplitter>
 </AutoSplitters>
