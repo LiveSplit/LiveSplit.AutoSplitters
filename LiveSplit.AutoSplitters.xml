@@ -7044,7 +7044,7 @@
             <Game>Sonic Adventure 2: Battle - Fallen Hero</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/ShiningFace/LiveSplit-Autotimers/master/LiveSplit.SA2.asl</URL>
+            <URL>https://github.com/SonicSpeedrunning/Livesplit.SA2B/raw/refs/heads/main/LiveSplit.SA2.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Loadless and Auto Splitting are available. (By ShiningFace)</Description>
