@@ -6054,6 +6054,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Fear of Clowns</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/iamJaffra/ASLs/refs/heads/main/FearOfClowns.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Removal, Automatic Start and Level Splits (by Jaffra)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Sniper Elite V2</Game>
         </Games>
         <URLs>
