@@ -25730,4 +25730,14 @@
         <Type>Script</Type>
         <Description>Load Removal, Autostart and Autosplits (by Jaffra)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Shivers</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/iamJaffra/ASLs/refs/heads/main/Shivers.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter with Ixupi Captures and Puzzle Splits (by Jaffra)</Description>
+    </AutoSplitter>
 </AutoSplitters>
