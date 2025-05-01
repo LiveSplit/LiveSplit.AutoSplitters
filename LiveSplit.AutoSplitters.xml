@@ -14865,6 +14865,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Myst V: End of Ages</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/iamJaffra/ASLs/refs/heads/main/MystV.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Automatic start/splits are available. (by Jaffra)</Description>
+        <Website>https://discord.gg/pQzhkaT</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Beyond Good &amp; Evil</Game>
         </Games>
         <URLs>
@@ -25740,5 +25751,15 @@
         </URLs>
         <Type>Script</Type>
         <Description>Load Removal, Autostart and Autosplits (by Jaffra)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Shivers</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/iamJaffra/ASLs/refs/heads/main/Shivers.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter with Ixupi Captures and Puzzle Splits (by Jaffra)</Description>
     </AutoSplitter>
 </AutoSplitters>
