@@ -23355,6 +23355,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Ereban: Shadow Legacy</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/TpRedNinja/Ereban-AutoSplitter-and-Loadremover/refs/heads/main/ESL.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitter and load remover for Ereban: Shadow Legacy (by TpRedNinja)</Description>
+        <Website>https://github.com/TpRedNinja/Ereban-AutoSplitter-and-Loadremover/blob/main/ESL.asl</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Assassin's Creed Syndicate</Game>
         </Games>
         <URLs>
