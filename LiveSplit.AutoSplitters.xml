@@ -25787,6 +25787,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Teddy Roller</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/HandsomeStrife/speedrun-splits-and-autospltters/refs/heads/main/Teddy%20Roller/autosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Simple Autosplitter</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Shivers</Game>
         </Games>
         <URLs>
