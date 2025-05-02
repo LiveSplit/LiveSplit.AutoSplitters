@@ -1,6 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
-        <AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Promise Mascot Agency</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/LiveSplit.PromiseMascotAgency.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart, Autosplitting and Load Removal by Streetbackguy</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Mandragora: Whispers of the Witch Tree</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/LiveSplit.MandragoraWhispersoftheWitchTree.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart, Autosplitting and Load Removal by Streetbackguy</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Clair Obscur: Expedition 33</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Nikoheartttv/Autosplitters/refs/heads/main/Clair%20Obscur%3A%20Expedition%2033/ClairObscurExpedition33.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto-start and Load Removal by Nikoheart</Description>
+    </AutoSplitter>
+    <AutoSplitter>
         <Games>
             <Game>Dead Rising 2: Case Zero</Game>
         </Games>
@@ -14854,6 +14887,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Myst V: End of Ages</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/iamJaffra/ASLs/refs/heads/main/MystV.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Automatic start/splits are available. (by Jaffra)</Description>
+        <Website>https://discord.gg/pQzhkaT</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Beyond Good &amp; Evil</Game>
         </Games>
         <URLs>
@@ -23333,6 +23377,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Ereban: Shadow Legacy</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/TpRedNinja/Ereban-AutoSplitter-and-Loadremover/refs/heads/main/ESL.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitter and load remover for Ereban: Shadow Legacy (by TpRedNinja)</Description>
+        <Website>https://github.com/TpRedNinja/Ereban-AutoSplitter-and-Loadremover/blob/main/ESL.asl</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Assassin's Creed Syndicate</Game>
         </Games>
         <URLs>
@@ -25729,6 +25784,26 @@
         </URLs>
         <Type>Script</Type>
         <Description>Load Removal, Autostart and Autosplits (by Jaffra)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Teddy Roller</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/HandsomeStrife/speedrun-splits-and-autospltters/refs/heads/main/Teddy%20Roller/autosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Simple Autosplitter</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Shivers</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/iamJaffra/ASLs/refs/heads/main/Shivers.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter with Ixupi Captures and Puzzle Splits (by Jaffra)</Description>
     </AutoSplitter>
 </AutoSplitters>
 <AutoSplitter>
