@@ -25805,6 +25805,17 @@
         <Type>Script</Type>
         <Description>Autosplitter with Ixupi Captures and Puzzle Splits (by Jaffra)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Blue Prince</Game>
+        </Games>
+        <URLs>
+            <URL>https://gist.githubusercontent.com/wRadion/1be7714969681aa70fd75767a55dd7d9/raw/blue-prince_autosplitter.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/7cd7f36aab142860c0a6a9f9a855bb44d7264b04/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and Load Remover available (by wRadion)</Description>
+    </AutoSplitter>
 </AutoSplitters>
 <AutoSplitter>
         <Games>
