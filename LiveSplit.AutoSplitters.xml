@@ -21334,19 +21334,33 @@
     <AutoSplitter>
         <Games>
             <Game>Gothic</Game>
-            <Game>Gothic 1</Game>
-            <Game>Gothic 1 Classic</Game>
-            <Game>Gothic 2</Game>
-            <Game>Gothic II</Game>
-            <Game>Gothic 2 Classic</Game>
-            <Game>Gothic 2: Night of the Raven</Game>
-            <Game>Gothic 2 Gold</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Nuget94/ASL-Autosplitters/main/gothic2.asl</URL>
+            <URL>https://raw.githubusercontent.com/iamJaffra/ASLs/refs/heads/main/Gothic1.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>LiveSplit connection for Gothic 1/2 Timer mod available</Description>
+        <Description>Autosplitter available (by Jaffra)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Gothic 2</Game>
+            <Game>Gothic 2 Classic</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/iamJaffra/ASLs/refs/heads/main/Gothic2Classic.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter available (by Jaffra)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Gothic 2: Night of the Raven</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/iamJaffra/ASLs/refs/heads/main/Gothic2NotR.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter available (by Jaffra)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
