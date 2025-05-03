@@ -2,6 +2,17 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>The Walking Dead</Game>
+            <Game>The Walking Dead: The Telltale Definitive Series</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Arkhamfan69/My-Splitters-Load-Removers/refs/heads/main/Autosplitters/WalkingDef.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto-Start And Load Removal Are Available (By Arkhamfan69)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Promise Mascot Agency</Game>
         </Games>
         <URLs>
