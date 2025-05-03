@@ -25816,4 +25816,16 @@
         <Type>Script</Type>
         <Description>Autosplitter and Load Remover available (by wRadion)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Lunacid</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Sliqted/AutoSplittersP/refs/heads/main/LunacidAutosplitter.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/a0f6c48f6813edb569a75152e6aba3dd4bc3ebe9/lib/asl-help<URL>
+            <URL>https://github.com/ru-mii/uhara/raw/refs/heads/main/bin/uhara5<URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter/Load Removal available (by Sliated)</Description>
+    </AutoSplitter>
 </AutoSplitters>
