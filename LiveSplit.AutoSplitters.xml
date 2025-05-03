@@ -25816,8 +25816,7 @@
         <Type>Script</Type>
         <Description>Autosplitter and Load Remover available (by wRadion)</Description>
     </AutoSplitter>
-</AutoSplitters>
-<AutoSplitter>
+    <AutoSplitter>
         <Games>
             <Game>Lunacid</Game>
         </Games>
@@ -25829,3 +25828,5 @@
         <Type>Script</Type>
         <Description>Autosplitter/Load Removal available (by Sliated)</Description>
     </AutoSplitter>
+</AutoSplitters>
+
