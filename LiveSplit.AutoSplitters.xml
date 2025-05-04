@@ -25756,10 +25756,10 @@
             <Game>Yume 2kki</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/KawaneRio/Yume2kki_AutoSplitter/refs/heads/main/Yume2kki_AllEffectsED.asl</URL>
+            <URL>https://github.com/KawaneRio/Yume2kki_AutoSplitter/raw/refs/heads/main/Yume2kki_MenuThemes.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Yume 2kki AllEffectsED% Autosplitter. Made by 川音リオ@KawaneRio and TwilightKiddy. Special thanks to Ero❤</Description>
+        <Description>Yume 2kki Autosplitter by 川音リオ@KawaneRio and TwilightKiddy. Special thanks to Ero❤</Description>
         <Website>https://github.com/KawaneRio/Yume2kki_AutoSplitter</Website>
     </AutoSplitter>
     <AutoSplitter>
