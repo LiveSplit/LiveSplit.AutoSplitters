@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
+     <AutoSplitter>
+        <Games>
+            <Game>DYO</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Zeuba-Speedruns/AutoSplitters/main/DYO/DYO.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/split/reset by Vocatis.</Description>
+        <Website>https://github.com/Zeuba-Speedruns/AutoSplitters/blob/main/DYO/README.md</Website>
+    </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>The Walking Dead</Game>
