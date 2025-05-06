@@ -1,6 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
-        <AutoSplitter>
+     <AutoSplitter>
+        <Games>
+            <Game>DYO</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Zeuba-Speedruns/AutoSplitters/main/DYO/DYO.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/split/reset by Vocatis.</Description>
+        <Website>https://github.com/Zeuba-Speedruns/AutoSplitters/blob/main/DYO/README.md</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>The Walking Dead</Game>
+            <Game>The Walking Dead: The Telltale Definitive Series</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Arkhamfan69/My-Splitters-Load-Removers/refs/heads/main/Autosplitters/WalkingDef.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto-Start And Load Removal Are Available (By Arkhamfan69)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Promise Mascot Agency</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/LiveSplit.PromiseMascotAgency.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart, Autosplitting and Load Removal by Streetbackguy</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Mandragora: Whispers of the Witch Tree</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/LiveSplit.MandragoraWhispersoftheWitchTree.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart, Autosplitting and Load Removal by Streetbackguy</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Clair Obscur: Expedition 33</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Nikoheartttv/Autosplitters/refs/heads/main/Clair%20Obscur%3A%20Expedition%2033/ClairObscurExpedition33.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto-start and Load Removal by Nikoheart</Description>
+    </AutoSplitter>
+    <AutoSplitter>
         <Games>
             <Game>Dead Rising 2: Case Zero</Game>
         </Games>
@@ -14855,6 +14910,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Myst V: End of Ages</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/iamJaffra/ASLs/refs/heads/main/MystV.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Automatic start/splits are available. (by Jaffra)</Description>
+        <Website>https://discord.gg/pQzhkaT</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Beyond Good &amp; Evil</Game>
         </Games>
         <URLs>
@@ -21291,19 +21357,33 @@
     <AutoSplitter>
         <Games>
             <Game>Gothic</Game>
-            <Game>Gothic 1</Game>
-            <Game>Gothic 1 Classic</Game>
-            <Game>Gothic 2</Game>
-            <Game>Gothic II</Game>
-            <Game>Gothic 2 Classic</Game>
-            <Game>Gothic 2: Night of the Raven</Game>
-            <Game>Gothic 2 Gold</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Nuget94/ASL-Autosplitters/main/gothic2.asl</URL>
+            <URL>https://raw.githubusercontent.com/iamJaffra/ASLs/refs/heads/main/Gothic1.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>LiveSplit connection for Gothic 1/2 Timer mod available</Description>
+        <Description>Autosplitter available (by Jaffra)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Gothic 2</Game>
+            <Game>Gothic 2 Classic</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/iamJaffra/ASLs/refs/heads/main/Gothic2Classic.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter available (by Jaffra)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Gothic 2: Night of the Raven</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/iamJaffra/ASLs/refs/heads/main/Gothic2NotR.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter available (by Jaffra)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -23331,6 +23411,17 @@
         <Type>Script</Type>
         <Description>AutoSplitter for Ryse: Son Of Rome (by TpRedNinja)</Description>
         <Website>https://github.com/TpRedNinja/Ryse-son-of-Rome-Autosplitter/blob/main/Ryse.asl</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Ereban: Shadow Legacy</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/TpRedNinja/Ereban-AutoSplitter-and-Loadremover/refs/heads/main/ESL.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitter and load remover for Ereban: Shadow Legacy (by TpRedNinja)</Description>
+        <Website>https://github.com/TpRedNinja/Ereban-AutoSplitter-and-Loadremover/blob/main/ESL.asl</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -25691,10 +25782,10 @@
             <Game>Yume 2kki</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/KawaneRio/Yume2kki_AutoSplitter/refs/heads/main/Yume2kki_AllEffectsED.asl</URL>
+            <URL>https://raw.githubusercontent.com/KawaneRio/Yume2kki_AutoSplitter/refs/heads/main/Yume2kki.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Yume 2kki AllEffectsED% Autosplitter. Made by 川音リオ@KawaneRio and TwilightKiddy. Special thanks to Ero❤</Description>
+        <Description>Yume 2kki Autosplitter by 川音リオ@KawaneRio and TwilightKiddy. Special thanks to Ero❤</Description>
         <Website>https://github.com/KawaneRio/Yume2kki_AutoSplitter</Website>
     </AutoSplitter>
     <AutoSplitter>
@@ -25720,5 +25811,69 @@
         </URLs>
         <Type>Script</Type>
         <Description>Auto-Starting &amp; Auto-Splitting on objectives Made By rekitrelt</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Riven (2024)</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/iamJaffra/ASLs/refs/heads/main/RivenRemake.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Removal, Autostart and Autosplits (by Jaffra)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Teddy Roller</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/HandsomeStrife/speedrun-splits-and-autospltters/refs/heads/main/Teddy%20Roller/autosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Simple Autosplitter</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Shivers</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/iamJaffra/ASLs/refs/heads/main/Shivers.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter with Ixupi Captures and Puzzle Splits (by Jaffra)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Blue Prince</Game>
+        </Games>
+        <URLs>
+            <URL>https://gist.githubusercontent.com/wRadion/1be7714969681aa70fd75767a55dd7d9/raw/blue-prince_autosplitter.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/7cd7f36aab142860c0a6a9f9a855bb44d7264b04/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and Load Remover available (by wRadion)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Lunacid</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Sliqted/AutoSplittersP/refs/heads/main/LunacidAutosplitter.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/a0f6c48f6813edb569a75152e6aba3dd4bc3ebe9/lib/asl-help</URL>
+            <URL>https://github.com/ru-mii/uhara/raw/refs/heads/main/bin/uhara5</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter/Load Removal available (by Sliated)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Hypogea</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/iamJaffra/ASLs/refs/heads/main/Hypogea.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/a0f6c48f6813edb569a75152e6aba3dd4bc3ebe9/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter available (by Jaffra)</Description>
     </AutoSplitter>
 </AutoSplitters>
