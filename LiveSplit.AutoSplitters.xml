@@ -25876,4 +25876,14 @@
         <Type>Script</Type>
         <Description>Autosplitter available (by Jaffra)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Rhem I SE: The Mysterious Land</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/iamJaffra/ASLs/refs/heads/main/Rhem1SE.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter/Load Removal available (by Jaffra)</Description>
+    </AutoSplitter>
 </AutoSplitters>
