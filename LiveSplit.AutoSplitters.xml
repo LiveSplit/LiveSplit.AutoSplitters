@@ -12292,6 +12292,17 @@
         <Website>https://github.com/SonicSpeedrunning/LiveSplit.SonicForces</Website>
     </AutoSplitter>
     <AutoSplitter>
+       <Games>
+            <Game>Sonic Forces:Overclocked</Game>
+        </Games>
+        <URLs>
+            https://raw.githubusercontent.com/Esonic2/SonicForcesOverclockedAutosplitterer/refs/heads/main/sfo.asl
+        </URLs>
+        <Type>Script</Type>
+        <Description> A modified version of Jujstme's sonic forces autosplitter made to work better with sonic forces overclocked</Description>
+        <Website>https://github.com/Esonic2/SonicForcesOverclockedAutosplitterer/tree/main
+    </AutoSplitter>
+    <AutoSplitter>
         <Games>
             <Game>Sonic Frontiers</Game>
             <Game>Sonic Frontiers Category Extensions</Game>
