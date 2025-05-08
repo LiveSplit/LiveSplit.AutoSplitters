@@ -12296,7 +12296,7 @@
             <Game>Sonic Forces:Overclocked</Game>
         </Games>
         <URLs>
-            https://raw.githubusercontent.com/Esonic2/SonicForcesOverclockedAutosplitterer/refs/heads/main/sfo.asl
+            <URL>https://raw.githubusercontent.com/Esonic2/SonicForcesOverclockedAutosplitterer/refs/heads/main/sfo.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description> A modified version of Jujstme's sonic forces autosplitter made to work better with sonic forces overclocked</Description>
