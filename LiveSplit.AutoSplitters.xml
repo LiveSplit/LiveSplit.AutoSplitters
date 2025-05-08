@@ -25886,4 +25886,14 @@
         <Type>Script</Type>
         <Description>Autosplitter/Load Removal available (by Jaffra)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Skin Deep</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/artisiole/Skin-Deep-Autosplitter/refs/heads/main/skindeep.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and load remover available (by artisiole)</Description>
+    </AutoSplitter>
 </AutoSplitters>
