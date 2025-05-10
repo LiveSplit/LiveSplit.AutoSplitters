@@ -22,6 +22,16 @@
         <Description>Auto start/split/reset by Vocatis.</Description>
         <Website>https://github.com/Zeuba-Speedruns/AutoSplitters/blob/main/DYO/README.md</Website>
     </AutoSplitter>
+     <AutoSplitter>
+        <Games>
+            <Game>The Amazing Spider-Man 2</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Mattmatt10111/asl-scripts/refs/heads/master/ASM2.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting and Load Removal by Mattmatt (PC)</Description>
+    </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>The Walking Dead</Game>
