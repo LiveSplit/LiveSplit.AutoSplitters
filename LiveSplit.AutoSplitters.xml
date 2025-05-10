@@ -25940,4 +25940,16 @@
         <Type>Script</Type>
         <Description>Autosplitter and load remover available (by artisiole)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Final Fantasy</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/knutwalker/ff1pr-autosplitter/releases/download/latest/ff1pr_autosplitter.wasm</URL>
+        </URLs>
+        <Type>Script</Type>
+        <ScriptType>AutoSplittingRuntime</ScriptType>
+        <Description>Configurable Autostarter and Autosplitter for the Pixel Remaster Steam version. (by knutwalker)</Description>
+        <Website>https://github.com/knutwalker/ff1pr-autosplitter#readme</Website>
+    </AutoSplitter>
 </AutoSplitters>
