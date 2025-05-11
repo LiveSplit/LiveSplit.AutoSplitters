@@ -7071,7 +7071,7 @@
             <URL>https://raw.githubusercontent.com/FromDarkHell/Livesplit.LoadRemovers/master/Borderlands%201/BL1IGT.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load Removal is available for 1.0 and 1.5.0. (By TheFuncannon, FromDarkHell)</Description>
+        <Description>Load Removal is available for 1.0 and 1.5.0. (By TeaFC, FromDarkHell)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -7663,7 +7663,7 @@
             <URL>https://raw.githubusercontent.com/FromDarkHell/Livesplit.LoadRemovers/master/Wolfenstein%20Youngblood/Youngblood.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load Removal is available. (By TheFuncannon and FromDarkHell)</Description>
+        <Description>Load Removal is available. (By TeaFC and FromDarkHell)</Description>
         <Website>https://discord.gg/SV39XC7</Website>
     </AutoSplitter>
     <AutoSplitter>
@@ -8057,10 +8057,10 @@
             <Game>The Elder Scrolls 4: Oblivion</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/TheFuncannon/Loadless.Oblivion/master/Oblivion.asl</URL>
+            <URL>https://raw.githubusercontent.com/FromDarkHell/Livesplit.LoadRemovers/master/Oblivion/Oblivion.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load Removal is available for patches 1.0 and 1.2. (By TheFuncannon)</Description>
+        <Description>Load Removal is available (By TeaFC + FromDarkHell)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -9161,7 +9161,7 @@
             <URL>https://raw.githubusercontent.com/SabulineHorizon/Autosplitters/main/Doom2016.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto Start/Split/Reset/Loads (By DrTChops, TheFuncannon, loitho, sychotixx, Instagibz, heny, Meta, SabulineHorizon)</Description>
+        <Description>Auto Start/Split/Reset/Loads (By DrTChops, TeaFC, loitho, sychotixx, Instagibz, heny, Meta, SabulineHorizon)</Description>
         <Website>https://github.com/SabulineHorizon/Autosplitters</Website>
     </AutoSplitter>
     <AutoSplitter>
@@ -11745,7 +11745,7 @@
             <URL>https://raw.githubusercontent.com/QunurZ/WoL-Autosplitter/master/WoL_AutoSplitter.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autosplitting and In-Game Time are available. (Original by TheFuncannon; updated by Phantom &amp; Qunur)</Description>
+        <Description>Autosplitting and In-Game Time are available. (Original by TeaFC; updated by Phantom &amp; Qunur)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
