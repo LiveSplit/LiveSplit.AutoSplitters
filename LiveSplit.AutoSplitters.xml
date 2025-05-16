@@ -25954,4 +25954,14 @@
         <Description>Configurable Autostarter and Autosplitter for the Pixel Remaster Steam version. (by knutwalker)</Description>
         <Website>https://github.com/knutwalker/ff1pr-autosplitter#readme</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Phantasmagoria</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/iamJaffra/ASLs/refs/heads/main/Phantasmagoria.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter available (by Jaffra)</Description>
+    </AutoSplitter>
 </AutoSplitters>
