@@ -26,6 +26,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>DOOM: The Dark Ages</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/mitchell-merry/autosplitters/refs/heads/main/Doom%20The%20Dark%20Ages/doomthedarkages.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/da804c285f35bd7ff8f532c94da99e69d9cb7eff/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting and load removal is available. (By diggity and Meta)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Post Trauma</Game>
         </Games>
         <URLs>
@@ -2974,6 +2985,18 @@
         </URLs>
         <Type>Script</Type>
         <Description>Load removal is available. (By diggity)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Itorah</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/tinysouls/Itorah-Autosplitter/main/Itorah.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for version 1.0 (by meemee)</Description>
+        <Website>https://www.speedrun.com/itorah</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -25965,5 +25988,15 @@
         <ScriptType>AutoSplittingRuntime</ScriptType>
         <Description>Configurable Autostarter and Autosplitter for the Pixel Remaster Steam version. (by knutwalker)</Description>
         <Website>https://github.com/knutwalker/ff1pr-autosplitter#readme</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Phantasmagoria</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/iamJaffra/ASLs/refs/heads/main/Phantasmagoria.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter available (by Jaffra)</Description>
     </AutoSplitter>
 </AutoSplitters>
