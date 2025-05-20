@@ -854,6 +854,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Slave Zero</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/flyingwaff1e/AutoSplitter/refs/heads/main/slavezero.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Starts, splits automatically. Removes loads. (by Waff1e, WillTreaty)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Children of the Sun</Game>
         </Games>
         <URLs>
