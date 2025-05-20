@@ -26032,4 +26032,14 @@
         <Type>Script</Type>
         <Description>Autosplitter/Load Removal available (by Jaffra)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Frog Legs</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/HandsomeStrife/speedrun-splits-and-autospltters/refs/heads/main/Frog%20Legs/frog-legs-autosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter</Description>
+    </AutoSplitter>
 </AutoSplitters>
