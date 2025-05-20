@@ -1282,7 +1282,7 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/Zeuba-Speedruns/AutoSplitters/main/We%20Were%20Here/WeWereHere.asl</URL>
-            <URL>https://github.com/just-ero/asl-help/blob/da804c285f35bd7ff8f532c94da99e69d9cb7eff/lib/asl-help</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/da804c285f35bd7ff8f532c94da99e69d9cb7eff/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Auto start/split/reset by Vocatis.</Description>
