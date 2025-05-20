@@ -6983,6 +6983,19 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Halo 2</Game>
+            <Game>Halo 2 Vista</Game>
+            <Game>Halo 2 for Windows Vista</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Cambidd/h2v-autosplitter/refs/heads/main/h2v-autosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting for Halo 2 for Windows Vista (By Cambid)</Description>
+        <Website>https://github.com/Cambidd/h2v-autosplitter</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Mirror's Edge</Game>
             <Game>Mirrors Edge</Game>
             <Game>Mirror's Edge (PC)</Game>
