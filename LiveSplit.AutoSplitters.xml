@@ -26052,7 +26052,7 @@
         <Type>Script</Type>
         <Description>Autosplitter</Description>
     </AutoSplitter>
-        <AutoSplitter>
+    <AutoSplitter>
         <Games>
             <Game>Shoot For The Stars</Game>
         </Games>
