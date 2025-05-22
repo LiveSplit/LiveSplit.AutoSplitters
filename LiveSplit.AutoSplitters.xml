@@ -6,7 +6,7 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/LiveSplit.JerseyDevil.asl</URL>
-            <URL>https://github.com/Jujstme/emu-help/raw/master/lib/emu-help-v3</URL>
+            <URL>https://github.com/Jujstme/emu-help/raw/master/lib/emu-help-v2</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autostart, Reset, Load Removal and Autosplitting by Streetbackguy</Description>
