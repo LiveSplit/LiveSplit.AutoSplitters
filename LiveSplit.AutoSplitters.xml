@@ -26053,4 +26053,14 @@
         <Type>Script</Type>
         <Description>Autosplitter</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Shoot For The Stars</Game>
+        </Games>
+        <URLs>
+            <URL>https://gist.githubusercontent.com/wRadion/c63511f9084137a249048f611fe3e8bb/raw/shoot-for-the-stars_autosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter available (by wRadion)</Description>
+    </AutoSplitter>
 </AutoSplitters>
