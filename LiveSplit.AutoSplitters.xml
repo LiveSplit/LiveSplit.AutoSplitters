@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
+    <AutoSplitter>
+        <Games>
+            <Game>Shoot For The Stars</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/LiterallyMetaphorical/Livesplit.ShootForTheStars/refs/heads/main/ShootForTheStars.asl</URL>
+        <Type>Script</Type>
+        <Description>RTA Autostart by Meta</Description>
+     </AutoSplitter>
      <AutoSplitter>
         <Games>
             <Game>FREST</Game>
