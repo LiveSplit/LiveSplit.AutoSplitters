@@ -2,6 +2,17 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Five Nights at Freddy's: Ruin</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Lox-r/Autosplitters/refs/heads/main/Fnaf-SB-Ruin/Fnaf-SB-RuinAutosplitter.asl</URL>
+            <URL>https://github.com/Jujstme/emu-help/raw/master/lib/emu-help-v2</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart, Load Removal and Autosplitting by Lox</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Jersey Devil</Game>
         </Games>
         <URLs>
