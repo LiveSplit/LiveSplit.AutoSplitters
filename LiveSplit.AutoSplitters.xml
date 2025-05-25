@@ -6,7 +6,7 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/Lox-r/Autosplitters/refs/heads/main/Fnaf-SB-Ruin/Fnaf-SB-RuinAutosplitter.asl</URL>
-            <URL>https://github.com/Jujstme/emu-help/raw/master/lib/emu-help-v2</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autostart, Load Removal and Autosplitting by Lox</Description>
