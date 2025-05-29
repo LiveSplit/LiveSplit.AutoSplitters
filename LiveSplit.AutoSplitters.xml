@@ -26085,4 +26085,14 @@
         <Type>Script</Type>
         <Description>Autosplitter available (by wRadion)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Echoes of YI : Samsara</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/to-miz/autosplitters/refs/heads/main/EchoesOfYi.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter/Load Removal available (by to-miz)</Description>
+    </AutoSplitter>
 </AutoSplitters>
