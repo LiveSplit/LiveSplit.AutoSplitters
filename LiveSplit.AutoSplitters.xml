@@ -26085,4 +26085,14 @@
         <Type>Script</Type>
         <Description>Autosplitter available (by wRadion)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Fowl Legacy</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/HandsomeStrife/speedrun-splits-and-autospltters/refs/heads/main/Fowl%20Legacy/fowl-legacy-autosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter</Description>
+    </AutoSplitter>
 </AutoSplitters>
