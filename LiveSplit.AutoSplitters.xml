@@ -26098,6 +26098,26 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Hack and Slash Fury</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/HandsomeStrife/speedrun-splits-and-autospltters/refs/heads/main/Hack%20and%20Slash%20Fury/hasf-autosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Fowl Legacy</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/HandsomeStrife/speedrun-splits-and-autospltters/refs/heads/main/Fowl%20Legacy/fowl-legacy-autosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter (on Bells)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Shivers 2: Harvest of Souls</Game>
         </Games>
         <URLs>
