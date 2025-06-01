@@ -7785,6 +7785,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Orbyss</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/iamJaffra/ASLs/refs/heads/main/Orbyss.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter available (by Jaffra)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Dishonored: Death of the Outsider</Game>
         </Games>
         <URLs>
