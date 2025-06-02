@@ -26151,4 +26151,14 @@
         <Type>Script</Type>
         <Description>Autosplitter available (by Jaffra)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Destroy SpongeBob</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Biksell/asl/refs/heads/main/Destroy%20Spongebob/spongebob.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting available (by Biksel)</Description>
+    </AutoSplitter>
 </AutoSplitters>
