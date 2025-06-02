@@ -24546,6 +24546,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Machinarium</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/vojtechblazek/Autosplitters/main/ASL_Machinarium.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Machinarium Autosplitter by blazie</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Divinity: Original Sin Enhanced Edition</Game>
         </Games>
         <URLs>
