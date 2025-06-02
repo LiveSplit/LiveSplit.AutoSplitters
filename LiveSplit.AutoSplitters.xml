@@ -26151,4 +26151,14 @@
         <Type>Script</Type>
         <Description>Autosplitter available (by Jaffra)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Machinarium</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/vojtechblazek/Autosplitters/main/ASL_Machinarium.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter by blazie</Description>
+    </AutoSplitter>
 </AutoSplitters>
