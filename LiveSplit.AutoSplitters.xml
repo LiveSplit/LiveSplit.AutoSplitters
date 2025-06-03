@@ -7094,6 +7094,18 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Doom (Unity Ports)</Game>
+            <Game>Doom (Unity) Category Extensions</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/neesi/autosplitters/main/Doom_Doom_II_Unity/DoomUnity.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start, split, reset.</Description>
+        <Website>https://github.com/neesi/autosplitters/tree/main/Doom_Doom_II_Unity</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>LOVE</Game>
         </Games>
         <URLs>
