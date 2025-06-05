@@ -2,6 +2,28 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Out of Sight (2025)</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/LiveSplit.OutofSight.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/da804c285f35bd7ff8f532c94da99e69d9cb7eff/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart and Load Removal by Streetbackguy and Nikoheart</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>PaperKlay</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/samjones246/paperklay-asl/refs/heads/master/paperklay.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/split/reset and IGT supported. (By CaptainRektbeard)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Five Nights at Freddy's: Ruin</Game>
         </Games>
         <URLs>
@@ -7083,6 +7105,18 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Doom (Unity Ports)</Game>
+            <Game>Doom (Unity) Category Extensions</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/neesi/autosplitters/main/Doom_Doom_II_Unity/DoomUnity.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start, split, reset.</Description>
+        <Website>https://github.com/neesi/autosplitters/tree/main/Doom_Doom_II_Unity</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>LOVE</Game>
         </Games>
         <URLs>
@@ -7771,6 +7805,16 @@
         <Type>Script</Type>
         <Description>Load Removal and Auto Start is available. (By DrTChops, Som1Lse, HuthTV and Elvyndir)</Description>
         <Website>https://github.com/soppelsad/asl/blob/master/README.md</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Orbyss</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/iamJaffra/ASLs/refs/heads/main/Orbyss.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter available (by Jaffra)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -12432,6 +12476,7 @@
         <Games>
             <Game>Sonic Generations (2024)</Game>
             <Game>Shadow Generations</Game>
+            <Game>Shadow Generations - Category Extensions</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/SonicSpeedrunning/LiveSplit.SonicXShadowGenerations/master/Components/LiveSplit.SonicXShadowGenerations.dll</URL>
@@ -24524,6 +24569,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Machinarium</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/vojtechblazek/Autosplitters/main/ASL_Machinarium.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Machinarium Autosplitter by blazie</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Divinity: Original Sin Enhanced Edition</Game>
         </Games>
         <URLs>
@@ -24951,9 +25006,11 @@
     </Games>
     <URLs>
         <URL>https://raw.githubusercontent.com/Arkhamfan69/My-Splitters-Load-Removers/refs/heads/main/Autosplitters/rebrushedremover.asl</URL>
+        <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
+        <URL>https://raw.githubusercontent.com/Arkhamfan69/My-Splitters-Load-Removers/refs/heads/main/Xml%20Settings/Rebrushed.Settings.xml</URL>
     </URLs>
     <Type>Script</Type>
-    <Description>Load Removal Made Possible By NolifeVV</Description>
+    <Description>Auto-Starting &amp; Auto-Splitting Made By Arkhamfan69</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -26084,6 +26141,58 @@
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitter available (by wRadion)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Labyrinth Of The Demon King</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/iamJaffra/ASLs/refs/heads/main/LabyrinthOfTheDemonKing.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter/Load Removal available (by Jaffra)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Hack and Slash Fury</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/HandsomeStrife/speedrun-splits-and-autospltters/refs/heads/main/Hack%20and%20Slash%20Fury/hasf-autosplitter.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/da804c285f35bd7ff8f532c94da99e69d9cb7eff/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Fowl Legacy</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/HandsomeStrife/speedrun-splits-and-autospltters/refs/heads/main/Fowl%20Legacy/fowl-legacy-autosplitter.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/da804c285f35bd7ff8f532c94da99e69d9cb7eff/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter (on Bells)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Shivers 2: Harvest of Souls</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/iamJaffra/ASLs/refs/heads/main/Shivers2.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter available (by Jaffra)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Destroy SpongeBob</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Biksell/asl/refs/heads/main/Destroy%20Spongebob/spongebob.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting available (by Biksel)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
