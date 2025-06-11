@@ -26112,7 +26112,7 @@
         </URLs>
         <Type>Script</Type>
         <ScriptType>AutoSplittingRuntime</ScriptType>
-        <Description>Configurable Autostarter and Autosplitter for the Pixel Remaster Steam version. (by knutwalker)</Description>
+        <Description>Configurable Autostarter and Autosplitter for the Pixel Remaster (by knutwalker)</Description>
         <Website>https://github.com/knutwalker/ff1pr-autosplitter#readme</Website>
     </AutoSplitter>
     <AutoSplitter>
