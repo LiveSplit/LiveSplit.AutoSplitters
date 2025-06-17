@@ -6,6 +6,21 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/Nikoheartttv/Autosplitters/refs/heads/main/Azaran%20Island%20of%20the%20Jinn/AzaranIslandOfTheJinn.asl</URL>
+            <Game>Five Nights at Freddy's: Secret of the Mimic</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Lox-r/Autosplitters/refs/heads/main/FNaf%3ASoTM/Fnaf%3ASecretOfTheMimic.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/da804c285f35bd7ff8f532c94da99e69d9cb7eff/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart, Autosplit and Load Removal by Lox &amp; Arkham</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Confronted</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Nikoheartttv/Autosplitters/refs/heads/main/Confronted/Confronted.asl</URL>
             <URL>https://github.com/just-ero/asl-help/raw/da804c285f35bd7ff8f532c94da99e69d9cb7eff/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
@@ -2910,8 +2925,8 @@
             <Game>Trepang2</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/LiterallyMetaphorical/Livesplit.Trepang2/main/Trepang2.asl</URL>
-            <URL>https://raw.githubusercontent.com/LiterallyMetaphorical/Livesplit.Trepang2/main/Trepang2.Settings.xml</URL>
+            <URL>https://raw.githubusercontent.com/mitchell-merry/autosplitters/refs/heads/main/Trepang2/Trepang2.asl</URL>
+            <URL>https://raw.githubusercontent.com/mitchell-merry/autosplitters/refs/heads/main/Trepang2/Trepang2.Settings.xml</URL>
             <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
