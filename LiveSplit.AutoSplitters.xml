@@ -21421,6 +21421,24 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Ultimate Doom</Game>
+            <Game>Doom 2</Game>
+            <Game>Doom II</Game>
+            <Game>Final Doom</Game>
+            <Game>Plutonia Experiment</Game>
+            <Game>TNT: Evilution</Game>
+            <Game>DSDA Doom</Game>
+            <Game>DSDA-Doom</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Krankdud/dsda-doom-autosplitter/refs/heads/main/dsda-doom.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Demo timing, Auto Start/Split/Reset available (by Krankdud, Coincident, the_kovic)</Description>
+        <Website>https://github.com/Krankdud/dsda-doom-autosplitter</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Holo Dungeon</Game>
         </Games>
         <URLs>
