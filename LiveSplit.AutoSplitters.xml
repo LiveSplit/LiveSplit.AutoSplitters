@@ -1,5 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
+         <AutoSplitter>
+        <Games>
+            <Game>White Knuckle</Game>
+         </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/LiterallyMetaphorical/LiveSplit.WhiteKnuckle/refs/heads/main/WhiteKnuckle.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/da804c285f35bd7ff8f532c94da99e69d9cb7eff/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart, Autosplit and Load Removal by Meta</Description>
+    </AutoSplitter>
+     <AutoSplitter>
+        <Games>
+            <Game>PIGFACE</Game>
+         </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/LiterallyMetaphorical/LiveSplit.PIGFACE/refs/heads/main/PIGFACE.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/da804c285f35bd7ff8f532c94da99e69d9cb7eff/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart, Autosplit and Load Removal by Meta</Description>
+    </AutoSplitter>
+     <AutoSplitter>
+        <Games>
+            <Game>Giggleland</Game>
+         </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/LiterallyMetaphorical/LiveSplit.Giggleland/refs/heads/main/Giggleland.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/da804c285f35bd7ff8f532c94da99e69d9cb7eff/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart, Autosplit and Load Removal by Meta</Description>
+    </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>The Alters</Game>
