@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
-         <AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Gecko Gods</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/samjones246/gecko-gods-asl/refs/heads/main/gecko-gods.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/da804c285f35bd7ff8f532c94da99e69d9cb7eff/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/split supported. (By CaptainRektbeard)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
         <Games>
             <Game>White Knuckle</Game>
          </Games>
