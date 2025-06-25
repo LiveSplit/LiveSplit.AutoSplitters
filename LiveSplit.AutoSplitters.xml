@@ -23825,6 +23825,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Assassin's Creed: Rogue</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/TpRedNinja/Assassins-Creed-Autosplitters-and-loadremovers/refs/heads/main/ACRogue.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>AutoSplitter and Loadremover for Assassins Creed: Rogue (by TpRedNinja)</Description>
+        <Website>https://github.com/TpRedNinja/Assassins-Creed-Autosplitters-and-loadremovers</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Assassin's Creed: Unity</Game>
         </Games>
         <URLs>
