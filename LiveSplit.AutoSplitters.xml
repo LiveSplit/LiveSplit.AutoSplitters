@@ -13727,6 +13727,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Little Nightmares Enhanced Edition</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/DNikko/littlenightmares-lr-as/master/littlenightmares.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter/Load Removal (By Nikko)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Little Witch Nobeta</Game>
         </Games>
         <URLs>
