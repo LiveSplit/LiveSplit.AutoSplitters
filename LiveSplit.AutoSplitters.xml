@@ -26402,4 +26402,14 @@
         <Type>Script</Type>
         <Description>Loads Remover (Made by HazelPietro)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>5D Chess with Multiverse Time Travel</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/mauer01/5d-chess-autosplitter/refs/heads/master/5dcwmtt.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter (by mauer01)</Description>
+    </AutoSplitter>
 </AutoSplitters>
