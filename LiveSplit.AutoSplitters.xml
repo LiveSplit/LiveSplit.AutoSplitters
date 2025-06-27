@@ -2,6 +2,17 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Dexter's Laboratory: Mandark's Lab?</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/SP-Spyran/Auto-Splitters/blob/main/DexLabMandark_Autosplitter.asl</URL>
+            <URL>https://github.com/Jujstme/emu-help-v3/blob/main/lib/Livesplit/emu-help-v3</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load removal, auto start and auto split supported. Set timer to start at 0.5s (by Spyran + Shad0wofeden)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Vacuous Sugar Quest</Game>
         </Games>
         <URLs>
