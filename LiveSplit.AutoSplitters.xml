@@ -24801,7 +24801,7 @@
             <Game>Final Fantasy VIII</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/bodcap/ff8-auto-splitter/main/FF8Autosplitter.asl</URL>
+            <URL>https://raw.githubusercontent.com/ff8-speedruns/ff8-auto-splitter/main/FF8Autosplitter.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Auto-splitter and CSR break pause (by naputimu, kaivel, jester1610, ElliotOrnitier)</Description>
