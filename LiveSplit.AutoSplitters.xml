@@ -2,6 +2,16 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Pilot Brothers</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/metrapoliten/pilot_brothers_autosplit/refs/heads/main/pilot_brothers_autosplit.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Start, split, reset by metrapoliten</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>PEAK</Game>
         </Games>
         <URLs>
