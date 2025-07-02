@@ -2,6 +2,16 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>TAMASHII</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Arragon5xpwm/tamashii-asl/refs/heads/main/tamashii.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart, Autosplitting after every boss - by Arragon (Implementation) + AstridTheHorrorGirl (Testing)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Pilot Brothers</Game>
         </Games>
         <URLs>
