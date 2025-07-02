@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
-    <Autosplitter>
+    <AutoSplitter>
         <Games>
             <Game>TAMASHII</Game>
         </Games>
@@ -9,7 +9,7 @@
         </URLs>
         <Type>Script</Type>
         <Description>Autostart, Autosplitting after every boss - by Arragon (Implementation) + AstridTheHorrorGirl (Testing)</Description>
-    </Autosplitter>
+    </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>Pilot Brothers</Game>
