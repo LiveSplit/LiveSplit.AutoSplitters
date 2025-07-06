@@ -2,6 +2,81 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Fantastic Fist</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/Riolku/fantasticfist-asl/raw/main/fantasticfist.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/da804c285f35bd7ff8f532c94da99e69d9cb7eff/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Sync Fantastic Fist In-game time with LiveSplit - by Riolku</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>TAMASHII</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Arragon5xpwm/tamashii-asl/refs/heads/main/tamashii.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart, Autosplitting after every boss - by Arragon (Implementation) + AstridTheHorrorGirl (Testing)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Pilot Brothers</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/metrapoliten/pilot_brothers_autosplit/refs/heads/main/pilot_brothers_autosplit.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Start, split, reset by metrapoliten</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>PEAK</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/LiveSplit.PEAK.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/da804c285f35bd7ff8f532c94da99e69d9cb7eff/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart, Reset, Load Removal and Autosplitting by Streetbackguy</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Dexter's Laboratory: Mandark's Lab?</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/SP-Spyran/Auto-Splitters/refs/heads/main/DexLabMandark_Autosplitter.asl</URL>
+            <URL>https://github.com/Jujstme/emu-help-v3/raw/dc66ce576d8100c964bd37d170166e11135d91ca/lib/Livesplit/emu-help-v3</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load removal, auto start and auto split supported. Set timer to start at 0.5s (by Spyran + Shad0wofeden)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Vacuous Sugar Quest</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/altskop/vacuous-sugar-quest-asl/refs/heads/main/VacuousSugarQuest.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/da804c285f35bd7ff8f532c94da99e69d9cb7eff/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/split supported. (by altskop)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Beyond Oasis</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/LiveSplit.BeyondOasis.asl</URL>
+            <URL>https://github.com/Jujstme/emu-help/raw/master/lib/emu-help-v2</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart and Autosplitting by Streetbackguy</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Gecko Gods</Game>
         </Games>
         <URLs>
@@ -71,11 +146,11 @@
             <Game>Five Nights at Freddy's: Secret of the Mimic</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Lox-r/Autosplitters/refs/heads/main/FNaf%3ASoTM/Fnaf%3ASecretOfTheMimic.asl</URL>
+            <URL>https://raw.githubusercontent.com/Arkhamfan69/My-Splitters-Load-Removers/refs/heads/main/Autosplitters/FnafSecretsOfTheMimic.asl</URL>
             <URL>https://github.com/just-ero/asl-help/raw/da804c285f35bd7ff8f532c94da99e69d9cb7eff/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autostart, Autosplit and Load Removal by Lox &amp; Arkham</Description>
+        <Description>Autostart, Autosplit and Load Removal by Lox &amp; Arkhamfan69</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -13697,6 +13772,7 @@
     <AutoSplitter>
         <Games>
             <Game>Little Nightmares</Game>
+            <Game>Little Nightmares Enhanced Edition</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/DNikko/littlenightmares-lr-as/master/littlenightmares.asl</URL>
@@ -24757,7 +24833,7 @@
             <Game>Final Fantasy VIII</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/bodcap/ff8-auto-splitter/main/FF8Autosplitter.asl</URL>
+            <URL>https://raw.githubusercontent.com/ff8-speedruns/ff8-auto-splitter/main/FF8Autosplitter.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Auto-splitter and CSR break pause (by naputimu, kaivel, jester1610, ElliotOrnitier)</Description>
@@ -26368,5 +26444,26 @@
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitter/Load Removal available (by to-miz)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Madagascar: Escape 2 Africa</Game>
+            <Game>Madagascar: Escape 2 Africa Category Extensions</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/HazelPietro/Mad2-Load-Remover/refs/heads/main/The%20Official%20Mad2%20Load%20Remover%20by%20Haselpeter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Loads Remover (Made by HazelPietro)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>5D Chess with Multiverse Time Travel</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/mauer01/5d-chess-autosplitter/refs/heads/master/5dcwmtt.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter (by mauer01)</Description>
     </AutoSplitter>
 </AutoSplitters>
