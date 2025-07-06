@@ -8975,10 +8975,11 @@
             <Game>Alien: Isolation</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Cliffs666/ASL/master/Alien_Isolation_Auto.asl</URL>
+            <URL>https://raw.githubusercontent.com/GlorpVT/Alien-Isolation-Autosplitter/refs/heads/master/Consolidated_Splitter%20v1.2.3.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load Removal (By Fatalis) and Auto Splitter (By Cliffs) is available.</Description>
+        <Description>Load Removal and Auto Splitter By GlorpVT.</Description>
+        <Website>https://discord.gg/0Sk7X8JLpV478kG2</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
