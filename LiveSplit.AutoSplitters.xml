@@ -2,6 +2,17 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>STELLAR BLADE</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Flufferdoodles/StellarBladeSpeedrunTools/refs/heads/main/LoadRemover/SB-AutoSplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load remover for Stellar Blade</Description>
+        <Website>https://github.com/Flufferdoodles/StellarBladeSpeedrunTools</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Fantastic Fist</Game>
         </Games>
         <URLs>
