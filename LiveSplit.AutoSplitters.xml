@@ -26485,7 +26485,7 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/Undalevein/EscapeSimulatorAutosplitter/refs/heads/main/EscapeSimulator.asl</URL>
-            <URL>https://github.com/just-ero/asl-help/blob/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/LiveSplit.ASLHelper.bin</URL>
+            <URL>https://github.com/just-ero/asl-help/blob/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autostart, Autosplit, and load removal available. (By Undalevein)</Description>
