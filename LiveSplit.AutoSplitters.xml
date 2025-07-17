@@ -26501,4 +26501,16 @@
         <Type>Script</Type>
         <Description>Autostart, Autosplit, and load removal available. (By Undalevein)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Bloody Trapland 2</Game>
+            <Game>Bloody Trapland 2: Curiosity</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/aut0mat1clol/AutoSplitters/refs/heads/main/BloodyTrapland2.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/da804c285f35bd7ff8f532c94da99e69d9cb7eff/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter is available (by aut0mat1clol)</Description>
+    </AutoSplitter>
 </AutoSplitters>
