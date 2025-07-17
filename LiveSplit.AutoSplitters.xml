@@ -2,6 +2,16 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Annalynn</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/pr0te/AnnalynnASL/refs/heads/main/annalynn.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start, split, reset, pause during cutscenes and stop after final boss - by pr0te</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>STELLAR BLADE</Game>
         </Games>
         <URLs>
