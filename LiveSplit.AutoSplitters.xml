@@ -2,6 +2,27 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Annalynn</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/pr0te/AnnalynnASL/refs/heads/main/annalynn.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start, split, reset, pause during cutscenes and stop after final boss - by pr0te</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>STELLAR BLADE</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Flufferdoodles/StellarBladeSpeedrunTools/refs/heads/main/LoadRemover/SB-AutoSplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load remover for Stellar Blade</Description>
+        <Website>https://github.com/Flufferdoodles/StellarBladeSpeedrunTools</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Fantastic Fist</Game>
         </Games>
         <URLs>
@@ -144,6 +165,7 @@
     <AutoSplitter>
         <Games>
             <Game>Five Nights at Freddy's: Secret of the Mimic</Game>
+            <Game>Five Nights at Freddy's: Secret of the Mimic - Category Extensions</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/Arkhamfan69/My-Splitters-Load-Removers/refs/heads/main/Autosplitters/FnafSecretsOfTheMimic.asl</URL>
@@ -15102,6 +15124,7 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Disney's Tarzan</Game>
             <Game>Tarzan</Game>
         </Games>
         <URLs>
@@ -26466,5 +26489,16 @@
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitter (by mauer01)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Escape Simulator</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Undalevein/EscapeSimulatorAutosplitter/refs/heads/main/EscapeSimulator.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/da804c285f35bd7ff8f532c94da99e69d9cb7eff/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart, Autosplit, and load removal available. (By Undalevein)</Description>
     </AutoSplitter>
 </AutoSplitters>
