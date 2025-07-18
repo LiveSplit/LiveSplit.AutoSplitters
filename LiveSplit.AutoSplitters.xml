@@ -2,6 +2,16 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Juiced 2: Hot Import Nights</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Ventilo-sr/Autosplitters/refs/heads/main/Juiced2%20autosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and load remover for Juiced 2 - by Ventilo</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Annalynn</Game>
         </Games>
         <URLs>
