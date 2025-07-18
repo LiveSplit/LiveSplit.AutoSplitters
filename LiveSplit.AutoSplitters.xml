@@ -7690,6 +7690,7 @@
     <AutoSplitter>
         <Games>
             <Game>Dying Light</Game>
+            <Game>Dying Light Category Extension</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/shadow2hel/Autosplitters/master/DyingLight/autostartnloadless.asl</URL>
