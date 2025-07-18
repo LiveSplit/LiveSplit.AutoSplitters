@@ -2,6 +2,16 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>LEGO The Hobbit</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/FlamingLazer/asl/refs/heads/main/hobbit.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart, Split and Load Removal - by FlamingLazer</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Juiced 2: Hot Import Nights</Game>
         </Games>
         <URLs>
