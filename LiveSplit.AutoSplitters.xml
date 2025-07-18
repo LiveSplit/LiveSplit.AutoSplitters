@@ -26524,4 +26524,14 @@
         <Type>Script</Type>
         <Description>Autosplitter is available (by aut0mat1clol)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Ballest of Them All</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/jacobasmithwork/AutoSplitters/raw/main/BoTA.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplits by loftzo</Description>
+    </AutoSplitter>
 </AutoSplitters>
