@@ -19669,11 +19669,11 @@
             <Game>Dodgeball Academia</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Voxelse/LiveSplit.DodgeballAcademia/main/Components/LiveSplit.DodgeballAcademia.dll</URL>
+            <URL>https://raw.githubusercontent.com/Leemyy/LiveSplit.DodgeballAcademia/main/Components/LiveSplit.DodgeballAcademia.dll</URL>
         </URLs>
         <Type>Component</Type>
-        <Description>Auto Start/Split/Reset and Load Remover (by Voxelse)</Description>
-        <Website>https://github.com/Voxelse/LiveSplit.DodgeballAcademia</Website>
+        <Description>Auto Start/Split/Reset and Load Remover (by Voxelse and Leemyy)</Description>
+        <Website>https://github.com/Leemyy/LiveSplit.DodgeballAcademia</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
