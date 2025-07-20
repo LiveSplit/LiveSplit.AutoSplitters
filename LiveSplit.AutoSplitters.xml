@@ -21349,6 +21349,7 @@
     <AutoSplitter>
         <Games>
             <Game>Cry of Fear</Game>
+            <Game>Cry of Fear Category Extensions</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/IlyaTsyganov/Livesplit.CryofFear/main/cryoffear.asl</URL>
