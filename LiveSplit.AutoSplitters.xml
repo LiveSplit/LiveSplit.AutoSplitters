@@ -26544,4 +26544,14 @@
         <Type>Script</Type>
         <Description>Autosplits by loftzo</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Cry of Fear Category Extensions</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/IlyaTsyganov/Livesplit.CryofFear/main/cryoffear.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting and load removal by DrLa, Category Extensions updated by ntxn</Description>
+    </AutoSplitter>
 </AutoSplitters>
