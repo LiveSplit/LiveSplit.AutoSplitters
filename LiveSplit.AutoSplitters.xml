@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
+	<AutoSplitter>
+		<Games>
+			<Game>Xion Leak</Game>
+		</Games>
+		<URLs>
+			<URL>https://raw.githubusercontent.com/FlorianBaba/XionLeakAutosplitter/refs/heads/main/XionLeakAutoSplitter.asl</URL>
+		</URLs>
+		<Type>Script</Type>
+		<Description>Autostart, Split and Pause during transitions and cutscenes - by WinnymaruBaba</Description>
+	</AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>LEGO The Hobbit</Game>
