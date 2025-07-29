@@ -26570,4 +26570,15 @@
         <Description>Autosplitter/Load Removal available. (by Psychonauter)</Description>
         <Website>https://github.com/BitPatty/LiveSplit.Painscreek</Website>
     </AutoSplitter>
+     <AutoSplitter>
+        <Games>
+            <Game>Twin Sector</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Dzoiver/twinsector-Autosplitter/refs/heads/main/twinsectorV3.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Loadremover, auto start/split (by Seifer)</Description>
+        <Website>https://github.com/Dzoiver/twinsector-Autosplitter</Website>
+    </AutoSplitter>
 </AutoSplitters>
