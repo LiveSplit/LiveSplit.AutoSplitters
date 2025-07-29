@@ -26558,4 +26558,16 @@
         <Type>Script</Type>
         <Description>Autosplits by loftzo</Description>
     </AutoSplitter>
+     <AutoSplitter>
+        <Games>
+            <Game>The Painscreek Killings</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/BitPatty/LiveSplit.Painscreek/master/Components/LiveSplit.Painscreek.AutoSplitter.dll</URL>
+            <URL>https://raw.githubusercontent.com/BitPatty/LiveSplit.Painscreek/master/Components/LiveSplit.Painscreek.MemoryReader.dll</URL>
+        </URLs>
+        <Type>Component</Type>
+        <Description>Autosplitter/Load Removal available. (by Psychonauter)</Description>
+        <Website>https://github.com/BitPatty/LiveSplit.Painscreek</Website>
+    </AutoSplitter>
 </AutoSplitters>
