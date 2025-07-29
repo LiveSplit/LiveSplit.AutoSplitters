@@ -23908,6 +23908,8 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/TpRedNinja/Assassins-Creed-Autosplitters-and-loadremovers/refs/heads/main/AC4BFSP.asl</URL>
+            <URL>https://raw.githubusercontent.com/TpRedNinja/Assassins-Creed-Autosplitters-and-loadremovers/refs/heads/main/AC4.Settings.xml</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
         <Description>AutoSplitter and LoadRemover for Assassins Creed 4 BlackFlag (by TpRedNinja)</Description>
