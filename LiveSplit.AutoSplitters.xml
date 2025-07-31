@@ -9570,19 +9570,21 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/antimYT/Undertale-Autosplitter/master/ut_autosplitter_common_r6.asl</URL>
+            https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help
         </URLs>
         <Type>Script</Type>
-        <Description>Auto Splitting and Starter are available. (1.001 by spaceglace, 1.05_1.08 by antimYT)</Description>
+        <Description>Auto Start, Split and Reset are available. (1.001 by spaceglace, 1.05-1.08 by antimYT)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>Undertale Category Extensions</Game>
+            <Game>Undertale Demo</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/antimYT/Undertale-Autosplitter/master/ut_autosplitter_common_cat_r2.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto Splitting and Starter are available. (By antimyt)</Description>
+        <Description>Auto Start, Split and Reset are available. (By antimYT)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
