@@ -9570,7 +9570,7 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/antimYT/Undertale-Autosplitter/master/ut_autosplitter_common_r6.asl</URL>
-            <URL>https://github.com/just-ero/asl-help/raw/refs/heads/main/lib/asl-help</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/da804c285f35bd7ff8f532c94da99e69d9cb7eff/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Auto Start, Split and Reset are available. (1.001 by spaceglace, 1.05-1.08 by antimYT)</Description>
