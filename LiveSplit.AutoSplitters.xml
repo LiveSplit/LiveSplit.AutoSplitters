@@ -11711,10 +11711,10 @@
             <Game>Risen</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Chimpaneez/ASL/master/Risen.asl</URL>
+            <URL>https://raw.githubusercontent.com/iamJaffra/ASLs/refs/heads/main/Risen.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load Removal is available. (By Chimpaneez)</Description>
+        <Description>Autosplitter/Load Removal available (by Jaffra)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
