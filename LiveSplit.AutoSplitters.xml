@@ -10332,10 +10332,10 @@
             <Game>Battlefield 4</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/WonderAlmond/asl/master/LiveSplit.Battlefield4.asl</URL>
+            <URL>https://raw.githubusercontent.com/LiterallyMetaphorical/LiveSplit.Battlefield4/refs/heads/main/Battlefield4.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load Removal is available. (By WonderAlmond)</Description>
+        <Description>Load Remover and Autosplitter (By WonderAlmond and Meta)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
