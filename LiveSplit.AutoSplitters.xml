@@ -3349,6 +3349,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>OFF</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/ners-xd/Autosplitter.Projects/main/RPGMaker2003.OFF.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start, split and reset supported. (By NERS)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Redfall</Game>
         </Games>
         <URLs>
