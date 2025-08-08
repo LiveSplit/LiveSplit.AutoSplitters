@@ -21074,11 +21074,13 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/10-days-till-xmas/Shady-Knight-autosplitter/main/SK_splitter.asl</URL>
+            <URL>https://raw.githubusercontent.com/Supahsemmie/Shady-Knight-loadlessRT-autosplitter/refs/heads/main/SK_LoadlessSplitter.asl</URL>
             <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Starts, splits and resets automatically. Resets only when restarting in the 1st split. (by 10_days_till_xmas)</Description>
+        <Description>Two autosplitters available: IGT-only (by 10_days_till_xmas) and RT without loads (non-demo only) (by Supahsemmie).</Description>
         <Website>https://github.com/10-days-till-xmas/Shady-Knight-autosplitter/blob/main/SK_splitter.asl</Website>
+        <Website>https://github.com/Supahsemmie/Shady-Knight-loadlessRT-autosplitter/blob/main/SK_LoadlessSplitter.asl</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
