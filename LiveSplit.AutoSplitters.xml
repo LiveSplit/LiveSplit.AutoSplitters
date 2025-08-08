@@ -8012,9 +8012,15 @@
     <AutoSplitter>
         <Games>
             <Game>Wolfenstein</Game>
+            <Game>Wolfenstein 2009</Game>
+            <Game>Wolfenstein(2009)</Game>
+            <Game>Wolfenstein (2009)</Game>
+            <Game>Wolfenstein2009</Game>
+            <Game>Wolf(2009)</Game>
+            <Game>Wolf2009</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Gemr007/Wolfenstein-2009-Advanced-Load-Remover-Autosplitter/main/Wolf2009splitter.asl</URL>
+            <URL>https://raw.githubusercontent.com/Gemr007/Wolfenstein-2009-Advanced-Load-Remover-Autosplitter/refs/heads/main/Wolfenstein_2009_splitterrework.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitter and Load Remover by M_E_T_A_L_I_S_T___S_P_1_D</Description>
