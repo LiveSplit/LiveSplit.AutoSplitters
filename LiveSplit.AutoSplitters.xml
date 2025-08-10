@@ -26647,4 +26647,16 @@
         <Description>Loadremover, auto start/split (by Seifer)</Description>
         <Website>https://github.com/Dzoiver/twinsector-Autosplitter</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Wuchang: Fallen Feahters</Game>
+            <Game>Wuchang</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/TheDementedSalad/Wuchang-Load-Remover/refs/heads/main/Wuchang.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Remover Available (By TheDementedSalad)</Description>
+    </AutoSplitter>
 </AutoSplitters>
