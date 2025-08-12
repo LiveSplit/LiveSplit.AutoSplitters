@@ -19608,6 +19608,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>The 7th Guest</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/iamJaffra/ASLs/refs/heads/main/The7thGuest.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter available for the 25th Anniversary Edition (by Jaffra)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Q.U.B.E.</Game>
         </Games>
         <URLs>
