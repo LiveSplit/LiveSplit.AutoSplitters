@@ -26679,4 +26679,14 @@
         <Type>Script</Type>
         <Description>retroarch-genesis-plus-gx auto-start/autosplit by difficulty(By SkioRen)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Uncanny Cat Golf</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/aut0mat1clol/AutoSplitters/refs/heads/main/UncannyCatGolf.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitter is available. (By aut0mat1clol)</Description>
+    </AutoSplitter>
 </AutoSplitters>
