@@ -26669,4 +26669,14 @@
         <Type>Script</Type>
         <Description>Load Remover Available (By TheDementedSalad)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>High Seas Havoc</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/AgusLuna/HighSeasHavocAutoplitter/refs/heads/main/hshavoc.asl</URL>            
+        </URLs>
+        <Type>Script</Type>
+        <Description>retroarch-genesis-plus-gx auto-start/autosplit by difficulty(By SkioRen)</Description>
+    </AutoSplitter>
 </AutoSplitters>
