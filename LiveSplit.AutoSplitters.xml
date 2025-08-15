@@ -7,7 +7,7 @@
         <URLs>
             <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/LiveSplit.ShinobiArtofVengeance.asl</URL>
             <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/LiveSplit.Shinobi3ReturnoftheNinjaMaster.asl</URL>
-            <URL>https://github.com/Jujstme/unity-help/blob/2a410fc99a1fecf66f19f399642bc3640d7bac34/lib/Livesplit/unity-help</URL>
+            <URL>https://github.com/Jujstme/unity-help/raw/2a410fc99a1fecf66f19f399642bc3640d7bac34/lib/Livesplit/unity-help</URL>
             <URL>https://github.com/Jujstme/emu-help-v3/raw/dc66ce576d8100c964bd37d170166e11135d91ca/lib/Livesplit/emu-help-v3</URL>
         </URLs>
         <Type>Script</Type>
