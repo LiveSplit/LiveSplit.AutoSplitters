@@ -177,35 +177,28 @@ Actions are implemented in C#. You can use C#'s documentation for any questions 
 
 These actions are repeatedly triggered while LiveSplit is connected to the game process.
 
-##### Generic Update
+- ##### Generic Update
+	- The name of this action is `update`. You can use this for generic updating. In each update iteration, this is run before the timer control actions, which e.g. means if you set a value in `vars` in `update` you can then access it in `start` on the same update cycle.
+	- Explicitly returning `false` will prevent the actions `isLoading`, `gameTime`, `reset`, `split`, and `start` from being run. This can be useful if you want to entirely disable the script under some conditions (e.g. for incompatible game versions). See [Order of Execution](#order-of-execution) for more information.
 
-The name of this action is `update`. You can use this for generic updating. In each update iteration, this is run before the timer control actions, which e.g. means if you set a value in `vars` in `update` you can then access it in `start` on the same update cycle.
+- ##### Automatic Timer Start
+	- The name of this action is `start`. Return `true` whenever you want the timer to start. Note that the `start` action will only be run if the timer hasn't been started (right after being reset, for example).
 
-Explicitly returning `false` will prevent the actions `isLoading`, `gameTime`, `reset`, `split`, and `start` from being run. This can be useful if you want to entirely disable the script under some conditions (e.g. for incompatible game versions). See [Order of Execution](#order-of-execution) for more information.
+- ##### Automatic Splits
+	- The name of this action is `split`. Return `true` whenever you want to trigger a split.
 
-##### Automatic Timer Start
+- ##### Automatic Resets
+	- The name of this action is `reset`. Return `true` whenever you want to reset the run. Only run while the timer is running.
+	- Explicitly returning `true` will prevent the `split` action from being run. This can be useful in some cases, but may also cause issues for some scripts. See [Order of Execution](#order-of-execution) for more information.
 
-The name of this action is `start`. Return `true` whenever you want the timer to start. Note that the `start` action will only be run if the timer is currently not running.
+- ##### Load Time Removal
+	- The name of this action is `isLoading`. Return `true` whenever the game is loading. LiveSplit's Game Time Timer will be paused as long as you return `true`.
+	- **NOTE**: Make sure the timer is set to "Game Time" in the layout! Failure to do so will cause the timer to keep running, as if `isLoading` had returned `false` or `isLoading` weren't triggered at all.
 
-##### Automatic Splits
+- ##### Game Time
+	- The name of this action is `gameTime`. Return a [`TimeSpan`](https://msdn.microsoft.com/en-us/library/system.timespan(v=vs.110).aspx) object that contains the current time of the game.
+ 	- You can also combine this with `isLoading`. If `isLoading` returns false, nothing, or isn't implemented, LiveSplit's Game Time Timer is always running and syncs with the game's Game Time at a constant interval. Everything in between is therefore a Real Time approximation of the Game Time. If you want the Game Time to not run in between the synchronization interval and only ever return the actual Game Time of the game, make sure to implement `isLoading` with a constant return value of `true`.
 
-The name of this action is `split`. Return `true` whenever you want to trigger a split.
-
-##### Automatic Resets
-
-The name of this action is `reset`. Return `true` whenever you want to reset the run.
-
-Explicitly returning `true` will prevent the `split` action from being run. This can be useful in some cases, but may also cause issues for some scripts. See [Order of Execution](#order-of-execution) for more information.
-
-##### Load Time Removal
-
-The name of this action is `isLoading`. Return `true` whenever the game is loading. LiveSplit's Game Time Timer will be paused as long as you return `true`.
-
-**NOTE**: Make sure the timer is set to "Game Time" in the layout! Failure to do so will cause the timer to keep running, as if `isLoading` had returned `false` or `isLoading` weren't triggered at all.
-
-##### Game Time
-
-The name of this action is `gameTime`. Return a [`TimeSpan`](https://msdn.microsoft.com/en-us/library/system.timespan(v=vs.110).aspx) object that contains the current time of the game. You can also combine this with `isLoading`. If `isLoading` returns false, nothing, or isn't implemented, LiveSplit's Game Time Timer is always running and syncs with the game's Game Time at a constant interval. Everything in between is therefore a Real Time approximation of the Game Time. If you want the Game Time to not run in between the synchronization interval and only ever return the actual Game Time of the game, make sure to implement `isLoading` with a constant return value of `true`.
 
 ##### Order of Execution
 
