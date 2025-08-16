@@ -216,7 +216,7 @@ While a broader suite of events exist in LiveSplit, three are also available as 
 #### Script Management
 
 - ##### Script Startup
-	- The name of this action is `startup`. This action is triggered when the script is first loads. This is the place where you can put initialization that doesn't depend on being connected to the process and the only place where you can add [Custom Settings](#custom-settings).
+	- The name of this action is `startup`. This action is triggered when the script is first loaded. This is the place where you can put initialization that doesn't depend on being connected to the process and the only place where you can add [Custom Settings](#custom-settings).
 
 - ##### Script Shutdown
 	- The name of this action is `shutdown`. This action is triggered whenever the script is entirely stopped, for example when the Auto Splitter is disabled, LiveSplit exits, the script path is changed or the script is reloaded (e.g. during development of the ASL script).
