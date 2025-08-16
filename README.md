@@ -17,6 +17,7 @@
 	- [Actions](#actions)
  		- [Script Management](#script-management)
 		- [Timer Control](#timer-control)
+    	- [Order of Execution](#order-of-execution)
 	- [Action Variables](#action-variables)
 		- [General Variables](#general-variables)
 		- [Game Dependent](#game-dependent)
@@ -213,15 +214,17 @@ These actions are repeatedly triggered while LiveSplit is connected to the game 
 	- The name of this action is `gameTime`. Return a [`TimeSpan`](https://msdn.microsoft.com/en-us/library/system.timespan(v=vs.110).aspx) object that contains the current time of the game.
  	- You can also combine this with `isLoading`. If `isLoading` returns false, nothing, or isn't implemented, LiveSplit's Game Time Timer is always running and syncs with the game's Game Time at a constant interval. Everything in between is therefore a Real Time approximation of the Game Time. If you want the Game Time to not run in between the synchronization interval and only ever return the actual Game Time of the game, make sure to implement `isLoading` with a constant return value of `true`.
 
+#### Order of Execution
+Understanding the order and conditions under which timer control actions are executed can help you avoid issues in your script where variables appear to be set improperly, actions appear to be skipped, and more.
 
-##### Order of Execution
-
-Understanding the order and conditions under which timer control actions are executed can help you avoid issues in your script where variables appear to be set improperly, actions appear to be skipped, and more. Every update iteration follows this process when running actions:
-
-1. `update` will always be run first. There are no conditions on the execution of this action.
-2. If `update` did not explicitly return `false` and the timer is currently either running or paused, then the `isLoading`, `gameTime`, and `reset` actions will be run.
-  - If `reset` does not explicitly return `true`, then the `split` action will be run.
-3. If `update` did not explicitly return `false` and the timer is currently not running (and not paused), then the `start` action will be run.
+##### Script - Initialization:
+1. `startup` is run once when the script is loaded.
+2. If a matching process is found, `init` is run. `init` is restarted if stopped by an exception.
+##### Script - Main Loop:
+1. `update` will always be run. If it returns `false`, then all other Timer Control actions will be skipped.
+2. If the timer hasn't started, then the `start` action will be run.
+3. If the timer is currently running, then the `isLoading`, `gameTime`, and `reset` actions will be run.
+	- If `reset` does not explicitly return `true`, then the `split` action will be run.
 
 ##### Events
 
