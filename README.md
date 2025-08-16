@@ -215,21 +215,17 @@ While a broader suite of events exist in LiveSplit, three are also available as 
 
 #### Script Management
 
-##### Script Startup
+- ##### Script Startup
+	- The name of this action is `startup`. This action is triggered when the script is first loads. This is the place where you can put initialization that doesn't depend on being connected to the process and the only place where you can add [Custom Settings](#custom-settings).
 
-The name of this action is `startup`. This action is triggered when the script is first loads. This is the place where you can put initialization that doesn't depend on being connected to the process and the only place where you can add [Custom Settings](#custom-settings).
+- ##### Script Shutdown
+	- The name of this action is `shutdown`. This action is triggered whenever the script is entirely stopped, for example when the Auto Splitter is disabled, LiveSplit exits, the script path is changed or the script is reloaded (e.g. during development of the ASL script).
 
-##### Script Shutdown
+- ##### Script Initialization (Game Start)
+	- The name of this action is `init`. This action is triggered whenever a game process has been found according to the State Descriptors. This can occur more than once during the execution of a script (e.g. when you restart the game). This is the place to do initialization that depends on the game, for example detecting the game version.
 
-The name of this action is `shutdown`. This action is triggered whenever the script is entirely stopped, for example when the Auto Splitter is disabled, LiveSplit exits, the script path is changed or the script is reloaded (e.g. during development of the ASL script).
-
-##### Script Initialization (Game Start)
-
-The name of this action is `init`. This action is triggered whenever a game process has been found according to the State Descriptors. This can occur more than once during the execution of a script (e.g. when you restart the game). This is the place to do initialization that depends on the game, for example detecting the game version.
-
-##### Game Exit
-
-The name of this action is `exit`. This action is triggered whenever the currently attached game process exits.
+- ##### Game Exit
+	- The name of this action is `exit`. This action is triggered whenever the currently attached game process exits.
 
 
 ### Action Variables
