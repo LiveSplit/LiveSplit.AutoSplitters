@@ -15,8 +15,8 @@
 	- [State Descriptors](#state-descriptors)
 		- [State objects](#state-objects)
 	- [Actions](#actions)
+ 		- [Script Management](#script-management)
 		- [Timer Control](#timer-control)
-		- [Script Management](#script-management)
 	- [Action Variables](#action-variables)
 		- [General Variables](#general-variables)
 		- [Game Dependent](#game-dependent)
@@ -173,6 +173,20 @@ All of the actions are optional and are declared by their name `ACTION_NAME` fol
 
 Actions are implemented in C#. You can use C#'s documentation for any questions you may have regarding the syntax of C#.
 
+#### Script Management
+
+- ##### Script Startup
+	- The name of this action is `startup`. This action is triggered when the script is first loaded. This is the place where you can put initialization that doesn't depend on being connected to the process and the only place where you can add [Custom Settings](#custom-settings).
+
+- ##### Script Shutdown
+	- The name of this action is `shutdown`. This action is triggered whenever the script is entirely stopped, for example when the Auto Splitter is disabled, LiveSplit exits, the script path is changed or the script is reloaded (e.g. during development of the ASL script).
+
+- ##### Script Initialization (Game Start)
+	- The name of this action is `init`. This action is triggered whenever a game process has been found according to the State Descriptors. This can occur more than once during the execution of a script (e.g. when you restart the game). This is the place to do initialization that depends on the game, for example detecting the game version.
+
+- ##### Game Exit
+	- The name of this action is `exit`. This action is triggered whenever the currently attached game process exits.
+
 #### Timer Control
 
 These actions are repeatedly triggered while LiveSplit is connected to the game process.
@@ -212,20 +226,6 @@ Understanding the order and conditions under which timer control actions are exe
 ##### Events
 
 While a broader suite of events exist in LiveSplit, three are also available as ASL actions. The `onStart`, `onSplit` and `onReset` actions will be triggered when the timer is started, split, and reset respectively.
-
-#### Script Management
-
-- ##### Script Startup
-	- The name of this action is `startup`. This action is triggered when the script is first loaded. This is the place where you can put initialization that doesn't depend on being connected to the process and the only place where you can add [Custom Settings](#custom-settings).
-
-- ##### Script Shutdown
-	- The name of this action is `shutdown`. This action is triggered whenever the script is entirely stopped, for example when the Auto Splitter is disabled, LiveSplit exits, the script path is changed or the script is reloaded (e.g. during development of the ASL script).
-
-- ##### Script Initialization (Game Start)
-	- The name of this action is `init`. This action is triggered whenever a game process has been found according to the State Descriptors. This can occur more than once during the execution of a script (e.g. when you restart the game). This is the place to do initialization that depends on the game, for example detecting the game version.
-
-- ##### Game Exit
-	- The name of this action is `exit`. This action is triggered whenever the currently attached game process exits.
 
 
 ### Action Variables
