@@ -26745,4 +26745,15 @@
         <Type>Script</Type>
         <Description>Auto Splitter is available. (By aut0mat1clol)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Crash Bandicoot: N. Sane Trilogy</Game>
+            <Game>Crash Bandicoot: N. Sane Trilogy Category Extensions</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/McCrodi/NST-Autosplitter/refs/heads/main/CrashNST.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Removing and Autosplitting for Crash Bandicoot: N. Sane Trilogy (PC Versions) (by McCrodi and Cumoshee)</Description>
+    </AutoSplitter>
 </AutoSplitters>
