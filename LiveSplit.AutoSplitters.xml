@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
     <AutoSplitter>
+	    <Games>
+		    <Game>Wizard101</Game>
+		    <Game>Wizard101 Category Extension</Game>
+	    </Games>
+	    <URLs>
+		    <URL>https://raw.githubusercontent.com/ItzGray/KingsIsleAutoSplitters/refs/heads/main/Wizard101/Wizard101.asl</URL>
+	    </URLs>
+	    <Type>Script</Type>
+	    <Description>Auto-Splitter and Load Remover are available for PC. (By ItzGray)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+	    <Games>
+		    <Game>Pirate101</Game>
+	    </Games>
+	    <URLs>
+		    <URL>https://raw.githubusercontent.com/ItzGray/KingsIsleAutoSplitters/refs/heads/main/Pirate101/Pirate101.asl</URL>
+	    </URLs>
+	    <Type>Script</Type>
+	    <Description>Load Remover is available. (By ItzGray)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
         <Games>
             <Game>Anominal</Game>
         </Games>
@@ -8,8 +29,8 @@
             <URL>https://raw.githubusercontent.com/Joshuiah/Anominal/refs/heads/main/Anominal.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Automatically starts, splits, and resets</Description>
-    </AutoSplitter>
+        <Description>Automatically start, split, and reset</Description>
+        </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>Shinobi: Art of Vengeance</Game>
@@ -25629,6 +25650,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Mortal Kombat II</Game>
+            <Game>Mortal Kombat II Category Extensions</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/piratesephiroth/autosplitters/refs/heads/main/MK2-MAME.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for the arcade version of Mortal Kombat II (MAME)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Mortal Kombat Trilogy</Game>
             <Game>Mortal Kombat Trilogy Category Extensions</Game>
         </Games>
@@ -26722,5 +26754,16 @@
         </URLs>
         <Type>Script</Type>
         <Description>Auto Splitter is available. (By aut0mat1clol)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Crash Bandicoot: N. Sane Trilogy</Game>
+            <Game>Crash Bandicoot: N. Sane Trilogy Category Extensions</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/McCrodi/NST-Autosplitter/refs/heads/main/CrashNST.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Removing and Autosplitting for Crash Bandicoot: N. Sane Trilogy (PC Versions) (by McCrodi and Cumoshee)</Description>
     </AutoSplitter>
 </AutoSplitters>
