@@ -8,7 +8,7 @@
             <URL>https://raw.githubusercontent.com/periall/Autosplitters/refs/heads/main/Nosferatu.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autostart, Autoreset, Load Removal and End Split by periaL</Description>
+        <Description>Autostart, Autoreset, Autosplit and Load Removal by periaL</Description>
     </AutoSplitter>    
     <AutoSplitter>
         <Games>
