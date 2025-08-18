@@ -5,7 +5,7 @@
             <Game>Anominal</Game>
         </Games>
         <URLs>
-            <URL>Joshuiah/LiveSplit.AutoSplitters</URL>
+            <URL>https://raw.githubusercontent.com/Joshuiah/Anominal/refs/heads/main/Anominal.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Automatically starts, splits, and resets</Description>
