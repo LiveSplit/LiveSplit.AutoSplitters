@@ -25640,6 +25640,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Mortal Kombat II</Game>
+            <Game>Mortal Kombat II Category Extensions</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/piratesephiroth/autosplitters/refs/heads/main/MK2-MAME.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for the arcade version of Mortal Kombat II (MAME)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Mortal Kombat Trilogy</Game>
             <Game>Mortal Kombat Trilogy Category Extensions</Game>
         </Games>
