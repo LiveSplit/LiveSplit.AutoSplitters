@@ -25674,6 +25674,28 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Mortal Kombat 3</Game>
+            <Game>Mortal Kombat 3 Category Extensions</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/piratesephiroth/autosplitters/refs/heads/main/MK3-MAME.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for the arcade version of Mortal Kombat 3 (MAME)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Ultimate Mortal Kombat 3</Game>
+            <Game>Ultimate Mortal Kombat 3 Category Extensions</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/piratesephiroth/autosplitters/refs/heads/main/UMK3-MAME.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for the arcade version of Ultimate Mortal Kombat 3 (MAME)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Mortal Kombat Trilogy</Game>
             <Game>Mortal Kombat Trilogy Category Extensions</Game>
         </Games>
