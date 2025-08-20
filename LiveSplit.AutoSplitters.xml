@@ -10449,6 +10449,7 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/LiterallyMetaphorical/LiveSplit.Battlefield4/refs/heads/main/Battlefield4.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/da804c285f35bd7ff8f532c94da99e69d9cb7eff/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Load Remover and Autosplitter (By WonderAlmond and Meta)</Description>
