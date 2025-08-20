@@ -26801,4 +26801,14 @@
         <Type>Script</Type>
         <Description>Load Removing and Autosplitting for Crash Bandicoot: N. Sane Trilogy (PC Versions) (by McCrodi and Cumoshee)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Öoo</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/asheevee/ooo-autosplitter/refs/heads/main/ooo.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Start, Split, Reset, and In-Game Time are available. (by asheevee_)</Description>
+    </AutoSplitter>
 </AutoSplitters>
