@@ -5530,6 +5530,19 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Heretic + Hexen</Game>
+            <Game>Heretic (Kex Port)</Game>
+            <Game>Hexen (Kex Port)</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/thekovic/ASL-Autosplitters/refs/heads/main/Heretic_Plus_Hexen.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Start, Split, and IGT available (By the_kovic)</Description>
+        <Website>https://github.com/thekovic/ASL-Autosplitters</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Mineralph</Game>
         </Games>
         <URLs>
