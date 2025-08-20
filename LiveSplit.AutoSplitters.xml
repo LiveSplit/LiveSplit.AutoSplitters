@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
     <AutoSplitter>
+        <Games>
+            <Game>Anominal</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Joshuiah/Anominal/refs/heads/main/Anominal.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Automatically start, split, and reset</Description>
+    </AutoSplitter>
+    <AutoSplitter>
 	    <Games>
 		    <Game>Wizard101</Game>
 		    <Game>Wizard101 Category Extension</Game>
@@ -23,14 +33,14 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
-            <Game>Anominal</Game>
+            <Game>Nosferatu: The Wrath of Malachi</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Joshuiah/Anominal/refs/heads/main/Anominal.asl</URL>
+            <URL>https://raw.githubusercontent.com/periall/Autosplitters/refs/heads/main/Nosferatu.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Automatically start, split, and reset</Description>
-        </AutoSplitter>
+        <Description>Autostart, Autoreset, Autosplit and Load Removal by periaL</Description>
+    </AutoSplitter>    
     <AutoSplitter>
         <Games>
             <Game>Shinobi: Art of Vengeance</Game>
@@ -5526,6 +5536,19 @@
         </URLs>
         <Type>Script</Type>
         <Description>Start, Split, and Reset available (By the_kovic)</Description>
+        <Website>https://github.com/thekovic/ASL-Autosplitters</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Heretic + Hexen</Game>
+            <Game>Heretic (Kex Port)</Game>
+            <Game>Hexen (Kex Port)</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/thekovic/ASL-Autosplitters/refs/heads/main/Heretic_Plus_Hexen.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Start, Split, and IGT available (By the_kovic)</Description>
         <Website>https://github.com/thekovic/ASL-Autosplitters</Website>
     </AutoSplitter>
     <AutoSplitter>
@@ -25661,6 +25684,28 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Mortal Kombat 3</Game>
+            <Game>Mortal Kombat 3 Category Extensions</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/piratesephiroth/autosplitters/refs/heads/main/MK3-MAME.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for the arcade version of Mortal Kombat 3 (MAME)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Ultimate Mortal Kombat 3</Game>
+            <Game>Ultimate Mortal Kombat 3 Category Extensions</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/piratesephiroth/autosplitters/refs/heads/main/UMK3-MAME.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for the arcade version of Ultimate Mortal Kombat 3 (MAME)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Mortal Kombat Trilogy</Game>
             <Game>Mortal Kombat Trilogy Category Extensions</Game>
         </Games>
@@ -26765,5 +26810,15 @@
         </URLs>
         <Type>Script</Type>
         <Description>Load Removing and Autosplitting for Crash Bandicoot: N. Sane Trilogy (PC Versions) (by McCrodi and Cumoshee)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Öoo</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/asheevee/ooo-autosplitter/refs/heads/main/ooo.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Start, Split, Reset, and In-Game Time are available. (by asheevee_)</Description>
     </AutoSplitter>
 </AutoSplitters>
