@@ -33,6 +33,16 @@
     </AutoSplitter>    
     <AutoSplitter>
         <Games>
+            <Game>Anominal</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Joshuiah/Anominal/refs/heads/main/Anominal.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Automatically start, split, and reset</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Shinobi: Art of Vengeance</Game>
         </Games>
         <URLs>
