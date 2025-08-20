@@ -42,37 +42,6 @@
         <Description>Automatically start, split, and reset</Description>
     </AutoSplitter>
     <AutoSplitter>
-	    <Games>
-		    <Game>Wizard101</Game>
-		    <Game>Wizard101 Category Extension</Game>
-	    </Games>
-	    <URLs>
-		    <URL>https://raw.githubusercontent.com/ItzGray/KingsIsleAutoSplitters/refs/heads/main/Wizard101/Wizard101.asl</URL>
-	    </URLs>
-	    <Type>Script</Type>
-	    <Description>Auto-Splitter and Load Remover are available for PC. (By ItzGray)</Description>
-    </AutoSplitter>
-    <AutoSplitter>
-	    <Games>
-		    <Game>Pirate101</Game>
-	    </Games>
-	    <URLs>
-		    <URL>https://raw.githubusercontent.com/ItzGray/KingsIsleAutoSplitters/refs/heads/main/Pirate101/Pirate101.asl</URL>
-	    </URLs>
-	    <Type>Script</Type>
-	    <Description>Load Remover is available. (By ItzGray)</Description>
-    </AutoSplitter>
-    <AutoSplitter>
-        <Games>
-            <Game>Nosferatu: The Wrath of Malachi</Game>
-        </Games>
-        <URLs>
-            <URL>https://raw.githubusercontent.com/periall/Autosplitters/refs/heads/main/Nosferatu.asl</URL>
-        </URLs>
-        <Type>Script</Type>
-        <Description>Autostart, Autoreset, Autosplit and Load Removal by periaL</Description>
-    </AutoSplitter>    
-    <AutoSplitter>
         <Games>
             <Game>Shinobi: Art of Vengeance</Game>
         </Games>
