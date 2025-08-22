@@ -26822,4 +26822,16 @@
         <Type>Script</Type>
         <Description>Auto Start, Split, Reset, and In-Game Time are available. (by asheevee_)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Fretless - The Wrath of Riffson</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/ru-mii/AutoSplitters/refs/heads/main/AutoSplitters/Games/Fretless%20-%20The%20Wrath%20of%20Riffson/FretlessTheWrathofRiffson.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/97678376a93dd21017cd905fcc137007b82c40fe/lib/asl-help</URL>
+            <URL>https://github.com/ru-mii/uhara/raw/760ebf7c8861b248d6b0349e483a31705eb6a8ba/bin/uhara7</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>by rumii</Description>
+    </AutoSplitter>
 </AutoSplitters>
