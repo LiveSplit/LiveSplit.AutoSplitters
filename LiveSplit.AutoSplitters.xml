@@ -26845,4 +26845,26 @@
         <Type>Script</Type>
         <Description>by rumii</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>What the Duck</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/HandsomeStrife/speedrun-splits-and-autospltters/refs/heads/main/What%20The%20Duck/what-the-duck-splitter.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/da804c285f35bd7ff8f532c94da99e69d9cb7eff/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Outrun Depression</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/HandsomeStrife/speedrun-splits-and-autospltters/refs/heads/main/Outrun%20Depression/outrun-depression-splitter.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/da804c285f35bd7ff8f532c94da99e69d9cb7eff/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Simple Level Autosplitter</Description>
+    </AutoSplitter>
 </AutoSplitters>
