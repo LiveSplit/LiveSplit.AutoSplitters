@@ -2,6 +2,18 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Crime Scene Cleaner
+Crime Scene Cleaner</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/LiveSplit.CrimeSceneCleaner.asl</URL>
+            <URL>https://github.com/Jujstme/unity-help/raw/9d3d1432fb3ef4ceb685371c5d62bb1b0fdf1f67/lib/Livesplit/unity-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart, Reset, Game-Time and Autosplitting by Streetbackguy</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>TCG Card Shop Simulator</Game>
         </Games>
         <URLs>
@@ -80,9 +92,7 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/LiveSplit.ShinobiArtofVengeance.asl</URL>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/LiveSplit.Shinobi3ReturnoftheNinjaMaster.asl</URL>
             <URL>https://github.com/Jujstme/unity-help/raw/2a410fc99a1fecf66f19f399642bc3640d7bac34/lib/Livesplit/unity-help</URL>
-            <URL>https://github.com/Jujstme/emu-help-v3/raw/dc66ce576d8100c964bd37d170166e11135d91ca/lib/Livesplit/emu-help-v3</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autostart, Load Removal and Autosplitting by Streetbackguy</Description>
