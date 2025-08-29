@@ -14,17 +14,6 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
-            <Game>TCG Card Shop Simulator</Game>
-        </Games>
-        <URLs>
-            <URL>https://raw.githubusercontent.com/LiterallyMetaphorical/LiveSplit.TCGSim/refs/heads/main/TCGSim.ASL</URL>
-            <URL>https://github.com/just-ero/asl-help/raw/da804c285f35bd7ff8f532c94da99e69d9cb7eff/lib/asl-help</URL>
-        </URLs>
-        <Type>Script</Type>
-        <Description>Autostart, and Autosplit made by Meta</Description>
-    </AutoSplitter>
-    <AutoSplitter>
-        <Games>
             <Game>OFF (2025)</Game>
         </Games>
         <URLs>
