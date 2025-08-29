@@ -2362,7 +2362,6 @@
             <Game>Prince of Persia: The Lost Crown</Game>
             <Game>Prince of Persia The Lost Crown</Game>
             <Game>POPTLC</Game>
-            <Game>The Lost Crown</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/PoPRuns/PoP.AutoSplitters/refs/heads/main/pop_tlc.asl</URL>
@@ -2370,7 +2369,21 @@
             <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autosplitting and load removal is available. (By diggity and GMP)</Description>
+        <Description>Automatic start, split, reset and IGT (by diggity and GMP)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>The Rogue Prince of Persia</Game>
+            <Game>Rogue Prince of Persia</Game>
+            <Game>Rouge PoP</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/PoPRuns/PoP.AutoSplitters/refs/heads/main/rogue_pop.asl</URL>
+            <URL>https://raw.githubusercontent.com/PoPRuns/PoP.AutoSplitters/refs/heads/main/settings/RoguePoP.Settings.xml</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/7cd7f36aab142860c0a6a9f9a855bb44d7264b04/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Automatic start, split, reset and IGT (by GMP)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
