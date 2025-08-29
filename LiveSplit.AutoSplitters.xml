@@ -2,15 +2,14 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
-            <Game>Sword of the Sea</Game>
+            <Game>TCG Card Shop Simulator</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Nikoheartttv/Autosplitters/refs/heads/main/Sword%20of%20the%20Sea/SwordoftheSea.asl</URL>
+            <URL>https://raw.githubusercontent.com/LiterallyMetaphorical/LiveSplit.TCGSim/refs/heads/main/TCGSim.ASL</URL>
             <URL>https://github.com/just-ero/asl-help/raw/da804c285f35bd7ff8f532c94da99e69d9cb7eff/lib/asl-help</URL>
-            <URL>https://github.com/ru-mii/uhara/raw/refs/heads/main/bin/uhara8</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autostart, Autosplit and Autoreset by Nikoheart, Meta, rumii</Description>
+        <Description>Autostart, and Autosplit made by Meta</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -1201,6 +1200,7 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/LiterallyMetaphorical/LiveSplit.REDACTED/refs/heads/main/REDACTED.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/da804c285f35bd7ff8f532c94da99e69d9cb7eff/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitter by Meta and Looney</Description>
@@ -2362,7 +2362,6 @@
             <Game>Prince of Persia: The Lost Crown</Game>
             <Game>Prince of Persia The Lost Crown</Game>
             <Game>POPTLC</Game>
-            <Game>The Lost Crown</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/PoPRuns/PoP.AutoSplitters/refs/heads/main/pop_tlc.asl</URL>
@@ -2370,7 +2369,21 @@
             <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autosplitting and load removal is available. (By diggity and GMP)</Description>
+        <Description>Automatic start, split, reset and IGT (by diggity and GMP)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>The Rogue Prince of Persia</Game>
+            <Game>Rogue Prince of Persia</Game>
+            <Game>Rouge PoP</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/PoPRuns/PoP.AutoSplitters/refs/heads/main/rogue_pop.asl</URL>
+            <URL>https://raw.githubusercontent.com/PoPRuns/PoP.AutoSplitters/refs/heads/main/settings/RoguePoP.Settings.xml</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/7cd7f36aab142860c0a6a9f9a855bb44d7264b04/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Automatic start, split, reset and IGT (by GMP)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -4187,6 +4200,7 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/LiterallyMetaphorical/Livesplit.CallistoProtocol/main/CallistoProtocol.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/da804c285f35bd7ff8f532c94da99e69d9cb7eff/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Load Remover, Autostart, and Autosplit made by Meta</Description>
@@ -26844,7 +26858,7 @@
             <URL>https://raw.githubusercontent.com/McCrodi/NST-Autosplitter/refs/heads/main/CrashNST.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load Removing and Autosplitting for Crash Bandicoot: N. Sane Trilogy (PC Versions) (by McCrodi and Cumoshee)</Description>
+        <Description>Load Removing and Autosplitting for Crash Bandicoot: N. Sane Trilogy (PC Versions) (by McCrodi and Kumoshee)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -26889,5 +26903,16 @@
         </URLs>
         <Type>Script</Type>
         <Description>Simple Level Autosplitter</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>HYPERFATAL</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/aut0mat1clol/AutoSplitters/refs/heads/main/HYPERFATAL.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/da804c285f35bd7ff8f532c94da99e69d9cb7eff/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and Loadremover is available (by aut0mat1clol)</Description>
     </AutoSplitter>
 </AutoSplitters>
