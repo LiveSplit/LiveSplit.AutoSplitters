@@ -2,15 +2,15 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
-            <Game>Sword of the Sea</Game>
+            <Game>Crime Scene Cleaner
+Crime Scene Cleaner</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Nikoheartttv/Autosplitters/refs/heads/main/Sword%20of%20the%20Sea/SwordoftheSea.asl</URL>
-            <URL>https://github.com/just-ero/asl-help/raw/da804c285f35bd7ff8f532c94da99e69d9cb7eff/lib/asl-help</URL>
-            <URL>https://github.com/ru-mii/uhara/raw/refs/heads/main/bin/uhara8</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/LiveSplit.CrimeSceneCleaner.asl</URL>
+            <URL>https://github.com/Jujstme/unity-help/raw/9d3d1432fb3ef4ceb685371c5d62bb1b0fdf1f67/lib/Livesplit/unity-help</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autostart, Autosplit and Autoreset by Nikoheart, Meta, rumii</Description>
+        <Description>Autostart, Reset, Game-Time and Autosplitting by Streetbackguy</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -92,9 +92,7 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/LiveSplit.ShinobiArtofVengeance.asl</URL>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/LiveSplit.Shinobi3ReturnoftheNinjaMaster.asl</URL>
             <URL>https://github.com/Jujstme/unity-help/raw/2a410fc99a1fecf66f19f399642bc3640d7bac34/lib/Livesplit/unity-help</URL>
-            <URL>https://github.com/Jujstme/emu-help-v3/raw/dc66ce576d8100c964bd37d170166e11135d91ca/lib/Livesplit/emu-help-v3</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autostart, Load Removal and Autosplitting by Streetbackguy</Description>
@@ -26926,19 +26924,5 @@
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitter and Loadremover is available (by aut0mat1clol)</Description>
-    </AutoSplitter>
-    <AutoSplitter>
-        <Games>
-            <Game>MGS Delta</Game>
-            <Game>Metal Gear Solid Delta</Game>
-            <Game>Metal Gear Solid Delta: Snake Eater</Game>
-        </Games>
-        <URLs>
-            <URL>https://raw.githubusercontent.com/TheDementedSalad/MGS-Delta-Autosplitter/refs/heads/main/MGS%20Delta.asl</URL>
-            <URL>https://raw.githubusercontent.com/TheDementedSalad/MGS-Delta-Autosplitter/refs/heads/main/MGSDelta.Settings.xml</URL>
-            <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
-        </URLs>
-        <Type>Script</Type>
-        <Description>Autosplitter and Load Remover Available (By TheDementedSalad)</Description>
     </AutoSplitter>
 </AutoSplitters>
