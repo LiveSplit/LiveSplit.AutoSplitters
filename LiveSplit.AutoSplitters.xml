@@ -2,6 +2,17 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Kuru Kuru Kururin</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/mitchell-merry/autosplitters-wasm/releases/download/kuru_kuru_kururin-latest/kuru_kuru_kururin.wasm</URL>
+        </URLs>
+        <Type>Script</Type>
+        <ScriptType>AutoSplittingRuntime</ScriptType>
+        <Description>Autosplitting and auto start is available. (By diggity)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Crime Scene Cleaner</Game>
         </Games>
         <URLs>
