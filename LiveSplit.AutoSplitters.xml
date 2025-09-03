@@ -150,7 +150,7 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/LiveSplit.ShinobiArtofVengeance.asl</URL>
-            <URL>https://github.com/Jujstme/unity-help/raw/2a410fc99a1fecf66f19f399642bc3640d7bac34/lib/Livesplit/unity-help</URL>
+            <URL>https://github.com/streetbackguy/Autosplitter-Projects/raw/refs/heads/main/Shinobi%20Component/unity-help-shinobi</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autostart, Load Removal and Autosplitting by Streetbackguy</Description>
