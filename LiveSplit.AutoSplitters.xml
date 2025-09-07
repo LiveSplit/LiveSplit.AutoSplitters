@@ -52,7 +52,7 @@
             <Game>Crime Scene Cleaner</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/LiveSplit.CrimeSceneCleaner.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Crime%20Scene%20Cleaner/LiveSplit.CrimeSceneCleaner.asl</URL>
             <URL>https://github.com/Jujstme/unity-help/raw/9d3d1432fb3ef4ceb685371c5d62bb1b0fdf1f67/lib/Livesplit/unity-help</URL>
         </URLs>
         <Type>Script</Type>
@@ -161,8 +161,8 @@
             <Game>Shinobi: Art of Vengeance</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/LiveSplit.ShinobiArtofVengeance.asl</URL>
-            <URL>https://github.com/Jujstme/unity-help/raw/2a410fc99a1fecf66f19f399642bc3640d7bac34/lib/Livesplit/unity-help</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/raw/refs/heads/main/Shinobi:%20Art%20of%20Vengeance/LiveSplit.ShinobiArtofVengeance.asl</URL>
+            <URL>https://github.com/streetbackguy/Autosplitter-Projects/raw/refs/heads/main/Shinobi%20Component/unity-help-shinobi</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autostart, Load Removal and Autosplitting by Streetbackguy</Description>
@@ -182,7 +182,7 @@
             <Game>Shinobi III: Return of the Ninja Master</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/LiveSplit.Shinobi3ReturnoftheNinjaMaster.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/raw/refs/heads/main/Shinobi%20III:%20Return%20of%20the%20Ninja%20Master/LiveSplit.Shinobi3ReturnoftheNinjaMaster.asl</URL>
             <URL>https://github.com/Jujstme/emu-help-v3/raw/dc66ce576d8100c964bd37d170166e11135d91ca/lib/Livesplit/emu-help-v3</URL>
         </URLs>
         <Type>Script</Type>
@@ -319,7 +319,7 @@
             <Game>PEAK</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/LiveSplit.PEAK.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/raw/refs/heads/main/PEAK/LiveSplit.PEAK.asl</URL>
             <URL>https://github.com/just-ero/asl-help/raw/da804c285f35bd7ff8f532c94da99e69d9cb7eff/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
@@ -352,7 +352,7 @@
             <Game>Beyond Oasis</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/LiveSplit.BeyondOasis.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/raw/refs/heads/main/Beyond%20Oasis/LiveSplit.BeyondOasis.asl</URL>
             <URL>https://github.com/Jujstme/emu-help/raw/master/lib/emu-help-v2</URL>
         </URLs>
         <Type>Script</Type>
@@ -475,8 +475,8 @@
             <Game>Out of Sight (2025)</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/LiveSplit.OutofSight.asl</URL>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/OutofSight.Settings.xml</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Out%20of%20Sight/LiveSplit.OutofSight.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Out%20of%20Sight/OutofSight.Settings.xml</URL>
             <URL>https://github.com/just-ero/asl-help/raw/da804c285f35bd7ff8f532c94da99e69d9cb7eff/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
@@ -509,7 +509,7 @@
             <Game>Jersey Devil</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/LiveSplit.JerseyDevil.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Jersey%20Devil/LiveSplit.JerseyDevil.asl</URL>
             <URL>https://github.com/Jujstme/emu-help/raw/master/lib/emu-help-v2</URL>
         </URLs>
         <Type>Script</Type>
@@ -555,7 +555,7 @@
             <Game>Post Trauma</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/LiveSplit.PostTrauma.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Post%20Trauma/LiveSplit.PostTrauma.asl</URL>
             <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
@@ -598,7 +598,7 @@
             <Game>Promise Mascot Agency</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/LiveSplit.PromiseMascotAgency.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Promise%20Mascot%20Agency/LiveSplit.PromiseMascotAgency.asl</URL>
             <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
@@ -609,7 +609,7 @@
             <Game>Mandragora: Whispers of the Witch Tree</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/LiveSplit.MandragoraWhispersoftheWitchTree.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Mandragora%3A%20Whispers%20of%20the%20Witch%20Tree/LiveSplit.MandragoraWhispersoftheWitchTree.asl</URL>
             <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
@@ -759,7 +759,7 @@
             <Game>Overdose</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/LiveSplit.Overdose.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Overdose/LiveSplit.Overdose.asl</URL>
             <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
@@ -856,7 +856,7 @@
             <Game>FlyKnight</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/LiveSplit.FlyKnight.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/FlyKnight/LiveSplit.FlyKnight.asl</URL>
             <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
@@ -867,7 +867,7 @@
             <Game>Like a Dragon: Pirate Yakuza in Hawaii</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/LiveSplit.LADPirateYakuzaInHawaii.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Like%20a%20Dragon%3A%20Pirate%20Yakuza%20in%20Hawaii/LiveSplit.LADPirateYakuzaInHawaii.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autostart, Autosplitter and Load Removal by Streetbackguy</Description>
@@ -910,7 +910,7 @@
             <Game>Muse Dash</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/LiveSplit.MuseDash.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Muse%20Dash/LiveSplit.MuseDash.asl</URL>
             <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
@@ -977,7 +977,7 @@
             <Game>Promise Mascot Agency Demo</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/LiveSplit.PromiseMascotAgencyDemo.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Promise%20Mascot%20Agency/LiveSplit.PromiseMascotAgencyDemo.asl</URL>
             <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
@@ -1050,7 +1050,7 @@
             <Game>Thunderbirds (PS2)</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/LiveSplit.Thunderbirds.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Thunderbirds/LiveSplit.Thunderbirds.asl</URL>
             <URL>https://github.com/Jujstme/emu-help/raw/master/lib/emu-help-v3</URL>
         </URLs>
         <Type>Script</Type>
@@ -1107,7 +1107,7 @@
             <Game>Magicraft</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/LiveSplit.Magicraft.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Magicraft/LiveSplit.Magicraft.asl</URL>
             <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
@@ -1129,7 +1129,7 @@
             <Game>Silent Hill: Homecoming</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/LiveSplit.SilentHillHomecoming.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Silent%20Hill%3A%20Homecoming/LiveSplit.SilentHillHomecoming.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Load Remover by Streetbackguy</Description>
@@ -1183,7 +1183,7 @@
             <Game>No One Can Stop Mr. Domino!</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/LiveSplit.NoOneCanStopMrDomino.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/No%20One%20Can%20Stop%20Mr.%20Domino!/LiveSplit.NoOneCanStopMrDomino.asl</URL>
             <URL>https://github.com/Jujstme/emu-help/raw/master/lib/emu-help-v2</URL>
         </URLs>
         <Type>Script</Type>
@@ -1194,7 +1194,7 @@
             <Game>Murdered: Soul Suspect</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/LiveSplit.MurderedSoulSuspect.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Murdered%3A%20Soul%20Suspect/LiveSplit.MurderedSoulSuspect.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autostart, Autosplit and Load Removal by Streetbackguy</Description>
@@ -1204,7 +1204,7 @@
             <Game>Saviorless</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/LiveSplit.Saviorless.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Saviorless/LiveSplit.Saviorless.asl</URL>
             <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
@@ -1225,7 +1225,7 @@
             <Game>Fallout 4 (Next Gen)</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/LiveSplit.Fallout4.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Fallout%204/LiveSplit.Fallout4.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Load Remover by Streetbackguy</Description>
@@ -1290,7 +1290,7 @@
             <Game>The Citadel</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/LiveSplit.TheCitadel.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/The%20Citadel/LiveSplit.TheCitadel.asl</URL>
             <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
@@ -1301,7 +1301,7 @@
             <Game>Chroma Zero</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/LiveSplit.ChromaZero.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Chroma%20Zero/LiveSplit.ChromaZero.asl</URL>
             <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
@@ -1354,7 +1354,7 @@
             <Game>State of Decay 2</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/LiveSplit.StateOfDecay2.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/State%20of%20Decay%202/LiveSplit.StateOfDecay2.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Load Remover by Streetbackguy</Description>
@@ -1461,7 +1461,7 @@
             <Game>Deadpool</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/LiveSplit.Deadpool.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Deadpool/LiveSplit.Deadpool.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autostart, Autoreset and Load Remover by Streetbackguy</Description>
@@ -1491,7 +1491,7 @@
             <Game>Kane &amp; Lynch: Dead Men</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/LiveSplit.KaneAndLynchDeadMen.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Kane%20%26%20Lynch%3A%20Dead%20Men/LiveSplit.KaneAndLynchDeadMen.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autostart, Load Removal and Autosplit by Streetbackguy</Description>
@@ -1533,7 +1533,7 @@
             <Game>Elisa Dragon Hunter</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/LiveSplit.ElisaDragonHunter.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Elisa%20Dragon%20Hunter/LiveSplit.ElisaDragonHunter.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autostart, Autoreset and Autosplitter by Streetbackguy</Description>
@@ -1587,7 +1587,7 @@
             <Game>Bendy And The Ink Machine</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/LiveSplit.BendyAndTheInkMachine.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Bendy%20and%20the%20Ink%20Machine/LiveSplit.BendyAndTheInkMachine.asl</URL>
             <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
@@ -1598,7 +1598,7 @@
             <Game>Kong: Survivor Instinct</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Livesplit.KongSurvivorInstinct.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Kong%3A%20Survivor%20Instinct/Livesplit.KongSurvivorInstinct.asl</URL>
             <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
@@ -1742,7 +1742,7 @@
             <Game>The WereCleaner</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/LiveSplit.TheWereCleaner.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/The%20Were-Cleaner/LiveSplit.TheWereCleaner.asl</URL>
             <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
@@ -1774,7 +1774,7 @@
             <Game>Ghostland Yard</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/LiveSplit.GhostlandYard.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Ghostland%20Yard/LiveSplit.GhostlandYard.asl</URL>
             <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
@@ -1785,7 +1785,7 @@
             <Game>Gregory Horror Show</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/LiveSplit.GregoryHorrorShow.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Gregory%20Horror%20Show/LiveSplit.GregoryHorrorShow.asl</URL>
             <URL>https://github.com/Jujstme/emu-help/raw/master/lib/emu-help-v2</URL>
         </URLs>
         <Type>Script</Type>
@@ -1831,7 +1831,7 @@
             <Game>Light Crusader</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/LiveSplit.LightCrusader.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Light%20Crusader/LiveSplit.LightCrusader.asl</URL>
             <URL>https://github.com/Jujstme/emu-help/raw/master/lib/emu-help-v2</URL>
         </URLs>
         <Type>Script</Type>
@@ -1853,7 +1853,7 @@
             <Game>Fallen Aces</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/LiveSplit.FallenAces.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Fallen%20Aces/LiveSplit.FallenAces.asl</URL>
             <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
@@ -1959,7 +1959,7 @@
             <Game>Enotria: The Last Song</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/LiveSplit.EnotriaTheLastSongDemo.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Enotria%3A%20The%20Last%20Song/LiveSplit.EnotriaTheLastSongDemo.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Load Remover by Streetbackguy</Description>
@@ -2003,7 +2003,7 @@
             <Game>Mullet Mad Jack</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/LiveSplit.MulletMadJack.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Mullet%20Mad%20Jack/LiveSplit.MulletMadJack.asl</URL>
             <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
@@ -2014,7 +2014,7 @@
             <Game>WrestleQuest</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/LiveSplit.WrestleQuest.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/WrestleQuest/LiveSplit.WrestleQuest.asl</URL>
             <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
@@ -2036,9 +2036,9 @@
             <Game>Crow Country</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/LiveSplit.CrowCountry.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Crow%20Country/LiveSplit.CrowCountry.asl</URL>
             <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/CrowCountry.Settings.xml</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Crow%20Country/CrowCountry.Settings.xml</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autoreset and Load Remover by Streetbackguy</Description>
@@ -2081,7 +2081,7 @@
             <Game>Bad Way</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/LiveSplit.BadWay.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Bad%20Way/LiveSplit.BadWay.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autostart, Load Remover and Autosplitter by Streetbackguy</Description>
@@ -2091,7 +2091,7 @@
             <Game>DuckTales: Remastered</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/LiveSplit.DuckTalesRemastered.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Ducktales%20Remastered/LiveSplit.DuckTalesRemastered.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Load Remover, Autosplitter and Autostart by Streetbackguy</Description>
@@ -2112,7 +2112,7 @@
             <Game>Dragon's Dogma: Dark Arisen</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/LiveSplit.DragonsDogmaDarkArisen.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Dragon's%20Dogma%3A%20Dark%20Arisen/LiveSplit.DragonsDogmaDarkArisen.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Load Removal, Autosplitter and Autostart by Streetbackguy</Description>
@@ -2133,7 +2133,7 @@
             <Game>MySims</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/LiveSplit.MySims.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/MySims/LiveSplit.MySims.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Load Removal by streetbackguy</Description>
@@ -2182,7 +2182,7 @@
             <Game>South Park: Snow Day&#33;</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/LiveSplit.SouthParkSnowDay.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/South%20Park%3A%20Snow%20Day!/LiveSplit.SouthParkSnowDay.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Load Remover by Streetbackguy</Description>
@@ -2226,7 +2226,7 @@
             <Game>Dead Rising: Chop Till You Drop</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/LiveSplit.DeadRisingChopTilYouDrop.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Dead%20Rising%3A%20Chop%20Til%20You%20Drop/LiveSplit.DeadRisingChopTilYouDrop.asl</URL>
             <URL>https://github.com/Jujstme/emu-help/raw/master/lib/emu-help-v2</URL>
         </URLs>
         <Type>Script</Type>
@@ -2303,7 +2303,7 @@
             <Game>METANIA</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/LiveSplit.Metania.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Metania/LiveSplit.Metania.asl</URL>
             <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
@@ -2355,7 +2355,7 @@
             <Game>Cyanide and Happiness: Freakpocalypse</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/LiveSplit.CyanideAndHappinessFreakpocalypse.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Cyanide%20%26%20Happiness%3A%20Freakpocalypse/LiveSplit.CyanideAndHappinessFreakpocalypse.asl</URL>
             <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
@@ -2386,7 +2386,7 @@
             <Game>Like a Dragon: Infinite Wealth</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/LiveSplit.LikeADragonInfiniteWealth.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Like%20a%20Dragon%3A%20Infinite%20Wealth/LiveSplit.LikeADragonInfiniteWealth.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autostart and Load Remover by Streetbackguy</Description>
@@ -2418,7 +2418,7 @@
             <Game>Ride to Hell: Retribution</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/LiveSplit.RideToHellRetribution.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Ride%20to%20Hell%3A%20Retribution/LiveSplit.RideToHellRetribution.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autostart and Load Remover by Streetbackguy</Description>
@@ -2482,7 +2482,7 @@
             <Game>Krampus is Home</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/LiveSplit.KrampusIsHome.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Krampus%20is%20Home/LiveSplit.KrampusIsHome.asl</URL>
             <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
@@ -2493,7 +2493,7 @@
             <Game>The Walking Dead: Destinies</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/LiveSplit.TheWalkingDeadDestinies.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/The%20Walking%20Dead%3A%20Destinies/LiveSplit.TheWalkingDeadDestinies.asl</URL>
             <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
@@ -2547,7 +2547,7 @@
             <Game>Like a Dragon Gaiden: The Man Who Erased His Name</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/LiveSplit.LADGaiden.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Like%20a%20Dragon%3A%20Gaiden/LiveSplit.LADGaiden.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Load Remover and Autosplitter by Streetbackguy and PlayingLikeAss</Description>
@@ -2567,7 +2567,7 @@
             <Game>Paint the Town Red</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/LiveSplit.PaintTheTownRed.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Paint%20the%20Town%20Red/LiveSplit.PaintTheTownRed.asl</URL>
             <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
@@ -2578,7 +2578,7 @@
             <Game>JEF</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/LiveSplit.Jef.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Jef/LiveSplit.Jef.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Load Remover and Autosplitter by Streetbackguy</Description>
@@ -2610,7 +2610,7 @@
             <Game>Totally Accurate Battle Simulator</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/LiveSplit.TotallyAccurateBattleSimulator.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Totally%20Accurate%20Battle%20Simulator/LiveSplit.TotallyAccurateBattleSimulator.asl</URL>
             <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
@@ -2631,7 +2631,7 @@
             <Game>Peter Jackson's King Kong</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/LiveSplit.PeterJacksonsKingKong.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Peter%20Jackson's%20King%20Kong/LiveSplit.KingKong.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autostart, Autosplits and Load Removal by Streetbackguy</Description>
@@ -2641,7 +2641,7 @@
             <Game>Search Party: Directors Cut</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/LiveSplit.SearchParty.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Search%20Party/LiveSplit.SearchParty.asl</URL>
             <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
@@ -2663,7 +2663,7 @@
             <Game>Skull Island: Rise of Kong</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/LiveSplit.SkullIslandRiseofKong.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Skull%20Island%3A%20Rise%20of%20Kong/LiveSplit.SkullIslandRiseofKong.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autostart, Autosplitter and Load Remover by Streetbackguy and Kuno Demetries.</Description>
@@ -2722,7 +2722,7 @@
             <Game>Digimon Survive</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/LiveSplit.DigimonSurvive.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Digimon%20Survive/LiveSplit.DigimonSurvive.asl</URL>
             <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
@@ -2961,7 +2961,7 @@
             <Game>Stacking</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/LiveSplit.Stacking.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Stacking/LiveSplit.Stacking.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autostart/reset, Load Removal and AutoSplitter by Streetbackguy</Description>
@@ -2981,7 +2981,7 @@
             <Game>World of Horror</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/LiveSplit.WorldofHorror.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/World%20of%20Horror/LiveSplit.WorldofHorror.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitting and Autostart/Reset by Streetbackguy</Description>
@@ -3011,7 +3011,7 @@
             <Game>Nightcry</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/LiveSplit.Nightcry.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/NightCry/LiveSplit.Nightcry.asl</URL>
             <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
@@ -3056,7 +3056,7 @@
             <Game>Wretched Depths</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/Livesplit.WretchedDepths.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Wretched%20Depths/Livesplit.WretchedDepths.asl</URL>
             <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
@@ -3087,7 +3087,7 @@
             <Game>Bloodline</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/Livesplit.Bloodline.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Bloodline/LiveSplit.Bloodline.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autostart/split and Load Removal by Streetbackguy</Description>
@@ -3157,7 +3157,7 @@
             <Game>Viva Piñata</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/LiveSplit.VivaPinata.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Viva%20Pinata/LiveSplit.VivaPinata.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autostart, Load Removal and Autosplit by Streetbackguy</Description>
@@ -3371,7 +3371,7 @@
             <Game>Bionic Commando (2009)</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/Livesplit.BionicCommando.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Bionic%20Commando/Livesplit.BionicCommando.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autostart, Autosplitter and Load Remover by Koutyy and Streetbackguy</Description>
@@ -3411,7 +3411,7 @@
             <Game>My Friend Peppa Pig</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/LiveSplit.MyFriendPeppaPig.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/My%20Friend%20Peppa%20Pig/LiveSplit.MyFriendPeppaPig.asl</URL>
             <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
@@ -3439,7 +3439,7 @@
             <Game>March of the Lich King</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/LiveSplit.Hearthstone.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Hearthstone/LiveSplit.Hearthstone.asl</URL>
             <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
@@ -3665,7 +3665,7 @@
             <Game>Sunset Overdrive</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/LiveSplit.SunsetOverdrive.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Sunset%20Overdrive/LiveSplit.SunsetOverdrive.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autostart and Load Remover by Streetbackguy and Meta</Description>
@@ -3857,7 +3857,7 @@
             <Game>Like a Dragon: Ishin</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/LiveSplit.LADIshin.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Like%20a%20Dragon%3A%20Ishin/LiveSplit.LADIshin.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Load Removal and Autostart by Streetbackguy</Description>
@@ -3888,7 +3888,7 @@
             <Game>Judgment</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/LiveSplit.Judgment.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Judgment/LiveSplit.Judgment.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Load Removal and Autostart by Streetbackguy</Description>
@@ -3931,7 +3931,7 @@
             <Game>The Misadventures of P.B. Winterbottom</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/LiveSplit.PBWinterbottom.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/The%20Misadventures%20of%20P.B.%20Winterbottom/LiveSplit.PBWinterbottom.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autostart and Load Remover by Streetbackguy</Description>
@@ -3941,7 +3941,7 @@
             <Game>Secret Agent Barbie (PC)</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/Livesplit.SecretAgentBarbie.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Secret%20Agent%20Barbie/LiveSplit.SecretAgentBarbie.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autostart/Autosplit/Autoreset by Streetbackguy and Taw</Description>
@@ -4015,7 +4015,7 @@
             <Game>Lake Haven</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/LiveSplit.LakeHavenChrysalis.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Lake%20Haven%3A%20Chrysalis/Livesplit.LakeHavenChrysalis.asl</URL>
             <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
@@ -4047,7 +4047,7 @@
             <Game>Star Wars: The Force Unleashed</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/LiveSplit.SWTFU.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Star%20Wars%3A%20The%20Force%20Unleashed/Livesplit.SWTFU.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autostart, Autosplitter and Load Removal by streetbackguy</Description>
@@ -4057,7 +4057,7 @@
             <Game>Star Wars: The Force Unleashed II</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/LiveSplit.SWTFU2.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Star%20Wars%3A%20The%20Force%20Unleashed%20II/LiveSplit.SWTFU2.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Load Removal by Scales</Description>
@@ -4077,7 +4077,7 @@
             <Game>Lost Judgment</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/LiveSplit.LostJudgment.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Lost%20Judgment/LiveSplit.LostJudgment.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Load Removal and Autosplitter by Streetbackguy</Description>
@@ -4578,7 +4578,7 @@
             <Game>South Park: The Fractured But Whole</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/LiveSplit.SouthParkFracturedButWhole.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/South%20Park%3A%20The%20Fracture%20But%20Whole/LiveSplit.SouthParkFracturedButWhole.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Load Remover and Autostart/reset by streetbackguy</Description>
@@ -4620,7 +4620,7 @@
             <Game>South Park: The Stick of Truth</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/LiveSplit.SouthParkStickOfTruth.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/South%20Park%3A%20The%20Stick%20of%20Truth/LiveSplit.SouthParkStickOfTruth.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Load Remover and Autostart/reset by streetbackguy</Description>
@@ -4641,7 +4641,7 @@
             <Game>Deadly Premonition</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/Livesplit.DeadlyPremonition.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Deadly%20Premonition/Livesplit.DeadlyPremonition.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Load Remover and Autostart by streetbackguy</Description>
@@ -4773,7 +4773,7 @@
             <Game>Yakuza 5</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/LiveSplit.Yakuza5.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Yakuza%205/LiveSplit.Yakuza5.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitter, Load Remover and Autostart by streetbackguy and Hoxi</Description>
@@ -4783,7 +4783,7 @@
             <Game>Yakuza 3</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/LiveSplit.Yakuza3.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Yakuza%203/LiveSplit.Yakuza3.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Load Remover, Autosplitter and Autostart by streetbackguy and PlayingLikeAss</Description>
@@ -4793,7 +4793,7 @@
             <Game>Yakuza 4</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/LiveSplit.Yakuza4.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Yakuza%204/LiveSplit.Yakuza4.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Load Remover, Autosplitter and Autostart by streetbackguy and PlayingLikeAss</Description>
@@ -4803,7 +4803,7 @@
             <Game>Dead Rising 4</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/main/DeadRising4.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Dead%20Rising%204/LiveSplit.DeadRising4.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Written by Kuno Demetries and streetbackguy. Autosplitter and Load Remover.</Description>
@@ -9326,7 +9326,7 @@
             <Game>Alan Wake's American Nightmare</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/LiveSplit.AlanWakesAmericanNightmare.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Alan%20Wake's%20American%20Nightmare/LiveSplit.AlanWakesAmericanNightmare.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Auto Splitting and Load Removal by Streetbackguy</Description>
