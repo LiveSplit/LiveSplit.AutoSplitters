@@ -27011,4 +27011,15 @@
         <Type>Script</Type>
         <Description>Autosplitter and Load Remover Available (By TheDementedSalad)</Description>
     </AutoSplitter>
+        <AutoSplitter>
+        <Games>
+            <Game>Super Clown Ultimatum</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/cyberianwilderness/Super-Clown-Ultimatum-Autosplitter/refs/heads/main/Super_Clown_Ultimatum.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart and Autosplit are available. (By l1ndblum)</Description>
+        <Website>https://www.speedrun.com/Super_Clown_Ultimatum</Website>
+    </AutoSplitter>
 </AutoSplitters>
