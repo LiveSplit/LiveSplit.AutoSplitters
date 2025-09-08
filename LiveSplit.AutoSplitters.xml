@@ -27045,4 +27045,15 @@
         <Description>Autostart and Autosplit are available. (By l1ndblum)</Description>
         <Website>https://www.speedrun.com/Super_Clown_Ultimatum</Website>
     </AutoSplitter>
+    </AutoSplitter>
+        <AutoSplitter>
+        <Games>
+            <Game>Infiltrate & Extract</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/cyberianwilderness/Infiltrate-Extract-Autosplitter/refs/heads/main/infiltrate%26extract.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart and Autosplit are available. (By l1ndblum)</Description>
+    </AutoSplitter>
 </AutoSplitters>
