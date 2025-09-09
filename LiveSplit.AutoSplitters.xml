@@ -172,7 +172,7 @@
             <Game>Shinobi: Art of Vengeance</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/raw/refs/heads/main/Shinobi:%20Art%20of%20Vengeance/LiveSplit.ShinobiArtofVengeance.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Shinobi%3A%20Art%20of%20Vengeance/LiveSplit.ShinobiArtofVengeance.asl</URL>
             <URL>https://github.com/streetbackguy/Autosplitter-Projects/raw/refs/heads/main/Shinobi%20Component/unity-help-shinobi</URL>
         </URLs>
         <Type>Script</Type>
@@ -193,7 +193,7 @@
             <Game>Shinobi III: Return of the Ninja Master</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/raw/refs/heads/main/Shinobi%20III:%20Return%20of%20the%20Ninja%20Master/LiveSplit.Shinobi3ReturnoftheNinjaMaster.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Shinobi%20III%3A%20Return%20of%20the%20Ninja%20Master/LiveSplit.Shinobi3ReturnoftheNinjaMaster.asl</URL>
             <URL>https://github.com/Jujstme/emu-help-v3/raw/dc66ce576d8100c964bd37d170166e11135d91ca/lib/Livesplit/emu-help-v3</URL>
         </URLs>
         <Type>Script</Type>
@@ -330,7 +330,7 @@
             <Game>PEAK</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/raw/refs/heads/main/PEAK/LiveSplit.PEAK.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/PEAK/LiveSplit.PEAK.asl</URL>
             <URL>https://github.com/just-ero/asl-help/raw/da804c285f35bd7ff8f532c94da99e69d9cb7eff/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
@@ -363,7 +363,7 @@
             <Game>Beyond Oasis</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/raw/refs/heads/main/Beyond%20Oasis/LiveSplit.BeyondOasis.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Beyond%20Oasis/LiveSplit.BeyondOasis.asl</URL>
             <URL>https://github.com/Jujstme/emu-help/raw/master/lib/emu-help-v2</URL>
         </URLs>
         <Type>Script</Type>
