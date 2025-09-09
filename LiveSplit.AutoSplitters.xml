@@ -13,6 +13,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Infiltrate & Extract</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/cyberianwilderness/Infiltrate-Extract-Autosplitter/refs/heads/main/infiltrate%26extract.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto-Start and Auto-Splitting by l1ndblum</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Heartworm</Game>
         </Games>
         <URLs>
