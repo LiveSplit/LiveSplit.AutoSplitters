@@ -21330,9 +21330,7 @@
         </URLs>
         <Type>Script</Type>
         <Description>Two autosplitters available: RT without loads (non-demo only) (by Supahsemmie) and IGT-only (by 10_days_till_xmas).</Description>
-        <Website>https://github.com/Supahsemmie/Shady-Knight-loadlessRT-autosplitter/blob/main/SK_LoadlessSplitter.asl</Website>
-        <Website>https://github.com/10-days-till-xmas/Shady-Knight-autosplitter/blob/main/SK_splitter.asl</Website>
-        
+        <Website>https://github.com/Supahsemmie/Shady-Knight-loadlessRT-autosplitter/blob/main/SK_LoadlessSplitter.asl</Website>        
     </AutoSplitter>
     <AutoSplitter>
         <Games>
