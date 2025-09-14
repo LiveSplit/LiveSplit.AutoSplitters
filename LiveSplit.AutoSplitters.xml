@@ -7469,6 +7469,7 @@
             <Game>INFRA</Game>
             <Game>Portal: Divinity</Game>
             <Game>Spplice Mods</Game>
+            <Game>The Cleaning Game</Game>
         </Games>
         <URLs>
             <URL>https://github.com/p2sr/sar-auto-splitter/releases/download/latest/sar_auto_splitter.wasm</URL>
@@ -9807,6 +9808,7 @@
             <Game>Half-Life 2</Game>
             <Game>Half-Life 2 Category Extensions</Game>
             <Game>Half-Life 2: Ghosting Mod</Game>
+            <Game>Portal: The Flash Version MapPack</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/thisis2838/SourceSplit/master/update/Components/LiveSplit.SourceSplit.dll</URL>
