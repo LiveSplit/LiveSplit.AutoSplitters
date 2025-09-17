@@ -5,7 +5,8 @@
             <Game>Sonic Rivals</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Sonic%20Rivals/LiveSplit.SonicRivals.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Sonic%20Rivals/LiveSplit.SonicRivalsPAL.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Sonic%20Rivals/LiveSplit.SonicRivalsNTSC.asl</URL>
             <URL>https://github.com/Jujstme/emu-help-v3/raw/dc66ce576d8100c964bd37d170166e11135d91ca/lib/Livesplit/emu-help-v3</URL>
         </URLs>
         <Type>Script</Type>
