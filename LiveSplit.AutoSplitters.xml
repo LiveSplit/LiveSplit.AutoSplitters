@@ -12006,6 +12006,19 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Hollow Knight: Silksong</Game>
+            <Game>Hollow Knight: Silksong | Category Extensions</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/AlexKnauth/silksong-autosplit-wasm/releases/download/latest/silksong_autosplit_wasm_stable.wasm</URL>
+        </URLs>
+        <Type>Script</Type>
+        <ScriptType>AutoSplittingRuntime</ScriptType>
+        <Description>Configurable Load Remover / Auto Splitter / Auto Hit Counter. (By AlexKnauth)</Description>
+        <Website>https://github.com/AlexKnauth/silksong-autosplit-wasm</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Epistory</Game>
         </Games>
         <URLs>
