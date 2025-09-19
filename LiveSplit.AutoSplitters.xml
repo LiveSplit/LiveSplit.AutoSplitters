@@ -12010,7 +12010,7 @@
             <Game>Hollow Knight: Silksong | Category Extensions</Game>
         </Games>
         <URLs>
-            <URL>https://github.com/AlexKnauth/silksong-autosplit-wasm/releases/download/latest/silksong_autosplit_wasm_stable.wasm</URL>
+            <URL>https://github.com/AlexKnauth/silksong-autosplit-wasm/releases/latest/download/silksong_autosplit_wasm_stable.wasm</URL>
         </URLs>
         <Type>Script</Type>
         <ScriptType>AutoSplittingRuntime</ScriptType>
