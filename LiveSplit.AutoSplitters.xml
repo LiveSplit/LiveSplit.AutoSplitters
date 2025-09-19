@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
+    <AutoSplitter>
+        <Games>
+            <Game>Sonic Rivals</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Sonic%20Rivals/LiveSplit.SonicRivalsPAL.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Sonic%20Rivals/LiveSplit.SonicRivalsNTSC.asl</URL>
+            <URL>https://github.com/Jujstme/emu-help-v3/raw/dc66ce576d8100c964bd37d170166e11135d91ca/lib/Livesplit/emu-help-v3</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting, In-Game Time, Autostart and Autoreset by Streetbackguy</Description>
+    </AutoSplitter>
  <AutoSplitter>
         <Games>
             <Game>Cronos: The New Dawn</Game>
