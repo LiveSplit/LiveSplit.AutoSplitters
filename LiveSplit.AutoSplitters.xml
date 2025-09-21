@@ -27076,4 +27076,16 @@
         <Description>Autostart and Autosplit are available. (By l1ndblum)</Description>
         <Website>https://www.speedrun.com/Super_Clown_Ultimatum</Website>
     </AutoSplitter>
+     <AutoSplitter>
+     <Games>
+         <Game>Mo The Moai Demo</Game>
+     </Games>
+     <URLs>
+         <URL>https://raw.githubusercontent.com/SamuelAlvarezLog/Mo-The-Moai-Demo-AutoSplitter/refs/heads/main/MoTheMoai.asl</URL>
+         <URL>https://github.com/just-ero/asl-help/raw/da804c285f35bd7ff8f532c94da99e69d9cb7eff/lib/asl-help</URL>
+     </URLs>
+     <Type>Script</Type>
+     <Description>AutoSplit for Mo the Moai Demo</Description>
+     <Website>https://www.speedrun.com/Mo_the_Moai_Demo</Website>
+ </AutoSplitter>
 </AutoSplitters>
