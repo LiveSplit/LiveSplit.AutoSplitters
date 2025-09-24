@@ -27095,7 +27095,7 @@
             <Game>Deponia</Game>
         </Games>
         <URLs>
-            <URL>https://github.com/DragonsAshe/Deponia-Autosplitter/blob/8e8eab7088eef6f73240b050975197a2122431fc/deponia.asl</URL>
+            <URL>https://raw.githubusercontent.com/DragonsAshe/Deponia-Autosplitter/refs/heads/main/deponia.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitter is available. Customize in settings where you want it to split (By Hellgirl)</Description>
