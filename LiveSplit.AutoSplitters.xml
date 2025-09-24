@@ -12007,7 +12007,8 @@
     <AutoSplitter>
         <Games>
             <Game>Hollow Knight: Silksong</Game>
-            <Game>Hollow Knight: Silksong | Category Extensions</Game>
+            <Game>Hollow Knight: Silksong Category Extensions</Game>
+            <Game>Hollow Knight: Silksong Mods</Game>
         </Games>
         <URLs>
             <URL>https://github.com/AlexKnauth/silksong-autosplit-wasm/releases/latest/download/silksong_autosplit_wasm_stable.wasm</URL>
