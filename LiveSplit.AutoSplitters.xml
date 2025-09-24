@@ -27090,4 +27090,15 @@
      <Description>AutoSplit for Mo the Moai Demo</Description>
      <Website>https://www.speedrun.com/Mo_the_Moai_Demo</Website>
  </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Deponia</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/DragonsAshe/Deponia-Autosplitter/blob/8e8eab7088eef6f73240b050975197a2122431fc/deponia.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter is available. Customize in settings where you want it to split (By Hellgirl)</Description>
+        <Website>https://github.com/DragonsAshe/Deponia-Autosplitter/tree/main</Website>
+    </AutoSplitter>
 </AutoSplitters>
