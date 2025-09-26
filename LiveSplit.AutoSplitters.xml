@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
+    <AutoSplitter>
+        <Games>
+            <Game>Easy Delivery Co.</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/bill876/autosplitters/refs/heads/main/Easy%20Delivery%20Co/EasyDeliveryCo.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/9a17c5ec7108aba1fe1932358703f4e6adaa6b2c/lib/asl-help</URL>
+            <URL>https://github.com/ru-mii/uhara/raw/760ebf7c8861b248d6b0349e483a31705eb6a8ba/bin/uhara7</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter by Bill876</Description>
+        <Website>https://github.com/bill876/autosplitters/tree/main/Easy%20Delivery%20Co</Website>
+    </AutoSplitter>
 <AutoSplitter>
         <Games>
             <Game>Song of Nunu</Game>
