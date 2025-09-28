@@ -13893,6 +13893,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Torin's Passage</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/iamJaffra/ASLs/refs/heads/main/TorinsPassage.asl</URL>
+            <URL>https://github.com/iamJaffra/scummvm-help/raw/refs/heads/main/lib/scummvm-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Automatic start/split/reset available (by Jaffra)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>The Messenger</Game>
             <Game>The Messenger Category Extensions</Game>
         </Games>
@@ -15676,6 +15687,18 @@
         </URLs>
         <Type>Script</Type>
         <Description>Load removal and autosplitting are available. (by rtrger)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Riven: The Sequel to Myst</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/iamJaffra/ASLs/refs/heads/main/Riven.asl</URL>
+            <URL>https://github.com/iamJaffra/scummvm-help/raw/refs/heads/main/lib/scummvm-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Automatic start/split/reset are available. (by Jaffra and Exodustx0)</Description>
+        <Website>https://discord.gg/pQzhkaT</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
