@@ -15679,6 +15679,18 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Riven: The Sequel to Myst</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/iamJaffra/ASLs/refs/heads/main/Riven.asl</URL>
+            <URL>https://github.com/iamJaffra/scummvm-help/raw/refs/heads/main/lib/scummvm-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Automatic start/split/reset are available. (by Jaffra and Exodustx0)</Description>
+        <Website>https://discord.gg/pQzhkaT</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Myst III: Exile</Game>
         </Games>
         <URLs>
