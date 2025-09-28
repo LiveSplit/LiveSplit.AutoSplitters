@@ -13893,6 +13893,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Torin's Passage</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/iamJaffra/ASLs/refs/heads/main/TorinsPassage.asl</URL>
+            <URL>https://github.com/iamJaffra/scummvm-help/raw/refs/heads/main/lib/scummvm-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Automatic start/split/reset (by Jaffra)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>The Messenger</Game>
             <Game>The Messenger Category Extensions</Game>
         </Games>
