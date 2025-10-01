@@ -25326,6 +25326,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Pilgrims</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/vojtechblazek/Autosplitters/main/ASL_Pilgrims.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/da804c2/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Pilgrims Autosplitter (by blazie)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Divinity: Original Sin Enhanced Edition</Game>
         </Games>
         <URLs>
