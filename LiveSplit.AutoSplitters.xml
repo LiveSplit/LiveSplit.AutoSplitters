@@ -27220,4 +27220,17 @@
         <Description>Autosplitter is available. Customize in settings where you want it to split (By Hellgirl)</Description>
         <Website>https://github.com/DragonsAshe/Deponia-Autosplitter/tree/main</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Pac-Man World 2 Re-Pac</Game>
+            <Game>Pac-Man World 2 Re-Pac Category Extensions</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/cccarl/LiveSplit.PacmanWorld2RePac/releases/download/latest/livesplit_pacman_w2_re_pac.wasm</URL>
+        </URLs>
+        <Type>Script</Type>
+        <ScriptType>AutoSplittingRuntime</ScriptType>
+        <Description>Load Remover and Autosplitter available (by SunglassesEmoji)</Description>
+        <Website>https://github.com/cccarl/LiveSplit.PacmanWorld2RePac</Website>
+    </AutoSplitter>
 </AutoSplitters>
