@@ -27233,4 +27233,14 @@
         <Description>Load Remover and Autosplitter available (by SunglassesEmoji)</Description>
         <Website>https://github.com/cccarl/LiveSplit.PacmanWorld2RePac</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Gemini: Heroes Reborn</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/BitPatty/LiveSplit.GeminiHeroesReborn/refs/heads/master/Gemini.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto-splitting, start and load removal are available. (By Cadarev & Psychonauter)</Description>
+    </AutoSplitter>
 </AutoSplitters>
