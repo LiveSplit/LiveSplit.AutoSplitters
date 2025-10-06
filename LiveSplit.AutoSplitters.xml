@@ -2,6 +2,18 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Van Wheel Gone</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Nikoheartttv/Autosplitters/main/Van%20Wheel%20Gone/VanWheelGone.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/da804c285f35bd7ff8f532c94da99e69d9cb7eff/lib/asl-help</URL>
+            <URL>https://github.com/ru-mii/uhara/raw/refs/heads/main/bin/uhara9</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter, Load Remover, Auto-Start and Auto-Reset by Nikoheart</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Divergence</Game>
         </Games>
         <URLs>
