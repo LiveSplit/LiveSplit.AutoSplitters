@@ -1847,6 +1847,18 @@
             <Game>Hollowbody</Game>
         </Games>
         <URLs>
+            <URL>https://raw.githubusercontent.com/mitchell-merry/autosplitters/refs/heads/main/Christmas%20Massacre/christmasmassacre.asl</URL>
+            <URL>https://raw.githubusercontent.com/mitchell-merry/autosplitters/refs/heads/main/Christmas%20Massacre/ChristmasMassacre.Settings.xml</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting and load removal is available. (By diggity and Tanker)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Hollowbody</Game>
+        </Games>
+        <URLs>
             <URL>https://raw.githubusercontent.com/mitchell-merry/autosplitters/main/Hollowbody/hollowbody.asl</URL>
             <URL>https://raw.githubusercontent.com/mitchell-merry/autosplitters/main/Hollowbody/Hollowbody.Settings.xml</URL>
             <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
