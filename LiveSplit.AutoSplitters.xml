@@ -21263,11 +21263,11 @@
             <Game>Hello Neighbor</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/MenzoFr/asl/refs/heads/Autosplitters/Autosplitters/Hello%20Neighbor%201/Multiver%20Autosplitter.asl</URL>
+            <URL>https://raw.githubusercontent.com/MenzoFr/Autosplitters/refs/heads/Autosplitters/Hello%20Neighbor/Hello%20Neighbor%201/Multiver%20Autosplitter.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Auto Start, Auto Reset, Auto Split and Load Remover (By Menzo)</Description>
-        <Website>https://github.com/MenzoFr/asl/tree/Autosplitters/Autosplitters/Hello%20Neighbor%201</Website>
+        <Website>https://github.com/MenzoFr/Autosplitters/tree/Autosplitters/Hello%20Neighbor/Hello%20Neighbor%201</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
