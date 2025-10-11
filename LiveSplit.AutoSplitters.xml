@@ -1521,6 +1521,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Skate Story</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/flyingwaff1e/AutoSplitter/refs/heads/main/SkateStory.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/da804c285f35bd7ff8f532c94da99e69d9cb7eff/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Starts automatically. Removes loads. Split settings are available. (by Waff1e)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Championsheep Rally</Game>
         </Games>
         <URLs>
