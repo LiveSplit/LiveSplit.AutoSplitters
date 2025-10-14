@@ -11629,6 +11629,20 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Yooka-Replaylee</Game>
+            <Game>Yooka Replaylee</Game>
+            <Game>Yooka Laylee: Replaylee</Game>
+            <Game>Yooka Laylee Replaylee</Game>
+        <Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/tipdaddy78/yooka-replaylee-autosplitter/main/YookaReplaylee.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>(PC) Load Removal and Auto-Split on loads available (By Ansiando and Tipdaddy78)</Description>
+        <Website>https://www.speedrun.com/yr</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Snake Pass</Game>
         </Games>
         <URLs>
