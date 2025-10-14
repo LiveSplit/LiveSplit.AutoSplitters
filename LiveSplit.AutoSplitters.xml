@@ -16596,20 +16596,11 @@
             <Game>BONEWORKS</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Sychke/AutoSplitters/master/Boneworks/Boneworks.asl</URL>
+            <URL>https://github.com/jakzo/BoneworksAsl/releases/latest/download/Boneworks.asl</URL>
+            <URL>https://github.com/jakzo/BoneworksAsl/releases/latest/download/BoneworksAslHelper.dll</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto-splitting, start, and load removal are available (By DerKO and Sychke).</Description>
-    </AutoSplitter>
-    <AutoSplitter>
-        <Games>
-            <Game>BONELAB</Game>
-        </Games>
-        <URLs>
-            <URL>https://raw.githubusercontent.com/Sychke/AutoSplitters/main/Bonelab/Bonelab.asl</URL>
-        </URLs>
-        <Type>Script</Type>
-        <Description>Load time removal is available (By Meta and Sychke).</Description>
+        <Description>Auto-splitting, start, and load removal are available. (by Jakzo and Sychke).</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
