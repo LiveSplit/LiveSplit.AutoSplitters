@@ -22352,6 +22352,18 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Gothic 3: Forsaken Gods</Game>
+            <Game>Gothic 3 Forsaken Gods</Game>
+            <Game>Gothic3 Forsaken Gods</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/marczeslaw11/LoadRemovers/refs/heads/master/Gothic3_Forsaken_Gods_loadremover.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load remover available (by marczeslaw11)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Zapling Bygone</Game>
         </Games>
         <URLs>
