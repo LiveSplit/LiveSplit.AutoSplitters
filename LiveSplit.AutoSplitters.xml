@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<AutoSplitters>
+<AutoSplitters>    
+    <AutoSplitter>
+        <Games>
+            <Game>Crysis 2 Remastered</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/WhoseSpeedrun/LiveSplit.Crysis2R/refs/heads/main/LiveSplit.Crysis2R.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Removal is available.</Description>
+    </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>Ghostly Gumshoe</Game>
