@@ -2,6 +2,16 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Diggerman</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/J-Scott16/DiggermanSplitMod/v1.0.1/Diggerman_AutoSplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitter, Auto-Start, and Auto-Reset for Diggerman by J-Scott16</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Ghostly Gumshoe</Game>
         </Games>
         <URLs>
