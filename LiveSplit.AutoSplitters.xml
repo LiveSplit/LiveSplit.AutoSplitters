@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<AutoSplitters>    
+<AutoSplitters>  
+    <AutoSplitter>
+        <Games>
+            <Game>SkinFreak</Game>
+            <Game>Skinfreak</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/LiterallyMetaphorical/LiveSplit.SkinFreak/refs/heads/main/SkinFreak.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Written by Meta</Description>
+    </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>Crysis 2 Remastered</Game>
