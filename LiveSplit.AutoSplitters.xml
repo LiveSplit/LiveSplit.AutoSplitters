@@ -5741,7 +5741,7 @@
             <Game>Need for Speed: Payback</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/tdog20/NFS-AutoSplitter/main/Livesplit.Payback.asl</URL>
+            <URL>https://raw.githubusercontent.com/WilllTreaty/My-Autosplitters/main/Livesplit.Payback.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Loadless timer made by TDOG20</Description>
@@ -5784,20 +5784,20 @@
             <Game>Need for Speed: Undercover</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/tdog20/NFS-AutoSplitter/main/Livesplit.NFSUC.asl</URL>
+            <URL>https://raw.githubusercontent.com/WilllTreaty/My-Autosplitters/main/Livesplit.NFSUC.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Loadless timer made by TDOG20 and Failracer</Description>
+        <Description>Loadless timer made by TDOG20, Failracer and WillTreaty</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>Need for Speed: Carbon</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/tdog20/NFS-AutoSplitter/main/Livesplit.NFSC.asl</URL>
+            <URL>https://raw.githubusercontent.com/WilllTreaty/My-Autosplitters/main/Livesplit.NFSC.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autosplitter and Loadless timer made by TDOG20 and Mr. Mary</Description>
+        <Description>Autosplitter and Loadless timer made by TDOG20, Mr. Mary and WillTreaty</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -11914,6 +11914,7 @@
     <AutoSplitter>
         <Games>
             <Game>DmC: Devil May Cry</Game>
+            <Game>Vergils Downfall</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/KunoDemetries/AutoSplitter/master/DMCDevilMayCry.asl</URL>
@@ -25353,7 +25354,7 @@
             <Game>Need for Speed: Shift</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Balathruin/Autosplitters/main/Shift_102.asl</URL>
+            <URL>https://raw.githubusercontent.com/WilllTreaty/My-Autosplitters/main/Shift_102.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Load Remover and Autosplitter for NFS Shift 1.02 by Balathruin and WillTreaty</Description>
@@ -25363,7 +25364,7 @@
             <Game>Shift 2: Unleashed</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Balathruin/Autosplitters/main/Shift2_102.asl</URL>
+            <URL>https://raw.githubusercontent.com/WilllTreaty/My-Autosplitters/main/Shift2_102.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Load Remover and Autosplitter for Shift 2: Unleashed 1.02 by Balathruin and WillTreaty</Description>
@@ -27350,5 +27351,26 @@
         <Type>Script</Type>
         <Description>Auto-splitting, start and load removal are available. (By TpRedNinja)</Description>
         <Website>https://github.com/TpRedNinja/Powewash-Simulator-autosplitter-and-load-remover</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>GRID Legends</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/WilllTreaty/My-Autosplitters/main/Livesplit.GridLegends.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and Loadless timer made by WillTreaty</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>WRC 4</Game>
+            <Game>WRC 4 FIA World Rally Championship</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/WilllTreaty/My-Autosplitters/main/Livesplit.WRC4.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and IGT made by WillTreaty</Description>
     </AutoSplitter>
 </AutoSplitters>
