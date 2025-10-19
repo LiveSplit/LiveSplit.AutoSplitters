@@ -11398,6 +11398,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Path of Exile 2</Game>
+        </Games>
+        <URLs>
+            <URL>http://raw.githubusercontent.com/SavageOranges/PathOfExile2_AutoSplitterForLiveSplit/master/Component/DLL/LiveSplit.PathOfExile2AutoSplitter.dll</URL>
+        </URLs>
+        <Type>Component</Type>
+        <Description>An AutoSplitter for Path of Exile 2 (By JakeDev / SavageOranges)</Description>
+        <Website>https://github.com/SavageOranges/PathOfExile2_AutoSplitterForLiveSplit/blob/main/README.md</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Prey (2017)</Game>
         </Games>
         <URLs>
