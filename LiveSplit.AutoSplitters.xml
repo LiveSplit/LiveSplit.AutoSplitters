@@ -27384,4 +27384,14 @@
         <Type>Script</Type>
         <Description>Autosplitter and IGT made by WillTreaty</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>The Outer Worlds 2</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Micrologist/LiveSplit.TheOuterWorlds2/refs/heads/main/TOW2.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting and Load Removal (by Micrologist)</Description>
+    </AutoSplitter>
 </AutoSplitters>
