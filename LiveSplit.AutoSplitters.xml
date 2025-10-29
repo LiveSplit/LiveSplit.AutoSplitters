@@ -19260,20 +19260,9 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/marcelopio/Dandara-Autosplitter/main/dandara.asl</URL>
-        </URLs>
-        <Type>Script</Type>
-        <Description>Supports Autosplit, Autostart, Autoreset, Load Removal, can split on every room or saved camp</Description>
-        <Website>https://discord.gg/8t4WrMmpXs</Website>
-    </AutoSplitter>
-    <AutoSplitter>
-        <Games>
-            <Game>Dandara</Game>
-        </Games>
-        <URLs>
             <URL>https://github.com/marcelopio/Dandara-Autosplitter/releases/download/latest/dandara_asr.wasm</URL>
         </URLs>
         <Type>Script</Type>
-        <ScriptType>AutoSplittingRuntime</ScriptType>
         <Description>Supports Autosplit, Autostart, Autoreset, Load Removal, can split on every room or saved camp</Description>
         <Website>https://discord.gg/8t4WrMmpXs</Website>
     </AutoSplitter>
