@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<AutoSplitter>
+<AutoSplitters>
+    <AutoSplitter>
         <Games>
             <Game>Sniper Elite Resistance</Game>
         </Games>
@@ -10,7 +11,6 @@
         <Description> Auto Splitter/ Load Remover (by xZeKo and Kuno Demetries)</Description>
         <Website>https://discordapp.com/invite/RvJ82gf</Website>
     </AutoSplitter>
-<AutoSplitters>
     <AutoSplitter>
         <Games>
             <Game>Tormented Souls 2</Game>
