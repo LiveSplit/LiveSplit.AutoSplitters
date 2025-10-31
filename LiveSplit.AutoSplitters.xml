@@ -2,6 +2,17 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Sniper Elite Resistance</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/KunoDemetries/AutoSplitter/refs/heads/master/SniperEliteResistance.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description> Auto Splitter/ Load Remover (by xZeKo and Kuno Demetries)</Description>
+        <Website>https://discordapp.com/invite/RvJ82gf</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Tormented Souls 2</Game>
         </Games>
         <URLs>
