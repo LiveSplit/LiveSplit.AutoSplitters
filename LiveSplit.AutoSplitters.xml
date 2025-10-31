@@ -1,4 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<AutoSplitter>
+        <Games>
+            <Game>Sniper Elite Resistance</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/KunoDemetries/AutoSplitter/refs/heads/master/SniperEliteResistance.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description> Auto Splitter/ Load Remover (by xZeKo and Kuno Demetries)</Description>
+        <Website>https://discordapp.com/invite/RvJ82gf</Website>
+    </AutoSplitter>
 <AutoSplitters>
     <AutoSplitter>
         <Games>
