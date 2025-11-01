@@ -27486,4 +27486,15 @@
         <Description>Auto start and split (By SabulineHorizon)</Description>
         <Website>https://github.com/SabulineHorizon/Autosplitters</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Little Nightmares III</Game>
+            <Game>Little Nightmares 3</Game>
+        </Games>
+        <URLs>
+            <URL>https://gist.githubusercontent.com/wRadion/8c8c29a3d652b5b552df0c5e91d829c4/raw/littlenightmares3.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting and Load Removal (by Nikko, wRadion)</Description>
+    </AutoSplitter>
 </AutoSplitters>
