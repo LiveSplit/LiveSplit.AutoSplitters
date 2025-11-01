@@ -20143,12 +20143,13 @@
     <AutoSplitter>
         <Games>
             <Game>Subnautica</Game>
+            <Game>Subnautica Category Extensions</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Sprinter31/Subnautica_Autosplitter/refs/heads/main/Subnautica_Autosplitter.asl</URL>
-            <URL>https://github.com/Sprinter31/Subnautica_Autosplitter/raw/refs/heads/main/SubnauticaShipExplosionInfo.dll</URL>
+            <URL>https://raw.githubusercontent.com/Sprinter31/Subnautica_Autosplitter/LiveSplit.Subnautica/Components/Livesplit.Subnautica.dll</URL>
+            <URL>https://raw.githubusercontent.com/Sprinter31/Subnautica_Autosplitter/LiveSplit.Subnautica/SubnauticaShipExplosionInfo.dll</URL>
         </URLs>
-        <Type>Script</Type>
+        <Type>Component</Type>
         <Description>Subnautica Autosplitter and Portal Load Time Removal by Sprinter31</Description>
         <Website>https://discord.gg/ZnvrDZDpc4</Website>
     </AutoSplitter>
