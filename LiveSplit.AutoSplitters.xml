@@ -6,6 +6,7 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/Nikoheartttv/Autosplitters/refs/heads/main/Subliminal/Subliminal.asl</URL>
+            <URL>https://github.com/ru-mii/uhara/raw/refs/heads/main/bin/uhara9</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autostart and Autosplit by Nikoheart</Description>
