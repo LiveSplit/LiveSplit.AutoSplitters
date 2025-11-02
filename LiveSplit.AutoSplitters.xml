@@ -27251,6 +27251,18 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Escape Simulator 2</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Undalevein/EscapeSimulatorAutosplitter/refs/heads/main/EscapeSimulator2.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/da804c285f35bd7ff8f532c94da99e69d9cb7eff/lib/asl-help</URL>
+            <URL>https://github.com/ru-mii/uhara/raw/refs/heads/main/bin/uhara6</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart, Autosplit, and load removal available. (By Undalevein)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Bloody Trapland 2</Game>
             <Game>Bloody Trapland 2: Curiosity</Game>
         </Games>
