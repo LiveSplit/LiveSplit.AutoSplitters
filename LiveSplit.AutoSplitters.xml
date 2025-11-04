@@ -28,6 +28,7 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/ru-mii/AutoSplitters/refs/heads/main/AutoSplitters/Games/Tormented%20Souls%202/TormentedSouls2.asl</URL>
+            <URL>https://raw.githubusercontent.com/ru-mii/AutoSplitters/refs/heads/main/AutoSplitters/Games/Tormented%20Souls%202/TormentedSouls2.Settings.xml</URL>
             <URL>https://github.com/ru-mii/uhara/raw/refs/heads/main/bin/uhara9</URL>
         </URLs>
         <Type>Script</Type>
