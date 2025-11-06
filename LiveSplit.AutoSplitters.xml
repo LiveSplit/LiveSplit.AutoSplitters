@@ -22490,6 +22490,18 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Gothic Community Remaster</Game>
+            <Game>Gothic Unreal Community Remaster</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/iamJaffra/ASLs/refs/heads/main/Gothic1CommunityRemaster.asl</URL>
+            <URL>https://github.com/ru-mii/uhara/raw/refs/heads/main/bin/uhara9</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Automatic Start/Reset/Split and Load Removal available (by Jaffra)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Gothic 2</Game>
             <Game>Gothic 2 Classic</Game>
         </Games>
