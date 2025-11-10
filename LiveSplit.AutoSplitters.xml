@@ -3960,10 +3960,11 @@
             <Game>Dead Island 2</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Mattmatt10111/asl-scripts/master/DeadIsland2.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Dead%20Island%202/LiveSplit.DeadIsland2.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/da804c285f35bd7ff8f532c94da99e69d9cb7eff/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autosplitter and Load Removal by Mattmatt</Description>
+        <Description>Autosplitter, Autostart and Load Removal by Streetbackguy</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
