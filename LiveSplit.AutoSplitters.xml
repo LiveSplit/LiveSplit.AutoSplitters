@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
     <AutoSplitter>
+        <Games>
+            <Game>Dragon Quest I HD-2D Remake</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/ru-mii/AutoSplitters/refs/heads/main/AutoSplitters/Games/Dragon%20Quest%20I%20HD-2D%20Remake/DragonQuestIHD2DRemake.asl</URL>
+            <URL>https://github.com/ru-mii/uhara/raw/refs/heads/main/bin/uhara9</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>by rumii</Description>
+    </AutoSplitter>
+    <AutoSplitter>
     <Games>
         <Game>Hello Neighbor: Hide and Seek</Game>
     </Games>
