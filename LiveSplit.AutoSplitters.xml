@@ -7990,11 +7990,11 @@
             <Game>Halo Infinite Category Extensions</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Jujstme/Autosplitters/master/Halo%20Infinite/HaloInfinite.asl</URL>
+            <URL>https://raw.githubusercontent.com/LiamTrader43/HaloInfiniteAutoSplitter/refs/heads/main/HaloInfiniteSplitter.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Configurable autosplitting and load remover (by Jujstme)</Description>
-        <Website>https://github.com/Jujstme/Autosplitters/tree/master/Halo%20Infinite</Website>
+        <Description>Configurable autosplitting and load remover (by LiamTrader)</Description>
+        <Website>https://github.com/LiamTrader43/HaloInfiniteAutoSplitter/tree/main</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
