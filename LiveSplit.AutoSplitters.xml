@@ -27639,4 +27639,14 @@
         <Type>Script</Type>
         <Description>Autosplitting and Load Removal (by Nikko, wRadion)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Egging On</Game>
+        </Games>
+        <URLs>
+            <URL>https://gist.githubusercontent.com/wRadion/2062b4d17b1582e1c2a4e6d4b78f5050/raw/egging-on_autosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter (by wRadion)</Description>
+    </AutoSplitter>
 </AutoSplitters>
