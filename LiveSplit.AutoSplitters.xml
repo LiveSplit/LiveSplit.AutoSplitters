@@ -27649,4 +27649,16 @@
         <Type>Script</Type>
         <Description>Autosplitter (by wRadion)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>The Salesman</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/AITYunivers/Autosplitters/refs/heads/main/The%20Salesman%20(2025)/TheSalesman.asl</URL>
+            <URL>https://github.com/ru-mii/uhara/raw/refs/heads/main/bin/uhara9</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for The Salesman (by Yunivers)</Description>
+        <Website>https://github.com/AITYunivers</Website>
+    </AutoSplitter>
 </AutoSplitters>
