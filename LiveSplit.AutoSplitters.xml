@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
+     <AutoSplitter>
+    <Games>
+        <Game>Hello Neighbor 2</Game>
+    </Games>
+    <URLs>
+        <URL>https://raw.githubusercontent.com/MenzoFr/Autosplitters/refs/heads/Autosplitters/Hello%20Neighbor/Hello%20Neighbor%202/HelloNeighbor2.asl</URL>
+        <URL>https://github.com/ru-mii/uhara/raw/refs/heads/main/bin/uhara9</URL>
+        <URL>https://github.com/just-ero/asl-help/raw/da804c285f35bd7ff8f532c94da99e69d9cb7eff/lib/asl-help</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>Auto Start, Split and Reset by Menzo</Description>
+    <Website>https://github.com/MenzoFr/Autosplitters/tree/Autosplitters/Hello%20Neighbor/Hello%20Neighbor%202</Website>
+    </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>The First Berserker: Khazan</Game>
@@ -49,12 +62,13 @@
         <Game>Hello Neighbor: Hide and Seek</Game>
     </Games>
     <URLs>
-        <URL>https://raw.githubusercontent.com/MenzoFr/Autosplitters/refs/heads/Autosplitters/Hello%20Neighbor/Hello%20Neighbor%3A%20Hide%20And%20Seek/Hello%20Neighbor%20Hide%20And%20Seek.asl</URL>
+        <URL>https://raw.githubusercontent.com/MenzoFr/Autosplitters/refs/heads/Autosplitters/Hello%20Neighbor/Hello%20Neighbor%3A%20Hide%20And%20Seek/HelloNeighborHideAndSeek.asl</URL>
         <URL>https://github.com/ru-mii/uhara/raw/refs/heads/main/bin/uhara9</URL>
         <URL>https://github.com/just-ero/asl-help/raw/da804c285f35bd7ff8f532c94da99e69d9cb7eff/lib/asl-help</URL>
     </URLs>
     <Type>Script</Type>
     <Description>Auto Start, Split, Reset and Load Remover by Menzo</Description>
+    <Website>https://github.com/MenzoFr/Autosplitters/tree/Autosplitters/Hello%20Neighbor/Hello%20Neighbor%3A%20Hide%20And%20Seek</Website>
 </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -21517,7 +21531,7 @@
             <Game>Hello Neighbor</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/MenzoFr/Autosplitters/refs/heads/Autosplitters/Hello%20Neighbor/Hello%20Neighbor%201/Multiver%20Autosplitter.asl</URL>
+            <URL>https://raw.githubusercontent.com/MenzoFr/Autosplitters/refs/heads/Autosplitters/Hello%20Neighbor/Hello%20Neighbor%201/HelloNeighbor1.asl</URL>
             <URL>https://github.com/ru-mii/uhara/raw/refs/heads/main/bin/uhara9</URL>
         </URLs>
         <Type>Script</Type>
