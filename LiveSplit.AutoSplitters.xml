@@ -27229,6 +27229,7 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/iamJaffra/ASLs/refs/heads/main/Phantasmagoria.asl</URL>
+            <URL>https://github.com/iamJaffra/scummvm-help/raw/refs/heads/main/lib/scummvm-help</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitter available (by Jaffra)</Description>
