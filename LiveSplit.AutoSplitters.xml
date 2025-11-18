@@ -27686,4 +27686,17 @@
         <Description>Autosplitter for The Salesman (by Yunivers)</Description>
         <Website>https://github.com/AITYunivers</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>JR's</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/AITYunivers/Autosplitters/raw/refs/heads/main/JR's%20(2022)/JRs.asl</URL>
+            <URL>https://github.com/AITYunivers/Autosplitters/raw/refs/heads/main/JR's%20(2022)/JRsVersionMappings.json</URL>
+            <URL>https://github.com/AITYunivers/Autosplitters/raw/refs/heads/main/.libs/uharaClickteamBeta</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for JR's (2022) (by Yunivers)</Description>
+        <Website>https://github.com/AITYunivers</Website>
+    </AutoSplitter>
 </AutoSplitters>
