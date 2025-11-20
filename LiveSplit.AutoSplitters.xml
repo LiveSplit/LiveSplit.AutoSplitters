@@ -1,17 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
-     <AutoSplitter>
-    <Games>
-        <Game>Hello Neighbor 2</Game>
-    </Games>
-    <URLs>
-        <URL>https://raw.githubusercontent.com/MenzoFr/Autosplitters/refs/heads/Autosplitters/Hello%20Neighbor/Hello%20Neighbor%202/HelloNeighbor2.asl</URL>
-        <URL>https://github.com/ru-mii/uhara/raw/refs/heads/main/bin/uhara9</URL>
-        <URL>https://github.com/just-ero/asl-help/raw/da804c285f35bd7ff8f532c94da99e69d9cb7eff/lib/asl-help</URL>
-    </URLs>
-    <Type>Script</Type>
-    <Description>Auto Start, Split and Reset by Menzo</Description>
-    <Website>https://github.com/MenzoFr/Autosplitters/tree/Autosplitters/Hello%20Neighbor/Hello%20Neighbor%202</Website>
+    <AutoSplitter>
+        <Games>
+            <Game>SpongeBob SquarePants: Titans of the Tide</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Nikoheartttv/Autosplitters/refs/heads/main/Spongebob%20Squarepants%20Titans%20of%20the%20Tide/SpongebobTitansoftheTide.asl</URL>
+            <URL>https://raw.githubusercontent.com/Nikoheartttv/Autosplitters/refs/heads/main/Spongebob%20Squarepants%20Titans%20of%20the%20Tide/SpongebobTitansoftheTide.asl</URL>
+            <URL>https://github.com/ru-mii/uhara/raw/refs/heads/main/bin/uhara9</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart, Autosplit and IGT by Nikoheart</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Hello Neighbor 2</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/MenzoFr/Autosplitters/refs/heads/Autosplitters/Hello%20Neighbor/Hello%20Neighbor%202/HelloNeighbor2.asl</URL>
+            <URL>https://github.com/ru-mii/uhara/raw/refs/heads/main/bin/uhara9</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/da804c285f35bd7ff8f532c94da99e69d9cb7eff/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Start, Split and Reset by Menzo</Description>
+        <Website>https://github.com/MenzoFr/Autosplitters/tree/Autosplitters/Hello%20Neighbor/Hello%20Neighbor%202</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
