@@ -27699,4 +27699,16 @@
         <Description>Autosplitter for JR's (2022) (by Yunivers)</Description>
         <Website>https://github.com/AITYunivers</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Ghostory</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/matejos/AutoSplitters/refs/heads/main/Ghostory/Ghostory.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/main/lib/UnityASL.bin</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>by Juggie</Description>
+        <Website>https://github.com/matejos/AutoSplitters/tree/main/Ghostory</Website>
+    </AutoSplitter>
 </AutoSplitters>
