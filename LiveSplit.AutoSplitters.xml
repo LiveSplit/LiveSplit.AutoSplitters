@@ -22007,10 +22007,10 @@
             <Game>PICO PARK</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Schyvun/Pico-Park-Autosplitter/main/pico.asl</URL>
+            <URL>https://raw.githubusercontent.com/Lusther/Pico-Park-Autosplitter/main/pico.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>AutoStart and Autosplit by Paum &amp; Schy</Description>
+        <Description>AutoStart and Autosplit by Paum &amp; Schy (patch by Lusther)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
