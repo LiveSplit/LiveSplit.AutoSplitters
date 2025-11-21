@@ -27734,4 +27734,17 @@
         <Description>Load removal for Plants vs. Zombies Replanted</Description>
         <Website>https://discord.gg/R8tPmjs</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Amanda the Adventurer 3</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/AITYunivers/Autosplitters/raw/refs/heads/main/Amanda%20the%20Adventurer%203%20(2025)/AmandaTheAdventurer3.asl</URL>
+            <URL>https://github.com/ru-mii/uhara/raw/refs/heads/main/bin/uhara9</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/refs/heads/main/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for Amanda the Adventurer 3 (by Yunivers and Nikoheart)</Description>
+        <Website>https://github.com/AITYunivers</Website>
+    </AutoSplitter>
 </AutoSplitters>
