@@ -23262,14 +23262,14 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
-            <Game>Escape the Backrooms</Game>
+            <Game>Escape the Backrooms (Legacy)</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/jonetiz/ETB-Autosplitter/main/escape_backrooms.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto splitter and load removal is available by Xero.</Description>
-        <Website>https://github.com/jonetiz/ETB-Autosplitter/blob/main/README.md</Website>
+        <Description>Auto splitter and load removal by theframeburglar</Description>
+        <Website>https://github.com/jonetiz/ETB-Autosplitter</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -27746,5 +27746,17 @@
         <Type>Script</Type>
         <Description>Autosplitter for Amanda the Adventurer 3 (by Yunivers and Nikoheart)</Description>
         <Website>https://github.com/AITYunivers</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Escape the Backrooms</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/ETBCommunity/autosplitter/refs/heads/main/escape_the_backrooms.asl</URL>
+            <URL>https://raw.githubusercontent.com/ru-mii/uhara/refs/heads/main/bin/uhara9</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto splitter and load removal by Reokin</Description>
+        <Website>https://github.com/ETBCommunity/autosplitter</Website>
     </AutoSplitter>
 </AutoSplitters>
