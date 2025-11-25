@@ -25711,6 +25711,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Bait and Tackle</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/vojtechblazek/Autosplitters/main/ASL_BaitAndTackle.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Bait and Tackle Autosplitter (by blazie)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Divinity: Original Sin Enhanced Edition</Game>
         </Games>
         <URLs>
