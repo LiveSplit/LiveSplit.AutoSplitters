@@ -27804,4 +27804,16 @@
         <Description>Auto splitter and load removal by Reokin</Description>
         <Website>https://github.com/ETBCommunity/autosplitter</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Possessor(s)</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/DrewCodesBadly/possessors-autosplit/releases/download/v1.0.0/possessors_autosplit.wasm</URL>
+        </URLs>
+        <Type>Script</Type>
+        <ScriptType>AutoSplittingRuntime</ScriptType>
+        <Description>Auto splitting and load removal.</Description>
+        <Website>https://github.com/DrewCodesBadly/possessors-autosplit</Website>
+    </AutoSplitter>
 </AutoSplitters>
