@@ -27805,4 +27805,14 @@
         <Description>Auto splitter and load removal by Reokin</Description>
         <Website>https://github.com/ETBCommunity/autosplitter</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Lonely Mountains: Snow Riders</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/ladrecha/LMSR_Autosplitter/main/lmsr.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and load removal by GrosHiken</Description>
+    </AutoSplitter>
 </AutoSplitters>
