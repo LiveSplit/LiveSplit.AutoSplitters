@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
+     <AutoSplitter>
+        <Games>
+            <Game>Six Cats Under</Game>
+        </Games>
+        <URLs>
+            <URL>https://gist.githubusercontent.com/Axerean/a1d6d1f69752c0ef9bee8b4588863bfb/raw/1c1485447b6453e9a36c1a7409ba023130fae6eb/SixCatsUnder.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/9a17c5ec7108aba1fe1932358703f4e6adaa6b2c/lib/asl-help</URL>
+            <URL>https://github.com/ru-mii/uhara/raw/refs/heads/main/bin/uhara9</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart, AutoSplit and Autoreset by Axeran</Description>
+    </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>Biodacity Ashton</Game>
