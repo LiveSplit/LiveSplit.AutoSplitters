@@ -401,6 +401,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Flashback: The Quest for Identity</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/cyberianwilderness/Flashback-Autosplitter/refs/heads/main/Flashback-Autosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and Load Remover for Fusion (by l1ndblum)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Heartworm</Game>
         </Games>
         <URLs>
