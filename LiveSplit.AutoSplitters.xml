@@ -20345,9 +20345,10 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/iamJaffra/ASLs/refs/heads/main/The7thGuest.asl</URL>
+            <URL>https://github.com/iamJaffra/scummvm-help/raw/refs/heads/main/lib/scummvm-help</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autosplitter available for the 25th Anniversary Edition (by Jaffra)</Description>
+        <Description>Autosplitter available (Legacy and 25th Anniv.) (by Jaffra)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
