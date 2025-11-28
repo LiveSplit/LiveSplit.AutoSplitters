@@ -401,6 +401,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Flashback: The Quest for Identity</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/cyberianwilderness/Flashback-Autosplitter/refs/heads/main/Flashback-Autosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and Load Remover for Fusion (by l1ndblum)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Heartworm</Game>
         </Games>
         <URLs>
@@ -20319,6 +20329,7 @@
         <Games>
             <Game>Subnautica</Game>
             <Game>Subnautica Category Extensions</Game>
+            <Game>Subnautica Unofficial Category Extensions</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/Sprinter31/Subnautica_Autosplitter/LiveSplit.Subnautica/Components/Livesplit.Subnautica.dll</URL>
@@ -27815,5 +27826,15 @@
         <Type>Script</Type>
         <Description>Auto splitter and load removal by Reokin</Description>
         <Website>https://github.com/ETBCommunity/autosplitter</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Lonely Mountains: Snow Riders</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/ladrecha/LMSR_Autosplitter/main/lmsr.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and load removal by GrosHiken</Description>
     </AutoSplitter>
 </AutoSplitters>
