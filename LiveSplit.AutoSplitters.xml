@@ -20332,7 +20332,7 @@
             <Game>Subnautica Unofficial Category Extensions</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Sprinter31/Subnautica_Autosplitter/LiveSplit.Subnautica/Components/Livesplit.Subnautica.dll</URL>
+            <URL>https://raw.githubusercontent.com/Sprinter31/Subnautica_Autosplitter/LiveSplit.Subnautica/Components/LiveSplit.Subnautica.dll</URL>
             <URL>https://raw.githubusercontent.com/Sprinter31/Subnautica_Autosplitter/LiveSplit.Subnautica/SubnauticaShipExplosionInfo.dll</URL>
         </URLs>
         <Type>Component</Type>
