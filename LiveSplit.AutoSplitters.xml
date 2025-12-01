@@ -554,7 +554,7 @@
         </URLs>
         <Type>Script</Type>
         <Description>Autostart, Autoreset, Autosplit and Load Removal by periaL</Description>
-    </AutoSplitter>    
+    </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>Anominal</Game>
@@ -10231,7 +10231,7 @@
             <Game>Portal: Crumbs Of Truth</Game>
             <Game>Gamma Energy</Game>
             <Game>Portal Custom Maps</Game>
-            <Game>Portal: Still Alive</Game>	
+            <Game>Portal: Still Alive</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/thisis2838/SourceSplit/master/update/Components/LiveSplit.SourceSplit.dll</URL>
@@ -21824,7 +21824,7 @@
         </URLs>
         <Type>Script</Type>
         <Description>Two autosplitters available: RT without loads (non-demo only) (by Supahsemmie) and IGT-only (by 10_days_till_xmas).</Description>
-        <Website>https://github.com/Supahsemmie/Shady-Knight-loadlessRT-autosplitter/blob/main/SK_LoadlessSplitter.asl</Website>        
+        <Website>https://github.com/Supahsemmie/Shady-Knight-loadlessRT-autosplitter/blob/main/SK_LoadlessSplitter.asl</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -27513,7 +27513,7 @@
             <Game>High Seas Havoc</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/AgusLuna/HighSeasHavocAutoplitter/refs/heads/main/hshavoc.asl</URL>            
+            <URL>https://raw.githubusercontent.com/AgusLuna/HighSeasHavocAutoplitter/refs/heads/main/hshavoc.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>retroarch-genesis-plus-gx auto-start/autosplit by difficulty(By SkioRen)</Description>
@@ -27804,6 +27804,18 @@
         <Type>Script</Type>
         <Description>Autosplitter for Amanda the Adventurer 3 (by Yunivers and Nikoheart)</Description>
         <Website>https://github.com/AITYunivers</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Possessor(s)</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/DrewCodesBadly/possessors-autosplit/releases/download/v1.0.0/possessors_autosplit.wasm</URL>
+        </URLs>
+        <Type>Script</Type>
+        <ScriptType>AutoSplittingRuntime</ScriptType>
+        <Description>Auto splitting and load removal.</Description>
+        <Website>https://github.com/DrewCodesBadly/possessors-autosplit</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
