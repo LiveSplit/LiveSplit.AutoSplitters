@@ -3085,11 +3085,11 @@
             <Game>Cavern of Dreams</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Nikoheartttv/Autosplitters/main/Cavern%20of%20Dreams/Cavern%20of%20Dreams.asl</URL>
+            <URL>https://raw.githubusercontent.com/halgorithm/cavern-of-dreams-autosplitter/refs/heads/main/Cavern%20of%20Dreams.asl</URL>
             <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Start/End/Load Removal by Nikoheart</Description>
+        <Description>Start/End/Load Removal by Nikoheart and Chory</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
