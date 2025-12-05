@@ -2,6 +2,17 @@
 <AutoSplitters>
      <AutoSplitter>
         <Games>
+            <Game>SLEEP AWAKE</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Nikoheartttv/Autosplitters/refs/heads/main/SLEEP%20AWAKE/SLEEPAWAKE.asl</URL>
+            <URL>https://github.com/ru-mii/uhara/raw/refs/heads/main/bin/uhara9</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart, Autosplit and Load Removal by Nikoheart</Description>
+     </AutoSplitter>
+     <AutoSplitter>
+        <Games>
             <Game>Six Cats Under</Game>
         </Games>
         <URLs>
