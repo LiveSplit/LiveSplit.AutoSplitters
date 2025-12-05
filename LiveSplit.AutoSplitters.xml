@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<AutoSplitters>
+<AutoSplitters> 
+    <AutoSplitter>
+        <Games>
+            <Game>LEGO Voyagers</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Arkhamfan69/My-Splitters-Load-Removers/refs/heads/main/Autosplitters/LegoVoyagers.asl</URL>
+            <URL>https://raw.githubusercontent.com/Arkhamfan69/My-Splitters-Load-Removers/refs/heads/main/Xml%20Settings/LVoyagers_Settings.xml</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/9a17c5ec7108aba1fe1932358703f4e6adaa6b2c/lib/asl-help</URL>
+            <URL>https://github.com/ru-mii/uhara/raw/refs/heads/main/bin/uhara9</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto-Start, Auto-Splitting, Load Removal (By arkhfamfan69 &amp; Sonic7)</Description>
+    </AutoSplitter>
      <AutoSplitter>
         <Games>
             <Game>Six Cats Under</Game>
