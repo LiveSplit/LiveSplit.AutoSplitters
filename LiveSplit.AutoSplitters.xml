@@ -20387,6 +20387,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>The 11th Hour</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/iamJaffra/ASLs/refs/heads/main/The11thHour.asl</URL>
+            <URL>https://github.com/iamJaffra/scummvm-help/raw/refs/heads/main/lib/scummvm-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter available (by Jaffra)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Q.U.B.E.</Game>
         </Games>
         <URLs>
