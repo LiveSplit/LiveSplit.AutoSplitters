@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <AutoSplitters> 
+    <AutoSplitter>
+        <Games>
+           <Game>Nioh 2</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/AxelSanGo/LoadRemovers/refs/heads/main/Nioh2LRT.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Removal (By AxelSanGo)</Description>
+    </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>LEGO Voyagers</Game>
