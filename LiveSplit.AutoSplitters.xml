@@ -3,6 +3,17 @@
 <AutoSplitters> 
     <AutoSplitter>
         <Games>
+            <Game>ROUTINE (2025)</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Nikoheartttv/Autosplitters/refs/heads/main/ROUTINE/ROUTINE.asl</URL>
+            <URL>https://github.com/ru-mii/uhara/raw/refs/heads/main/bin/uhara9</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart, Autosplit and Load Removal by Nikoheart</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
            <Game>Nioh 2</Game>
         </Games>
         <URLs>
