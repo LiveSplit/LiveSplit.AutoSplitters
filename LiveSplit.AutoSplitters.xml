@@ -961,6 +961,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+          <Game>Five Nights at Freddy's: Ruin Category Extensions</Game>
+        </Games>
+        <URLs>
+          <URL>https://raw.githubusercontent.com/samagent625/Autosplitters/refs/heads/main/FNAF-Ruin/FNAF-RuinAutosplitter</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart, Autosplitter, and Load Remover by SAM</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Jersey Devil</Game>
         </Games>
         <URLs>
