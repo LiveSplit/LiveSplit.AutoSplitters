@@ -3,6 +3,16 @@
 <AutoSplitters> 
     <AutoSplitter>
         <Games>
+            <Game>Apparatus: Exanimus</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/shmumbler/ASLs/refs/heads/main/AE.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>IGT, Autostart, and Autoreset by shmumbler</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>ROUTINE (2025)</Game>
         </Games>
         <URLs>
