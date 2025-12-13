@@ -10745,11 +10745,10 @@
             <Game>realMyst: Masterpiece Edition</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/TehGelly/autosplitters/master/realMystME.asl</URL>
+            <URL>https://raw.githubusercontent.com/iamJaffra/ASLs/refs/heads/main/realMyst_ME.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load Removal and autosplitting is available for rM:ME. (By Gelly)</Description>
-        <Website>https://github.com/Gelly/autosplitters</Website>
+        <Description>Load Removal and autosplitting is available. (By Jaffra)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
