@@ -21289,8 +21289,6 @@
             <Game>Elden Ring</Game>
             <Game>Armored Core 6</Game>
             <Game>Armored Core VI: Fires of Rubicon</Game>
-            <Game>Bloodborne</Game>
-            <Game>Elden Ring Nightreign</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/FrankvdStam/SoulSplitter/main/Components/SoulSplitter.dll</URL>
@@ -21304,6 +21302,29 @@
             <URL>https://raw.githubusercontent.com/FrankvdStam/SoulSplitter/main/Components/soulmemory_rs_x64.dll</URL>
             <URL>https://raw.githubusercontent.com/FrankvdStam/SoulSplitter/main/Components/launcher_x86.exe</URL>
             <URL>https://raw.githubusercontent.com/FrankvdStam/SoulSplitter/main/Components/launcher_x64.exe</URL>
+        </URLs>
+        <Type>Component</Type>
+        <Description>SoulSplitter: timer and autosplitter for various soulsgames</Description>
+        <Website>https://github.com/FrankvdStam/SoulSplitter</Website>
+        <ShowInLayoutEditor />
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>           
+            <Game>Bloodborne</Game>
+            <Game>Elden Ring Nightreign</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/FrankvdStam/SoulSplitter/release/Components/SoulSplitter.Plugin.dll</URL>
+            <URL>https://raw.githubusercontent.com/FrankvdStam/SoulSplitter/release/Components/MaterialDesignColors.dll</URL>
+            <URL>https://raw.githubusercontent.com/FrankvdStam/SoulSplitter/release/Components/MaterialDesignThemes.Wpf.dll</URL>
+            <URL>https://raw.githubusercontent.com/FrankvdStam/SoulSplitter/release/Components/Microsoft.Xaml.Behaviors.dll</URL>
+            <URL>https://raw.githubusercontent.com/FrankvdStam/SoulSplitter/release/Components/SoulSplitter.SoulMemory.dll</URL>
+            <URL>https://raw.githubusercontent.com/FrankvdStam/SoulSplitter/release/Components/soulsplitter.soulmods.x64.dll</URL>
+            <URL>https://raw.githubusercontent.com/FrankvdStam/SoulSplitter/release/Components/soulsplitter.soulmods.x86.dll</URL>
+            <URL>https://raw.githubusercontent.com/FrankvdStam/SoulSplitter/release/Components/soulsplitter.soulmemory_rs.x64.dll</URL>
+            <URL>https://raw.githubusercontent.com/FrankvdStam/SoulSplitter/release/Components/soulsplitter.soulmemory_rs.x86.dll</URL>
+            <URL>https://raw.githubusercontent.com/FrankvdStam/SoulSplitter/release/Components/soulsplitter.soulmemory-rs.launcher.x64.exe</URL>
+            <URL>https://raw.githubusercontent.com/FrankvdStam/SoulSplitter/release/Components/soulsplitter.soulmemory-rs.launcher.x86.exe</URL>
         </URLs>
         <Type>Component</Type>
         <Description>SoulSplitter: timer and autosplitter for various soulsgames</Description>
