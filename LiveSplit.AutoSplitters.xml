@@ -14,6 +14,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Ambidextro</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/FeldrinH/Dexsplitter/refs/heads/main/LiveSplit/Ambidextro.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter with in-game timer by FeldrinH</Description>
+        <Website>https://github.com/FeldrinH/Dexsplitter</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Apparatus: Exanimus</Game>
         </Games>
         <URLs>
