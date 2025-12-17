@@ -222,9 +222,9 @@ Understanding the order and conditions under which timer control actions are exe
 2. If a matching process is found, `init` is run. `init` is restarted if stopped by an exception.
 ##### Script - Main Loop:
 1. `update` will always be run. If it returns `false`, then all other Timer Control actions will be skipped.
-2. If the timer hasn't started, then the `start` action will be run.
-3. If the timer is currently running, then the `isLoading`, `gameTime`, and `reset` actions will be run.
+2. If the timer is currently running, then the `isLoading`, `gameTime`, and `reset` actions will be run.
 	- If `reset` does not explicitly return `true`, then the `split` action will be run.
+3. If the timer hasn't started, then the `start` action will be run.
 
 ##### Events
 
