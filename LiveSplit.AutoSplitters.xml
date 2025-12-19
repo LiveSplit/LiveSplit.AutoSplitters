@@ -17438,10 +17438,10 @@
             <Game>Legbreaker</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/rythin-sr/ASL-Scripts/master/Legbreaker.asl</URL>
+            <URL>https://raw.githubusercontent.com/christofkern/asl/refs/heads/main/legbreaker/legbreaker.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autosplitting available (by rythin)</Description>
+        <Description>Autosplitting available (by rythin &amp; core)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
