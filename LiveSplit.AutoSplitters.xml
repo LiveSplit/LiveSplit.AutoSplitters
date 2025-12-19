@@ -27999,4 +27999,15 @@
         <Description>Autosplitter and load removal for Shirone: the Dragon Girl (by Eveldee)</Description>
         <Website>https://github.com/Eveldee/Shirone_TDG-ASL</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Windswept</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/jamespicone/windswept_autosplit/refs/heads/main/windswept.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and game timer for Windswept</Description>
+        <Website>https://github.com/jamespicone/windswept_autosplit</Website>
+    </AutoSplitter>
 </AutoSplitters>
