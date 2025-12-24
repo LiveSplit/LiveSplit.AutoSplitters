@@ -28033,3 +28033,14 @@
         <Description>Auto Splitting and IGT Available. Compare to IGT. (By TheDementedSalad)</Description>
     </AutoSplitter>
 </AutoSplitters>
+    <AutoSplitter>
+        <Games>
+            <Game>Light The Dark</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/kamil2050/ASL-scripts/refs/heads/main/LIght%20The%20Dark%20autosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter by kamil2050 and rumii</Description>
+    </AutoSplitter>
+</AutoSplitters>
