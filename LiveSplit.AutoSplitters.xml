@@ -12747,11 +12747,12 @@
             <Game>Cuphead Category Extensions</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/ShootMe/LiveSplit.Cuphead/master/Components/LiveSplit.Cuphead.dll</URL>
+            <URL>https://github.com/mitchell-merry/autosplitters-wasm/releases/download/cuphead-latest/cuphead.wasm</URL>
         </URLs>
-        <Type>Component</Type>
-        <Description>Autosplitting and Load Removal is available. (By DevilSquirrel)</Description>
-        <Website>https://github.com/ShootMe/LiveSplit.Cuphead</Website>
+        <Type>Script</Type>
+        <ScriptType>AutoSplittingRuntime</ScriptType>
+        <Description>Autosplitting and load removal is available. (By diggity and SBDWolf)</Description>
+        <Website>https://github.com/mitchell-merry/autosplitters-wasm</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
