@@ -8301,7 +8301,6 @@
             <Game>Sonic Adventure 2: Battle</Game>
             <Game>Sonic Adventure 2: Battle - Category Extensions</Game>
             <Game>Sonic Adventure 2: Hunting Redux</Game>
-            <Game>Sonic Adventure 2: Battle - Fallen Hero</Game>
             <Game>SA2DX</Game>
         </Games>
         <URLs>
@@ -8310,6 +8309,16 @@
         <Type>Script</Type>
         <Description>Loadless and Auto Splitting are available. (By ShiningFace)</Description>
         <Website>http://discord.gg/XKdZFTS</Website>
+    </AutoSplitter>
+	<AutoSplitter>
+        <Games>
+            <Game>Sonic Adventure 2: Battle - Fallen Hero</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/QueenSuzie/Livesplit-Autotimers/refs/heads/master/LiveSplit.SA2.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Loadless and Auto Splitting are available. (By QueenSuzie)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
