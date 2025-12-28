@@ -24873,6 +24873,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+          <Game>I Wanna Play That Picture Puzzle with Numbers All Day!</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Kuhaku9893/Autosplitters/refs/heads/main/IWannaPlayThatPicturePuzzle/iwptpp.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter (start, split, reset) and IGT are available (by Kuhaku)</Description>
+        <Website>https://github.com/Kuhaku9893/Autosplitters/tree/main/IWannaPlayThatPicturePuzzle</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
           <Game>Obama</Game>
         </Games>
         <URLs>
