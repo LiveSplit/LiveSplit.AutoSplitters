@@ -2,6 +2,16 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Null Transit</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/zsilliman/AutoSplitters/refs/heads/main/NullTransitAutoSplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Windows Autosplitter for Null Transit by zsilliman</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>TimeSplitters Rewind</Game>
         </Games>
         <URLs>
