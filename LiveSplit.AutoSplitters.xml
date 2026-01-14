@@ -28132,4 +28132,14 @@
         <Type>Script</Type>
         <Description>Autosplitter and Load Remover is available (by aut0mat1clol)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Wars and Warriors: Joan of Arc</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Stally18/JoanOfArc-ASL/main/joan.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplit, autostart and IGT support (by Stally and Zhrakula)</Description>
+    </AutoSplitter>
 </AutoSplitters>
