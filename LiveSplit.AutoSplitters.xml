@@ -26046,6 +26046,7 @@
     <AutoSplitter>
         <Games>
             <Game>Animal Well</Game>
+            <Game>Animal Well Category Extensions</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/Dregu/LiveSplit-AnimalWell/main/LiveSplit-AnimalWell.asl</URL>
