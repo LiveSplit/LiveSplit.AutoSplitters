@@ -23385,10 +23385,20 @@
             <Game>Crisis Core: Final Fantasy VII - Reunion</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/desa35/CCFF7R-Loadremover/master/CCFF7R.asl</URL>
+            <URL>https://raw.githubusercontent.com/desa35/Loadremover/refs/heads/main/Crisis%20Core%20Final%20Fantasy%20VII%20Reunion/CCFF7R.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Loadremover (by desa) and Autosplitter (by deserteagle417).</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Digimon Story: Time Stranger</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/desa35/Loadremover/refs/heads/main/Digimon%20Story%20Time%20Stranger/TimeStrangerLR.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Loadremover and Autosplitter by desa.</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
