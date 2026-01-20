@@ -28175,4 +28175,14 @@
         <Type>Script</Type>
         <Description>Autosplit, autostart and IGT support (by Stally and Zhrakula)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>God of War</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Dobridp/GoW1ASL/main/GoW1.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>IGT for RPCS3 (by Dobrido).</Description>
+    </AutoSplitter>
 </AutoSplitters>
