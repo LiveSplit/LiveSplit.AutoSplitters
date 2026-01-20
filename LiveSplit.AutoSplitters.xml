@@ -1814,10 +1814,11 @@
             <Game>Fallout 4 (Next Gen)</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Fallout%204/LiveSplit.Fallout4.asl</URL>
+            <URL>https://raw.githubusercontent.com/ru-mii/AutoSplitters/refs/heads/main/AutoSplitters/Games/Fallout%204/Fallout4.asl</URL>
+            <URL>https://github.com/ru-mii/uhara/raw/refs/heads/main/bin/uhara10</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load Remover by Streetbackguy</Description>
+        <Description>by rumii</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
