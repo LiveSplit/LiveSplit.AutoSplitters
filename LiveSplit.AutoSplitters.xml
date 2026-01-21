@@ -28186,4 +28186,14 @@
         <Type>Script</Type>
         <Description>IGT for RPCS3 (by Dobrido).</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Meet Your Maker</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/itizir/LiveSplit.AutoSplitters-MeetYourMaker/refs/heads/main/mym.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Level timer for Meet Your Maker</Description>
+    </AutoSplitter>
 </AutoSplitters>
