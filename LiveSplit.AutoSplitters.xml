@@ -28197,4 +28197,15 @@
         <Type>Script</Type>
         <Description>Level timer for Meet Your Maker</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Stilt Fella</Game>
+        </Games>
+        <URLs>
+            <URL>https://gitlab.com/miso24/autosplitter/raw/main/StiltFella/StiltFella.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/9a17c5ec7108aba1fe1932358703f4e6adaa6b2c/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>auto-start, auto-split, and auto-reset (by miso)</Description>
+    </AutoSplitter>
 </AutoSplitters>
