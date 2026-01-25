@@ -28219,4 +28219,14 @@
         <Type>Script</Type>
         <Description>auto-start, auto-split, and auto-reset (by miso)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Far Far Away From Here</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/kvvzie/Far-Far-Away-From-Here-ASL/main/FFAFH.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Start, Split, and Reset (by kvvzie)</Description>
+    </AutoSplitter>
 </AutoSplitters>
