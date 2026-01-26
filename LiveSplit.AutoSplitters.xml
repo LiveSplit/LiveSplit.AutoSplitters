@@ -1822,17 +1822,6 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
-            <Game>Fallout 4 (Next Gen)</Game>
-        </Games>
-        <URLs>
-            <URL>https://raw.githubusercontent.com/ru-mii/AutoSplitters/refs/heads/main/AutoSplitters/Games/Fallout%204/Fallout4.asl</URL>
-            <URL>https://github.com/ru-mii/uhara/raw/refs/heads/main/bin/uhara10</URL>
-        </URLs>
-        <Type>Script</Type>
-        <Description>by rumii</Description>
-    </AutoSplitter>
-    <AutoSplitter>
-        <Games>
             <Game>There Is No Game : Wrong Dimension</Game>
         </Games>
         <URLs>
@@ -8631,10 +8620,11 @@
             <Game>Fallout 4 Category Extensions</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Dalet/livesplit-asl/master/Fallout4/LiveSplit.Fallout4.asl</URL>
+            <URL>https://raw.githubusercontent.com/ru-mii/AutoSplitters/refs/heads/main/AutoSplitters/Games/Fallout%204/Fallout4.asl</URL>
+            <URL>https://github.com/ru-mii/uhara/raw/refs/heads/main/bin/uhara10</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load Removal is available. (By Dalet)</Description>
+        <Description>by rumii</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
