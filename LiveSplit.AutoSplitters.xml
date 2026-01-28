@@ -28231,4 +28231,15 @@
         <Type>Script</Type>
         <Description>Autosplitter and Load Remover (by globichopf)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Death In Abyss</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/asd9176506911298/LiveSplit-ASL/refs/heads/main/DeathInAbyss.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/9a17c5ec7108aba1fe1932358703f4e6adaa6b2c/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Start, Split, and Reset (by Yuki.kaco)</Description>
+    </AutoSplitter>
 </AutoSplitters>
