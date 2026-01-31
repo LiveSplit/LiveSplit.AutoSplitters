@@ -28242,4 +28242,15 @@
         <Type>Script</Type>
         <Description>Auto Start, Split (by Yuki.kaco)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>The Lord of the Rings: The Two Towers</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/NickRPGreen/The-Lord-of-the-Rings-The-Two-Towers-Autosplitter/refs/heads/main/The%20Two%20Towers%20Autosplitter.asl</URL>
+            <URL>https://github.com/Jujstme/emu-help-v3/raw/dc66ce576d8100c964bd37d170166e11135d91ca/lib/Livesplit/emu-help-v3</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and Variables Tracker (by NickRPGreen)</Description>
+    </AutoSplitter>
 </AutoSplitters>
