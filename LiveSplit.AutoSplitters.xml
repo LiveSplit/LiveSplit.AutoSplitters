@@ -13738,6 +13738,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>MIO: Memories in Orbit</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Coltaho/Autosplitters/master/MIO/mio_autosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for MIO (PC Steam) (By Coltaho)</Description>
+        <Website>https://github.com/Coltaho/Autosplitters/blob/master/MIO/README.md</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Brave Escape</Game>
         </Games>
         <URLs>
