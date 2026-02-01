@@ -16812,11 +16812,12 @@
             <Game>Pseudoregalia</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Mysterion06/PseudoregaliaSplitter/main/Pseudoregalia.asl</URL>
+            <URL>https://raw.githubusercontent.com/Mian-K/Mian-Autosplitters/main/ASR%20Autosplitters/pseudoregalia_asr.wasm</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autosplitter by Mysterion352</Description>
-        <Website>https://github.com/Mysterion06/PseudoregaliaSplitter/blob/main/README.md</Website>
+        <ScriptType>AutoSplittingRuntime</ScriptType>
+        <Description>Origial ASL Autosplitter by Mysterion352, ported to ASR by Mian-K</Description>
+        <Website>https://github.com/Mian-K/Mian-Autosplitters/tree/main/Rust_Sources/pseudoregalia-asr</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
