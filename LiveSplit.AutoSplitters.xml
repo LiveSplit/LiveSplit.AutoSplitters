@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
-    <AutoSplitter>
-        <Games>
-            <Game>Kiki</Game>
+<AutoSplitter>
+    <Games>
+        <Game>I Wanna Be the Guy: Gaiden</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Arkhamfan69/My-Splitters-Load-Removers/refs/heads/main/Autosplitters/Kiki.asl</URL>
-            <URL>https://github.com/ru-mii/uhara/raw/refs/heads/main/bin/uhara9</URL>
+            <URL>https://raw.githubusercontent.com/ACrowIAm/LiveSplit-Auto-Splitters/refs/heads/main/LiveSplit.IWBTGG.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto-Start, Auto-Split, And Load-Removal (By Arkhamfan69)</Description>
+        <Description>IWBTG:G (v1.2b) Auto Splitter (Made By ACrowIAm)</Description>
+        <Website>https://github.com/ACrowIAm</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
