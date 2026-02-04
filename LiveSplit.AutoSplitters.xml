@@ -28276,4 +28276,14 @@
         <Type>Script</Type>
         <Description>Autosplitter and Variables Tracker (by NickRPGreen)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Code Vein II</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Leftn/Code-Vein-2-Livesplit-script/refs/heads/main/cv2.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Remover (by Left)</Description>
+    </AutoSplitter>
 </AutoSplitters>
