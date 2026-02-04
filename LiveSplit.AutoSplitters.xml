@@ -4750,6 +4750,18 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Barbie: Horse Trails</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/iamJaffra/ASLs/refs/heads/main/BarbieHorseTrails.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/9a17c5ec7108aba1fe1932358703f4e6adaa6b2c/lib/asl-help</URL>
+            <URL>https://github.com/ru-mii/uhara/raw/refs/heads/main/bin/uhara9</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter available (by Jaffra)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Poop Killer 5</Game>
         </Games>
         <URLs>
