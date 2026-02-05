@@ -2,6 +2,16 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>VIVIDLOPE</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/VIVIDLOPE/LiveSplit.VIVIDLOPE.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart and Autosplitter by Streetbackguy</Description>
+    </AutoSplitter>  
+    <AutoSplitter>
+        <Games>
             <Game>I Wanna Be the Guy</Game>
         </Games>
         <URLs>
