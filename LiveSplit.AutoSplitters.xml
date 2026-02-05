@@ -2,6 +2,17 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>I Wanna Be the Guy</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/ACrowIAm/LiveSplit-Auto-Splitters/refs/heads/main/LiveSplit.IWBTG.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>(FS) and (Slo Mo) Auto Splitter (Made By ACrowIAm)</Description>
+        <Website>https://github.com/ACrowIAm</Website>  
+    </AutoSplitter>      
+    <AutoSplitter>
+        <Games>
             <Game>I Wanna Be the Guy: Gaiden</Game>
         </Games>
         <URLs>
