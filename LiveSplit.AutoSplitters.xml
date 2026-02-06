@@ -28319,4 +28319,14 @@
         <Type>Script</Type>
         <Description>Load Remover (by Left)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Spider-Man 2 PC (2004)</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/asd9176506911298/LiveSplit-ASL/refs/heads/main/SpiderMan2PC.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Start, Split (by Yuki.kaco)</Description>
+    </AutoSplitter>
 </AutoSplitters>
