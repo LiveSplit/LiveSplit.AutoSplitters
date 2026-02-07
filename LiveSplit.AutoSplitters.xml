@@ -25080,6 +25080,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Assassin's Creed</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/TpRedNinja/Assassins-Creed-Autosplitters-and-loadremovers/refs/heads/main/AC1.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>AutoSplitter and LoadRemover for Assassins Creed 4 BlackFlag (by TpRedNinja)</Description>
+        <Website>https://github.com/TpRedNinja/Assassins-Creed-Autosplitters-and-loadremovers</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Assassin's Creed II</Game>
         </Games>
         <URLs>
