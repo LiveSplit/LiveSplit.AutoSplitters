@@ -5,7 +5,7 @@
             <Game>The Forest</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/1deter/auto-splitters/2b3527d0098b24f6cc7a285a3ed2381bc378ada2/The%20Forest/Auto%20Splitter/The%20Forest.ASL</URL>
+            <URL>https://raw.githubusercontent.com/1deter/auto-splitters/refs/heads/main/The%20Forest/Auto%20Splitter/The%20Forest.ASL</URL>
             <URL>https://github.com/just-ero/asl-help/raw/9a17c5ec7108aba1fe1932358703f4e6adaa6b2c/lib/asl-help</URL>
             <URL>https://github.com/1deter/auto-splitters/raw/refs/heads/main/The%20Forest/Components/LiveSplit.ASLVarViewer.UI.dll</URL>
         </URLs>
