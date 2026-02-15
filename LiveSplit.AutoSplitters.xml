@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<AutoSplitters>
+<AutoSplitters> 
     <AutoSplitter>
         <Games>
             <Game>The Forest</Game>
@@ -446,11 +446,11 @@
             <Game>REANIMAL</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/ru-mii/AutoSplitters/refs/heads/main/AutoSplitters/Games/REANIMAL/REANIMAL.asl</URL>
-            <URL>https://github.com/ru-mii/uhara/raw/refs/heads/main/bin/uhara9</URL>
+            <URL>https://raw.githubusercontent.com/Nikoheartttv/Autosplitters/refs/heads/main/REANIMAL/REANIMAL.asl</URL>
+            <URL>https://github.com/ru-mii/uhara/raw/refs/heads/main/bin/uhara10</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>by rumii</Description>
+        <Description>Autostart, Autosplit and Autoreset by Nikoheart</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
