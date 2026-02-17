@@ -25,6 +25,16 @@
     </AutoSplitter>  
     <AutoSplitter>
         <Games>
+            <Game>Pigeon Simulator</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Rosul404/repo/9a93570fa858132ef7d60fdf6867e0681b09993c/pigeonSim.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>all maps autosplitter by rosul</Description>
+    </AutoSplitter>  
+    <AutoSplitter>
+        <Games>
             <Game>I Wanna Be the Guy</Game>
         </Games>
         <URLs>
