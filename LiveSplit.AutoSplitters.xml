@@ -8694,6 +8694,18 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Cralon</Game>
+            <Game>Cralon Demo</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/iamJaffra/ASLs/refs/heads/main/Cralon.asl</URL>
+            <URL>https://github.com/ru-mii/uhara/raw/refs/heads/main/bin/uhara10</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Removal and Autosplitting available (by Jaffra)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Cornerstone</Game>
             <Game>Cornerstone The Song of Tyrim</Game>
             <Game>Cornerstone: The Song of Tyrim</Game>
