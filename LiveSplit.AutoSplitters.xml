@@ -28407,4 +28407,14 @@
         <Type>Script</Type>
         <Description>Auto Start, Split (by Yuki.kaco)</Description>
     </AutoSplitter>
+        <AutoSplitter>
+        <Games>
+            <Game>Bullet Witch</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/WilllTreaty/My-Autosplitters/refs/heads/main/LiveSplit.BW.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and Loadless Timer made by WillTreaty</Description>
+    </AutoSplitter>
 </AutoSplitters>
