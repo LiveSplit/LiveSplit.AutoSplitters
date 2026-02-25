@@ -2,6 +2,46 @@
 <AutoSplitters> 
     <AutoSplitter>
         <Games>
+            <Game>Ultima IX: Ascension</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/cidiya/Livesplit-ASL-scripts/refs/heads/main/Ultima%209/u9.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart and autosplit</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Pirates: Legend of the Black Buccaneer</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/cidiya/Livesplit-ASL-scripts/refs/heads/main/Pirates%20Legend%20of%20the%20Black%20Buccaneer/blackBuccaneer.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+	    <Description>Autostart and autosplit</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Rebel Transmute</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/cidiya/Livesplit-ASL-scripts/refs/heads/main/Rebel%20Transmute/RebelTransmute.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+	    <Description>Autostart and autosplit</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Beltion: Beyond Ritual</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/cidiya/Livesplit-ASL-scripts/refs/heads/main/Beltion/Beltion.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+	    <Description>Autostart, autosplit and load removal</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>1348 Ex Voto</Game>
         </Games>
         <URLs>
@@ -2073,10 +2113,10 @@
             <Game>Championsheep Rally</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Degaussed/Livesplit-ASL-scripts/refs/heads/master/ChampionsheepRally.asl</URL>
+            <URL>https://raw.githubusercontent.com/cidiya/Livesplit-ASL-scripts/refs/heads/main/Championsheep%20Rally/CSR.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autosplit and Laod Removal</Description>
+        <Description>Autostart, Autosplit and Laod Removal</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
