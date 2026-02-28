@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters> 
+        <AutoSplitter>
+        <Games>
+            <Game>Poppy Playtime: Chapter 5</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/Lox-r/Autosplitters/blob/main/Poppy%20Playtime%20Chapter5/PptCh5.asl</URL>
+            <URL>https://github.com/Lox-r/Autosplitters/blob/main/Poppy%20Playtime%20Chapter5/PPCH5.Settings.xml</URL>
+            <URL>https://github.com/ru-mii/uhara/blob/main/bin/uhara9</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart, autosplit &amd; Loadremoval by Lox &amd; Arkham</Description>
+    </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>Ultima IX: Ascension</Game>
