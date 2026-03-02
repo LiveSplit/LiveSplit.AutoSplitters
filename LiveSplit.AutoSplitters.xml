@@ -28480,4 +28480,14 @@
         <Type>Script</Type>
         <Description>Autosplitter and Loadless Timer made by WillTreaty</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Dark Cloud</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/boredofspeedruns/DarkCloudLRT/refs/heads/main/DarkCloud.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Dark Cloud LRT Autosplitter (PCSX2 1.7+) by boredofspeedruns and Nighlin</Description>
+    </AutoSplitter>
 </AutoSplitters>
