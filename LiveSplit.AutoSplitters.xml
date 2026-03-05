@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters> 
-        <AutoSplitter>
+    <AutoSplitter>
         <Games>
             <Game>Poppy Playtime: Chapter 5</Game>
         </Games>
@@ -1599,6 +1599,16 @@
         </URLs>
         <Type>Script</Type>
         <Description>Autostart, Autosplitter and Load Removal by Streetbackguy</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Yakuza Kiwami 3 &amp; Dark Ties</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Yakuza%20Kiwami%203%20%26%20Dark%20Ties/LiveSplit.YakuzaKiwami3AndDarkTies.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart and Load Removal by Streetbackguy</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
