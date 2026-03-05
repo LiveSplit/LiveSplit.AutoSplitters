@@ -28490,4 +28490,21 @@
         <Type>Script</Type>
         <Description>Dark Cloud LRT Autosplitter (PCSX2 1.7+) by boredofspeedruns and Nighlin</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Monsters, Inc. Scream Team</Game>
+            <Game>Monsters, Inc Scream Team</Game>
+            <Game>Monsters Inc. Scream Team</Game>
+            <Game>Monsters Inc Scream Team</Game>
+            <Game>Monsters, Inc. Scare Island</Game>
+            <Game>Monsters, Inc Scare Island</Game>
+            <Game>Monsters Inc. Scare Island</Game>
+            <Game>Monsters Inc Scare Island</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/izzyhope58/ASL-Scripts/refs/heads/main/ScreamTeamScareIsland.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Full Autosplitter for the PC version. Created by IzzyHope58</Description>
+    </AutoSplitter>
 </AutoSplitters>
