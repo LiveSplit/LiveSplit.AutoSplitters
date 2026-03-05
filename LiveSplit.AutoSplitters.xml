@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters> 
-        <AutoSplitter>
+    <AutoSplitter>
         <Games>
             <Game>Poppy Playtime: Chapter 5</Game>
         </Games>
@@ -126,7 +126,7 @@
             <URL>https://raw.githubusercontent.com/ACrowIAm/LiveSplit-Auto-Splitters/refs/heads/main/LiveSplit.IWBTGG.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>(v1.2b) Auto Splitter (Made By ACrowIAm)</Description>
+        <Description>(v1.0) Auto Splitter (Made By ACrowIAm)</Description>
         <Website>https://github.com/ACrowIAm</Website>  
     </AutoSplitter>
     <AutoSplitter>
@@ -1599,6 +1599,16 @@
         </URLs>
         <Type>Script</Type>
         <Description>Autostart, Autosplitter and Load Removal by Streetbackguy</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Yakuza Kiwami 3 &amp; Dark Ties</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Yakuza%20Kiwami%203%20%26%20Dark%20Ties/LiveSplit.YakuzaKiwami3AndDarkTies.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart and Load Removal by Streetbackguy</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -28479,6 +28489,33 @@
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitter and Loadless Timer made by WillTreaty</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Dark Cloud</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/boredofspeedruns/DarkCloudLRT/refs/heads/main/DarkCloud.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Dark Cloud LRT Autosplitter (PCSX2 1.7+) by boredofspeedruns and Nighlin</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Monsters, Inc. Scream Team</Game>
+            <Game>Monsters, Inc Scream Team</Game>
+            <Game>Monsters Inc. Scream Team</Game>
+            <Game>Monsters Inc Scream Team</Game>
+            <Game>Monsters, Inc. Scare Island</Game>
+            <Game>Monsters, Inc Scare Island</Game>
+            <Game>Monsters Inc. Scare Island</Game>
+            <Game>Monsters Inc Scare Island</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/izzyhope58/ASL-Scripts/refs/heads/main/ScreamTeamScareIsland.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Full Autosplitter for the PC version. Created by IzzyHope58</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
