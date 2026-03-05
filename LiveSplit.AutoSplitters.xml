@@ -28517,4 +28517,15 @@
         <Type>Script</Type>
         <Description>Full Autosplitter for the PC version. Created by IzzyHope58</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Don't Stop, Girlypop!</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/asd9176506911298/LiveSplit-ASL/refs/heads/main/DontStopGirlypop.asl</URL>
+            <URL>https://github.com/ru-mii/uhara/raw/refs/heads/main/bin/uhara10</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Start, Split (by Yuki.kaco)</Description>
+    </AutoSplitter>
 </AutoSplitters>
