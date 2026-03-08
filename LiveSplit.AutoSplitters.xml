@@ -2,7 +2,13 @@
 <AutoSplitters> 
     <AutoSplitter>
         <Games>
+            <Game>Resident Evil 9</Game>
             <Game>Resident Evil Requiem</Game>
+            <Game>Biohazard 9</Game>
+            <Game>RESIDENT EVIL 9 biohazard / BIOHAZARD 9 resident evil</Game>
+            <Game>Resident Evil 9: Biohazard</Game>
+            <Game>RE9</Game>
+            <Game>RE9: Biohazard</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/Nikoheartttv/Autosplitters/refs/heads/main/Resident%20Evil%20Requiem/RE9.asl</URL>
