@@ -28539,4 +28539,18 @@
         <Type>Script</Type>
         <Description>Auto Start, Split (by Yuki.kaco)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Resident Evil 9</Game>
+            <Game>RESIDENT EVIL requiem / BIOHAZARD requiem</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/hunterellis/re9autosplitter/refs/heads/master/RE9.asl</URL>
+            <URL>https://raw.githubusercontent.com/hunterellis/re9autosplitter/refs/heads/master/RE9.Settings.xml</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/9a17c5ec7108aba1fe1932358703f4e6adaa6b2c/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Start, Auto Split, Load Removal &amp; IGT (by hunterellis)</Description>
+        <Website>https://github.com/hunterellis/re9autosplitter</Website>
+    </AutoSplitter>
 </AutoSplitters>
