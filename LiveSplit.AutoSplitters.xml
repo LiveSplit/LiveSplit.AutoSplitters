@@ -2,6 +2,18 @@
 <AutoSplitters> 
     <AutoSplitter>
         <Games>
+            <Game>Resident Evil Requiem</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Nikoheartttv/Autosplitters/refs/heads/main/Resident%20Evil%20Requiem/RE9.asl</URL>
+            <URL>https://raw.githubusercontent.com/Nikoheartttv/Autosplitters/refs/heads/main/Resident%20Evil%20Requiem/RE9.Settings.xml</URL>
+            <URL>https://github.com/ru-mii/uhara/raw/refs/heads/main/bin/uhara10</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart, Autosplit and Autoreset by Nikoheart</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Poppy Playtime: Chapter 5</Game>
         </Games>
         <URLs>
