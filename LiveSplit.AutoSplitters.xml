@@ -26459,6 +26459,17 @@
         <Description>Autosplitter and Load Remover (By HandsomeStrife)</Description>
         <Website>https://github.com/HandsomeStrife/speedrun-splits-and-autospltters/blob/main/Time%20Rameside/</Website>
     </AutoSplitter>
+     <AutoSplitter>
+        <Games>
+            <Game>Oddworld: Munch's Oddysee GBA</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/cyberianwilderness/Oddworld-Munch-GBA-Autosplitter/refs/heads/main/Oddworld_Munch_GBA_Autosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>AutoSplit, AutoStart and AutoReset available on mGBA (By l1ndblum)</Description>
+        <Website>https://github.com/cyberianwilderness/Oddworld-Munch-GBA-Autosplitter</Website>
+    </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>Gimmick! 2</Game>
