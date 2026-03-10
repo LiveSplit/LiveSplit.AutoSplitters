@@ -2,6 +2,16 @@
 <AutoSplitters> 
     <AutoSplitter>
         <Games>
+            <Game>LEGO Harry Potter: Years 5-7</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/FlamingLazer/asl/refs/heads/main/lhp_5-7_load_split.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart, Autosplit and Loadremoval by Frostidllo</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Resident Evil 9</Game>
             <Game>Resident Evil Requiem</Game>
             <Game>Biohazard 9</Game>
