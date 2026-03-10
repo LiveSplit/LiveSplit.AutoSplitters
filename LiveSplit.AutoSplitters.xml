@@ -28589,4 +28589,15 @@
         <Type>Script</Type>
         <Description>Auto Start, Split (by Yuki.kaco)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>S.P.E.C.T.O.R 01</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/HandsomeStrife/speedrun-splits-and-autospltters/refs/heads/main/Spector%2001/spector_splitter.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/9a17c5ec7108aba1fe1932358703f4e6adaa6b2c/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Splitter and load remover</Description>
+    </AutoSplitter>
 </AutoSplitters>
