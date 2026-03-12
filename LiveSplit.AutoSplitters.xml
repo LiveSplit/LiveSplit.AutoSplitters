@@ -27833,7 +27833,7 @@
         <Type>Script</Type>
         <Description>Autosplitter available (by Jaffra)</Description>
     </AutoSplitter>
-    <AutoSplitter>
+        <AutoSplitter>
         <Games>
             <Game>Phasmophobia</Game>
         </Games>
@@ -27841,7 +27841,7 @@
             <URL>https://raw.githubusercontent.com/ItsFrostyYo/PhasmophobiaAutosplitter/main/Components/LiveSplit.PhasmophobiaAutosplitter.dll</URL>
         </URLs>
         <Type>Component</Type>
-        <Description>Start/End/Reset Autosplitting for Phasmophobia (By ItsFrosti)</Description>
+        <Description>Start/End/Reset Autosplitting for Phasmophobia (By ItsFrostyYo)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
