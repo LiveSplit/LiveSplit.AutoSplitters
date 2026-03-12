@@ -27835,6 +27835,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Phasmophobia</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/ItsFrostyYo/PhasmophobiaAutosplitter/main/Components/LiveSplit.PhasmophobiaAutosplitter.dll</URL>
+        </URLs>
+        <Type>Component</Type>
+        <Description>Start/End/Reset Autosplitting for Phasmophobia (By ItsFrostyYo)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Huntsman</Game>
         </Games>
         <URLs>
