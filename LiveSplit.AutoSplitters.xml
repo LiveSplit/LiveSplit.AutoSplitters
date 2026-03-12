@@ -27833,7 +27833,7 @@
         <Type>Script</Type>
         <Description>Autosplitter available (by Jaffra)</Description>
     </AutoSplitter>
-        <AutoSplitter>
+    <AutoSplitter>
         <Games>
             <Game>Phasmophobia</Game>
         </Games>
