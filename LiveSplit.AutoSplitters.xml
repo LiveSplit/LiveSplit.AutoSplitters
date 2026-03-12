@@ -26465,6 +26465,7 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/cyberianwilderness/Oddworld-Munch-GBA-Autosplitter/refs/heads/main/Oddworld_Munch_GBA_Autosplitter.asl</URL>
+            <URL>https://github.com/Jujstme/emu-help-v3/raw/dc66ce576d8100c964bd37d170166e11135d91ca/lib/Livesplit/emu-help-v3</URL>
         </URLs>
         <Type>Script</Type>
         <Description>AutoSplit, AutoStart and AutoReset available on mGBA (By l1ndblum)</Description>
