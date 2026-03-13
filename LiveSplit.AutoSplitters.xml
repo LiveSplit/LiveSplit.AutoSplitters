@@ -2,6 +2,28 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Alex Kidd in Shinobi World</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Alex%20Kidd%20in%20Shinobi%20World/LiveSplit.AlexKiddInShinobiWorld.asl</URL>
+            <URL>https://github.com/Jujstme/emu-help-v3/raw/dc66ce576d8100c964bd37d170166e11135d91ca/lib/Livesplit/emu-help-v3</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>AutoSplit and autostart by Streetbackguy</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Asterix and the Secret Mission</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Asterix%20and%20the%20Secret%20Mission/LiveSplit.AsterixAndTheSecretMission.asl</URL>
+            <URL>https://github.com/Jujstme/emu-help-v3/raw/dc66ce576d8100c964bd37d170166e11135d91ca/lib/Livesplit/emu-help-v3</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>AutoSplit and autostart by Streetbackguy</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Retail Hell</Game>
         </Games>
         <URLs>
