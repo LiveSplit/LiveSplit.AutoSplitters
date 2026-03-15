@@ -27863,7 +27863,7 @@
             <URL>https://raw.githubusercontent.com/ItsFrostyYo/PhasmophobiaAutosplitter/main/Components/LiveSplit.PhasmophobiaAutosplitter.dll</URL>
         </URLs>
         <Type>Component</Type>
-        <Description>Start/End/Reset Autosplitting for Phasmophobia (By ItsFrostyYo)</Description>
+        <Description>Start/End/Reset & Load Time Removal for Phasmophobia (By ItsFrostyYo)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
