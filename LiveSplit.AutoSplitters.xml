@@ -8157,11 +8157,12 @@
             <Game>Disney's 102 Dalmatians: Puppies to the Rescue</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/PorkySM/autosplitters/master/Dogs.asl</URL>
+            <URL>https://gitlab.com/dogstuff/pcdogs-auto-splitter/-/releases/permalink/latest/downloads/pcdogs_auto_splitter.wasm</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Automatic start, split, and stop for the PC version of Disney's 102 Dalmatians: Puppies to the Rescue.</Description>
-        <Website>https://github.com/PorkySM/autosplitters</Website>
+        <ScriptType>AutoSplittingRuntime</ScriptType>
+        <Description>(PC) Automatic start, split, stop, and load removal for all PC versions.</Description>
+        <Website>https://gitlab.com/dogstuff/pcdogs-auto-splitter</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
