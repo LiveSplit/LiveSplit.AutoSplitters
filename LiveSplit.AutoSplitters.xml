@@ -28634,4 +28634,14 @@
         <Type>Script</Type>
         <Description>Splitter and load remover</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Still Life</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Stally18/StillLife-ASL/refs/heads/main/stilllife.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start and cutscene+load time removal. V1.0</Description>
+    </AutoSplitter>
 </AutoSplitters>
