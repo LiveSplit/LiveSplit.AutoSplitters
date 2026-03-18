@@ -8083,6 +8083,15 @@
         <Description>Load Remover and Autostart by Acefrog</Description>
     </AutoSplitter>
     <AutoSplitter>
+        <Game>Styx: Blades of Greed</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Acefrog/StyxBOG/master/StyxBOG.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Remover by Acefrog</Description>
+    </AutoSplitter>
+    <AutoSplitter>
         <Games>
             <Game>Q.U.B.E. 2</Game>
         </Games>
