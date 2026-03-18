@@ -2,6 +2,16 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Slay the Spire 2</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/loomic/sts2-autosplitter/refs/heads/main/LiveSplit.SlayTheSpire2.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplit, autostart and autoreset by loom</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Alex Kidd in Shinobi World</Game>
         </Games>
         <URLs>
