@@ -8080,7 +8080,7 @@
             <URL>https://raw.githubusercontent.com/Acefrog/ASL/master/StyxMOS.asl</URL>
         </URLs>
         <Type>Script</Type>
-    <Description>LoadRemover by Acefrog</Description>
+    <Description>Load Remover. (by Acefrog)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -8090,16 +8090,17 @@
             <URL>https://raw.githubusercontent.com/Acefrog/ASL/master/StyxSOD.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>LoadRemover and Autostart by Acefrog</Description>
+        <Description>Load Remover and Auto Start. (by Acefrog)</Description>
     </AutoSplitter>
     <AutoSplitter>
-        <Game>Styx: Blades of Greed</Game>
+        <Games>
+            <Game>Styx: Blades of Greed</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/Acefrog/ASL/master/StyxBOG.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>LoadRemover by Acefrog</Description>
+        <Description>Load Remover. (by Acefrog)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
