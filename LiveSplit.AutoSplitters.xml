@@ -128,11 +128,11 @@
             <Game>1348 Ex Voto</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/ru-mii/AutoSplitters/refs/heads/main/AutoSplitters/Games/1348%20Ex%20Voto/P1348ExVoto.asl</URL>
+            <URL>https://raw.githubusercontent.com/DragonsAshe/1348-Autosplitter/refs/heads/main/1348test.asl</URL>
             <URL>https://github.com/ru-mii/uhara/raw/refs/heads/main/bin/uhara10</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>by rumii</Description>
+        <Description>Split on chapter change, load remover, reset on exiting to menu by Hellgirl based on Rumii's autosplitter for the demo</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
