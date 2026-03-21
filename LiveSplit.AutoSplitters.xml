@@ -3687,7 +3687,7 @@
             <Game>Starfield</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Radioactiv03/starfield/main/starfield.asl</URL>
+            <URL>https://raw.githubusercontent.com/radioactiv-code/starfield/main/starfield.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitting and Load Removal is available. (By Radioactiv)</Description>
@@ -8905,11 +8905,11 @@
             <Game>Fallout 2</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Radioactiv03/fallout-loadremovers/main/fallout-1-2.asl</URL>
+            <URL>https://raw.githubusercontent.com/radioactiv-code/fallout-loadremovers/main/fallout-1-2.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Crash Time Removal is available. (By Radioactiv)</Description>
-        <Website>https://github.com/Radioactiv03/fallout-loadremovers/blob/main/README.md</Website>
+        <Website>https://github.com/radioactiv-code/fallout-loadremovers/blob/main/README.md</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -8917,11 +8917,11 @@
             <Game>Fallout 3 Category Extensions</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Radioactiv03/fallout-loadremovers/main/fallout3.asl</URL>
+            <URL>https://raw.githubusercontent.com/radioactiv-code/fallout-loadremovers/main/fallout3.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitting and Load Removal is available. (By Radioactiv)</Description>
-        <Website>https://github.com/Radioactiv03/fallout-loadremovers/blob/main/README.md</Website>
+        <Website>https://github.com/radioactiv-code/fallout-loadremovers/blob/main/README.md</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -8933,11 +8933,11 @@
             <Game>Fallout: New Vegas Category Extensions</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Radioactiv03/fallout-loadremovers/main/falloutnv.asl</URL>
+            <URL>https://raw.githubusercontent.com/radioactiv-code/fallout-loadremovers/main/falloutnv.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitting and Load Removal is available. (By Radioactiv)</Description>
-        <Website>https://github.com/Radioactiv03/fallout-loadremovers/blob/main/README.md</Website>
+        <Website>https://github.com/radioactiv-code/fallout-loadremovers/blob/main/README.md</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -8945,11 +8945,11 @@
             <Game>Fallout: Anthology</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Radioactiv03/fallout-loadremovers/main/falloutanthology.asl</URL>
+            <URL>https://raw.githubusercontent.com/radioactiv-code/fallout-loadremovers/main/falloutanthology.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Load Removal is available. (By Radioactiv)</Description>
-        <Website>https://github.com/Radioactiv03/fallout-loadremovers/blob/main/README.md</Website>
+        <Website>https://github.com/radioactiv-code/fallout-loadremovers/blob/main/README.md</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
