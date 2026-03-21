@@ -8074,13 +8074,33 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Styx: Master of Shadows</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Acefrog/ASL/master/StyxMOS.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+    <Description>Load Remover. (by Acefrog)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Styx: Shards of Darkness</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Acefrog/StyxSOD/master/StyxSOD.asl</URL>
+            <URL>https://raw.githubusercontent.com/Acefrog/ASL/master/StyxSOD.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load Remover and Autostart by Acefrog</Description>
+        <Description>Load Remover and Auto Start. (by Acefrog)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Styx: Blades of Greed</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Acefrog/ASL/master/StyxBOG.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Remover. (by Acefrog)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -9640,18 +9660,6 @@
         </URLs>
         <Type>Script</Type>
         <Description>Auto Splitting and Load Removal are available. (By Dread, Zefie and Sphere)</Description>
-    </AutoSplitter>
-    <AutoSplitter>
-        <Games>
-            <Game>Styx</Game>
-            <Game>Styx: MoS</Game>
-            <Game>Styx: Master of Shadows</Game>
-        </Games>
-        <URLs>
-            <URL>https://raw.githubusercontent.com/JMaynard24/ASL/master/Styx.asl</URL>
-        </URLs>
-        <Type>Script</Type>
-        <Description>Load Removal is available. (By Zefie)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
