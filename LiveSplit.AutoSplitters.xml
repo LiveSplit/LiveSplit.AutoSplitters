@@ -28668,7 +28668,7 @@
             <Game>Towerbolt</Game>
         </Games>
         <URLs>
-            <URL>https://gist.githubusercontent.com/steven11sjf/62cadf51daa86e0df4a4f469aaeabba9/raw/0dc87f47864780aa2734e052f8ae7a2a1ffea167/Towerbolt.asl</URL>
+            <URL>https://gist.githubusercontent.com/steven11sjf/62cadf51daa86e0df4a4f469aaeabba9/raw</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Auto Start, Split, Reset. Tracks IGT for game v1.00.02+.</Description>
