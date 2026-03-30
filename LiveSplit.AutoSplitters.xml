@@ -25233,6 +25233,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+          <Game>Beltmatic</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Kuhaku9893/Autosplitters/refs/heads/main/Beltmatic/Beltmatic.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter (start, split, reset) are available (by Kuhaku)</Description>
+        <Website>https://github.com/Kuhaku9893/Autosplitters/tree/main/Beltmatic</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
           <Game>Obama</Game>
         </Games>
         <URLs>
