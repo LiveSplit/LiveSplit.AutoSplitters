@@ -28685,4 +28685,44 @@
         <Type>Script</Type>
         <Description>Auto Start, Split, Reset. Tracks IGT for game v1.00.02+.</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Street Fighter II - The World Warrior</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/piratesephiroth/autosplitters/refs/heads/main/SF2.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for the CPS1 versions of Street Fighter II.</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Street Fighter II' - Champion Edition</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/piratesephiroth/autosplitters/refs/heads/main/SF2.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for the CPS1 versions of Street Fighter II.</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Street Fighter II' Turbo: Hyper Fighting</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/piratesephiroth/autosplitters/refs/heads/main/SF2.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for the CPS1 versions of Street Fighter II.</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Street Fighter II: Arcade Bootlegs</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/piratesephiroth/autosplitters/refs/heads/main/SF2.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for the CPS1 versions of Street Fighter II.</Description>
+    </AutoSplitter>
 </AutoSplitters>
