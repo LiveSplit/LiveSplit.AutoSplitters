@@ -27678,6 +27678,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>RUBATO</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/bartekk2908/asl_scripts/refs/heads/main/RUBATO.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter by Sialalala</Description>
+        <Website>https://www.speedrun.com/rubato</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Awaria</Game>
         </Games>
         <URLs>
