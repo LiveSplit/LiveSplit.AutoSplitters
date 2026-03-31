@@ -2,6 +2,19 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>GTA Frosted Winter</Game>
+            <Game>GTA: Frosted Winter</Game>
+            <Game>Grand Theft Auto Frosted Winter</Game>
+            <Game>Grand Theft Auto: Frosted Winter</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/LeonSReckon/Grand-Theft-Auto-Frosted-Winter-ASL/refs/heads/main/GTA%20Frosted%20Winter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>GTA Frosted Winter AutoSplitter by LeonSReckon
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Slay the Spire 2</Game>
         </Games>
         <URLs>
