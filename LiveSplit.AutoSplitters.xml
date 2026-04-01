@@ -23262,6 +23262,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>OpenGOAL: Jak 2</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/open-goal/speedrunning/master/jak3/opengoal-jak3-autosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Starts, resets, splits. Use with "Speedrunner Mode" enabled!</Description>
+        <Website>https://opengoal.dev/</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Jak and Daxter: Bugged!</Game>
         </Games>
         <URLs>
