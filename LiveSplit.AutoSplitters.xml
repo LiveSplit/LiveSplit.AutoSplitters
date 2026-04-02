@@ -28771,4 +28771,14 @@
         <Type>Script</Type>
         <Description>Autosplitter for the CPS1 versions of Street Fighter II.</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Ells Tales: Chairbound</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/MuteJack/EllsTalesChairbound-AutoSplitter/main/EllsTalesChairbound.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for the Ells Tales: Chairbound.</Description>
+    </AutoSplitter>
 </AutoSplitters>
