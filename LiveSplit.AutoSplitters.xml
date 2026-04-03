@@ -13656,6 +13656,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Funi Raccoon Game</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/iamJaffra/ASLs/refs/heads/main/FuniRaccoonGame.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter available. (by Jaffra)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Anthem</Game>
         </Games>
         <URLs>
