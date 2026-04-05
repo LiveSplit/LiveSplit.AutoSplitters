@@ -28814,4 +28814,14 @@
         <Type>Script</Type>
         <Description>Autosplitter and IGT Available (By TheDementedSalad)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Lucid Blocks</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/asd9176506911298/LiveSplit-ASL/refs/heads/main/LucidBlocks.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Start, Split (by Yuki.kaco)</Description>
+    </AutoSplitter>
 </AutoSplitters>
