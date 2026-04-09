@@ -14538,11 +14538,12 @@
             <Game>FNaF World Category Extensions</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/AITYunivers/FNaFSpeedrunStuff/main/FNaF%20World/FNaF%20World%20Autosplitter.asl</URL>
+            <URL>https://github.com/AITYunivers/Autosplitters/raw/refs/heads/main/FNaF%20World%20(2015)/FNaFWorld.asl</URL>
+            <URL>https://github.com/AITYunivers/Autosplitters/raw/refs/heads/main/.libs/uharaClickteamBeta</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Updated Auto Splitter for FNaF World. Supports all versions. Exe must be named "FNaF_World.exe" like on Steam</Description>
-        <Website>https://github.com/AITYunivers/FNaFSpeedrunStuff</Website>
+        <Description>Updated Auto Splitter for FNaF World. Supports all versions.</Description>
+        <Website>https://github.com/AITYunivers/Autosplitters</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
