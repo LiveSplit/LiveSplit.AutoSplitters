@@ -13350,10 +13350,11 @@
             <Game>Wolfenstein II: The New Colossus</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/itsjabo/LiveSplit/master/WolfensteinIITheNewColossus.asl</URL>
+            <URL>https://raw.githubusercontent.com/pjmaenh/wolf2-livesplit/master/wolf2.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load Removal is available. (By ItsJabo)</Description>
+        <Description>Autostart, autosplit and load removal are available. (Original by ItsJabo, updated and extended by pjmaenh)</Description>
+        <Website>https://github.com/pjmaenh/wolf2-livesplit</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
