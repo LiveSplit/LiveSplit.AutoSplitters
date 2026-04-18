@@ -2,6 +2,18 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Mouse: P.I. For Hire</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/ru-mii/AutoSplitters/refs/heads/main/AutoSplitters/Games/Mouse%20PI%20For%20Hire/MousePIForHire.asl</URL>
+            <URL>https://raw.githubusercontent.com/ru-mii/AutoSplitters/refs/heads/main/AutoSplitters/Games/Mouse%20PI%20For%20Hire/MousePIForHire.Settings.xml</URL>
+            <URL>https://github.com/ru-mii/uhara/raw/refs/heads/main/bin/uhara10</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>by rumii</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>AI LIMIT</Game>
         </Games>
         <URLs>
