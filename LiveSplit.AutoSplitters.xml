@@ -28893,4 +28893,14 @@
         <Type>Script</Type>
         <Description>Auto Start, Split (by Yuki.kaco)</Description>
     </AutoSplitter>
+     <AutoSplitter>
+        <Games>
+            <Game>Tales of Graces f Remastered</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/asd9176506911298/LiveSplit-ASL/refs/heads/main/Tales%20of%20Graces%20f%20Remastered.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Start, Split, Reset (by Yuki.kaco)</Description>
+    </AutoSplitter>
 </AutoSplitters>
