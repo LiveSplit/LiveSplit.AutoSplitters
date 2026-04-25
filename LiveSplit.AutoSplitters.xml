@@ -28622,6 +28622,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>BRUTAL JOHN 2</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/aut0mat1clol/AutoSplitters/refs/heads/main/BrutalJohn2.asl</URL>
+            <URL>https://github.com/Jujstme/unity-help/raw/9d3d1432fb3ef4ceb685371c5d62bb1b0fdf1f67/lib/Livesplit/unity-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and Load Remover is available (by aut0mat1clol)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Wars and Warriors: Joan of Arc</Game>
         </Games>
         <URLs>
