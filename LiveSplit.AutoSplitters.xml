@@ -19492,6 +19492,18 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Doriano</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/archieyates/Autosplitters/refs/heads/master/Doriano/Doriano.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for Doriano with support for splitting on each chest (by Reicha7)</Description>
+        <Website>https://github.com/archieyates/Autosplitters</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Terraria</Game>
             <Game>Terraria Category Extensions</Game>
         </Games>
