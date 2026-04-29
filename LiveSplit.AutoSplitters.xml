@@ -28939,4 +28939,14 @@
         <Type>Script</Type>
         <Description>Auto Start, Split, Reset (by Yuki.kaco)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>N: Way of the Ninja v2.0</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/zdamm001/Nv2AutoSplitter/refs/heads/master/nv2.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitting and Auto Start/Reset are available. (by Thisguy248)</Description>
+    </AutoSplitter>
 </AutoSplitters>
