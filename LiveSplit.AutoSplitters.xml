@@ -28949,4 +28949,14 @@
         <Type>Script</Type>
         <Description>Auto Splitting and Auto Start/Reset are available. (by Thisguy248)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Call of LDPR</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Zzzonked1337/Call-of-LDPR-Load-Remover/refs/heads/main/CallOfLDPR_22cb0bd2.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Remover</Description>
+    </AutoSplitter>
 </AutoSplitters>
