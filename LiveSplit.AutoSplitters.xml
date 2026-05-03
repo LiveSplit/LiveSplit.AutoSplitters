@@ -2470,11 +2470,11 @@
             <Game>I Am Your Beast</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/flyingwaff1e/AutoSplitter/refs/heads/main/IAYB/IAYB.asl</URL>
-            <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
+            <URL>https://github.com/mitchell-merry/autosplitters-wasm/releases/download/i_am_your_beast-latest/i_am_your_beast.wasm</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto start/split and load removal are available (by Waff1e)</Description>
+        <ScriptType>AutoSplittingRuntime</ScriptType>
+        <Description>Autosplitting and load removal is available. (By diggity and Waff1e)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
