@@ -22829,7 +22829,7 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/amanekko/little-big-adventure-twinsens-quest-ASL/refs/heads/main/Little%20Big%20Adventure%20Twinsen's%20Quest.asl</URL>
-            <URL>https://github.com/just-ero/asl-help/raw/main/lib/UnityASL.bin</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/9a17c5ec7108aba1fe1932358703f4e6adaa6b2c/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Auto start/split/reset for LBA Twinsen's Quest.</Description>
