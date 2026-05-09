@@ -11081,14 +11081,13 @@
     <AutoSplitter>
         <Games>
             <Game>Action Henk</Game>
-            <Game>Henk</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Voxelse/ASLScripts/master/Livesplit.ActionHenk/Livesplit.ActionHenk.asl</URL>
+            <URL>https://raw.githubusercontent.com/asd9176506911298/LiveSplit-ASL/refs/heads/main/ActionHenk.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/9a17c5ec7108aba1fe1932358703f4e6adaa6b2c/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto Start/Split/Reset and Load Remover (by faultyserver, badBlackShark and Voxelse)</Description>
-        <Website>https://github.com/Voxelse/ASLScripts/tree/master/Livesplit.ActionHenk</Website>
+        <Description>Auto Start/Split/Reset and Load Remover (by faultyserver, badBlackShark, Voxelse and Yuki.kaco)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
