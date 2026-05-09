@@ -14742,11 +14742,11 @@
             <Game>Midnight Club II</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/LRFLEW/LiveSplit.MC2/master/Components/LiveSplit.MC2.dll</URL>
+            <URL>https://raw.githubusercontent.com/heterophylla/LiveSplit.MC2/master/Components/LiveSplit.MC2.dll</URL>
         </URLs>
         <Type>Component</Type>
-        <Description>Load Remover for Midnight Club 2 for PC</Description>
-        <Website>https://github.com/LRFLEW/LiveSplit.MC2</Website>
+        <Description>Autosplitter and Load Remover for Midnight Club 2 for PC</Description>
+        <Website>https://github.com/heterophylla/LiveSplit.MC2</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
