@@ -9979,6 +9979,7 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/rythin-sr/ASL-Scripts/master/DarkSoulsII.asl</URL>
+            <URL>https://raw.githubusercontent.com/cobrce/DS2-Tracker-for-Archipelago/refs/heads/master/DS2_tracker.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitting and Load Removal is available. (By Dread, rythin)</Description>
