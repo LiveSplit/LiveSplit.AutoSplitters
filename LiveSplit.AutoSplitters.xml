@@ -28042,15 +28042,6 @@
     <AutoSplitter>
         <Games>
             <Game>Phasmophobia</Game>
-        </Games>
-        <URLs>
-            <URL>https://raw.githubusercontent.com/ItsFrostyYo/PhasmophobiaAutosplitter/main/Components/LiveSplit.PhasmophobiaAutosplitter.dll</URL>
-        </URLs>
-        <Type>Component</Type>
-        <Description>Start/End/Reset and Load Time Removal for Phasmophobia (By ItsFrostyYo)</Description>
-    </AutoSplitter>
-    <AutoSplitter>
-        <Games>
             <Game>Phasmophobia Category Extensions</Game>
         </Games>
         <URLs>
