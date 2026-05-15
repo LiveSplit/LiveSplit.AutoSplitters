@@ -28042,6 +28042,7 @@
     <AutoSplitter>
         <Games>
             <Game>Phasmophobia</Game>
+            <Game>Phasmophobia Category Extensions</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/ItsFrostyYo/PhasmophobiaAutosplitter/main/Components/LiveSplit.PhasmophobiaAutosplitter.dll</URL>
