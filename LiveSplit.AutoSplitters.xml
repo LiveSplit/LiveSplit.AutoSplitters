@@ -28993,4 +28993,48 @@
         <Type>Script</Type>
         <Description>Auto Start, Split (by Yuki.kaco)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Dragon Ball Z: Budokai</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/boredofspeedruns/dbz-load-removers/refs/heads/main/DBZ%20Budokai%201%20LRT.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Remover by Nighlin and boredofspeedruns </Description>
+        <Website>https://github.com/boredofspeedruns/dbz-load-removers</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Dragon Ball Z: Budokai 2</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/boredofspeedruns/dbz-load-removers/refs/heads/main/DBZ%20Budokai%202%20LRT.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Remover by Nighlin and boredofspeedruns </Description>
+        <Website>https://github.com/boredofspeedruns/dbz-load-removers</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Dragon Ball Z: Budokai 3</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/boredofspeedruns/dbz-load-removers/refs/heads/main/DBZ%20Budokai%203%20LRT.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Remover by Nighlin and boredofspeedruns </Description>
+        <Website>https://github.com/boredofspeedruns/dbz-load-removers</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Dragon Ball Z: Infinite World</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/boredofspeedruns/dbz-load-removers/refs/heads/main/DBZ%20Infinite%20World%20LRT.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Remover by Nighlin and boredofspeedruns </Description>
+        <Website>https://github.com/boredofspeedruns/dbz-load-removers</Website>
+    </AutoSplitter>
 </AutoSplitters>
