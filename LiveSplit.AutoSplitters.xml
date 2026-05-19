@@ -20947,9 +20947,11 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/ItsFrostyYo/Subnautica2Autosplitter/main/Subnautica2.asl</URL>
+            <URL>https://raw.githubusercontent.com/ItsFrostyYo/Subnautica2Autosplitter/main/Subnautica2.Settings.xml</URL>
         </URLs>
-        <Type>Component</Type>
+        <Type>Script</Type>
         <Description>Start/Reset, Splits and Cutscene Time Removal (By ItsFrosti)</Description>
+        <Website>https://github.com/ItsFrostyYo/Subnautica2Autosplitter</website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -28058,7 +28060,7 @@
             <URL>https://raw.githubusercontent.com/ItsFrostyYo/PhasmophobiaAutosplitter/main/Components/LiveSplit.PhasmophobiaAutosplitter.dll</URL>
         </URLs>
         <Type>Component</Type>
-        <Description>Start/Split/Reset and Load Time Removal for Phasmophobia (By ItsFrosti)</Description>
+        <Description>Start/Reset, Split and Load Time Removal for Phasmophobia (By ItsFrosti)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
