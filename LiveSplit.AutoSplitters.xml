@@ -20942,16 +20942,15 @@
         <Website>https://github.com/Sprinter31/Subnautica_Autosplitter</Website>
     </AutoSplitter>
     <AutoSplitter>
-        <Games>
-            <Game>Subnautica 2</Game>
-        </Games>
-        <URLs>
-            <URL>https://raw.githubusercontent.com/ItsFrostyYo/Subnautica2Autosplitter/main/Subnautica2.asl</URL>
-            <URL>https://raw.githubusercontent.com/ItsFrostyYo/Subnautica2Autosplitter/main/Subnautica2.Settings.xml</URL>
-        </URLs>
-        <Type>Script</Type>
-        <Description>Start/Reset, Splits and Cutscene Time Removal (By ItsFrosti)</Description>
-        <Website>https://github.com/ItsFrostyYo/Subnautica2Autosplitter</Website>
+    <Games>
+        <Game>Subnautica 2</Game>
+    </Games>
+    <URLs>
+        <URL>https://raw.githubusercontent.com/ItsFrostyYo/Subnautica2Autosplitter/main/Components/LiveSplit.Subnautica2.dll</URL>
+    </URLs>
+    <Type>Component</Type>
+    <Description>Start/Reset, Splits and Cutscene Time Removal (By ItsFrosti)</Description>
+    <Website>https://github.com/ItsFrostyYo/Subnautica2Autosplitter</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
