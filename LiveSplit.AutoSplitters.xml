@@ -2,6 +2,16 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Yerevan Drive</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/MillKeny/yerevandrive/refs/heads/main/yerevandriveAutosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Starts and finishes. By MillKeny</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Bear No Grudge</Game>
         </Games>
         <URLs>
