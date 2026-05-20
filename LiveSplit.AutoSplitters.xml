@@ -20942,6 +20942,17 @@
         <Website>https://github.com/Sprinter31/Subnautica_Autosplitter</Website>
     </AutoSplitter>
     <AutoSplitter>
+    <Games>
+        <Game>Subnautica 2</Game>
+    </Games>
+    <URLs>
+        <URL>https://raw.githubusercontent.com/ItsFrostyYo/Subnautica2Autosplitter/main/asl/Subnautica2.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>Start/Reset, Splits and Cutscene Time Removal (By ItsFrosti)</Description>
+    <Website>https://github.com/ItsFrostyYo/Subnautica2Autosplitter</Website>
+    </AutoSplitter>
+    <AutoSplitter>
         <Games>
             <Game>The 7th Guest</Game>
         </Games>
@@ -28048,7 +28059,7 @@
             <URL>https://raw.githubusercontent.com/ItsFrostyYo/PhasmophobiaAutosplitter/main/Components/LiveSplit.PhasmophobiaAutosplitter.dll</URL>
         </URLs>
         <Type>Component</Type>
-        <Description>Start/End/Reset and Load Time Removal for Phasmophobia (By ItsFrostyYo)</Description>
+        <Description>Start/Reset, Split and Load Time Removal for Phasmophobia (By ItsFrosti)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
