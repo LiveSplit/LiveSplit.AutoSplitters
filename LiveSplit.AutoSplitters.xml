@@ -493,6 +493,7 @@
         </URLs>
         <Type>Script</Type>
         <Description>Autostart, Autosplit and Load Removal by Nikoheart</Description>
+         </AutoSplitter>
      <AutoSplitter>
         <Games>
             <Game>Six Cats Under</Game>
