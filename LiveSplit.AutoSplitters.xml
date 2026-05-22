@@ -493,6 +493,21 @@
         </URLs>
         <Type>Script</Type>
         <Description>Autostart, Autosplit and Load Removal by Nikoheart</Description>
+    <AutoSplitter>
+    <Games>
+        <Game>SQUEAKY SQUAD</Game>
+    </Games>
+    <URLs>
+        <URL>https://raw.githubusercontent.com/Smokey34/SqueakySquad-Autosplitter/refs/heads/main/SqueakySquad.asl</URL>
+        <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>Auto Start, Final Split, Reset and Load Removal by Smokey34</Description>
+</AutoSplitter>
+<AutoSplitter>
+    <Games>
+        <Game>Six Cats Under</Game>
+    </Games>
      </AutoSplitter>
      <AutoSplitter>
         <Games>
@@ -506,6 +521,17 @@
         <Type>Script</Type>
         <Description>Autostart, AutoSplit and Autoreset by Axeran</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>SQUEAKY SQUAD</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Smokey34/SqueakySquad-Autosplitter/refs/heads/main/SqueakySquad.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Start, Final Split, Reset and Load Removal by Smokey34</Description>
+    </AutoSplitter>     
     <AutoSplitter>
         <Games>
             <Game>Biodacity Ashton</Game>
