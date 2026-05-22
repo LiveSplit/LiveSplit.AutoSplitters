@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
     <AutoSplitter>
+        <AutoSplitter>
+        <Games>
+            <Game>Quartet</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Quartet/LiveSplit.Quartet.asl</URL>
+            <URL>https://github.com/Jujstme/emu-help-v3/raw/dc66ce576d8100c964bd37d170166e11135d91ca/lib/Livesplit/emu-help-v3</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>AutoSplit and autostart by Despia and Cr4zykong</Description>
+    </AutoSplitter>
+        <AutoSplitter>
+        <Games>
+            <Game>Wonder Boy in Monster World</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Wonder%20Boy%20in%20Monster%20World/LiveSplit.WonderBoyInMonsterWorld.asl</URL>
+            <URL>https://github.com/Jujstme/emu-help-v3/raw/dc66ce576d8100c964bd37d170166e11135d91ca/lib/Livesplit/emu-help-v3</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>AutoSplit and autostart by Despia and Cr4zykong</Description>
+    </AutoSplitter>
         <Games>
             <Game>Yerevan Drive</Game>
         </Games>
