@@ -29059,4 +29059,15 @@
         <Description>Load Remover by Nighlin and boredofspeedruns </Description>
         <Website>https://github.com/boredofspeedruns/dbz-load-removers</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Yohane the Parhelion: BLAZE in the DEEPBLUE</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/SilicDev/YohaneDeepblueSplitter/refs/heads/master/autosplitter_yohane_deepblue.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Yohane the Parhelion -BLAZE in the DEEPBLUE- autosplitter created by SilicDev</Description>
+        <Website>https://github.com/SilicDev/YohaneDeepblueSplitter</Website>
+    </AutoSplitter>
 </AutoSplitters>
