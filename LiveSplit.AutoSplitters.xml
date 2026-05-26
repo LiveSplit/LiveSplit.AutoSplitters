@@ -29103,4 +29103,15 @@
         <Description>Yohane the Parhelion -BLAZE in the DEEPBLUE- autosplitter created by SilicDev</Description>
         <Website>https://github.com/SilicDev/YohaneDeepblueSplitter</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>WINGMINE</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/jschotte/Wingmine-Autosplitter/refs/heads/main/WingMine.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>AutoSplitter for WingMine</Description>
+        <Website>https://github.com/jschotte/Wingmine-Autosplitter</Website>
+    </AutoSplitter>
 </AutoSplitters>
