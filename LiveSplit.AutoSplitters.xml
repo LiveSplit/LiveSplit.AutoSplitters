@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
     <AutoSplitter>
+        <AutoSplitter>
+        <Games>
+            <Game>Quartet</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Quartet/LiveSplit.Quartet.asl</URL>
+            <URL>https://github.com/Jujstme/emu-help-v3/raw/dc66ce576d8100c964bd37d170166e11135d91ca/lib/Livesplit/emu-help-v3</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>AutoSplit and autostart by Despia and Cr4zykong</Description>
+    </AutoSplitter>
+        <AutoSplitter>
+        <Games>
+            <Game>Wonder Boy in Monster World</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Wonder%20Boy%20in%20Monster%20World/LiveSplit.WonderBoyInMonsterWorld.asl</URL>
+            <URL>https://github.com/Jujstme/emu-help-v3/raw/dc66ce576d8100c964bd37d170166e11135d91ca/lib/Livesplit/emu-help-v3</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>AutoSplit and autostart by Despia and Cr4zykong</Description>
+    </AutoSplitter>
         <Games>
             <Game>Yerevan Drive</Game>
         </Games>
@@ -506,6 +528,17 @@
         <Type>Script</Type>
         <Description>Autostart, AutoSplit and Autoreset by Axeran</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Squeaky Squad</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Smokey34/SqueakySquad-Autosplitter/refs/heads/main/SqueakySquad.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Start, Final Split, Reset and Load Removal by Smokey34</Description>
+    </AutoSplitter>     
     <AutoSplitter>
         <Games>
             <Game>Biodacity Ashton</Game>
@@ -29058,5 +29091,27 @@
         <Type>Script</Type>
         <Description>Load Remover by Nighlin and boredofspeedruns </Description>
         <Website>https://github.com/boredofspeedruns/dbz-load-removers</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Yohane the Parhelion: BLAZE in the DEEPBLUE</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/SilicDev/YohaneDeepblueSplitter/refs/heads/master/autosplitter_yohane_deepblue.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Yohane the Parhelion -BLAZE in the DEEPBLUE- autosplitter created by SilicDev</Description>
+        <Website>https://github.com/SilicDev/YohaneDeepblueSplitter</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>WINGMINE</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/jschotte/Wingmine-Autosplitter/refs/heads/main/WingMine.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>AutoSplitter for WingMine</Description>
+        <Website>https://github.com/jschotte/Wingmine-Autosplitter</Website>
     </AutoSplitter>
 </AutoSplitters>
