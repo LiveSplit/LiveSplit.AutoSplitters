@@ -9659,6 +9659,27 @@
         <Website>https://github.com/Bigmanjapan/LivesplitASLscripts</Website>
     </AutoSplitter>
     <AutoSplitter>
+    <Games>
+        <Game>Silent Hill 2: Enhanced Edition - New Game Any%</Game>
+    </Games>
+    <URLs>
+        <URL>https://raw.githubusercontent.com/palaceone/Silent-Hill-2-LiveSplits/main/SH2_MariaEndingv2.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>Full autosplitter for any ending. By Palace (https://twitch.tv/palacend)</Description>
+</AutoSplitter>
+
+<AutoSplitter>
+    <Games>
+        <Game>Silent Hill 2: Enhanced Edition - Dog Ending</Game>
+    </Games>
+    <URLs>
+        <URL>https://raw.githubusercontent.com/palaceone/Silent-Hill-2-LiveSplits/main/SH2DogEndingOfficialASLv6.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>Full autosplitter for Dog Ending. By Palace (https://twitch.tv/palacend)</Description>
+</AutoSplitter>
+    <AutoSplitter>
         <Games>
             <Game>Silent Hill 3</Game>
             <Game>Silent Hill 3 (PC)</Game>
