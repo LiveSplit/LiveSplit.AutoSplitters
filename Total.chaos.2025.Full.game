@@ -1,0 +1,13 @@
+state("Total Chaos") 
+{
+      byte Loading : "UnityPlayer.dll", 0x01ACC160, 0x8, 0x8, 0xD0, 0x18, 0x38, 0x130;
+      byte Loading2 : "UnityPlayer.dll", 0x01ACC160, 0x8, 0x8, 0xF0, 0x1E0; 
+
+}
+	
+isLoading
+{
+      return (current.Loading == 1) || (current.Loading2 == 1);        
+}
+
+
