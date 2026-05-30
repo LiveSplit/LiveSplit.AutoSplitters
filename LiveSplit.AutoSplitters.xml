@@ -8960,6 +8960,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Unreal Tournament</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/MrCodeMUN/UT99Autosplitter/refs/heads/main/ut99-autosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Start/Split/Reset and IGT. (By CodeM)</Description>
+        <Website>https://github.com/MrCodeMUN/UT99Autosplitter</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Shrek 2</Game>
             <Game>Shrek 2 PC</Game>
             <Game>Shrek 2 (PC)</Game>
