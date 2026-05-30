@@ -29104,13 +29104,13 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
-            <Game>WINGMINE</Game>
+            <Game>Total Chaos (2025)</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/jschotte/Wingmine-Autosplitter/refs/heads/main/WingMine.asl</URL>
+            <URL>https://raw.githubusercontent.com/Wastelander1402/LiveSplit.TotalChaos2025/refs/heads/main/TotalChaosasl.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>AutoSplitter for WingMine</Description>
-        <Website>https://github.com/jschotte/Wingmine-Autosplitter</Website>
+        <Description>AutoSplitter for Total Chaos (2025)</Description>
+        <Website>https://github.com/Wastelander1402/LiveSplit.TotalChaos2025</Website>
     </AutoSplitter>
 </AutoSplitters>
