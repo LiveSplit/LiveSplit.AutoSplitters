@@ -2859,11 +2859,11 @@
             <Game>Nine Sols</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/buanjautista/LiveSplit-ASL/main/NineSols-LoadRemover.asl</URL>
+            <URL>https://raw.githubusercontent.com/NineSolsSpeedruns/NineSolsAutoSplitter/main/NineSols-LoadRemover.asl</URL>
             <URL>https://github.com/ero-qt/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto Start/Reset and Load Remover (by Juanba)</Description>
+        <Description>Auto Start/Reset and Load Remover (by Juanba and suntzu)</Description>
         <Website>https://www.speedrun.com/nine_sols</Website>
     </AutoSplitter>
     <AutoSplitter>
