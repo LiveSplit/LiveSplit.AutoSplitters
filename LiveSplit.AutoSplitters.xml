@@ -21060,7 +21060,7 @@
             <URL>https://raw.githubusercontent.com/ru-mii/uhara/main/bin/uhara10</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Start/Split/Reset and Load Removal (By ItsFrosti)</Description>
+        <Description>Start/Split/Reset (By ItsFrosti) &amp; Load Removal (By InfaReQt)</Description>
         <Website>https://github.com/ItsFrostyYo/JTTSPAutosplitter</Website>
     </AutoSplitter>
     <AutoSplitter>
@@ -23281,16 +23281,6 @@
         </URLs>
         <Type>Script</Type>
         <Description>Auto Splitting and IGT tracking (by NickRPGreen)</Description>
-    </AutoSplitter>
-    <AutoSplitter>
-        <Games>
-            <Game>Journey to the Savage Planet</Game>
-        </Games>
-        <URLs>
-            <URL>https://raw.githubusercontent.com/InfaReQt/JTTSP/main/LoadRemoverJTTSP.asl</URL>
-        </URLs>
-        <Type>Script</Type>
-        <Description>Load Removal (by InfaReQt). Works for all current versions of the game.</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
