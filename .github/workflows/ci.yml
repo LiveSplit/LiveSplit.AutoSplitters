@@ -39,4 +39,4 @@ jobs:
           -p:PlatformTarget=x64
           -p:GenerateDocumentationFile=false
           -p:DebugType=None
-          .\LiveSplit.sln
+          ..\LiveSplit.sln
