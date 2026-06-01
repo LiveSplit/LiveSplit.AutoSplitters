@@ -21041,6 +21041,18 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Relicta</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/ItsFrostyYo/RelictaASL/refs/heads/main/asl/Relicta.asl</URL>
+            <URL>https://raw.githubusercontent.com/ru-mii/uhara/main/bin/uhara10</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Start/Split/Reset (By Squark &amp; ItsFrosti)</Description>
+        <Website>https://github.com/ItsFrostyYo/RelictaASL/</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>The 7th Guest</Game>
         </Games>
         <URLs>
