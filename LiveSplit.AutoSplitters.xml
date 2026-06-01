@@ -21053,6 +21053,18 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Journey to the Savage Planet</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/ItsFrostyYo/JTTSPAutosplitter/refs/heads/main/asl/JTTSP.asl</URL>
+            <URL>https://raw.githubusercontent.com/ru-mii/uhara/main/bin/uhara10</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Start/Split/Reset and Load Removal (By ItsFrosti)</Description>
+        <Website>https://github.com/ItsFrostyYo/JTTSPAutosplitter</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>The 7th Guest</Game>
         </Games>
         <URLs>
