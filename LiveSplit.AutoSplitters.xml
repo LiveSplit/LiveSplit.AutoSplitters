@@ -14114,6 +14114,19 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Gassy GaoGao</Game>
+            <Game>がっしーがおがお</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/BunnyNabbit/stinky-splitter/releases/download/latest/stinky-splitter.wasm</URL>
+        </URLs>
+        <Type>Script</Type>
+        <ScriptType>AutoSplittingRuntime</ScriptType>
+        <Description>Auto-start, auto-reset, auto-split and in-game time for version 1.32. (by BunnyNabbit “Aon”)</Description>
+        <Website>https://gassy-gaogao.bunnynabbit.com/wiki/Speedrunning_resources#LiveSplit</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Sonic Triple Trouble</Game>
         </Games>
         <URLs>
