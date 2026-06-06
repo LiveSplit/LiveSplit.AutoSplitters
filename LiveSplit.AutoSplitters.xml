@@ -21064,6 +21064,17 @@
         <Description>Start/Split/Reset and Cutscene Time Removal (By ItsFrosti &amp; Okia)</Description>
         <Website>https://github.com/ItsFrostyYo/Subnautica2Autosplitter</Website>
     </AutoSplitter>
+     <AutoSplitter>
+        <Games>
+            <Game>The 7th Guest Remake</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/iamJaffra/ASLs/refs/heads/main/T7GVR.asl</URL>
+            <URL>https://raw.githubusercontent.com/ru-mii/uhara/main/bin/uhara10</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and Load Removal available (by Jaffra)</Description>
+    </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>Relicta</Game>
