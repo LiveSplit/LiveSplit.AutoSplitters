@@ -29198,4 +29198,14 @@
         <Description>Game Time and Autosplitter available (by SunglassesEmoji)</Description>
         <Website>https://github.com/cccarl/bubsy-4d-autosplitter</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>LEGO Batman: Legacy of the Dark Knight</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Siedemnastek/Autosplitter/main/LOTDK.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Removal is available. (By Siedemnastek)</Description>
+    </AutoSplitter>
 </AutoSplitters>
