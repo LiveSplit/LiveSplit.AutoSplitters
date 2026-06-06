@@ -21034,6 +21034,7 @@
         <URLs>
             <URL>https://raw.githubusercontent.com/ItsFrostyYo/Subnautica2Autosplitter/main/asl/Subnautica2.asl</URL>
             <URL>https://raw.githubusercontent.com/ru-mii/uhara/main/bin/uhara10</URL>
+            <URL>https://raw.githubusercontent.com/ItsFrostyYo/uhara/main/bin/uharaSN2</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Start/Split/Reset and Cutscene Time Removal (By ItsFrosti &amp; Okia)</Description>
