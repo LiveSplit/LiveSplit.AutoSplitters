@@ -29188,6 +29188,18 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Bubsy 4D</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/cccarl/bubsy-4d-autosplitter/releases/download/latest/bubsy_4d_autosplitter.wasm</URL>
+        </URLs>
+        <Type>Script</Type>
+        <ScriptType>AutoSplittingRuntime</ScriptType>
+        <Description>Game Time and Autosplitter available (by SunglassesEmoji)</Description>
+        <Website>https://github.com/cccarl/bubsy-4d-autosplitter</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>LEGO Batman: Legacy of the Dark Knight</Game>
         </Games>
         <URLs>
