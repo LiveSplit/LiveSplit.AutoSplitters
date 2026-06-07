@@ -29219,4 +29219,15 @@
         <Type>Script</Type>
         <Description>Load Removal is available. (By Siedemnastek)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Librarian: Tidy Up the Arcane Library!</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/asd9176506911298/LiveSplit-ASL/refs/heads/main/Librarian_Tidy_Up_the_Arcane_Library.asl</URL>
+            <URL>https://github.com/ru-mii/uhara/raw/refs/heads/main/bin/uhara10</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Start, Reset (by Yuki.kaco)</Description>
+    </AutoSplitter>
 </AutoSplitters>
