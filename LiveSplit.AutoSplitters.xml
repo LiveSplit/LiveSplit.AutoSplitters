@@ -2,6 +2,17 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Fading Echo</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Fading%20Echo/LiveSplit.FadingEcho.asl</URL>
+            <URL>https://github.com/ru-mii/uhara/raw/refs/heads/main/bin/uhara10</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Remover, Autosplitting, Autostart and Autoreset by Streetbackguy</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Quartet</Game>
         </Games>
         <URLs>
@@ -14114,6 +14125,19 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Gassy GaoGao</Game>
+            <Game>がっしーがおがお</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/BunnyNabbit/stinky-splitter/releases/download/latest/stinky-splitter.wasm</URL>
+        </URLs>
+        <Type>Script</Type>
+        <ScriptType>AutoSplittingRuntime</ScriptType>
+        <Description>Auto-start, auto-reset, auto-split and in-game time for version 1.32. (by BunnyNabbit “Aon”)</Description>
+        <Website>https://gassy-gaogao.bunnynabbit.com/wiki/Speedrunning_resources#LiveSplit</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Sonic Triple Trouble</Game>
         </Games>
         <URLs>
@@ -21039,6 +21063,17 @@
         <Type>Script</Type>
         <Description>Start/Split/Reset and Cutscene Time Removal (By ItsFrosti &amp; Okia)</Description>
         <Website>https://github.com/ItsFrostyYo/Subnautica2Autosplitter</Website>
+    </AutoSplitter>
+     <AutoSplitter>
+        <Games>
+            <Game>The 7th Guest Remake</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/iamJaffra/ASLs/refs/heads/main/T7GVR.asl</URL>
+            <URL>https://raw.githubusercontent.com/ru-mii/uhara/main/bin/uhara10</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and Load Removal available (by Jaffra)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -28634,17 +28669,6 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
-            <Game>Plants vs. Zombies Replanted</Game>
-        </Games>
-        <URLs>
-            <URL>https://raw.githubusercontent.com/berrimeow/PvZ-Replanted-autosplit/refs/heads/main/PvZ_Replanted.asl</URL>
-        </URLs>
-        <Type>Script</Type>
-        <Description>Load removal for Plants vs. Zombies Replanted</Description>
-        <Website>https://discord.gg/R8tPmjs</Website>
-    </AutoSplitter>
-    <AutoSplitter>
-        <Games>
             <Game>Amanda the Adventurer 3</Game>
         </Games>
         <URLs>
@@ -29172,5 +29196,38 @@
         <Type>Script</Type>
         <Description>AutoSplitter for Total Chaos 2025</Description>
         <Website>https://github.com/Wastelander1402/LiveSplit.TotalChaos2025</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Bubsy 4D</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/cccarl/bubsy-4d-autosplitter/releases/download/latest/bubsy_4d_autosplitter.wasm</URL>
+        </URLs>
+        <Type>Script</Type>
+        <ScriptType>AutoSplittingRuntime</ScriptType>
+        <Description>Game Time and Autosplitter available (by SunglassesEmoji)</Description>
+        <Website>https://github.com/cccarl/bubsy-4d-autosplitter</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>LEGO Batman: Legacy of the Dark Knight</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Siedemnastek/Autosplitter/main/LOTDK.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Removal is available. (By Siedemnastek)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Librarian: Tidy Up the Arcane Library!</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/asd9176506911298/LiveSplit-ASL/refs/heads/main/Librarian_Tidy_Up_the_Arcane_Library.asl</URL>
+            <URL>https://github.com/ru-mii/uhara/raw/refs/heads/main/bin/uhara10</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Start, Reset (by Yuki.kaco)</Description>
     </AutoSplitter>
 </AutoSplitters>
