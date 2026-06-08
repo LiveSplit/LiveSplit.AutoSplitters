@@ -29230,4 +29230,15 @@
         <Type>Script</Type>
         <Description>Auto Start, Reset (by Yuki.kaco)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Vividerie</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/sam0x2b/vivirun/releases/latest/download/vivirun.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start, configurable reset. Provides in-game time. Splits at every room, including boss chambers. (By Sam Pazur)</Description>
+        <Website>https://github.com/sam0x2b/vivirun</Website>
+    </AutoSplitter>
 </AutoSplitters>
