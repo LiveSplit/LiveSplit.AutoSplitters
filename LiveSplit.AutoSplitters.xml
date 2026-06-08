@@ -3754,13 +3754,14 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
-            <Game>Luna Abyss (Demo)</Game>
+            <Game>Luna Abyss</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/LiterallyMetaphorical/LunaAbyss/main/LunaAbyss.asl</URL>
+            <URL>https://raw.githubusercontent.com/Nikoheartttv/Autosplitters/refs/heads/main/Luna%20Abyss/LunaAbyss.asl</URL>
+            <URL>https://github.com/ru-mii/uhara/raw/refs/heads/main/bin/uhara10</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load Remover &amp; Autosplitter Written By Nikoheart &amp; Meta</Description>
+        <Description>Autostart, Autosplit and Autoreset by Nikoheart</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
