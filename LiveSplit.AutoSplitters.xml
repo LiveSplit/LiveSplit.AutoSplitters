@@ -11768,7 +11768,7 @@
             <URL>https://github.com/Jujstme/emu-help/raw/master/lib/emu-help-v2</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto Splitting and Auto Start/Reset are available on GSR. (By Hwangbro)</Description>
+        <Description>Auto Splitting and Auto Start/Reset are available on GSE. (By Hwangbro)</Description>
         <Website>https://github.com/hwangbro/ASLScripts/tree/master/LiveSplit.PkmnTCG</Website>
     </AutoSplitter>
     <AutoSplitter>
@@ -11785,7 +11785,7 @@
             <URL>https://github.com/Jujstme/emu-help/raw/master/lib/emu-help-v2</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto Splitting and Auto Start/Reset are available on GSR. (By Spiraster/Hwangbro)</Description>
+        <Description>Auto Splitting and Auto Start/Reset are available on GSE. (By Spiraster/Hwangbro)</Description>
         <Website>https://github.com/hwangbro/ASLScripts/tree/master/LiveSplit.PkmnRed</Website>
     </AutoSplitter>
     <AutoSplitter>
@@ -11802,7 +11802,7 @@
             <URL>https://github.com/Jujstme/emu-help/raw/master/lib/emu-help-v2</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto Splitting and Auto Start/Reset are available on GSR. (By Hwangbro)</Description>
+        <Description>Auto Splitting and Auto Start/Reset are available on GSE. (By Hwangbro)</Description>
         <Website>https://github.com/hwangbro/ASLScripts/tree/master/LiveSplit.PkmnRed</Website>
     </AutoSplitter>
     <AutoSplitter>
@@ -11817,7 +11817,7 @@
             <URL>https://github.com/Jujstme/emu-help/raw/master/lib/emu-help-v2</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto Splitting and Auto Start/Reset are available on GSR. (By Hwangbro)</Description>
+        <Description>Auto Splitting and Auto Start/Reset are available on GSE. (By Hwangbro)</Description>
         <Website>https://github.com/hwangbro/ASLScripts/tree/master/LiveSplit.PkmnRed%2B%2B</Website>
     </AutoSplitter>
     <AutoSplitter>
@@ -11830,7 +11830,7 @@
             <URL>https://github.com/Jujstme/emu-help/raw/master/lib/emu-help-v2</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto Splitting and Auto Start/Reset are available on GSR. (By Hwangbro)</Description>
+        <Description>Auto Splitting and Auto Start/Reset are available on GSE. (By Hwangbro)</Description>
         <Website>https://github.com/hwangbro/ASLScripts/tree/master/LiveSplit.PkmnYellow</Website>
     </AutoSplitter>
     <AutoSplitter>
@@ -11847,7 +11847,7 @@
             <URL>https://github.com/Jujstme/emu-help/raw/master/lib/emu-help-v2</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto Splitting is available on GSR. (By Hwangbro)</Description>
+        <Description>Auto Splitting is available on GSE. (By Hwangbro)</Description>
         <Website>https://github.com/hwangbro/ASLScripts/tree/master/LiveSplit.PkmnGold</Website>
     </AutoSplitter>
     <AutoSplitter>
@@ -11860,7 +11860,7 @@
             <URL>https://github.com/Jujstme/emu-help/raw/master/lib/emu-help-v2</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto Splitting is available on GSR. (By Hwangbro)</Description>
+        <Description>Auto Splitting is available on GSE. (By Hwangbro)</Description>
         <Website>https://github.com/hwangbro/ASLScripts/tree/master/LiveSplit.PkmnCrystal</Website>
     </AutoSplitter>
     <AutoSplitter>
@@ -11873,7 +11873,7 @@
             <URL>https://github.com/Jujstme/emu-help/raw/master/lib/emu-help-v2</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto Splitting is available on GSR/mGBA. (By Hwangbro)</Description>
+        <Description>Auto Splitting is available on GSE/mGBA. (By Hwangbro)</Description>
         <Website>https://github.com/hwangbro/ASLScripts/tree/master/LiveSplit.PkmnFRLG</Website>
     </AutoSplitter>
     <AutoSplitter>
@@ -13812,7 +13812,7 @@
             <URL>https://raw.githubusercontent.com/hwangbro/ASLScripts/master/LiveSplit.SML2/LiveSplit.SML2.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto Splitting and Auto Start/Reset are available on GSR. (By Hwangbro)</Description>
+        <Description>Auto Splitting and Auto Start/Reset are available on gambattte-speedrun. (By Hwangbro)</Description>
         <Website>https://github.com/hwangbro/ASLScripts/tree/master/LiveSplit.SML2</Website>
     </AutoSplitter>
     <AutoSplitter>
@@ -20596,7 +20596,7 @@
             <URL>https://github.com/Jujstme/emu-help/raw/master/lib/emu-help-v2</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto Splitting is available on GSR/mGBA. (By Hwangbro)</Description>
+        <Description>Auto Splitting is available on GSE/mGBA. (By Hwangbro)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -20614,7 +20614,7 @@
             <URL>https://github.com/Jujstme/emu-help/raw/master/lib/emu-help-v2</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto Splitting is available on GSR/mGBA. (By Hwangbro)</Description>
+        <Description>Auto Splitting is available on GSE/mGBA. (By Hwangbro)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
