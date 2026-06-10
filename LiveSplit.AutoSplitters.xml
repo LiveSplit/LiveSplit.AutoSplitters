@@ -23428,11 +23428,20 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
-            <Game>Gothic Remake</Game>
-            <Game>Nyras Prologue</Game>
+            <Game>Gothic 1 Remake</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/iamJaffra/ASLs/refs/heads/main/G1R.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Automatic Start/Reset/Split and Load Removal available (by Jaffra)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Nyras Prologue</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/iamJaffra/ASLs/refs/heads/main/G1R_NyrasPrologue.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Automatic Start/Reset/Split and Load Removal available (by Jaffra)</Description>
