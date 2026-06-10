@@ -2373,6 +2373,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>MOTORSLICE</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/flyingwaff1e/AutoSplitter/refs/heads/main/MotorSlice.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Starts automatically. Split settings are available. (by Waff1e)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Championsheep Rally</Game>
         </Games>
         <URLs>
