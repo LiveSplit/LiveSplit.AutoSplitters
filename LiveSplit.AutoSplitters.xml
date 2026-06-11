@@ -28025,10 +28025,12 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>FLESHCANCER</Game>
+            <Game>BRAZILIAN DRUG DEALER BEFORE 4</Game>
             <Game>BRAZILIAN DRUG DEALER 3</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/aut0mat1clol/Livesplit.BDD3/refs/heads/main/bdd3.asl</URL>
+            <URL>https://raw.githubusercontent.com/aut0mat1clol/Livesplit.BDD3/refs/heads/main/UltimateBDD.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitter and Loadremover is available (by aut0mat1clol)</Description>
