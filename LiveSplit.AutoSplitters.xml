@@ -29272,4 +29272,15 @@
         <Description>Auto start, configurable reset. Provides in-game time. Splits at every room, including boss chambers. (By Sam Pazur)</Description>
         <Website>https://github.com/sam0x2b/vivirun</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Dreamworks Dragons: Wild Skies</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/luis-rochoso/Wild-Skies-Autosplitter/blob/10f664b4ec7281d72b8bbfac5da89278d23c8d03/WildSkies.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto splits and removes loading times in Wild Skies Any% (Made by Rochoso)</Description>
+        <Website>https://github.com/luis-rochoso/Wild-Skies-Autosplitter</Website>
+    </AutoSplitter>
 </AutoSplitters>
