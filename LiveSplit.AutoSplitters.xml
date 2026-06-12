@@ -17347,6 +17347,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>A Fox Tale</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Mysterion06/A-Fox-Tale-Splitter/refs/heads/main/A-Fox-Tale_Splitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autsplitter by Mysterion352</Description>
+        <Website>https://github.com/Mysterion06/A-Fox-Tale-Splitter/blob/main/README.md</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>GTA2</Game>
             <Game>GTA 2</Game>
             <Game>Grand Theft Auto 2</Game>
