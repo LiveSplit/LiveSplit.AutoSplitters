@@ -350,17 +350,6 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
-            <Game>I Wanna Be the Guy: Gaiden</Game>
-        </Games>
-        <URLs>
-            <URL>https://raw.githubusercontent.com/ACrowIAm/LiveSplit-Auto-Splitters/refs/heads/main/LiveSplit.IWBTGG.asl</URL>
-        </URLs>
-        <Type>Script</Type>
-        <Description>(v1.0) Auto Splitter (Made By ACrowIAm)</Description>
-        <Website>https://github.com/ACrowIAm</Website>
-    </AutoSplitter>
-    <AutoSplitter>
-        <Games>
             <Game>Kiki</Game>
         </Games>
         <URLs>
