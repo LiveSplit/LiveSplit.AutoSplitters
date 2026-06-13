@@ -2,6 +2,17 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Killer Bean</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Killer%20Bean/LiveSplit.KillerBean.asl</URL>
+            <URL>https://github.com/ru-mii/uhara/raw/refs/heads/main/bin/uhara10</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Remover and Autostart by Streetbackguy</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Fading Echo</Game>
         </Games>
         <URLs>
@@ -335,17 +346,6 @@
         </URLs>
         <Type>Script</Type>
         <Description>(FS) and (Slo Mo) Auto Splitter (Made By ACrowIAm)</Description>
-        <Website>https://github.com/ACrowIAm</Website>
-    </AutoSplitter>
-    <AutoSplitter>
-        <Games>
-            <Game>I Wanna Be the Guy: Gaiden</Game>
-        </Games>
-        <URLs>
-            <URL>https://raw.githubusercontent.com/ACrowIAm/LiveSplit-Auto-Splitters/refs/heads/main/LiveSplit.IWBTGG.asl</URL>
-        </URLs>
-        <Type>Script</Type>
-        <Description>(v1.0) Auto Splitter (Made By ACrowIAm)</Description>
         <Website>https://github.com/ACrowIAm</Website>
     </AutoSplitter>
     <AutoSplitter>
@@ -2362,6 +2362,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>MOTORSLICE</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/flyingwaff1e/AutoSplitter/refs/heads/main/MotorSlice.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Starts automatically. Split settings are available. (by Waff1e)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Championsheep Rally</Game>
         </Games>
         <URLs>
@@ -3743,13 +3753,14 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
-            <Game>Luna Abyss (Demo)</Game>
+            <Game>Luna Abyss</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/LiterallyMetaphorical/LunaAbyss/main/LunaAbyss.asl</URL>
+            <URL>https://raw.githubusercontent.com/Nikoheartttv/Autosplitters/refs/heads/main/Luna%20Abyss/LunaAbyss.asl</URL>
+            <URL>https://github.com/ru-mii/uhara/raw/refs/heads/main/bin/uhara10</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load Remover &amp; Autosplitter Written By Nikoheart &amp; Meta</Description>
+        <Description>Autostart, Autosplit and Autoreset by Nikoheart</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -11756,7 +11767,7 @@
             <URL>https://github.com/Jujstme/emu-help/raw/master/lib/emu-help-v2</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto Splitting and Auto Start/Reset are available on GSR. (By Hwangbro)</Description>
+        <Description>Auto Splitting and Auto Start/Reset are available on GSE. (By Hwangbro)</Description>
         <Website>https://github.com/hwangbro/ASLScripts/tree/master/LiveSplit.PkmnTCG</Website>
     </AutoSplitter>
     <AutoSplitter>
@@ -11773,7 +11784,7 @@
             <URL>https://github.com/Jujstme/emu-help/raw/master/lib/emu-help-v2</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto Splitting and Auto Start/Reset are available on GSR. (By Spiraster/Hwangbro)</Description>
+        <Description>Auto Splitting and Auto Start/Reset are available on GSE. (By Spiraster/Hwangbro)</Description>
         <Website>https://github.com/hwangbro/ASLScripts/tree/master/LiveSplit.PkmnRed</Website>
     </AutoSplitter>
     <AutoSplitter>
@@ -11790,7 +11801,7 @@
             <URL>https://github.com/Jujstme/emu-help/raw/master/lib/emu-help-v2</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto Splitting and Auto Start/Reset are available on GSR. (By Hwangbro)</Description>
+        <Description>Auto Splitting and Auto Start/Reset are available on GSE. (By Hwangbro)</Description>
         <Website>https://github.com/hwangbro/ASLScripts/tree/master/LiveSplit.PkmnRed</Website>
     </AutoSplitter>
     <AutoSplitter>
@@ -11805,7 +11816,7 @@
             <URL>https://github.com/Jujstme/emu-help/raw/master/lib/emu-help-v2</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto Splitting and Auto Start/Reset are available on GSR. (By Hwangbro)</Description>
+        <Description>Auto Splitting and Auto Start/Reset are available on GSE. (By Hwangbro)</Description>
         <Website>https://github.com/hwangbro/ASLScripts/tree/master/LiveSplit.PkmnRed%2B%2B</Website>
     </AutoSplitter>
     <AutoSplitter>
@@ -11818,7 +11829,7 @@
             <URL>https://github.com/Jujstme/emu-help/raw/master/lib/emu-help-v2</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto Splitting and Auto Start/Reset are available on GSR. (By Hwangbro)</Description>
+        <Description>Auto Splitting and Auto Start/Reset are available on GSE. (By Hwangbro)</Description>
         <Website>https://github.com/hwangbro/ASLScripts/tree/master/LiveSplit.PkmnYellow</Website>
     </AutoSplitter>
     <AutoSplitter>
@@ -11835,7 +11846,7 @@
             <URL>https://github.com/Jujstme/emu-help/raw/master/lib/emu-help-v2</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto Splitting is available on GSR. (By Hwangbro)</Description>
+        <Description>Auto Splitting is available on GSE. (By Hwangbro)</Description>
         <Website>https://github.com/hwangbro/ASLScripts/tree/master/LiveSplit.PkmnGold</Website>
     </AutoSplitter>
     <AutoSplitter>
@@ -11848,7 +11859,7 @@
             <URL>https://github.com/Jujstme/emu-help/raw/master/lib/emu-help-v2</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto Splitting is available on GSR. (By Hwangbro)</Description>
+        <Description>Auto Splitting is available on GSE. (By Hwangbro)</Description>
         <Website>https://github.com/hwangbro/ASLScripts/tree/master/LiveSplit.PkmnCrystal</Website>
     </AutoSplitter>
     <AutoSplitter>
@@ -11861,7 +11872,7 @@
             <URL>https://github.com/Jujstme/emu-help/raw/master/lib/emu-help-v2</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto Splitting is available on GSR/mGBA. (By Hwangbro)</Description>
+        <Description>Auto Splitting is available on GSE/mGBA. (By Hwangbro)</Description>
         <Website>https://github.com/hwangbro/ASLScripts/tree/master/LiveSplit.PkmnFRLG</Website>
     </AutoSplitter>
     <AutoSplitter>
@@ -13800,7 +13811,7 @@
             <URL>https://raw.githubusercontent.com/hwangbro/ASLScripts/master/LiveSplit.SML2/LiveSplit.SML2.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto Splitting and Auto Start/Reset are available on GSR. (By Hwangbro)</Description>
+        <Description>Auto Splitting and Auto Start/Reset are available on gambattte-speedrun. (By Hwangbro)</Description>
         <Website>https://github.com/hwangbro/ASLScripts/tree/master/LiveSplit.SML2</Website>
     </AutoSplitter>
     <AutoSplitter>
@@ -17336,6 +17347,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>A Fox Tale</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Mysterion06/A-Fox-Tale-Splitter/refs/heads/main/A-Fox-Tale_Splitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autsplitter by Mysterion352</Description>
+        <Website>https://github.com/Mysterion06/A-Fox-Tale-Splitter/blob/main/README.md</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>GTA2</Game>
             <Game>GTA 2</Game>
             <Game>Grand Theft Auto 2</Game>
@@ -20584,7 +20606,7 @@
             <URL>https://github.com/Jujstme/emu-help/raw/master/lib/emu-help-v2</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto Splitting is available on GSR/mGBA. (By Hwangbro)</Description>
+        <Description>Auto Splitting is available on GSE/mGBA. (By Hwangbro)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -20602,7 +20624,7 @@
             <URL>https://github.com/Jujstme/emu-help/raw/master/lib/emu-help-v2</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto Splitting is available on GSR/mGBA. (By Hwangbro)</Description>
+        <Description>Auto Splitting is available on GSE/mGBA. (By Hwangbro)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -23416,11 +23438,20 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
-            <Game>Gothic Remake</Game>
-            <Game>Nyras Prologue</Game>
+            <Game>Gothic 1 Remake</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/iamJaffra/ASLs/refs/heads/main/G1R.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Automatic Start/Reset/Split and Load Removal available (by Jaffra)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Nyras Prologue</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/iamJaffra/ASLs/refs/heads/main/G1R_NyrasPrologue.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Automatic Start/Reset/Split and Load Removal available (by Jaffra)</Description>
@@ -27994,10 +28025,12 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>FLESHCANCER</Game>
+            <Game>BRAZILIAN DRUG DEALER BEFORE 4</Game>
             <Game>BRAZILIAN DRUG DEALER 3</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/aut0mat1clol/Livesplit.BDD3/refs/heads/main/bdd3.asl</URL>
+            <URL>https://raw.githubusercontent.com/aut0mat1clol/Livesplit.BDD3/refs/heads/main/UltimateBDD.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitter and Loadremover is available (by aut0mat1clol)</Description>
@@ -29229,5 +29262,27 @@
         </URLs>
         <Type>Script</Type>
         <Description>Auto Start, Reset (by Yuki.kaco)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Vividerie</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/sam0x2b/vivirun/releases/latest/download/vivirun.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start, configurable reset. Provides in-game time. Splits at every room, including boss chambers. (By Sam Pazur)</Description>
+        <Website>https://github.com/sam0x2b/vivirun</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Dreamworks Dragons: Wild Skies</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/luis-rochoso/Wild-Skies-Autosplitter/refs/heads/main/WildSkies.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto splits and removes loading times in Wild Skies Any% (Made by Rochoso)</Description>
+        <Website>https://github.com/luis-rochoso/Wild-Skies-Autosplitter</Website>
     </AutoSplitter>
 </AutoSplitters>
