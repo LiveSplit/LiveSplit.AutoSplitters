@@ -21123,6 +21123,18 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Object Impermanence</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/ItsFrostyYo/ObjectImpermanenceASL/main/asl/ObjectImpermanence.asl</URL>
+            <URL>https://raw.githubusercontent.com/ItsFrostyYo/ObjectImpermanenceASL/main/Components/uhara10</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Start/Split/Reset and Load Removal (By ItsFrosti &amp; Jura)</Description>
+        <Website>https://github.com/ItsFrostyYo/ObjectImpermanenceASL</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>The 7th Guest</Game>
         </Games>
         <URLs>
