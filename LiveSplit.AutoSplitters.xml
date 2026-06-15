@@ -28840,6 +28840,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>SPRAWL Zero</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/aut0mat1clol/AutoSplitters/refs/heads/main/SprawlZero.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and Load Remover is available (by aut0mat1clol)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Wars and Warriors: Joan of Arc</Game>
         </Games>
         <URLs>
