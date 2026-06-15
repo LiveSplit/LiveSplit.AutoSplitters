@@ -29308,4 +29308,15 @@
         <Description>Auto splits and removes loading times in Wild Skies Any% (Made by Rochoso)</Description>
         <Website>https://github.com/luis-rochoso/Wild-Skies-Autosplitter</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>BAIONLENJA</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/asd9176506911298/LiveSplit-ASL/refs/heads/main/BAIONLENJA.asl</URL>
+            <URL>https://github.com/ru-mii/uhara/raw/refs/heads/main/bin/uhara10</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Start, Reset (by Yuki.kaco)</Description>
+    </AutoSplitter>
 </AutoSplitters>
