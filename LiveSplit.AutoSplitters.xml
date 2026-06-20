@@ -20484,6 +20484,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Enotria: The Last Song</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Fxyzzz/Enotria-The-Last-Song-Autosplitter/main/Enotria_The_Last_Song_Autosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and Load Removed Time for PC. (by Fxyz)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>The Adventures of Elena Temple</Game>
         </Games>
         <URLs>
