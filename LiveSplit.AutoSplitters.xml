@@ -2,6 +2,16 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>007 First Light</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/saJoats/007FirstLight_AutoSplit/refs/heads/main/007FirstLight.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Remove, Autostart, Autopause, Full game and IL mode by Joats</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Killer Bean</Game>
         </Games>
         <URLs>
