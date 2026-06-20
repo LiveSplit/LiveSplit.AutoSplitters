@@ -2948,7 +2948,6 @@
     <AutoSplitter>
         <Games>
             <Game>Enotria: The Last Song (Demo)</Game>
-            <Game>Enotria: The Last Song</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Enotria%3A%20The%20Last%20Song/LiveSplit.EnotriaTheLastSongDemo.asl</URL>
@@ -20481,6 +20480,16 @@
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitter and IGT for Steam and GOG versions of the game (by Fxyz)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Enotria: The Last Song</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Fxyzzz/Enotria-The-Last-Song-Autosplitter/main/Enotria_The_Last_Song_Autosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and Load Removed Time for PC. (by Fxyz)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
