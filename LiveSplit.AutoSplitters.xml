@@ -2,6 +2,26 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Schrodinger's Cat Burglar</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Just-Ashley/Schrodinger-s-Cat-Burglar-AutoSplitter/refs/heads/main/SCB(cat).asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>IGT, Resetting, and Auto Start by JustAshley</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Arrow's Way</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Just-Ashley/Arrow-s-Way-IGT/refs/heads/main/arrowsway.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>IGT, Reset, and Start by JustAshley</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>007 First Light</Game>
         </Games>
         <URLs>
