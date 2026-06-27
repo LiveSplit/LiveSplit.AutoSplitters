@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
     <AutoSplitter>
+        <Games>
+            <Game>Darksy&apos;s Adventure</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Darksy&apos;s%20Adventure/LiveSplit.DarksysAdventure.asl</URL>
+            <URL>https://github.com/ero-qt/asl-help/raw/9a17c5ec7108aba1fe1932358703f4e6adaa6b2c/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>AutoSplit and Load Removal by Streetbackguy</Description>
+    </AutoSplitter>
+    <AutoSplitter>
       <Games>
         <Game>Burglin' Gnomes</Game>
       </Games>
