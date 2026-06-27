@@ -2,6 +2,16 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Compress(space)</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Just-Ashley/Compress-space-AutoSplitter/refs/heads/main/CompressSpace.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start, split, reset, and pause by JustAshley</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Darksy&apos;s Adventure</Game>
         </Games>
         <URLs>
