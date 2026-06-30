@@ -28273,6 +28273,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Quadrilateral Cowboy</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/artisiole/quadrilateral-cowboy-autosplitter/refs/heads/main/quadcow.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and load remover available (by artisiole)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Final Fantasy</Game>
         </Games>
         <URLs>
