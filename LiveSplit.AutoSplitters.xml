@@ -29403,4 +29403,16 @@
         <Type>Script</Type>
         <Description>Auto Start, Reset (by Yuki.kaco)</Description>
     </AutoSplitter>
+      <AutoSplitter>
+    <Games>
+        <Game>Tomb Raider: Lost and Found (TRLE)</Game>
+        <Game>Tomb Raider Level Editor - Lost And Found</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/OwlLukas/Components/main/Tomb%20Raider%20Level%20Editor%20-%20Lost%20And%20Found/Components/TRLELostAndFoundv4.dll</URL>
+    </URLs>
+    <Type>Component</Type>
+    <Description>Start, Split and Settings by OwlLukas</Description>
+    <Website>https://github.com/OwlLukas/Components/tree/main/Tomb%20Raider%20Level%20Editor%20-%20Lost%20And%20Found</Website>
+  </AutoSplitter>
 </AutoSplitters>
