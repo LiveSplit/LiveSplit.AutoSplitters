@@ -2,6 +2,18 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Bloons TD6</Game>
+            <Game>Bloons Tower Defense 6</Game>
+            <Game>BTD6</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Just-Ashley/BTD6-asl/refs/heads/main/BTD6.asl</URL>
+        </URLs>
+        <Type>Script<Type>
+        <Description>Auto start, split, reset, and IGT by JustAshley for the Speedrun mod</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Compress(space)</Game>
         </Games>
         <URLs>
