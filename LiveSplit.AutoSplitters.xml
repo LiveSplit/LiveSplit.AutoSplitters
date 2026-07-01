@@ -9,7 +9,7 @@
         <URLs>
             <URL>https://raw.githubusercontent.com/Just-Ashley/BTD6-asl/refs/heads/main/BTD6.asl</URL>
         </URLs>
-        <Type>Script<Type>
+        <Type>Script</Type>
         <Description>Auto start, split, reset, and IGT by JustAshley for the Speedrun mod</Description>
     </AutoSplitter>
     <AutoSplitter>
