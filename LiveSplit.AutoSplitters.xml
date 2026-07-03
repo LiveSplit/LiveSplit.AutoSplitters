@@ -22093,9 +22093,7 @@
             <Game>Dark Souls Remastered</Game>
             <Game>Dark Souls: Remastered</Game>
             <Game>Dark Souls III</Game>
-            <Game>Dark Souls 3</Game>
-            <Game>Sekiro</Game>
-            <Game>Sekiro: Shadows Die Twice</Game>
+            <Game>Dark Souls 3</Game>            
             <Game>Elden Ring</Game>
             <Game>Armored Core 6</Game>
             <Game>Armored Core VI: Fires of Rubicon</Game>
@@ -22120,6 +22118,8 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Sekiro</Game>
+            <Game>Sekiro: Shadows Die Twice</Game>
             <Game>Bloodborne</Game>
             <Game>Elden Ring Nightreign</Game>
         </Games>
