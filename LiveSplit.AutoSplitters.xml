@@ -9754,12 +9754,12 @@
             <Game>Silent Hill</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/BoredOfSpeedruns/Silent-Hill-1-Autosplitter/main/Silent_Hill_1.asl</URL>
+            <URL>https://raw.githubusercontent.com/minmodev/Silent-Hill-1-Autosplitter/main/Silent_Hill_1.asl</URL>
             <URL>https://github.com/Jujstme/emu-help/raw/master/lib/emu-help-v2</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>IGT AutoSplitter for Silent Hill 1 on Duckstation and ePSXe (By BoredOfSpeedruns)</Description>
-        <Website>https://github.com/BoredOfSpeedruns/Silent-Hill-1-Autosplitter</Website>
+        <Description>IGT AutoSplitter for Silent Hill 1 on Duckstation and ePSXe (By minmodev)</Description>
+        <Website>https://github.com/minmodev/Silent-Hill-1-Autosplitter</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -9802,10 +9802,10 @@
             <Game>Silent Hill 3 (PC)</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/BoredOfSpeedruns/SH3-mRTA-Autosplitter/main/Silent_Hill_3_mRTA.asl</URL>
+            <URL>https://raw.githubusercontent.com/minmodev/SH3-mRTA-Autosplitter/main/Silent_Hill_3_mRTA.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Modified RTA AutoSplitter. (By BoredOfSpeedruns, based on the script by Gatorjuick and OpaqueGlassJar)</Description>
+        <Description>Modified RTA AutoSplitter. (By minmodev, based on the script by Gatorjuick and OpaqueGlassJar)</Description>
         <Website>https://github.com/SuiMachine/LiveSplit.ASLScripts</Website>
     </AutoSplitter>
     <AutoSplitter>
@@ -9814,11 +9814,11 @@
             <Game>Silent Hill: Origins</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/BoredOfSpeedruns/Silent-Hill-0rigins-Autosplitter/main/Silent_Hill_0rigins.asl</URL>
+            <URL>https://raw.githubusercontent.com/minmodev/Silent-Hill-0rigins-Autosplitter/main/Silent_Hill_0rigins.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>IGT AutoSplitter for Silent Hill 0rigins on PPSSPP (By BoredOfSpeedruns)</Description>
-        <Website>https://github.com/BoredOfSpeedruns/Silent-Hill-0rigins-Autosplitter</Website>
+        <Description>IGT AutoSplitter for Silent Hill 0rigins on PPSSPP (By minmodev)</Description>
+        <Website>https://github.com/minmodev/Silent-Hill-0rigins-Autosplitter</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -29074,10 +29074,10 @@
             <Game>Dark Cloud</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/boredofspeedruns/DarkCloudLRT/refs/heads/main/DarkCloud.asl</URL>
+            <URL>https://raw.githubusercontent.com/minmodev/DarkCloudLRT/refs/heads/main/DarkCloud.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Dark Cloud LRT Autosplitter (PCSX2 1.7+) by boredofspeedruns and Nighlin</Description>
+        <Description>Dark Cloud LRT Autosplitter (PCSX2 1.7+) by minmodev and Nighlin</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -29287,44 +29287,44 @@
             <Game>Dragon Ball Z: Budokai</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/boredofspeedruns/dbz-load-removers/refs/heads/main/DBZ%20Budokai%201%20LRT.asl</URL>
+            <URL>https://raw.githubusercontent.com/minmodev/dbz-load-removers/refs/heads/main/DBZ%20Budokai%201%20LRT.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load Remover by Nighlin and boredofspeedruns </Description>
-        <Website>https://github.com/boredofspeedruns/dbz-load-removers</Website>
+        <Description>Load Remover by Nighlin and minmodev </Description>
+        <Website>https://github.com/minmodev/dbz-load-removers</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>Dragon Ball Z: Budokai 2</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/boredofspeedruns/dbz-load-removers/refs/heads/main/DBZ%20Budokai%202%20LRT.asl</URL>
+            <URL>https://raw.githubusercontent.com/minmodev/dbz-load-removers/refs/heads/main/DBZ%20Budokai%202%20LRT.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load Remover by Nighlin and boredofspeedruns </Description>
-        <Website>https://github.com/boredofspeedruns/dbz-load-removers</Website>
+        <Description>Load Remover by Nighlin and minmodev </Description>
+        <Website>https://github.com/minmodev/dbz-load-removers</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>Dragon Ball Z: Budokai 3</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/boredofspeedruns/dbz-load-removers/refs/heads/main/DBZ%20Budokai%203%20LRT.asl</URL>
+            <URL>https://raw.githubusercontent.com/minmodev/dbz-load-removers/refs/heads/main/DBZ%20Budokai%203%20LRT.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load Remover by Nighlin and boredofspeedruns </Description>
-        <Website>https://github.com/boredofspeedruns/dbz-load-removers</Website>
+        <Description>Load Remover by Nighlin and minmodev </Description>
+        <Website>https://github.com/minmodev/dbz-load-removers</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>Dragon Ball Z: Infinite World</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/boredofspeedruns/dbz-load-removers/refs/heads/main/DBZ%20Infinite%20World%20LRT.asl</URL>
+            <URL>https://raw.githubusercontent.com/minmodev/dbz-load-removers/refs/heads/main/DBZ%20Infinite%20World%20LRT.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load Remover by Nighlin and boredofspeedruns </Description>
-        <Website>https://github.com/boredofspeedruns/dbz-load-removers</Website>
+        <Description>Load Remover by Nighlin and minmodev </Description>
+        <Website>https://github.com/minmodev/dbz-load-removers</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
