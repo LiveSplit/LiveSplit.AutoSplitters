@@ -29437,4 +29437,15 @@
     <Description>Start, Split and Settings are available. (By OwlLukas)</Description>
     <Website>https://github.com/OwlLukas/Components/tree/main/Tomb%20Raider%20Level%20Editor%20-%20Lost%20And%20Found</Website>
   </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Crushed In Time</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Bitowsky1/crushedInTime_livesplit/refs/heads/main/crushedintime_any.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Automatically starts, splits and ends the run (by Bitowsky)</Description>
+        <Website>https://github.com/Bitowsky1/crushedInTime_livesplit/tree/main</Website>
+    </AutoSplitter>
 </AutoSplitters>
