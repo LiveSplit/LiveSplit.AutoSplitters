@@ -29458,4 +29458,16 @@
         <Type>Script</Type>
         <Description>Auto Start, Reset, Split (by Yuki.kaco)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Homura Hime</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Eveldee/HomuraHime-ASL/refs/heads/main/HomuraHime.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/9a17c5ec7108aba1fe1932358703f4e6adaa6b2c/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and load removal for Homura Hime (by Eveldee)</Description>
+        <Website>https://github.com/Eveldee/HomuraHime-ASL</Website>
+    </AutoSplitter>
 </AutoSplitters>
