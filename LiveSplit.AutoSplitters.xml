@@ -29471,4 +29471,15 @@
         <Description>Autosplitter and load removal for Homura Hime (by Eveldee)</Description>
         <Website>https://github.com/Eveldee/HomuraHime-ASL</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>The Adventures of Elliot: The Millennium Tales</Game>
+        </Games>
+        <URLs>
+            <URL>https://gist.githubusercontent.com/JaddoSRL/fc32a4a175089f6478939d8c16d65900/raw/AoE%2520Load%2520Remover.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Remover for Adventures of Elliot: TMT (by Jaddo)</Description>
+        <Website>https://gist.github.com/JaddoSRL/fc32a4a175089f6478939d8c16d65900</Website>
+    </AutoSplitter>
 </AutoSplitters>
