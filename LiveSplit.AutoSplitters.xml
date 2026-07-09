@@ -16264,11 +16264,11 @@
             <Game>Baba Is You</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/SophieFitz/ASLScripts/master/Livesplit.BabaIsYou/Livesplit.BabaIsYou.asl</URL>
+            <URL>https://raw.githubusercontent.com/Voxelse/ASLScripts/master/Livesplit.BabaIsYou/Livesplit.BabaIsYou.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto Start/Split (created by Voxelse, updated by SophieFitz)</Description>
-        <Website>https://github.com/SophieFitz/ASLScripts/tree/master/Livesplit.BabaIsYou</Website>
+        <Description>Auto Start/Split (by Voxelse)</Description>
+        <Website>https://github.com/Voxelse/ASLScripts/tree/master/Livesplit.BabaIsYou</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
