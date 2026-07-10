@@ -29494,4 +29494,16 @@
         <Description>Load Remover for Adventures of Elliot: TMT (by Jaddo)</Description>
         <Website>https://gist.github.com/JaddoSRL/fc32a4a175089f6478939d8c16d65900</Website>
     </AutoSplitter>
+        <AutoSplitter>
+        <Games>
+            <Game>Mina the Hollower</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/Rynon0147/MinaTheHollower-autosplitter/releases/download/latest/mina.wasm</URL>
+        </URLs>
+        <Type>Script</Type>
+        <ScriptType>AutoSplittingRuntime</ScriptType>
+        <Description>Autosplitting is available. (By Rynon0147 and SBDWolf)</Description>
+        <Website>https://github.com/Rynon0147/MinaTheHollower-autosplitter</Website>
+    </AutoSplitter>
 </AutoSplitters>
