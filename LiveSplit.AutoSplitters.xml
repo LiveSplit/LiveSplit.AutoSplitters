@@ -20341,6 +20341,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Brno Transit</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/thekovic/ASL-Autosplitters/main/BrnoTransit.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart and Game Time available (by the_kovic)</Description>
+        <Website>https://github.com/thekovic/ASL-Autosplitters</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Outer Wilds</Game>
             <Game>Outer Wilds Category Extensions</Game>
         </Games>
