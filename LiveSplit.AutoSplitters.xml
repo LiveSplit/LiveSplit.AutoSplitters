@@ -20930,16 +20930,6 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
-            <Game>Subnautica: Below Zero</Game>
-        </Games>
-        <URLs>
-            <URL>https://raw.githubusercontent.com/MisaRistolainen/SubnauticaZero-Autosplitter/master/SubnauticaZero_AutoSplitter.asl</URL>
-        </URLs>
-        <Type>Script</Type>
-        <Description>Autosplitter by Kainalo</Description>
-    </AutoSplitter>
-    <AutoSplitter>
-        <Games>
             <Game>Viscerafest</Game>
         </Games>
         <URLs>
@@ -21179,6 +21169,19 @@
         <Type>Component</Type>
         <Description>Subnautica Autosplitter and Portal Load Time Removal by Sprinter31</Description>
         <Website>https://github.com/Sprinter31/Subnautica_Autosplitter</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+    <Games>
+      <Game>Subnautica: Below Zero</Game>
+      <Game>Subnautica: Below Zero Category Extensions</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/ItsFrostyYo/BelowZero_Autosplitter/LiveSplit.BelowZero/Components/LiveSplit.BelowZero.dll</URL>
+      <URL>https://raw.githubusercontent.com/ItsFrostyYo/BelowZero_Autosplitter/LiveSplit.BelowZero/Components/BelowZero.Updates.xml</URL>
+    </URLs>
+    <Type>Component</Type>
+    <Description>Start/Split/Reset &amp; Conditions by ItsFrosti &amp: Sprinter31</Description>
+    <Website>https://github.com/ItsFrostyYo/BelowZero_Autosplitter</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
