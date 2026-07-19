@@ -1429,7 +1429,7 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/Nikoheartttv/Autosplitters/refs/heads/main/The%20Alters/TheAlters.asl</URL>
-            <URL>https://github.com/ero-qt/asl-help/raw/da804c285f35bd7ff8f532c94da99e69d9cb7eff/lib/asl-help</URL>
+            <URL>https://github.com/ru-mii/uhara/raw/refs/heads/main/bin/uhara10</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autostart, Autosplit and Load Removal by Nikoheart</Description>
@@ -20341,6 +20341,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Brno Transit</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/thekovic/ASL-Autosplitters/main/BrnoTransit.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart and Game Time available (by the_kovic)</Description>
+        <Website>https://github.com/thekovic/ASL-Autosplitters</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Outer Wilds</Game>
             <Game>Outer Wilds Category Extensions</Game>
         </Games>
@@ -25732,6 +25743,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Assassin's Creed Black Flag Resynced</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/TpRedNinja/Assassins-Creed-Autosplitters-and-loadremovers/refs/heads/main/AC4BFR.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>LoadRemover for Assassin's Creed Black Flag Resynced (by TpRedNinja)</Description>
+        <Website>https://github.com/TpRedNinja/Assassins-Creed-Autosplitters-and-loadremovers</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Assassin's Creed</Game>
         </Games>
         <URLs>
@@ -29482,5 +29504,17 @@
         <Type>Script</Type>
         <Description>Load Remover for Adventures of Elliot: TMT (by Jaddo)</Description>
         <Website>https://gist.github.com/JaddoSRL/fc32a4a175089f6478939d8c16d65900</Website>
+    </AutoSplitter>
+        <AutoSplitter>
+        <Games>
+            <Game>Mina the Hollower</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/Rynon0147/MinaTheHollower-autosplitter/releases/download/latest/mina.wasm</URL>
+        </URLs>
+        <Type>Script</Type>
+        <ScriptType>AutoSplittingRuntime</ScriptType>
+        <Description>Autosplitting is available. (By Rynon0147 and SBDWolf)</Description>
+        <Website>https://github.com/Rynon0147/MinaTheHollower-autosplitter</Website>
     </AutoSplitter>
 </AutoSplitters>
