@@ -28706,6 +28706,18 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Pac-Man World Rally</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/DThaiPome/PMWRAutoSplitter/releases/download/latest/pmwr_autosplitter.wasm</URL>
+        </URLs>
+        <Type>Script</Type>
+        <ScriptType>AutoSplittingRuntime</ScriptType>
+        <Description>Autosplitter, Load Remover, and In-Game Timer available.</Description>
+        <Website>https://github.com/DThaiPome/PMWRAutoSplitter</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Gemini: Heroes Reborn</Game>
         </Games>
         <URLs>
