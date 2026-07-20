@@ -28713,7 +28713,7 @@
         </URLs>
         <Type>Script</Type>
         <ScriptType>AutoSplittingRuntime</ScriptType>
-        <Description>Autosplitter is available. Load Remover available (also pauses timer during out-of-race menuing). Includes in-game timer.</Description>
+        <Description>Autosplitter, Load Remover, and In-Game Timer available.</Description>
         <Website>https://github.com/DThaiPome/PMWRAutoSplitter</Website>
     </AutoSplitter>
     <AutoSplitter>
