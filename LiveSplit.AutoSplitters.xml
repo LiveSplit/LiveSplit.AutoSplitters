@@ -29529,4 +29529,15 @@
         <Description>Autosplitting is available. (By Rynon0147 and SBDWolf)</Description>
         <Website>https://github.com/Rynon0147/MinaTheHollower-autosplitter</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Denshattack!</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/nblockbuster/autosplitters/refs/heads/main/Denshattack/denshattack.asl</URL>
+            <URL>https://github.com/ru-mii/uhara/raw/refs/heads/main/bin/uhara10</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter, Load Removal, and Auto Start. (by nblock)</Description>
+    </AutoSplitter>
 </AutoSplitters>
