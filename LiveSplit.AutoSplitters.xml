@@ -21178,8 +21178,6 @@
     </Games>
     <URLs>
       <URL>https://raw.githubusercontent.com/ItsFrostyYo/BelowZero_Autosplitter/LiveSplit.BelowZero/Components/LiveSplit.BelowZero.dll</URL>
-      <URL>https://raw.githubusercontent.com/ItsFrostyYo/BelowZero_Autosplitter/LiveSplit.BelowZero/Components/LiveSplit.DropPodLocation.dll</URL> 
-      <URL>https://raw.githubusercontent.com/ItsFrostyYo/BelowZero_Autosplitter/LiveSplit.BelowZero/Components/BelowZero.Updates.xml</URL>
     </URLs>
     <Type>Component</Type>
     <Description>Start/Split/Reset &amp; Conditions by ItsFrosti &amp; Sprinter31</Description>
