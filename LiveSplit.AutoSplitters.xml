@@ -29545,4 +29545,15 @@
         <Type>Script</Type>
         <Description>Autosplitter, Load Removal, and Auto Start. (by nblock)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Pokémon Mystery Dungeon: Explorers of Sky</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/SBDWolf/ASL-Autosplitters/main/PMD-EoS/PMD-EoS.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and IGT Reader (by SBDWolf)</Description>
+        <Website>https://github.com/SBDWolf/ASL-Autosplitters/tree/main/PMD-EoS</Website>
+    </AutoSplitter>
 </AutoSplitters>
