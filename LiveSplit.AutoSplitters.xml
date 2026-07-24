@@ -18882,6 +18882,18 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Halo: Campaign Evolved</Game>
+            <Game>Halo Campaign Evolved</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/jonetiz/Halo-Campaign-Evolved-Autosplitter/refs/heads/main/halo_campaign_evolved.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting for Steam (by Xero)</Description>
+        <Website>https://github.com/jonetiz/Halo-Campaign-Evolved-Autosplitter</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Stubbs the Zombie</Game>
         </Games>
         <URLs>
