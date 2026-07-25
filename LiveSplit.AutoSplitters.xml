@@ -8843,7 +8843,7 @@
             <Game>Borderlands: The Pre-Sequel</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/apple1417/Autosplitters/master/borderlands_tps.asl</URL>
+            <URL>https://codeberg.org/apple1417/Autosplitters/raw/branch/master/borderlands_tps.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Auto Splitting, Auto Start and Load Removal are available. (By apple1417)</Description>
@@ -8855,7 +8855,7 @@
             <Game>BL3</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/apple1417/Autosplitters/master/borderlands3.asl</URL>
+            <URL>https://codeberg.org/apple1417/Autosplitters/raw/branch/master/borderlands3.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Auto Splitting, Auto Start and Load Removal are available. (By apple1417)</Description>
@@ -8867,7 +8867,7 @@
             <Game>Wonderlands</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/apple1417/Autosplitters/master/wonderlands.asl</URL>
+            <URL>https://codeberg.org/apple1417/Autosplitters/raw/branch/master/wonderlands.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Auto Splitting and Load Removal are available. (By apple1417)</Description>
@@ -11177,7 +11177,7 @@
             <Game>Talos Principle II</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/apple1417/Autosplitters/master/talos_2.asl</URL>
+            <URL>https://codeberg.org/apple1417/Autosplitters/raw/branch/master/talos_2.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Website>https://github.com/apple1417/Autosplitters</Website>
@@ -11190,7 +11190,7 @@
             <Game>Talos Principle Reawakened</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/apple1417/Autosplitters/master/talos_1r.asl</URL>
+            <URL>https://codeberg.org/apple1417/Autosplitters/raw/branch/master/talos_1r.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Website>https://github.com/apple1417/Autosplitters</Website>
@@ -12587,7 +12587,7 @@
             <Game>Serious Sam Classics: Revolution</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/apple1417/Autosplitters/master/serious_sam_classics.asl</URL>
+            <URL>https://codeberg.org/apple1417/Autosplitters/raw/branch/master/serious_sam_classics.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Load Removal is available. (By apple1417)</Description>
@@ -15460,7 +15460,7 @@
             <Game>Sigils of Elohim</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/apple1417/Autosplitters/master/sigils_of_elohim.asl</URL>
+            <URL>https://codeberg.org/apple1417/Autosplitters/raw/branch/master/sigils_of_elohim.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Auto Splitting, Auto Start and IGT are available. (By apple1417)</Description>
@@ -19552,7 +19552,7 @@
             <Game>Serious Sam: Siberian Mayhem</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/apple1417/Autosplitters/master/serious_sam_modern.asl</URL>
+            <URL>https://codeberg.org/apple1417/Autosplitters/raw/branch/master/serious_sam_modern.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Auto Splitting, Auto Start and Load Removal are available. (By apple1417)</Description>
