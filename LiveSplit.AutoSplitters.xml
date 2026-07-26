@@ -2,6 +2,18 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>XF Extreme Formula</Game>
+            <Game>XFExtreme Formula</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Kirobsi/KiwiSplitters/refs/heads/main/ExtremeFormulaSplitter.asl</URL>
+            <URL>https://github.com/ru-mii/uhara/raw/refs/heads/main/bin/uhara10</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting and Load Removal by Kirobsi</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Bloons TD6</Game>
             <Game>Bloons Tower Defense 6</Game>
             <Game>BTD6</Game>
