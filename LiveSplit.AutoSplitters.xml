@@ -29602,4 +29602,15 @@
         <Description>Autosplitter for Supraland SIU, designed for Any% Glitchless</Description>
         <Website>https://github.com/dfego/autosplitters</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Hylics 2</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/MorganMustDie/Morgans-Autosplitters/blob/main/HYLICS2.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Hylics 2 Autosplitter and Load Remover</Description>
+        <Website>https://github.com/MorganMustDie/Morgans-Autosplitters</Website>
+    </AutoSplitter>
 </AutoSplitters>
