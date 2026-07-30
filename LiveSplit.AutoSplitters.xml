@@ -29611,4 +29611,15 @@
         <Description>Hylics 2 Autosplitter and Load Remover</Description>
         <Website>https://github.com/MorganMustDie/Morgans-Autosplitters</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Infinitevania</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/sushi-de-linguica/infinite-splitter/main/Components/InfiniteSplitter.dll</URL>
+        </URLs>
+        <Type>Component</Type>
+        <Description>Start/Split/Reset and In-Game Time (By sushi-de-linguica)</Description>
+        <Website>https://github.com/sushi-de-linguica/infinite-splitter</Website>
+    </AutoSplitter>
 </AutoSplitters>
