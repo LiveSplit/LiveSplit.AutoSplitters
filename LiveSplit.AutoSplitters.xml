@@ -2,6 +2,16 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Myths Are 100% True</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Kirobsi/KiwiSplitters/refs/heads/main/100TrueSplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting and Load Removal by Kirobsi</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Anno 1602</Game>
         </Games>
         <URLs>
@@ -26918,11 +26928,11 @@
             <Game>Hypnagogia: Boundless Dreams</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Kirobsi/BoundlessDreamsAutosplitter/main/HypnagogiaBDSplitter.asl</URL>
+            <URL>https://raw.githubusercontent.com/Kirobsi/KiwiSplitters/main/HypnagogiaBDSplitter.asl</URL>
             <URL>https://github.com/ero-qt/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autosplitting, resetting and Load Remover by Kirobsi</Description>
+        <Description>Autosplitting and Load Remover by Kirobsi</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
