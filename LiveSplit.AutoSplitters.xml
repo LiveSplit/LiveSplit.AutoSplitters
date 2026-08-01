@@ -2,6 +2,17 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Anno 1602</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/invuln3r4bl3/Anno1602-AutoSplitter/refs/heads/main/LiveSplit.Anno1602.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Automatic start and mission splitting for Original Scenarios full-game runs by invuln3r4bl3</Description>
+        <Website>https://github.com/invuln3r4bl3/Anno1602-AutoSplitter</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>XF Extreme Formula</Game>
             <Game>XFExtreme Formula</Game>
         </Games>
