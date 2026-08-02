@@ -29643,4 +29643,15 @@
         <Description>Start/Split/Reset and In-Game Time (By sushi-de-linguica)</Description>
         <Website>https://github.com/sushi-de-linguica/infinite-splitter</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Linelith</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Rose-Aloi/LinelithAutosplitter/refs/heads/main/LinelithAutosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for Linelith 100% and 100 puzzles (By drunkshinx)</Description>
+        <Website>https://github.com/Rose-Aloi/LinelithAutosplitter</Website>
+    </AutoSplitter>
 </AutoSplitters>
