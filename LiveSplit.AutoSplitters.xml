@@ -7071,6 +7071,26 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Need for Speed: Most Wanted (2005) Category Extensions</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/WilllTreaty/My-Autosplitters/main/Livesplit.NFSMW05.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and Load Remover made by TDOG20, Jigsaw, Balathruin and WillTreaty</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Need for Speed: ProStreet</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/xicecreaam/Additional-NFS-autosplitters/main/Livesplit.ProStreet.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and Load Remover made by SlivenKage</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>TimeSplitters: Future Perfect</Game>
         </Games>
         <URLs>
