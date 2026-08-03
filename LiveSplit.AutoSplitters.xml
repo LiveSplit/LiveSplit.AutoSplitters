@@ -25807,9 +25807,10 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/TpRedNinja/Assassins-Creed-Autosplitters-and-loadremovers/refs/heads/main/AC4BFR.asl</URL>
+            <URL>https://github.com/ero-qt/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>LoadRemover for Assassin's Creed Black Flag Resynced (by TpRedNinja)</Description>
+        <Description>Autosplitter and LoadRemover for Assassin's Creed Black Flag Resynced (by TpRedNinja)</Description>
         <Website>https://github.com/TpRedNinja/Assassins-Creed-Autosplitters-and-loadremovers</Website>
     </AutoSplitter>
     <AutoSplitter>
