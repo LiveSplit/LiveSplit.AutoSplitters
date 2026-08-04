@@ -20005,10 +20005,10 @@
             <Game>Total War : Warhammer II</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/rythin-sr/ASL-Scripts/master/Warhammer2.asl</URL>
+            <URL>https://raw.githubusercontent.com/GresilGames/Warhammer2-Load-Remover/refs/heads/main/Warhammer2.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load Removal available. (by rythin)</Description>
+        <Description>Load Removal by rythin, updated for the current game version by Gresil</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
