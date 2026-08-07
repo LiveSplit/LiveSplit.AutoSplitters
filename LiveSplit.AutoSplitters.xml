@@ -6766,6 +6766,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Need for Speed: Carbon Category Extensions</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/WilllTreaty/My-Autosplitters/main/Livesplit.NFSC.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and Loadless timer made by TDOG20, Mr. Mary and WillTreaty</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Inside | Out</Game>
             <Game>Inside|Out</Game>
             <Game>InsideOut</Game>
