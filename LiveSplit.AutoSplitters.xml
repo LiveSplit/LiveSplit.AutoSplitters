@@ -29706,4 +29706,15 @@
         <Type>Script</Type>
         <Description>Auto Start, Split (by Yuki.kaco)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>MOLDRISE</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/WafuRuns/ASLScripts/releases/latest/download/moldrise_autosplitter.wasm</URL>
+        </URLs>
+        <Type>Script</Type>
+        <ScriptType>AutoSplittingRuntime</ScriptType>
+        <Description>Autosplitting (by Wafu)</Description>
+    </AutoSplitter>
 </AutoSplitters>
