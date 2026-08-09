@@ -29728,4 +29728,15 @@
     <Type>Script</Type>
     <Description>Autostart, autosplitting, autoreset and load removal</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Mafia: The Old Country</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/WafuRuns/ASLScripts/releases/latest/download/mafia_toc_autosplitter.wasm</URL>
+        </URLs>
+        <Type>Script</Type>
+        <ScriptType>AutoSplittingRuntime</ScriptType>
+        <Description>Autosplitting, load removal (by Wafu)</Description>
+    </AutoSplitter>
 </AutoSplitters>
