@@ -29739,4 +29739,16 @@
         <ScriptType>AutoSplittingRuntime</ScriptType>
         <Description>Autosplitting, load removal (by Wafu)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Cleaning Up The Puzzle Gallery</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/MorganMustDie/Morgans-Autosplitters/refs/heads/main/CleaningUpThePuzzleGallery.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <ScriptType>AutoSplittingRuntime</ScriptType>
+        <Description>CUtPG IGT, autosplitting and resets</Description>
+        <Website>https://github.com/MorganMustDie/Morgans-Autosplitters</Website>
+    </AutoSplitter>
 </AutoSplitters>
