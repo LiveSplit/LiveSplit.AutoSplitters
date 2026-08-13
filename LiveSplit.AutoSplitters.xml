@@ -21276,11 +21276,23 @@
             <Game>Subnautica 2</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/ItsFrostyYo/Subnautica2_Autosplitter/main/Components/LiveSplit.Subnautica2.dll</URL> 
+            <URL>https://raw.githubusercontent.com/ItsFrostyYo/ErdetspillASL/main/asl/Erdetspill.asl</URL> 
         </URLs>
         <Type>Component</Type>
         <Description>Start/Split/Reset/Conditions &amp; Game Time (By ItsFrosti)</Description>
         <Website>https://github.com/ItsFrostyYo/Subnautica2_Autosplitter</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>erdetspill</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/ItsFrostyYo/ErdetspillASL/main/asl/Erdetspill.asl</URL> 
+            <URL>https://raw.githubusercontent.com/ItsFrostyYo/ErdetspillASL/main/Components/uhara10</URL>
+        </URLs>
+        <Type>script</Type>
+        <Description>Start/Split/Reset &amp; Game Time (By ItsFrosti)</Description>
+        <Website>https://github.com/ItsFrostyYo/ErdetspillASL</Website>
     </AutoSplitter>
      <AutoSplitter>
         <Games>
