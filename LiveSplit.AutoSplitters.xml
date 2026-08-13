@@ -21276,7 +21276,7 @@
             <Game>Subnautica 2</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/ItsFrostyYo/ErdetspillASL/main/asl/Erdetspill.asl</URL> 
+            <URL>https://raw.githubusercontent.com/ItsFrostyYo/Subnautica2_Autosplitter/main/Components/LiveSplit.Subnautica2.dll</URL>  
         </URLs>
         <Type>Component</Type>
         <Description>Start/Split/Reset/Conditions &amp; Game Time (By ItsFrosti)</Description>
