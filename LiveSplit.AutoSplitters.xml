@@ -21290,7 +21290,7 @@
             <URL>https://raw.githubusercontent.com/ItsFrostyYo/ErdetspillASL/main/asl/Erdetspill.asl</URL> 
             <URL>https://raw.githubusercontent.com/ItsFrostyYo/ErdetspillASL/main/Components/uhara10</URL>
         </URLs>
-        <Type>script</Type>
+        <Type>Script</Type>
         <Description>Start/Split/Reset &amp; Game Time (By ItsFrosti)</Description>
         <Website>https://github.com/ItsFrostyYo/ErdetspillASL</Website>
     </AutoSplitter>
