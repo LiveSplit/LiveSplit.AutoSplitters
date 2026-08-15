@@ -29659,8 +29659,8 @@
             <Game>Supraland Six Inches Under</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/dfego/autosplitters/refs/heads/main/Supraland%20SIU%20-%20Any%25%20Glitchless.asl</URL>
-            <URL>https://raw.githubusercontent.com/dfego/autosplitters/refs/heads/main/Supraland%20SIU%20-%20Any%25%20Glitchless.json</URL>
+            <URL>https://raw.githubusercontent.com/dfego/autosplitters/refs/heads/main/supraland_siu.asl</URL>
+            <URL>https://raw.githubusercontent.com/dfego/autosplitters/refs/heads/main/supraland_siu.json</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autosplitter for Supraland SIU, designed for Any% Glitchless</Description>
