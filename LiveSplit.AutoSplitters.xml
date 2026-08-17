@@ -16633,13 +16633,13 @@
     <AutoSplitter>
         <Games>
             <Game>Colin McRae Rally 2.0</Game>
+            <Game>Colin McRae Rally 2.0 Category Extensions</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/marysiamzawka/ASL/master/LiveSplit.CMR2.asl</URL>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Colin%20McRae%20Rally%202.0/LiveSplit.ColinMcRaeRally2.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto Splitting, Total Race Time (as Game Time), Auto Start and Reset for Championship% (by Mr. Mary)</Description>
-        <Website>https://github.com/marysiamzawka/ASL</Website>
+        <Description>Auto Splitting, In-Game Time, Auto Start and Reset by Mr. Mary & Streetbackguy</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
