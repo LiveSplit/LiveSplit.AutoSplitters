@@ -20468,11 +20468,22 @@
             <Game>Oddworld Adventures 2</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/cyberianwilderness/Autosplitters-and-Split-Files/refs/heads/main/Oddworld-Adventures-II/OA2_Autosplitter.asll</URL>
+            <URL>https://raw.githubusercontent.com/cyberianwilderness/Autosplitters-and-Split-Files/refs/heads/main/Oddworld-Adventures-II/OA2_Autosplitter.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>AutoSplit, AutoStart, AutoReset. Gambatte Emulator only. (by l1ndblum)</Description>
         <Website>https://www.speedrun.com/oad2</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Oddworld Adventures</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/cyberianwilderness/Autosplitters-and-Split-Files/refs/heads/main/Oddworld-Adventures/OA1-ASL.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>AutoSplit and AutoStart. Gambatte Emulator only. (by l1ndblum)</Description>
+        <Website>https://github.com/cyberianwilderness/Autosplitters-and-Split-Files/tree/main/Oddworld-Adventures</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
