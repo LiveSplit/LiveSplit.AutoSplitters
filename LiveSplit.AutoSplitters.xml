@@ -7101,6 +7101,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Need for Speed: Hot Pursuit Remastered</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/xicecreaam/Additional-NFS-autosplitters/refs/heads/main/Livesplit.HotPursuitRemastered.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter and Load Remover made by SlivenKage</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>TimeSplitters: Future Perfect</Game>
         </Games>
         <URLs>
