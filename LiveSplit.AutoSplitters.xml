@@ -22913,6 +22913,19 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Sonic Project Hero Rewired</Game>
+            <Game>Sonic Project Hero: Rewired</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/sleepiesther/Sonic-Project-Hero-Rewired-Autosplitter/refs/heads/main/SonicProjectHeroRewired.asl</URL>
+            <URL>https://github.com/ero-qt/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Starts automatically, times using IGT, splits upon level completion.</Description>
+        <Website>https://github.com/sleepiesther/Sonic-Project-Hero-Rewired-Autosplitter/tree/main</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>The Spectrum Retreat</Game>
         </Games>
         <URLs>
