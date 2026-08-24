@@ -6896,6 +6896,7 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/miraclewhips/tormented-souls-autosplitter/main/tormented-souls-autosplitter.asl</URL>
+            <URL>https://github.com/ero-qt/asl-help/raw/9a17c5ec7108aba1fe1932358703f4e6adaa6b2c/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
         <Description>AutoSplitter and Load Removal. Created by miraclewhips.</Description>
