@@ -29865,4 +29865,15 @@
         <Type>Script</Type>
         <Description>Auto Start, Split (by Yuki.kaco)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Dream Chronicles 2: The Eternal Maze</Game>
+            <Game>Dream Chronicles 2: The Eternal Maze</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/SLScool/Autosplitters/refs/heads/main/Dream%20Chronicles%202/Dream%20Chronicles%202.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitting and Load Removal are available. (By SLScool)</Description>
+    </AutoSplitter>
 </AutoSplitters>
