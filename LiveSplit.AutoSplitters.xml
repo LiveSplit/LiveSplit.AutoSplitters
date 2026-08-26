@@ -2,6 +2,18 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Path of Exile 2</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/ransagy/PathOfExile2_AutoSplitterForLiveSplit/main/wasm/poe2_autosplitter.wasm</URL>
+        </URLs>
+        <Type>Script</Type>
+        <ScriptType>AutoSplittingRuntime</ScriptType>
+        <Description>Autosplitting is available. (By ransagy aka chaosblade; port of JakeDev/SavageOranges' component)</Description>
+        <Website>https://github.com/ransagy/PathOfExile2_AutoSplitterForLiveSplit/blob/main/wasm/README.md</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Twisted Tower</Game>
         </Games>
         <URLs>
