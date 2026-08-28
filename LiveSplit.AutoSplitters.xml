@@ -21342,6 +21342,18 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Phasmophobia</Game>
+            <Game>Phasmophobia Category Extensions</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/ItsFrostyYo/PhasmophobiaAutosplitter/main/Components/LiveSplit.PhasmophobiaAutosplitter.dll</URL>  
+        </URLs>
+        <Type>Component</Type>
+        <Description>Start/Split/Reset &amp; Full Game Load Removal (By ItsFrosti)</Description>
+        <Website>https://github.com/ItsFrostyYo/PhasmophobiaAutosplitter</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>erdetspill</Game>
         </Games>
         <URLs>
