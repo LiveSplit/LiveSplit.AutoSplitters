@@ -25183,7 +25183,7 @@
             <URL>https://raw.githubusercontent.com/MHVandborg/timberborn_speedrun/master/autosplitter/timberborn.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto start/split for Timberborn - Wonder. Requires the "LiveSplit Autosplitter" mod from Thunderstore that can be found through the in-game mod browser. (By MHVandborg )</Description>
+        <Description>Auto start/split for Timberborn - Wonder. Requires "LiveSplit Autosplitter" mod (in-game mod browser). (By MHVandborg)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
