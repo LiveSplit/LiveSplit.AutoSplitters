@@ -25177,6 +25177,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Timberborn</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/MHVandborg/timberborn_speedrun/master/autosplitter/timberborn.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/split for Timberborn - Wonder. Requires "LiveSplit Autosplitter" mod (in-game mod browser). (By MHVandborg)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Timberman</Game>
         </Games>
         <URLs>
