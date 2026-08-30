@@ -8803,7 +8803,7 @@
         <URLs>
             <URL>https://raw.githubusercontent.com/Degaussed/Livesplit-ASL-scripts/refs/heads/master/softsound-readout.asl</URL>
         </URLs>
-        <Type>Component</Type>
+        <Type>Script</Type>
         <Description>Load Removal is available. (Mod by Softsoundd readout by Degaussed)</Description>
         <Website>https://github.com/softsoundd/MirrorsEdgeTweaks/releases</Website>
     </AutoSplitter>
