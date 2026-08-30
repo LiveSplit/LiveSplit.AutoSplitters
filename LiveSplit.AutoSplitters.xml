@@ -8782,9 +8782,7 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
-            <Game>Mirror's Edge</Game>
-            <Game>Mirrors Edge</Game>
-            <Game>Mirror's Edge (PC)</Game>
+            <Game>Mirror's Edge Legacy</Game>
         </Games>
         <URLs>
             <URL>https://github.com/fatalis/LiveSplit.MirrorsEdge/releases/latest/download/LiveSplit.MirrorsEdgeNoLoads.dll</URL>
@@ -8794,6 +8792,20 @@
         <Type>Component</Type>
         <Description>Load Removal is available. (By Fatalis)</Description>
         <Website>https://github.com/fatalis/MENL/blob/master/readme.txt</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Mirror's Edge</Game>
+            <Game>Mirrors Edge</Game>
+            <Game>Mirror's Edge (PC)</Game>
+            <Game>Mirror's Edge Softimer</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Degaussed/Livesplit-ASL-scripts/refs/heads/master/softsound-readout.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Removal is available. (Mod by Softsoundd readout by Degaussed)</Description>
+        <Website>https://github.com/softsoundd/MirrorsEdgeTweaks/releases</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
