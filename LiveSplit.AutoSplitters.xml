@@ -2,18 +2,6 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
-            <Game>Path of Exile 2</Game>
-        </Games>
-        <URLs>
-            <URL>https://raw.githubusercontent.com/ransagy/PathOfExile2_AutoSplitterForLiveSplit/main/wasm/poe2_autosplitter.wasm</URL>
-        </URLs>
-        <Type>Script</Type>
-        <ScriptType>AutoSplittingRuntime</ScriptType>
-        <Description>Autosplitting is available. (By ransagy aka chaosblade; port of JakeDev/SavageOranges' component)</Description>
-        <Website>https://github.com/ransagy/PathOfExile2_AutoSplitterForLiveSplit/blob/main/wasm/README.md</Website>
-    </AutoSplitter>
-    <AutoSplitter>
-        <Games>
             <Game>Ready or Not</Game>
         </Games>
         <URLs>
@@ -12544,6 +12532,11 @@
         <Type>Component</Type>
         <Description>An AutoSplitter for Path of Exile 2 (By JakeDev / SavageOranges)</Description>
         <Website>https://github.com/SavageOranges/PathOfExile2_AutoSplitterForLiveSplit/blob/main/README.md</Website>
+        <AutoSplittingRuntime>
+            <URL>https://raw.githubusercontent.com/ransagy/PathOfExile2_AutoSplitterForLiveSplit/main/wasm/poe2_autosplitter.wasm</URL>
+            <Description>Autosplitting is available. (Component by JakeDev/SavageOranges; WASM port by ransagy aka chaosblade)</Description>
+            <Website>https://github.com/ransagy/PathOfExile2_AutoSplitterForLiveSplit/blob/main/wasm/README.md</Website>
+        </AutoSplittingRuntime>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
