@@ -13245,6 +13245,11 @@
         <Type>Component</Type>
         <Description>Configurable Load Remover / Auto Splitter. (By DevilSquirrel)</Description>
         <Website>https://github.com/ShootMe/LiveSplit.HollowKnight</Website>
+        <AutoSplittingRuntime>
+            <URL>https://github.com/AlexKnauth/hollowknight-autosplit-wasm/releases/latest/download/hollowknight_autosplit_wasm_stable.wasm</URL>
+            <Description>Configurable Load Remover / Auto Splitter / Auto Hit Counter. (By AlexKnauth)</Description>
+            <Website>https://github.com/AlexKnauth/hollowknight-autosplit-wasm</Website>
+        </AutoSplittingRuntime>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
