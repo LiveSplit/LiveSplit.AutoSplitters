@@ -2,6 +2,17 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Species: Unknown</Game>
+            <Game>Species Unknown</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Daltone21/Species-Unknown-Autosplitter/refs/heads/main/SpeciesUnknownAutosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting, autostarting, autoresetting, and other in-game information by daltone_21</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Ready or Not</Game>
         </Games>
         <URLs>
