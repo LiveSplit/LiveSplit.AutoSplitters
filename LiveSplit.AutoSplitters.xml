@@ -29943,6 +29943,18 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Garden Trills</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/cyberianwilderness/Autosplitters-and-Split-Files/refs/heads/main/Garden-Trills/Garden_Trills_ASL.asl</URL>
+            <URL>https://github.com/ru-mii/uhara/raw/refs/heads/main/bin/uhara10</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Start, Split, Reset and Load Removal (by L1ndblum)</Description>
+        <Website>https://www.speedrun.com/garden_trills</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Dream Chronicles 2: The Eternal Maze</Game>
             <Game>Dream Chronicles 2</Game>
         </Games>
