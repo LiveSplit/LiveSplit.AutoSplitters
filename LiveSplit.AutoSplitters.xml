@@ -6635,26 +6635,6 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
-            <Game>GHOSTBUSTERS: THE VIDEO GAME REMASTERED</Game>
-        </Games>
-        <URLs>
-            <URL>https://raw.githubusercontent.com/KunoDemetries/AutoSplitter/master/GhostbustersTheVideoGameRemastered.asl</URL>
-        </URLs>
-        <Type>Script</Type>
-        <Description>Auto Splitter/Load Remover (By KunoDemetries)</Description>
-    </AutoSplitter>
-    <AutoSplitter>
-        <Games>
-            <Game>Ghostbusters: The Video Game</Game>
-        </Games>
-        <URLs>
-            <URL>https://raw.githubusercontent.com/sabrinaaa1701/gb-autosplitter/refs/heads/main/Ghostbusters2009.asl</URL>
-        </URLs>
-        <Type>Script</Type>
-        <Description>Auto Splitting and Load Removal for PC (2009) by KunoDemetries, modified by Sabrina1701</Description>
-    </AutoSplitter>
-    <AutoSplitter>
-        <Games>
             <Game>Bloons Tower Defense 5</Game>
             <Game>BTD5</Game>
         </Games>
