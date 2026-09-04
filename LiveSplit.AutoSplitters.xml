@@ -39,9 +39,10 @@
       <Game>Ghostbusters: The Video Game Remastered</Game>
     </Games>
     <URLs>
-      <URL>https://raw.githubusercontent.com/sabrinaaa1701/gb-autosplitter/refs/heads/main/Ghostbusters2009.asl</URL>
+      <URL>https://raw.githubusercontent.com/sabrinaaa1701/gb-autosplitter/main/Ghostbusters2009.asl</URL>
     </URLs>
     <Description>Unified AutoSplitter &amp; Load Remover by Sabrina and KunoDemetries (2009, Steam, Epic)</Description>
+    <Type>Script</Type>
   </AutoSplitter>
     <AutoSplitter>
         <Games>
