@@ -34,6 +34,16 @@
         <Description>Autosplitting and Load Removal by Nikoheart</Description>
     </AutoSplitter>
     <AutoSplitter>
+    <Games>
+      <Game>Ghostbusters: The Video Game</Game>
+      <Game>Ghostbusters: The Video Game Remastered</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/sabrinaaa1701/gb-autosplitter/refs/heads/main/Ghostbusters2009.asl</URL>
+    </URLs>
+    <Description>Unified AutoSplitter &amp; Load Remover by Sabrina and KunoDemetries (2009, Steam, Epic)</Description>
+  </AutoSplitter>
+    <AutoSplitter>
         <Games>
             <Game>Myths Are 100&#x25; True</Game>
         </Games>
