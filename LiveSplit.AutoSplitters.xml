@@ -29955,4 +29955,15 @@
         <Type>Script</Type>
         <Description>Auto Splitting and Load Removal are available. (By SLScool)</Description>
     </AutoSplitter>
+        <AutoSplitter>
+        <Games>
+            <Game>Project Zomboid</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/ObnoxiouslyNoxious/ProjectZomboidAutoSplitter/refs/heads/main/DeadSplit.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>AutoSplitter for Project Zomboid. Includes Start, Split and Reset. Requires DeadSplit Mod via Steam Workshop. (By ObnoxiouslyNoxious)</Description>
+        <Website>https://steamcommunity.com/sharedfiles/filedetails/?id=3795485367</Website>
+    </AutoSplitter>
 </AutoSplitters>
