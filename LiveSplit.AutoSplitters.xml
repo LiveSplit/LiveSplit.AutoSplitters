@@ -34,6 +34,17 @@
         <Description>Autosplitting and Load Removal by Nikoheart</Description>
     </AutoSplitter>
     <AutoSplitter>
+    <Games>
+      <Game>Ghostbusters: The Video Game</Game>
+      <Game>Ghostbusters: The Video Game Remastered</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/sabrinaaa1701/gb-autosplitter/main/Ghostbusters2009.asl</URL>
+    </URLs>
+    <Description>Unified AutoSplitter &amp; Load Remover by Sabrina and KunoDemetries (2009, Steam, Epic)</Description>
+    <Type>Script</Type>
+  </AutoSplitter>
+    <AutoSplitter>
         <Games>
             <Game>Myths Are 100&#x25; True</Game>
         </Games>
@@ -6621,26 +6632,6 @@
         <Type>Script</Type>
         <Description>Load Remover is available. Created by Meta, Binslev and AlexYeahNot.</Description>
         <Website>https://discord.gg/sJWVZw6aWq</Website>
-    </AutoSplitter>
-    <AutoSplitter>
-        <Games>
-            <Game>GHOSTBUSTERS: THE VIDEO GAME REMASTERED</Game>
-        </Games>
-        <URLs>
-            <URL>https://raw.githubusercontent.com/KunoDemetries/AutoSplitter/master/GhostbustersTheVideoGameRemastered.asl</URL>
-        </URLs>
-        <Type>Script</Type>
-        <Description>Auto Splitter/Load Remover (By KunoDemetries)</Description>
-    </AutoSplitter>
-    <AutoSplitter>
-        <Games>
-            <Game>Ghostbusters: The Video Game</Game>
-        </Games>
-        <URLs>
-            <URL>https://raw.githubusercontent.com/sabrinaaa1701/gb-autosplitter/refs/heads/main/Ghostbusters2009.asl</URL>
-        </URLs>
-        <Type>Script</Type>
-        <Description>Auto Splitting and Load Removal for PC (2009) by KunoDemetries, modified by Sabrina1701</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
