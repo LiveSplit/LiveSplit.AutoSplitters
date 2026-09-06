@@ -19575,6 +19575,28 @@
         <Description>Game Time and Splits for PC and emulator. Split files available via Settings. Instructions at Website. (By bmn)</Description>
         <Website>https://github.com/bmn/livesplit_asl_mgs1/</Website>
     </AutoSplitter>
+     <AutoSplitter>
+        <Games>
+            <Game>Metal Gear Solid 4: Guns of the Patriots</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/hau5test/mgs4mc-autosplitter/refs/heads/main/mgs4.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Game Time and Splits for Master Collection PC version. Instructions at Website. (By Hau5test)</Description>
+        <Website>https://github.com/hau5test/mgs4mc-autosplitter</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Metal Gear Solid: Peace Walker (HD Edition)</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/hau5test/mgspwmc-autosplitter/refs/heads/master/mgspw.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Game Time and Splits for Master Collection PC version. Instructions at Website. (By Hau5test)</Description>
+        <Website>https://github.com/hau5test/mgspwmc-autosplitter</Website>
+    </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>Sensorium</Game>
