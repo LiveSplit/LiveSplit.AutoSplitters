@@ -2,6 +2,16 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Resonance: A Plauge Tale Legacy</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Arkhamfan69/My-Splitters-Load-Removers/refs/heads/main/Autosplitters/Resonance.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto-Start, Auto-Split, And Load Removal (By Arkhamfan69)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Species: Unknown</Game>
             <Game>Species Unknown</Game>
         </Games>
