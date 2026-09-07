@@ -29814,6 +29814,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Supraland</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/dfego/autosplitters/refs/heads/main/supraland.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for Supraland, designed for Any% Glitchless</Description>
+        <Website>https://github.com/dfego/autosplitters</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Supraland Six Inches Under</Game>
         </Games>
         <URLs>
