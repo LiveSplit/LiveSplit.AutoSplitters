@@ -29989,4 +29989,15 @@
         <Description>AutoSplitter for Project Zomboid. Includes Start, Split and Reset. Requires DeadSplit Mod. (By ObnoxiouslyNoxious)</Description>
         <Website>https://steamcommunity.com/sharedfiles/filedetails/?id=3795485367</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>VHOLUME</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/MrWalrus3451/vholume-asl/refs/heads/main/vholume.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>AutoSplitter for Vholume. Includes Start, Split and Reset. (By MrWalrus3451)</Description>
+        <Website>https://github.com/MrWalrus3451/vholume-asl/tree/main</Website>
+    </AutoSplitter>
 </AutoSplitters>
