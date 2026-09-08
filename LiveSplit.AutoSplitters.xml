@@ -29989,7 +29989,7 @@
         <Description>AutoSplitter for Project Zomboid. Includes Start, Split and Reset. Requires DeadSplit Mod. (By ObnoxiouslyNoxious)</Description>
         <Website>https://steamcommunity.com/sharedfiles/filedetails/?id=3795485367</Website>
     </AutoSplitter>
-        <AutoSplitter>
+    <AutoSplitter>
         <Games>
             <Game>Vholume</Game>
         </Games>
