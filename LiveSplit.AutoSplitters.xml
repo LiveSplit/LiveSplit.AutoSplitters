@@ -25135,7 +25135,7 @@
             <URL>https://raw.githubusercontent.com/adelansari/TK2-ASL/main/TheKarters2.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autosplitter for The Karters 2 with automatic starts, finish line splits, and cumulative Cup IGT tracking. It is also a mid-race restart-resilient and has load pausing.</Description>
+        <Description>Autosplitter for The Karters 2 with auto start, finish splits, Cup IGT, restart resilience, and load pausing.</Description>
         <Website>https://github.com/adelansari/TK2-ASL</Website>
     </AutoSplitter>
     <AutoSplitter>
