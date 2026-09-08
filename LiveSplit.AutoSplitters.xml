@@ -25132,12 +25132,11 @@
             <Game>The Karters 2: Turbo Charged</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/PixelEdgeGames/TheKarters2_AutoSplitter/main/TheKarters2.asl</URL>
-            <URL>https://github.com/ero-qt/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
+            <URL>https://raw.githubusercontent.com/adelansari/TK2-ASL/main/TheKarters2.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Basic AutoSplitter with Start/Pause timer during race. Ensure LiveSplit Compare Against is set to: Game Time</Description>
-        <Website>https://github.com/JakeRabinowitz/PogoChampAutosplitter</Website>
+        <Description>Autosplitter for The Karters 2 with automatic starts, finish line splits, and cumulative Cup IGT tracking. It is also a mid-race restart-resilient and has load pausing.</Description>
+        <Website>https://github.com/adelansari/TK2-ASL</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
