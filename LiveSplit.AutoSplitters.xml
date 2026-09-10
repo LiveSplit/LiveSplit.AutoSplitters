@@ -19581,6 +19581,7 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/hau5test/mgs4mc-autosplitter/refs/heads/main/mgs4.asl</URL>
+            <URL>https://github.com/ero-qt/asl-help/raw/9a17c5ec7108aba1fe1932358703f4e6adaa6b2c/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Game Time and Splits for Master Collection PC version. Instructions at Website. (By Hau5test)</Description>
@@ -19592,6 +19593,7 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/hau5test/mgspwmc-autosplitter/refs/heads/master/mgspw.asl</URL>
+            <URL>https://github.com/ero-qt/asl-help/raw/9a17c5ec7108aba1fe1932358703f4e6adaa6b2c/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Game Time and Splits for Master Collection PC version. Instructions at Website. (By Hau5test)</Description>
