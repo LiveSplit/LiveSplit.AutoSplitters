@@ -28700,6 +28700,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Onimusha: Way of the Sword</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/to-miz/autosplitters/refs/heads/main/OnimushaWotS.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart/Autosplitter/Load Removal available (by to-miz)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Madagascar: Escape 2 Africa</Game>
             <Game>Madagascar: Escape 2 Africa Category Extensions</Game>
         </Games>
