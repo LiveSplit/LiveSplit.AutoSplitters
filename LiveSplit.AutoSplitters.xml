@@ -30003,6 +30003,42 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Watermelon Country</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/cyberianwilderness/Autosplitters-and-Split-Files/refs/heads/main/Watermelon-Country/WatermelonCountry.asl</URL>
+            <URL>https://github.com/ru-mii/uhara/raw/refs/heads/main/bin/uhara10</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart and Autosplit. Manual split required at end. (By l1ndblum)</Description>
+        <Website>https://www.speedrun.com/Watermelon_Country</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Junkster</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/cyberianwilderness/Autosplitters-and-Split-Files/refs/heads/main/Junkster/Junkster.asl</URL>
+            <URL>https://github.com/ero-qt/asl-help/raw/9a17c5ec7108aba1fe1932358703f4e6adaa6b2c/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Start, Split and IGT available. See settings for more details. (By l1ndblum)</Description>
+        <Website>https://github.com/cyberianwilderness/Autosplitters-and-Split-Files/tree/main/Junkster</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Oddworld: New 'n' Tasty</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/cyberianwilderness/Autosplitters-and-Split-Files/refs/heads/main/Oddworld-New-N-Tasty/NNT-ASL.asl</URL>
+            <URL>https://github.com/ero-qt/asl-help/raw/9a17c5ec7108aba1fe1932358703f4e6adaa6b2c/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Start, Split, Reset and In-Game Time (by L1ndblum)</Description>
+        <Website>https://github.com/cyberianwilderness/Autosplitters-and-Split-Files/tree/main/Oddworld-New-N-Tasty</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>VHOLUME</Game>
         </Games>
         <URLs>
