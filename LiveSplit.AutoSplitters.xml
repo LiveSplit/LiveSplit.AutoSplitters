@@ -30048,4 +30048,26 @@
         <Description>AutoSplitter for Vholume. Includes Start, Split and Reset. (By MrWalrus3451)</Description>
         <Website>https://github.com/MrWalrus3451/vholume-asl/tree/main</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>James Bond 007: Everything or Nothing</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/NickRPGreen/007-Everything-or-Nothing-Autosplitter/refs/heads/main/007%20Everything%20or%20Nothing%20Autosplitter.asl</URL>
+            <URL>https://github.com/Jujstme/emu-help-v3/raw/dc66ce576d8100c964bd37d170166e11135d91ca/lib/Livesplit/emu-help-v3</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter by NickRPGreen</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Castle of Illusion Starring Mickey Mouse (Genesis)</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/NickRPGreen/Castle-of-Illusion-Genesis-Autosplitter/refs/heads/main/Castle%20of%20Illusion%20(Genesis)%20Autosplitter.asl</URL>
+            <URL>https://github.com/Jujstme/emu-help-v3/raw/dc66ce576d8100c964bd37d170166e11135d91ca/lib/Livesplit/emu-help-v3</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter by NickRPGreen</Description>
+    </AutoSplitter>
 </AutoSplitters>
