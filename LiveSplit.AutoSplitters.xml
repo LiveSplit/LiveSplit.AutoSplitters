@@ -11507,11 +11507,11 @@
             <Game>Mandagon</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/StarOfDoom/LiveSplitScripts/master/MandagonAutoSplitter.asl</URL>
+            <URL>https://raw.githubusercontent.com/Lilypad-666/LiveSplitAutoSplitters/master/MandagonAutoSplitter.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Auto Splitting and Load Removal are available. (By Messenger)</Description>
-        <Website>https://github.com/StarOfDoom/LiveSplitScripts</Website>
+        <Website>https://github.com/Lilypad-666/LiveSplitAutoSplitters</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
