@@ -28383,6 +28383,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Pies Ciapek</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/bartekk2908/asl_scripts/refs/heads/main/Ciapek.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter by Sialalala</Description>
+        <Website>https://www.speedrun.com/ciapek</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Awaria</Game>
         </Games>
         <URLs>
