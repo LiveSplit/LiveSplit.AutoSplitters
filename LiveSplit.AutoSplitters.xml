@@ -30070,4 +30070,16 @@
         <Type>Script</Type>
         <Description>Autosplitter by NickRPGreen</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Megadimension Neptunia Victory II</Game>
+            <Game>Megadimension Neptunia VII</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Dabomstew/AutoSplitters/refs/heads/master/meganep.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto-Split on Cutscenes and certain Events. (By Dabomstew)</Description>
+        <Website>https://discord.gg/JPJKHFH</Website>
+    </AutoSplitter>
 </AutoSplitters>
