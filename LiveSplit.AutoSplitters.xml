@@ -15586,6 +15586,11 @@
         <Type>Script</Type>
         <Description>Autosplitter/Load Remover for Little Witch Nobeta by ShinRunner1st</Description>
         <Website>https://discord.gg/3FMeB4m</Website>
+        <AutoSplittingRuntime>
+            <URL>https://raw.githubusercontent.com/Mian-K/Mian-Autosplitters/main/ASR%20Autosplitters/lwn_asr.wasm</URL>
+            <Description>Autosplitter and Load Remover, ASR Port by Mian-K</Description>
+            <Website>https://github.com/Mian-K/Mian-Autosplitters/tree/main/Rust_Sources/lwn-asr</Website>
+        </AutoSplittingRuntime>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
