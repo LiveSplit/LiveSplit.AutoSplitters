@@ -30107,7 +30107,7 @@
             <Game>Nunholy</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/WDN2010/livesplit-autosplitters/ed0b1cb8622ab0cd88c537032794d66225c3cb97/Nunholy/Nunholy_IGT.asl</URL>
+            <URL>https://raw.githubusercontent.com/WDN2010/livesplit-autosplitters/refs/heads/main/Nunholy/Nunholy_IGT.asl</URL>
             <URL>https://raw.githubusercontent.com/ero-qt/asl-help/9a17c5ec7108aba1fe1932358703f4e6adaa6b2c/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
