@@ -30148,4 +30148,16 @@
         <Description>Auto-start/reset, floor/final splits and game time for Classic/Any% (by WDN2010)</Description>
         <Website>https://github.com/WDN2010/livesplit-autosplitters/tree/ed0b1cb8622ab0cd88c537032794d66225c3cb97/Nunholy</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>GRIME II</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/peekagrub/griime-autosplit-wasm/releases/latest/download/griime_autosplit_wasm.wasm</URL>
+        </URLs>
+        <Type>Script</Type>
+        <ScriptType>AutoSplittingRuntime</ScriptType>
+        <Description>Load Remover. (By peekagrub)</Description>
+        <Website>https://github.com/peekagrub/griime-autosplit-wasm</Website>
+    </AutoSplitter>
 </AutoSplitters>
