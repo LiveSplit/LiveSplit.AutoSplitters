@@ -30142,7 +30142,7 @@
             <Game>GRIME II</Game>
         </Games>
         <URLs>
-            <URL>https://github.com/peekagrub/griime-autosplit-wasm/releases/latest/download/griime_autosplit_wasm.wasm/URL>
+            <URL>https://github.com/peekagrub/griime-autosplit-wasm/releases/latest/download/griime_autosplit_wasm.wasm/<URL>
         </URLs>
         <Type>Script</Type>
         <ScriptType>AutoSplittingRuntime</ScriptType>
