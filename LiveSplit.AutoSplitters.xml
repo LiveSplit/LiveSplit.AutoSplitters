@@ -30171,4 +30171,16 @@
         <Description>Load Remover. (By peekagrub)</Description>
         <Website>https://github.com/peekagrub/griime-autosplit-wasm</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Hammerfest</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/cmnemoi/hammerfest-autosplitter/releases/latest/download/hammerfest_autosplitter.wasm</URL>
+        </URLs>
+        <Type>Script</Type>
+        <ScriptType>AutoSplittingRuntime</ScriptType>
+        <Description>An autosplitter for Hammerfest. Set LiveSplit to Compare Against -&gt; Game Time.</Description>
+        <Website>https://github.com/cmnemoi/hammerfest-autosplitter</Website>
+    </AutoSplitter>
 </AutoSplitters>
