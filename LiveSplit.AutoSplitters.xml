@@ -30183,4 +30183,15 @@
         <Description>An autosplitter for Hammerfest. Set LiveSplit to Compare Against -&gt; Game Time.</Description>
         <Website>https://github.com/cmnemoi/hammerfest-autosplitter</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Duskfade</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Zyrumi/duskfade-autosplitters/main/Duskfade.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Any% autosplitter: auto-start on New Game, splits along the any% route (each split toggleable), ends on the credits, load removal. Set LiveSplit to Compare Against -&gt; Game Time. (By Zyrumi)</Description>
+        <Website>https://github.com/Zyrumi/duskfade-autosplitters</Website>
+    </AutoSplitter>
 </AutoSplitters>
