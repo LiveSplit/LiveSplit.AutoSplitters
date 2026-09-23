@@ -30191,7 +30191,7 @@
             <URL>https://raw.githubusercontent.com/Zyrumi/duskfade-autosplitters/main/Duskfade.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Any% autosplitter: auto-start on New Game, splits along the any% route (each split toggleable), ends on the credits, load removal. Set LiveSplit to Compare Against -&gt; Game Time. (By Zyrumi)</Description>
+        <Description>Any% auto start, route splits, credits split and load removal. Compare Against -&gt; Game Time. (By Zyrumi)</Description>
         <Website>https://github.com/Zyrumi/duskfade-autosplitters</Website>
     </AutoSplitter>
 </AutoSplitters>
