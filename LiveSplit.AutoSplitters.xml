@@ -2,6 +2,20 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>PEPPERED: an existential platformer</Game>
+            <Game>PEPPERED</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/WDN2010/livesplit-autosplitters/refs/heads/main/PEPPERED/PEPPERED.asl</URL>
+            <URL>https://raw.githubusercontent.com/ero-qt/asl-help/9a17c5ec7108aba1fe1932358703f4e6adaa6b2c/lib/asl-help</URL>
+            <URL>https://raw.githubusercontent.com/WDN2010/livesplit-autosplitters/refs/heads/main/PEPPERED/Components/Peppered.AutoSplitter.dll</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start, room/world splits and ending timestamps; Real Time (by WDN2010)</Description>
+        <Website>https://github.com/WDN2010/livesplit-autosplitters/tree/main/PEPPERED</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Clive Barker's Hellraiser: Revival</Game>
         </Games>
         <URLs>
