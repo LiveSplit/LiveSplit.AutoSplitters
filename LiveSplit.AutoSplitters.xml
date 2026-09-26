@@ -30194,4 +30194,15 @@
         <Description>Any% auto start, route splits, credits split and load removal. Compare Against -&gt; Game Time. (By Zyrumi)</Description>
         <Website>https://github.com/Zyrumi/duskfade-autosplitters</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Ao Oni 2024</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/asd9176506911298/LiveSplit-ASL/refs/heads/main/aooni2024.asl</URL>
+            <URL>https://github.com/ru-mii/uhara/raw/refs/heads/main/bin/uhara10</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Start, Split (by Yuki.kaco)</Description>
+    </AutoSplitter>
 </AutoSplitters>
