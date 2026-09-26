@@ -19607,6 +19607,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Metal Gear Solid 2: HD Edition</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/hau5test/livesplit_asl_mgs2mc/refs/heads/main/Metal-Gear-Solid-2-HD-Edition.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Game Time and Splits - for important story flag updates. Splits available at Website. (By Hau5test, forked off bmn)</Description>
+        <Website>https://github.com/hau5test/livesplit_asl_mgs2mc</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Metal Gear Solid</Game>
         </Games>
         <URLs>
@@ -30193,16 +30204,5 @@
         <Type>Script</Type>
         <Description>Any% auto start, route splits, credits split and load removal. Compare Against -&gt; Game Time. (By Zyrumi)</Description>
         <Website>https://github.com/Zyrumi/duskfade-autosplitters</Website>
-    </AutoSplitter>
-    <AutoSplitter>
-        <Games>
-            <Game>Ao Oni 2024</Game>
-        </Games>
-        <URLs>
-            <URL>https://raw.githubusercontent.com/asd9176506911298/LiveSplit-ASL/refs/heads/main/aooni2024.asl</URL>
-            <URL>https://github.com/ru-mii/uhara/raw/refs/heads/main/bin/uhara10</URL>
-        </URLs>
-        <Type>Script</Type>
-        <Description>Auto Start, Split (by Yuki.kaco)</Description>
     </AutoSplitter>
 </AutoSplitters>
