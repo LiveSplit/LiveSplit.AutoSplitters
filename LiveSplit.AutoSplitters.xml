@@ -7,7 +7,6 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/WDN2010/livesplit-autosplitters/refs/heads/main/PEPPERED/PEPPERED.asl</URL>
-            <URL>https://raw.githubusercontent.com/ero-qt/asl-help/9a17c5ec7108aba1fe1932358703f4e6adaa6b2c/lib/asl-help</URL>
             <URL>https://raw.githubusercontent.com/WDN2010/livesplit-autosplitters/refs/heads/main/PEPPERED/Components/Peppered.AutoSplitter.dll</URL>
         </URLs>
         <Type>Script</Type>
