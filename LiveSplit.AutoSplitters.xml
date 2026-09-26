@@ -19618,6 +19618,17 @@
         <Description>Game Time and Splits (major splits, main game only). Splits available at Website. (By bmn)</Description>
         <Website>https://github.com/bmn/livesplit_asl_mgs2/</Website>
     </AutoSplitter>
+     <AutoSplitter>
+        <Games>
+            <Game>Metal Gear Solid 2: HD Edition</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/hau5test/livesplit_asl_mgs2mc/refs/heads/main/Metal-Gear-Solid-2-HD-Edition.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Game Time and Splits - for important story flag updates. Splits available at Website. (By Hau5test, forked off bmn)</Description>
+        <Website>https://github.com/hau5test/livesplit_asl_mgs2mc</Website>
+    </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>Metal Gear Solid</Game>
