@@ -17185,6 +17185,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Control Resonant</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/RainbowwPhoenixx/control-splitters/refs/heads/master/ControlRESONANT.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/split/end and load removal (by Ashley93o)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Mages of Mystralia</Game>
         </Games>
         <URLs>
