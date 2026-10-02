@@ -2,6 +2,16 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Happy Wheels</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/LiterallyMetaphorical/HappyWheelsASL/refs/heads/main/HappyWheels.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart, Autosplit, Load Removal. 10s stopwatch between levels to mitigate time spent on menus. (by Meta)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Garfield: Escape From Monday</Game>
         </Games>
         <URLs>
