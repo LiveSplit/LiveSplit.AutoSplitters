@@ -11201,6 +11201,8 @@
             <Game>Gamma Energy</Game>
             <Game>Portal Custom Maps</Game>
             <Game>Portal: Still Alive</Game>
+			<Game>Portal: Cooperative</Game>
+			<Game>Portal TAS</Game>
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/thisis2838/SourceSplit/master/update/Components/LiveSplit.SourceSplit.dll</URL>
