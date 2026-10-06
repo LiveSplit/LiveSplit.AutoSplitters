@@ -2,6 +2,17 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Rivage</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/VisionElf/Rivage-Autosplitter/releases/latest/download/Rivage.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Start, load removal and optional splits for the supported Steam build. Developed by Codex under the supervision of VisionElf.</Description>
+        <Website>https://github.com/VisionElf/Rivage-Autosplitter</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Happy Wheels</Game>
         </Games>
         <URLs>
