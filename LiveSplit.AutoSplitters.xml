@@ -3441,7 +3441,7 @@
             <URL>https://raw.githubusercontent.com/neimex23/Furi-Autosplitter/main/ASL/Furi.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Game Time, automatic start and boss splits for Speedrun (Furi/Furier). Optional Practice, phase splits and hits/KO counters. Supported Windows Steam build only. By Neimex23.</Description>
+        <Description>Speedrun Game Time, auto start and boss splits. Optional Practice, phases and Hits/KO. Windows Steam. By Neimex23.</Description>
         <Website>https://github.com/neimex23/Furi-Autosplitter</Website>
     </AutoSplitter>
     <AutoSplitter>
