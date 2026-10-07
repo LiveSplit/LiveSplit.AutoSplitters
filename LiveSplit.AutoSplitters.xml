@@ -26750,7 +26750,7 @@
             <Game>Teslagrad 2</Game>
         </Games>
         <URLs>
-            <URL>https://github.com/Lusther/LiveSplit.Teslagrad2/releases/download/latest/LiveSplit.Teslagrad2.dll</URL>
+            <URL>https://github.com/Lusther/LiveSplit.Teslagrad2/releases/latest/download/LiveSplit.Teslagrad2.dll</URL>
         </URLs>
         <Type>Component</Type>
         <Description>Auto Splitter for Teslagrad 2 (by Lusther)</Description>
