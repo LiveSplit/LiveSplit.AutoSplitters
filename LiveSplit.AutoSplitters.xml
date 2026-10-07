@@ -24169,11 +24169,11 @@
             <Game>Tinykin</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Toothie2213/tinykinasl/main/tinykin.asl</URL>
-            <URL>https://github.com/ero-qt/asl-help/raw/main/lib/LiveSplit.ASLHelper.bin</URL>
+            <URL>https://raw.githubusercontent.com/dfego/autosplitters/refs/heads/main/tinykin.asl</URL>
+            <URL>https://github.com/ero-qt/asl-help/raw/refs/heads/main/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Loadremover by Toothie</Description>
+        <Description>Autosplitter & Load Remover</Description>
         <Website>https://www.speedrun.com/Tinykin</Website>
     </AutoSplitter>
     <AutoSplitter>
