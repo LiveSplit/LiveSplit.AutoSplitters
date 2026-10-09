@@ -3444,6 +3444,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Furi</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/neimex23/Furi-Autosplitter/main/ASL/Furi.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Speedrun Game Time, auto start and boss splits. Optional Practice, phases and Hits/KO. Windows Steam. By Neimex23.</Description>
+        <Website>https://github.com/neimex23/Furi-Autosplitter</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Pepper Grinder</Game>
         </Games>
         <URLs>
