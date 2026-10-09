@@ -9169,11 +9169,11 @@
             <Game>Alice Madness Returns</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Voxelse/ASLScripts/master/Livesplit.AliceMadnessReturns/Livesplit.AliceMadnessReturns.asl</URL>
+            <URL>https://raw.githubusercontent.com/DeathHound6/AutoSplitters/master/AliceMR/Livesplit.AliceMadnessReturns.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto Start/Split/Reset and Load Remover (by Voxelse)</Description>
-        <Website>https://github.com/Voxelse/ASLScripts/tree/master/Livesplit.AliceMadnessReturns</Website>
+        <Description>Auto Start/Split/Reset and Load Remover (by Ankaid and Paingreed)</Description>
+        <Website>https://github.com/DeathHound6/AutoSplitters/tree/master/AliceMR</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
