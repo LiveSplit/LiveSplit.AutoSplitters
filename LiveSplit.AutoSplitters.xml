@@ -9285,33 +9285,6 @@
         <Games>
             <Game>The Wheel of Time</Game>
             <Game>Wheel of Time</Game>
-            <Game>Harry Potter 1</Game>
-            <Game>Harry Potter I</Game>
-            <Game>HP1</Game>
-            <Game>HP1PC</Game>
-            <Game>Harry Potter and the Philosopher's Stone</Game>
-            <Game>Harry Potter and the Philosopher's Stone (PC)</Game>
-            <Game>Harry Potter 2</Game>
-            <Game>Harry Potter II</Game>
-            <Game>HP2</Game>
-            <Game>HP2PC</Game>
-            <Game>Harry Potter and the Chamber of Secrets</Game>
-            <Game>Harry Potter and the Chamber of Secrets (PC)</Game>
-            <Game>HP3</Game>
-            <Game>HP III</Game>
-            <Game>HP3PC</Game>
-            <Game>Harry Potter 3</Game>
-            <Game>Harry Potter III</Game>
-            <Game>Harry Potter and the Prisoner of Azkaban</Game>
-            <Game>Harry Potter and the Prisoner of Azkaban (PC)</Game>
-            <Game>Harry Potter PC 1-3 Trifecta</Game>
-            <Game>Harry Potter Trifecta</Game>
-            <Game>Harry Potter Trifecta (PC)</Game>
-            <Game>HP Trifecta</Game>
-            <Game>HP123</Game>
-            <Game>Harry Potter Multiruns</Game>
-            <Game>Harry Potter Category Extensions</Game>
-            <Game>Harry Potter Custom Content</Game>
             <Game>Unreal</Game>
             <Game>Unreal Gold</Game>
             <Game>Unreal: Return to Na Pali</Game>
@@ -9341,6 +9314,43 @@
         <Type>Component</Type>
         <Description>Auto Splitting and Load Removal are available. (By Dalet)</Description>
         <Website>https://github.com/Dalet/LiveSplit.UnrealLoads/blob/master/README.md</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Harry Potter 1</Game>
+            <Game>Harry Potter I</Game>
+            <Game>HP1</Game>
+            <Game>HP1PC</Game>
+            <Game>Harry Potter and the Philosopher's Stone</Game>
+            <Game>Harry Potter and the Philosopher's Stone (PC)</Game>
+            <Game>Harry Potter 2</Game>
+            <Game>Harry Potter II</Game>
+            <Game>HP2</Game>
+            <Game>HP2PC</Game>
+            <Game>Harry Potter and the Chamber of Secrets</Game>
+            <Game>Harry Potter and the Chamber of Secrets (PC)</Game>
+            <Game>HP3</Game>
+            <Game>HP III</Game>
+            <Game>HP3PC</Game>
+            <Game>Harry Potter 3</Game>
+            <Game>Harry Potter III</Game>
+            <Game>Harry Potter and the Prisoner of Azkaban</Game>
+            <Game>Harry Potter and the Prisoner of Azkaban (PC)</Game>
+            <Game>Harry Potter PC 1-3 Trifecta</Game>
+            <Game>Harry Potter Trifecta</Game>
+            <Game>Harry Potter Trifecta (PC)</Game>
+            <Game>HP Trifecta</Game>
+            <Game>HP123</Game>
+            <Game>Harry Potter Multiruns</Game>
+            <Game>Harry Potter Category Extensions</Game>
+            <Game>Harry Potter Custom Content</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/FleckiBunti/LiveSplit.HarryPotter/main/Components/LiveSplit.HarryPotter.dll</URL>
+        </URLs>
+        <Type>Component</Type>
+        <Description>Auto Splitting and Load Removal are available. (Original by Dalet, maintained by FleckiBunti)</Description>
+        <Website>https://github.com/FleckiBunti/LiveSplit.HarryPotter/blob/main/README.md</Website>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
