@@ -13050,10 +13050,10 @@
             <Game>Command &amp; Conquer Generals Zero Hour</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/ROMaster2/LiveSplit.AutoSplitters/master/LiveSplit.CnCGZH.asl</URL>
+            <URL>https://raw.githubusercontent.com/angysmark/Zero-Hour-AutoSplitter/main/LiveSplit.CnCGZH.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>In-game time, auto-split and auto-start. (By ROMaster2)</Description>
+        <Description>Real time, time between missions removed, auto-split and auto-start. (By SketchTV)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
