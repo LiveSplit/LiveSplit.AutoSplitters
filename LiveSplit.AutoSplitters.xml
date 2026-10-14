@@ -21599,6 +21599,17 @@
         <Description>Start/Split/Reset &amp; Game Time (By ItsFrosti)</Description>
         <Website>https://github.com/ItsFrostyYo/ErdetspillASL</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>SNAPTIC Demo</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/ItsFrostyYo/SNAPTICDemoAutosplitter/main/Components/LiveSplit.SNAPTICDemo.dll</URL>  
+        </URLs>
+        <Type>Component</Type>
+        <Description>Start/Split/Reset (By ItsFrosti)</Description>
+        <Website>https://github.com/ItsFrostyYo/SNAPTICDemoAutosplitter</Website>
+    </AutoSplitter>
      <AutoSplitter>
         <Games>
             <Game>The 7th Guest Remake</Game>
