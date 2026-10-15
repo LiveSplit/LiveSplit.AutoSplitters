@@ -2,6 +2,17 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Desvelado</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/MrJeeWee/desvelado-autosplitter/blob/main/desvelado.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for Desvelado Any%. Developed by JeeWee.</Description>
+        <Website>https://github.com/MrJeeWee/desvelado-autosplitter</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Rivage</Game>
         </Games>
         <URLs>
