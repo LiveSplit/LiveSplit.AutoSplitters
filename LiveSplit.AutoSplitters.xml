@@ -8379,6 +8379,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Star Wars: Galactic Racer</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/jwfraustro/swgr-autosplitter/refs/heads/main/SWGR_Autosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for Star Wars: Galactic Racer by NitrogenCynic</Description>
+        <Website>https://github.com/jwfraustro/swgr-autosplitter</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Call of Duty 4: Modern Warfare</Game>
             <Game>Call of Duty 4: Speedrun Mod</Game>
         </Games>
