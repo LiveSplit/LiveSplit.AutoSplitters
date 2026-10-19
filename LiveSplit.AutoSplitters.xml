@@ -20196,12 +20196,13 @@
     <AutoSplitter>
         <Games>
             <Game>LEGO Star Wars: The Video Game</Game>
+            <Game>LEGO Star Wars: The Video Game Catagory Extensions</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/melodyfast/LEGO-Autosplitters/main/LSW1-Autosplitter.asl</URL>
+            <URL>https://raw.githubusercontent.com/Joeyfordayz/LiveSplit.AutoSplitters/refs/heads/master/LSW1-Autosplitter.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto Splitting is available. (By Elle)</Description>
+        <Description>Auto Splitting is available. (By Elle and Joeyfordayz)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
