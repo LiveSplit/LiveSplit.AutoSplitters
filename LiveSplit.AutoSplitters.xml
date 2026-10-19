@@ -2,6 +2,17 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Guns of Eschaton [Demo]</Game>
+            <Game>Guns of Eschaton</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/LiterallyMetaphorical/GunsOfEschatonASL/refs/heads/main/GunsOfEschatonDemo.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart, Autosplit, and Load Removal (By Meta).</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Rivage</Game>
         </Games>
         <URLs>
