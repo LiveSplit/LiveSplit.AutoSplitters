@@ -7,6 +7,7 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/LiterallyMetaphorical/GunsOfEschatonASL/refs/heads/main/GunsOfEschatonDemo.asl</URL>
+            <URL>https://github.com/ru-mii/uhara/raw/refs/heads/main/bin/uhara10</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autostart, Autosplit, and Load Removal (By Meta).</Description>
