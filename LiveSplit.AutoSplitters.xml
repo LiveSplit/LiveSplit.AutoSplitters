@@ -23212,7 +23212,7 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/sleepiesther/Sonic-Project-Hero-Rewired-Autosplitter/refs/heads/main/SonicProjectHeroRewired.asl</URL>
-            <URL>https://github.com/ero-qt/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
+            <URL>https://github.com/Jujstme/unity-help/raw/06ae04f45ab93a1ac9e0fdb90accc473e6b10cbf/lib/Livesplit/unity-help</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Starts automatically, times using IGT, splits upon level completion.</Description>
