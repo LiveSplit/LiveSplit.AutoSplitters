@@ -5,7 +5,7 @@
             <Game>Desvelado</Game>
         </Games>
         <URLs>
-            <URL>https://github.com/MrJeeWee/desvelado-autosplitter/blob/main/desvelado.asl</URL>
+            <URL>https://raw.githubusercontent.com/MrJeeWee/desvelado-autosplitter/refs/heads/main/desvelado.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Auto Start, Autosplit</Description>
