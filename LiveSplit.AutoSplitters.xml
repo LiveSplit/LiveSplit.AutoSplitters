@@ -2,6 +2,17 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Desvelado</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/MrJeeWee/desvelado-autosplitter/refs/heads/main/desvelado.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Start, Autosplit</Description>
+        <Website>https://github.com/MrJeeWee/desvelado-autosplitter/</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Guns of Eschaton [Demo]</Game>
             <Game>Guns of Eschaton</Game>
         </Games>
