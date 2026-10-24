@@ -19547,6 +19547,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Resident Evil: Code: Veronica X (PS3 Recomp)</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/kastiellcontato-design/Code-Veronica-Recomp/code-veronica/projects/code_veronica/livesplit/recvx-ps3recomp.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start, splits and load removal for the PS3 Recomp PC port. Based on Kapdap's autosplitter; adapted by Kastiel.</Description>
+        <Website>https://github.com/kastiellcontato-design/Code-Veronica-Recomp/blob/code-veronica/projects/code_veronica/livesplit/README.md</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Conscript</Game>
         </Games>
         <URLs>
