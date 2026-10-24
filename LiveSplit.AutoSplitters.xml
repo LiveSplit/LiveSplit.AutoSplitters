@@ -30377,4 +30377,14 @@
         <Type>Script</Type>
         <Description>Auto Start, Split (by Yuki.kaco)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Mr. Shifty</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/mattv52/mrshifty-autosplitter/refs/heads/main/MrShifty.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Start, Split, IGT (by Yuki.kaco and mattv52)</Description>
+    </AutoSplitter>
 </AutoSplitters>
