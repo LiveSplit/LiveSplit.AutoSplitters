@@ -2,6 +2,18 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>RC Revenge Pro</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/SteveNerd22/RC-Revenge-Pro-Autosplitter/refs/heads/main/RCRevengePro.asl</URL>
+            <URL>https://github.com/Jujstme/emu-help-v3/raw/10088d25496b3aa74023d89dda0a5c5193f2ebb1/lib/Livesplit/emu-help-v3</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>AutoSplit, AutoStart, AutoReset and Load Removal available on PCSX2 (PAL and NTSC-U) (By SteveNerd22)</Description>
+        <Website>https://github.com/SteveNerd22/RC-Revenge-Pro-Autosplitter</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Desvelado</Game>
         </Games>
         <URLs>
