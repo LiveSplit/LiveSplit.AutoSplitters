@@ -11352,9 +11352,10 @@
     <AutoSplitter>
         <Games>
             <Game>You Are Empty</Game>
+            <Game>You Are Empty: Absolute Edition</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/KunoDemetries/AutoSplitter/master/YouAreEmpty.asl</URL>
+            <URL>https://raw.githubusercontent.com/Tezur0/LiveSplitScripts/master/YouAreEmpty/YouAreEmpty.asl</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Auto Splitter/Load Remover. (By Kuno Demetries, Tezur0)</Description>
