@@ -4010,6 +4010,7 @@
         </Games>
         <URLs>
             <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Skull%20Island%3A%20Rise%20of%20Kong/LiveSplit.SkullIslandRiseofKong.asl</URL>
+            <URL>https://raw.githubusercontent.com/ero-qt/asl-help/9a17c5ec7108aba1fe1932358703f4e6adaa6b2c/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Autostart, Autosplitter and Load Remover by Streetbackguy and Kuno Demetries.</Description>
