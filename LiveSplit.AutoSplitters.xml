@@ -30460,4 +30460,16 @@
         <Type>Script</Type>
         <Description>Auto Start, Split, IGT (by Yuki.kaco and mattv52)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Echo Weaver</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/bmclarnon/AutoSplitters/releases/latest/download/echo_weaver.wasm</URL>
+        </URLs>
+        <Type>Script</Type>
+        <ScriptType>AutoSplittingRuntime</ScriptType>
+        <Description>Configurable Auto-Start, Auto-Split, and Auto-Reset. Basic collectible tracking. (By bmclarnon)</Description>
+        <Website>https://github.com/bmclarnon/AutoSplitters/tree/main/echo-weaver#readme</Website>
+    </AutoSplitter>
 </AutoSplitters>
