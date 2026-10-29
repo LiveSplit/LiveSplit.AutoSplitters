@@ -18932,10 +18932,11 @@
             <Game>Assassin's Creed Odyssey</Game>
         </Games>
         <URLs>
-            <URL>https://gist.githubusercontent.com/pbebla/1bf378a86b814938d12e35fcc73aeec3/raw/943dc0b3e165f8b32eb16d6b2db3184de48daf4f/ACOdysseyLoadRemover.asl</URL>
+            <URL>https://raw.githubusercontent.com/TpRedNinja/Assassins-Creed-Autosplitters-and-loadremovers/refs/heads/main/ACOdy.asl</URL>
+            <URL>https://raw.githubusercontent.com/TpRedNinja/Assassins-Creed-Autosplitters-and-loadremovers/refs/heads/main/ACOdysseyQuests.json</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load Remover for AC Odyssey (by Cynaschism)</Description>
+        <Description>AutoSplitter & load remover made by (TpRedNinja & Icetwy) original by (Cynaschism)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -26237,6 +26238,7 @@
         <URLs>
             <URL>https://raw.githubusercontent.com/TpRedNinja/Ereban-AutoSplitter-and-Loadremover/refs/heads/main/ESL.asl</URL>
             <URL>https://github.com/ero-qt/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
+            <URL>https://github.com/ru-mii/uhara/raw/refs/heads/main/bin/uhara10</URL>
         </URLs>
         <Type>Script</Type>
         <Description>Auto Splitter and load remover for Ereban: Shadow Legacy (by TpRedNinja)</Description>
