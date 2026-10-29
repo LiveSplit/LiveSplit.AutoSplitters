@@ -2,6 +2,18 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Quake III Arena</Game>
+            <Game>Quake 3 Arena</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/ColdDoshirak/Q3A-Autosplitter/main/Q3A_ASLR.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start, splits, load removal and auto reset (by liveth, modified by HotDoshirak)</Description>
+        <Website>https://github.com/ColdDoshirak/Q3A-Autosplitter</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Big Ambitions</Game>
         </Games>
         <URLs>
