@@ -13823,7 +13823,7 @@
         <Description>Auto Start, Split, and Reset are available. Split points chosen by user. (By Roosta)</Description>
         <Website>https://github.com/roostalol/FFXIII_autosplitter</Website>
     </AutoSplitter>
-        <AutoSplitter>
+    <AutoSplitter>
         <Games>
             <Game>Final Fantasy XIII-2</Game>
         </Games>
