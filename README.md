@@ -15,8 +15,9 @@
 	- [State Descriptors](#state-descriptors)
 		- [State objects](#state-objects)
 	- [Actions](#actions)
+ 		- [Script Management](#script-management)
 		- [Timer Control](#timer-control)
-		- [Script Management](#script-management)
+    	- [Order of Execution](#order-of-execution)
 	- [Action Variables](#action-variables)
 		- [General Variables](#general-variables)
 		- [Game Dependent](#game-dependent)
@@ -173,70 +174,61 @@ All of the actions are optional and are declared by their name `ACTION_NAME` fol
 
 Actions are implemented in C#. You can use C#'s documentation for any questions you may have regarding the syntax of C#.
 
+#### Script Management
+
+- ##### Script Startup
+	- The name of this action is `startup`. This action is triggered when the script is first loaded. This is the place where you can put initialization that doesn't depend on being connected to the process and the only place where you can add [Custom Settings](#custom-settings).
+
+- ##### Script Shutdown
+	- The name of this action is `shutdown`. This action is triggered whenever the script is entirely stopped, for example when the Auto Splitter is disabled, LiveSplit exits, the script path is changed or the script is reloaded (e.g. during development of the ASL script).
+
+- ##### Script Initialization (Game Start)
+	- The name of this action is `init`. This action is triggered whenever a game process has been found according to the State Descriptors. This can occur more than once during the execution of a script (e.g. when you restart the game). This is the place to do initialization that depends on the game, for example detecting the game version.
+
+- ##### Game Exit
+	- The name of this action is `exit`. This action is triggered whenever the currently attached game process exits.
+
 #### Timer Control
 
 These actions are repeatedly triggered while LiveSplit is connected to the game process.
 
-##### Generic Update
+- ##### Generic Update
+	- The name of this action is `update`. You can use this for generic updating. In each update iteration, this is run before the timer control actions, which e.g. means if you set a value in `vars` in `update` you can then access it in `start` on the same update cycle.
+	- Explicitly returning `false` will prevent the actions `isLoading`, `gameTime`, `reset`, `split`, and `start` from being run. This can be useful if you want to entirely disable the script under some conditions (e.g. for incompatible game versions). See [Order of Execution](#order-of-execution) for more information.
 
-The name of this action is `update`. You can use this for generic updating. In each update iteration, this is run before the timer control actions, which e.g. means if you set a value in `vars` in `update` you can then access it in `start` on the same update cycle.
+- ##### Automatic Timer Start
+	- The name of this action is `start`. Return `true` whenever you want the timer to start. Note that the `start` action will only be run if the timer hasn't been started (right after being reset, for example).
 
-Explicitly returning `false` will prevent the actions `isLoading`, `gameTime`, `reset`, `split`, and `start` from being run. This can be useful if you want to entirely disable the script under some conditions (e.g. for incompatible game versions). See [Order of Execution](#order-of-execution) for more information.
+- ##### Automatic Splits
+	- The name of this action is `split`. Return `true` whenever you want to trigger a split.
 
-##### Automatic Timer Start
+- ##### Automatic Resets
+	- The name of this action is `reset`. Return `true` whenever you want to reset the run. Only run while the timer is running.
+	- Explicitly returning `true` will prevent the `split` action from being run. This can be useful in some cases, but may also cause issues for some scripts. See [Order of Execution](#order-of-execution) for more information.
 
-The name of this action is `start`. Return `true` whenever you want the timer to start. Note that the `start` action will only be run if the timer is currently not running.
+- ##### Load Time Removal
+	- The name of this action is `isLoading`. Return `true` whenever the game is loading. LiveSplit's Game Time Timer will be paused as long as you return `true`.
+	- **NOTE**: Make sure the timer is set to "Game Time" in the layout! Failure to do so will cause the timer to keep running, as if `isLoading` had returned `false` or `isLoading` weren't triggered at all.
 
-##### Automatic Splits
+- ##### Game Time
+	- The name of this action is `gameTime`. Return a [`TimeSpan`](https://msdn.microsoft.com/en-us/library/system.timespan(v=vs.110).aspx) object that contains the current time of the game.
+ 	- You can also combine this with `isLoading`. If `isLoading` returns false, nothing, or isn't implemented, LiveSplit's Game Time Timer is always running and syncs with the game's Game Time at a constant interval. Everything in between is therefore a Real Time approximation of the Game Time. If you want the Game Time to not run in between the synchronization interval and only ever return the actual Game Time of the game, make sure to implement `isLoading` with a constant return value of `true`.
 
-The name of this action is `split`. Return `true` whenever you want to trigger a split.
+#### Order of Execution
+Understanding the order and conditions under which timer control actions are executed can help you avoid issues in your script where variables appear to be set improperly, actions appear to be skipped, and more.
 
-##### Automatic Resets
-
-The name of this action is `reset`. Return `true` whenever you want to reset the run.
-
-Explicitly returning `true` will prevent the `split` action from being run. This can be useful in some cases, but may also cause issues for some scripts. See [Order of Execution](#order-of-execution) for more information.
-
-##### Load Time Removal
-
-The name of this action is `isLoading`. Return `true` whenever the game is loading. LiveSplit's Game Time Timer will be paused as long as you return `true`.
-
-**NOTE**: Make sure the timer is set to "Game Time" in the layout! Failure to do so will cause the timer to keep running, as if `isLoading` had returned `false` or `isLoading` weren't triggered at all.
-
-##### Game Time
-
-The name of this action is `gameTime`. Return a [`TimeSpan`](https://msdn.microsoft.com/en-us/library/system.timespan(v=vs.110).aspx) object that contains the current time of the game. You can also combine this with `isLoading`. If `isLoading` returns false, nothing, or isn't implemented, LiveSplit's Game Time Timer is always running and syncs with the game's Game Time at a constant interval. Everything in between is therefore a Real Time approximation of the Game Time. If you want the Game Time to not run in between the synchronization interval and only ever return the actual Game Time of the game, make sure to implement `isLoading` with a constant return value of `true`.
-
-##### Order of Execution
-
-Understanding the order and conditions under which timer control actions are executed can help you avoid issues in your script where variables appear to be set improperly, actions appear to be skipped, and more. Every update iteration follows this process when running actions:
-
-1. `update` will always be run first. There are no conditions on the execution of this action.
-2. If `update` did not explicitly return `false` and the timer is currently either running or paused, then the `isLoading`, `gameTime`, and `reset` actions will be run.
-  - If `reset` does not explicitly return `true`, then the `split` action will be run.
-3. If `update` did not explicitly return `false` and the timer is currently not running (and not paused), then the `start` action will be run.
+##### Script - Initialization:
+1. `startup` is run once when the script is loaded.
+2. If a matching process is found, `init` is run. `init` is restarted if stopped by an exception.
+##### Script - Main Loop:
+1. `update` will always be run. If it returns `false`, then all other Timer Control actions will be skipped.
+2. If the timer is currently running, then the `isLoading`, `gameTime`, and `reset` actions will be run.
+	- If `reset` does not explicitly return `true`, then the `split` action will be run.
+3. If the timer hasn't started, then the `start` action will be run.
 
 ##### Events
 
 While a broader suite of events exist in LiveSplit, three are also available as ASL actions. The `onStart`, `onSplit` and `onReset` actions will be triggered when the timer is started, split, and reset respectively.
-
-#### Script Management
-
-##### Script Startup
-
-The name of this action is `startup`. This action is triggered when the script is first loads. This is the place where you can put initialization that doesn't depend on being connected to the process and the only place where you can add [Custom Settings](#custom-settings).
-
-##### Script Shutdown
-
-The name of this action is `shutdown`. This action is triggered whenever the script is entirely stopped, for example when the Auto Splitter is disabled, LiveSplit exits, the script path is changed or the script is reloaded (e.g. during development of the ASL script).
-
-##### Script Initialization (Game Start)
-
-The name of this action is `init`. This action is triggered whenever a game process has been found according to the State Descriptors. This can occur more than once during the execution of a script (e.g. when you restart the game). This is the place to do initialization that depends on the game, for example detecting the game version.
-
-##### Game Exit
-
-The name of this action is `exit`. This action is triggered whenever the currently attached game process exits.
 
 
 ### Action Variables
