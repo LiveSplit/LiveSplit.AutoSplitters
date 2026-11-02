@@ -2,6 +2,26 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Dementium: The Ward</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/shmumbler/ASLs/refs/heads/main/dementiumward.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart, Autosplit, Autoreset, and Load Removal (by shmumbler)</Description>
+    </AutoSplitter>
+        <AutoSplitter>
+        <Games>
+            <Game>Dementium 2</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/shmumbler/ASLs/refs/heads/main/dementiumii.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart, Autosplit, Autoreset, and Load Removal (by shmumbler)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Quake III Arena</Game>
             <Game>Quake 3 Arena</Game>
         </Games>
