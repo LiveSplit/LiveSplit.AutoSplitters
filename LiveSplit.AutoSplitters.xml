@@ -30492,4 +30492,15 @@
         <Description>Configurable Auto-Start, Auto-Split, and Auto-Reset. Basic collectible tracking. (By bmclarnon)</Description>
         <Website>https://github.com/bmclarnon/AutoSplitters/tree/main/echo-weaver#readme</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Ice Age: Dawn of the Dinosaurs</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/jschotte/IceAge3-AutoSplitter/refs/heads/main/iceage-autosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>AutoSplitter for Ice Age 3 by JeremRaccoon</Description>
+        <Website>https://github.com/jschotte/IceAge3-AutoSplitter</Website>
+    </AutoSplitter>
 </AutoSplitters>
