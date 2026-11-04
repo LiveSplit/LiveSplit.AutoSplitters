@@ -18,6 +18,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>PAPERHEAD</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Nikoheartttv/Autosplitters/refs/heads/main/PAPERHEAD/PAPERHEAD.asl</URL>
+            <URL>https://github.com/just-ero/asl-help/raw/9a17c5ec7108aba1fe1932358703f4e6adaa6b2c/lib/asl-help</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart, Autosplit, Autoreset, and IGT (by Nikoheart)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Dementium: The Ward</Game>
         </Games>
         <URLs>
