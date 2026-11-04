@@ -2,6 +2,22 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Phantom Blade Zero</Game>
+            <Game>Phantom Blade 0</Game>
+            <Game>影之刃零</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Nikoheartttv/Autosplitters/refs/heads/main/Phantom%20Blade%20Zero/PhantomBladeZero.asl</URL>
+            <URL>https://github.com/Nikoheartttv/uhara10-PBZ/raw/refs/heads/main/bin/uhara10-PBZ</URL>
+            <URL>https://raw.githubusercontent.com/Nikoheartttv/Autosplitters/refs/heads/main/Phantom%20Blade%20Zero/PhantomBladeZero.Splits.xml</URL>
+            <URL>https://raw.githubusercontent.com/Nikoheartttv/Autosplitters/refs/heads/main/Phantom%20Blade%20Zero/PhantomBladeZero.Splits.en.xml</URL>
+            <URL>https://raw.githubusercontent.com/Nikoheartttv/Autosplitters/refs/heads/main/Phantom%20Blade%20Zero/PhantomBladeZero.Splits.zh.xml</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart, Autosplit, and Load Removal (by Nikoheart)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Dementium: The Ward</Game>
         </Games>
         <URLs>
