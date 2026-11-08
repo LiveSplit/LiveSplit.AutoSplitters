@@ -30551,4 +30551,15 @@
         <Type>Script</Type>
         <Description>Auto Start/Split and IGT (By Lyliya)</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>The Warriors</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/mostdak1ng/The-Warriors-Autosplitter/releases/latest/download/TheWarriors.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Start, Split, Reset and Load Removal on PCSX2 (NTSC-U). IL timing by default. (by mostdak1ng)</Description>
+        <Website>https://github.com/mostdak1ng/The-Warriors-Autosplitter</Website>
+    </AutoSplitter>
 </AutoSplitters>
