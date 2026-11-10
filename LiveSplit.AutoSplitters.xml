@@ -13456,7 +13456,7 @@
             <URL>https://raw.githubusercontent.com/BitPatty/LiveSplit.FFX/master/LiveSplit.FFX.UI/Components/LiveSplit.FFX.UI.dll</URL>
         </URLs>
         <Type>Component</Type>
-        <Description>Load Removal, Auto Start/Reset and Encounter Count are available (PC). (By Psychonauter and Flobberworm4)</Description>
+        <Description>Load Removal, Auto Start/Reset and Encounter Count are available (PC). (By Psychonauter, Flobberworm4 and knutwalker)</Description>
         <Website>https://github.com/BitPatty/LiveSplit.FFX/blob/master/Readme.md</Website>
     </AutoSplitter>
     <AutoSplitter>
