@@ -2,6 +2,18 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Metal Gear Solid 2: Sons of Liberty</Game>
+            <Game>Metal Gear Solid 2: Substance (PS2)</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/streetbackguy/Autosplitter-Projects/refs/heads/main/Metal%20Gear%20Solid%202%20(PS2)/LiveSplit.MetalGearSolid2PS2.asl</URL>
+            <URL>https://github.com/Jujstme/emu-help-v3/raw/10088d25496b3aa74023d89dda0a5c5193f2ebb1/lib/Livesplit/emu-help-v3</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>AutoSplitting, AutoStart, AutoReset and In-Game Time available on PCSX2 by Streetbackguy and Hau5test. Note: Start PCXS2 first, then Livesplit.</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Phantom Blade Zero</Game>
             <Game>Phantom Blade 0</Game>
             <Game>影之刃零</Game>
