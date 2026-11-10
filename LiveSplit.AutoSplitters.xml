@@ -10,7 +10,7 @@
             <URL>https://github.com/Jujstme/emu-help-v3/raw/10088d25496b3aa74023d89dda0a5c5193f2ebb1/lib/Livesplit/emu-help-v3</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>AutoSplitting and In-Game Time available on PCSX2 by Streetbackguy and Hau5test. Note: Start PCXS2 first, then Livesplit.</Description>
+        <Description>AutoSplitting and In-Game Time available by Streetbackguy and Hau5test. Note: Start PCXS2 first, then Livesplit.</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
