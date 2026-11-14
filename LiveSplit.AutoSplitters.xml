@@ -2,6 +2,17 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Silver Pines</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Nikoheartttv/Autosplitters/refs/heads/main/Silver%20Pines/SilverPines.asl</URL>
+            <URL>https://github.com/ru-mii/uhara/raw/refs/heads/main/bin/uhara10</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autostart, Autosplit and IGT (by Nikoheart)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Metal Gear Solid 2: Sons of Liberty</Game>
             <Game>Metal Gear Solid 2: Substance (PS2)</Game>
         </Games>
