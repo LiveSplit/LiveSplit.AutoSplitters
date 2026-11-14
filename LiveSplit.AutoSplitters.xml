@@ -7488,6 +7488,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Marathon Recompiled</Game>
+        </Games>
+        <URLs>
+            <URL>https://gist.githubusercontent.com/GordinRamsay/efad646e37211400e00eae3166acf326/raw/MarathonRecompiled.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>In-Game Timer and Autosplitter for the Sonic 06 Static Recompilation (by GordinRamsay)</Description>
+        <Website>https://discord.gg/t2hwPh9NaV</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Helltaker</Game>
         </Games>
         <URLs>
