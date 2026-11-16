@@ -8114,6 +8114,18 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Call of Duty: Black Ops II Zombies</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/HuthTV/T6-ZM-LiveSplit-Autosplitter/releases/download/release/LiveSplit.T6ZM.dll</URL>
+        </URLs>
+        <Type>Component</Type>
+        <Description>Start, Split &amp; Game Time for Plutonium, Steam, MS Store (by Huth)</Description>
+        <Website>https://github.com/HuthTV/T6-ZM-LiveSplit-Autosplitter</Website>
+        <ShowInLayoutEditor />
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Call of Duty: Infinite Warfare</Game>
         </Games>
         <URLs>
