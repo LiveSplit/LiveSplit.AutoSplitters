@@ -5012,6 +5012,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Sonic Pico Park</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/SonicSpeedrunning/LiveSplit.SonicPicoPark/releases/download/latest/livesplit_sonic_pico_park.wasm</URL>
+        </URLs>
+        <Type>Script</Type>
+        <ScriptType>AutoSplittingRuntime</ScriptType>
+        <Description>Auto start and auto splitting supported (by Jujstme)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Little Kitty, Big City</Game>
         </Games>
         <URLs>
