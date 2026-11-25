@@ -28796,6 +28796,17 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Hugo: The Evil Mirror</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/bartekk2908/asl_scripts/refs/heads/main/HugoTEM.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter by Sialalala</Description>
+        <Website>https://www.speedrun.com/hugo_tem</Website>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Awaria</Game>
         </Games>
         <URLs>
